@@ -1,0 +1,35 @@
+---
+aliases: [Mass Cure Moderate Wounds]
+title: Compendium/Basics/Spell/Cure Moderate Wounds, Mass
+tags: [35E_SRD, Spell, Cleric, Druid, Bard]
+Spell Name: Mass Cure Moderate Wounds
+School: Conjuration
+Subschool: (Healing)
+Descriptor: 
+Level:
+  - Brd 6
+  - Clr 6
+  - Drd 7
+Source: PHB
+---
+
+
+## Cure Moderate Wounds, Mass
+
+Cures 2d8 damage +1/level for many creatures.
+
+*   Conjuration (Healing)
+*   **Level:** Brd 6, Clr 6, Drd 7
+*   **Components:** V, S
+*   **Casting Time:** 1 standard action
+*   **Range:** Close (25 ft. + 5 ft./2 levels)
+*   **Effect:** One creature/level, no two of which can be more than 30 ft. apart
+*   **Duration:** Instantaneous
+*   **Saving Throw:** Will half (harmless) or Will half; see text
+*   **Spell Resistance:** Yes (harmless) or Yes; see text
+
+<p>You channel positive energy to cure 2d8 points of damage +1 point per caster level (maximum +30) in each selected creature.</p><p>Like other <i>cure</i> spells, <i>mass cure moderate wounds</i> deals damage to undead in its area rather than curing them. Each affected undead may attempt a Will save for half damage.</p>
+
+Source : PHB P216
+
+---

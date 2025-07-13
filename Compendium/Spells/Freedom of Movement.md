@@ -1,0 +1,37 @@
+---
+aliases: [Freedom of Movement]
+title: Compendium/Basics/Spell/Freedom of Movement
+tags: [35E_SRD, Spell, Cleric, Druid, Ranger, Bard]
+Spell Name: Freedom of Movement
+School: Abjuration
+Subschool: 
+Descriptor: 
+Level:
+  - Brd 4
+  - Clr 4
+  - Drd 4
+  - Luck 4
+  - Rgr 4
+Source: PHB
+---
+
+
+## Freedom of Movement
+
+Subject moves normally despite impediments.
+
+*   Abjuration
+*   **Level:** Brd 4, Clr 4, Drd 4, Luck 4, Rgr 4
+*   **Components:** V, S, M, DF
+*   **Casting Time:** 1 standard action
+*   **Range:** Personal or touch
+*   **Effect:** You or creature touched
+*   **Duration:** 10 min./level
+*   **Saving Throw:** Will negates (harmless)
+*   **Spell Resistance:** Yes (harmless)
+
+<p>This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, <i>solid fog</i>, <i>slow</i>, and <i>web</i>. The subject automatically succeeds on any grapple check made to resist a grapple attempt, as well as on grapple checks or Escape Artist checks made to escape a grapple or a pin.</p><p>The spell also allows the subject to move and attack normally while underwater, even with slashing weapons such as axes and swords or with bludgeoning weapons such as flails, hammers, and maces, provided that the weapon is wielded in the hand rather than hurled. The <i>freedom of movement</i> spell does not, however, allow water breathing.</p><p><i>Material Component:</i> A leather thong, bound around the arm or a similar appendage.</p>
+
+Source : PHB P233
+
+---

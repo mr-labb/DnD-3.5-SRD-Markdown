@@ -1,0 +1,35 @@
+---
+aliases: [Magic Vestment]
+title: Compendium/Basics/Spell/Magic Vestment
+tags: [35E_SRD, Spell, Cleric]
+Spell Name: Magic Vestment
+School: Transmutation
+Subschool: 
+Descriptor: 
+Level:
+  - Clr 3
+  - Strength 3
+  - War 3
+Source: PHB
+---
+
+
+## Magic Vestment
+
+Armor or shield gains +1 enhancement per four levels.
+
+*   Transmutation
+*   **Level:** Clr 3, Strength 3, War 3
+*   **Components:** V, S, DF
+*   **Casting Time:** 1 standard action
+*   **Range:** Touch
+*   **Effect:** Armor or shield touched
+*   **Duration:** 1 hour/level
+*   **Saving Throw:** Will negates (harmless, object)
+*   **Spell Resistance:** Yes (harmless, object)
+
+<p>You imbue a suit of armor or a shield with an enhancement bonus of +1 per four caster levels (maximum +5 at 20th level).</p><p>An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.</p>
+
+Source : PHB P251
+
+---

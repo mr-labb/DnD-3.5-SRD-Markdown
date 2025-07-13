@@ -1,0 +1,16 @@
+---
+lang: en
+aliases: [Air]
+title: Compendium/Basics/Monsters Information/Air
+tag: Monster, Air
+---
+
+
+---
+
+###### SUBTYPES
+
+
+**Air Subtype**: This subtype usually is used for [[elementals]] and [[outsiders]] with a connection to the Elemental Plane Air. Air creatures always have fly speeds and usually have perfect maneuverability.
+
+  

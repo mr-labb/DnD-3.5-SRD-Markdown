@@ -1,0 +1,16 @@
+﻿---
+lang: en
+aliases: [Incorporeal]
+title: Compendium\Basics\Abilities and Conditions\Incorporeal
+tag: Conditions
+---
+
+---
+##### Incorporeal 
+
+Having no physical body. Incorporeal creatures are immune to all nonmagical attack forms. They can be harmed only by other incorporeal creatures, +1 or better magic weapons, spells, spell-like effects, or supernatural effects.  
+Also see [[Incorporeality]]. 
+
+**If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
+<br><br>
+---

@@ -1,0 +1,19 @@
+---
+aliases: [Precise Shot]
+title: Precise Shot
+tags: Feat, General_Feat
+---
+### Precise Shot 
+***Feat Type: General***
+
+**Prerequisite:** Point Blank Shot.
+
+**Benefit:** You can shoot or throw ranged weapons at an opponent
+engaged in melee without taking the standard --4 penalty on your attack
+roll.
+
+**Special:** A fighter may select Precise Shot as one of his fighter
+bonus feats.
+
+
+Source :

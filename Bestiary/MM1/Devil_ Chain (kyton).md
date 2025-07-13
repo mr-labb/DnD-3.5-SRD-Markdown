@@ -1,0 +1,99 @@
+---
+aliases: [Devil, Chain (kyton)]
+title: Bestiary/MM1/Devil, Chain (kyton)
+tags: [35E_SRD, Monster]
+Monster: Devil, Chain (kyton)
+Size: Medium
+Type: Outsider
+Subtype: Evil, Extraplanar, Lawful
+CR: 6
+Environnent: A lawful evil-aligned plane
+Source: MM1
+---
+
+```statblock
+layout: dnd 35e layout
+columns: 2
+forceColumns: true
+columnHeight: 750px
+columnWidth: 415px
+image: [[Monsters.png]]
+source: MM1
+name: Devil, Chain (kyton)
+race: Devil, Chain (kyton)
+class: 
+level: 
+size: Medium
+type: Outsider
+subtype: Evil, Extraplanar, Lawful
+alignment: Always lawful evil
+aura: 
+
+armorclass:
+  - name: AC
+    desc: "20 (+2 Dex, +8 natural), touch 12, flat-footed 18"
+touch: 12
+flat_footed: 18
+hit_point:
+  - name: hp
+    desc: "52 ; 8d8+16"
+speed: 30 ft. (6 squares)
+
+abilities: [15, 15, 15, 6, 10, 12]
+saves:
+  - Fort: +8
+  - Ref: +8
+  - Will: +6
+damage_resist: 5/silver
+spell_resist: 18
+initiative: 6
+space/reach: 5 ft./5 ft. (10 ft. with chains)
+cr: 6
+base_attack/grapple: +8/+10
+attack: Chain +10 melee (2d4+2/19-20)
+full_attack: 2 chains +10 melee (2d4+2/19-20)
+special_attacks: Dancing chains, unnerving gaze
+
+special_qualities:
+  - name: 
+    desc: Damage reduction 5/silver or good, darkvision 60 ft., immunity to cold, regeneration 2 (silver or good), spell resistance 18
+
+skills:
+  - Climb: +13
+  - Craft (blacksmithing): +17
+  - Escape Artist: +13
+  - Intimidate: +12
+  - Listen: +13
+  - Spot: +13
+  - Use Rope: +2
+feats: [[Alertness]], [[Improved Critical (chain)]], [[Improved Initiative]]
+weak: 
+environment: A lawful evil-aligned plane
+organization: Solitary, gang (2-4), band (6-10), or mob (11-20)
+treasure: Standard
+advancement: 9-16 HD (Medium)
+level_adjustment: +6
+immune: to cold
+```
+
+## Description
+
+<p>Devils are fiends from lawful evil-aligned planes.</p>
+<p>Many devils are surrounded by a fear aura, which they use to break up powerful groups and defeat opponents piecemeal. Devils with spell-like abilities use their illusion abilities to delude and confuse foes as much as possible. A favorite trick is to create illusory reinforcements; enemies can never be entirely sure if a threat is only a figment or real summoned devils joining the fray.</p>
+<p>Kytons are humanlike devils, wrapped in chains instead of clothing. A chain devil is 6 feet tall and weighs about 300 pounds, chains included.</p>
+<p>Chain devils speak Infernal and Common.</p>
+<p>
+            <b>Devil Traits:</b> Most devils possesses the following traits (unless otherwise noted in a creature's entry).</p>
+<p>Combat</p>
+<p>A chain devil attacks by flailing away with the spiked chains that serve as its clothing, armor, and weapons.</p>
+<p>A chain devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned</p>
+<p>for the purpose of overcoming damage reduction.</p>
+<p>
+            <b>Dancing Chains (Su):</b> A chain devil's most awesome attack is its ability to control up to four chains within 20 feet as a standard action, making the chains dance or move as it wishes. In addition, a chain devil can increase these chains' length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as effectively as the devil itself. If a chain is in another creature's possession, the creature can attempt a DC 15 Will save to break the chain devil's power over that chain. If the save is successful, the kyton cannot attempt to control that particular chain again for 24 hours or until the chain leaves the creature's possession. The save DC is Charisma-based.</p>
+<p>A chain devil can climb chains it controls at its normal speed without making Climb checks.</p>
+<p>
+            <b>Unnerving Gaze (Su):</b> Range 30 ft., Will DC 15 negates. A chain devil can make its face resemble one of an opponent's departed loved ones or bitter enemies. Those who fail their saves take a -2 penalty on attack rolls for 1d3 rounds. The save DC is Charisma-based.</p>
+<p>
+            <b>Regeneration (Ex):</b> Chain devils take normal damage from silvered weapons, good-aligned weapons, and spells or effects with the good descriptor. A chain devil that loses a piece of its body regrows it in 2d6x10 minutes. Holding the severed member against the stump enables it to reattach instantly.</p>
+<p>
+            <b>Skills:</b> Chain devils have a +8 racial bonus on Craft checks involving metalwork.</p>

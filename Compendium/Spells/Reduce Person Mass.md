@@ -1,0 +1,33 @@
+---
+aliases: [Mass Reduce Person]
+title: Compendium/Basics/Spell/Reduce Person, Mass
+tags: [35E_SRD, Spell, Sorcerer, Wizard]
+Spell Name: Mass Reduce Person
+School: Transmutation
+Subschool: 
+Descriptor: 
+Level:
+  - Sor/Wiz 4
+Source: PHB
+---
+
+
+## Reduce Person, Mass
+
+Reduces several creatures.
+
+*   Transmutation
+*   **Level:** Sor/Wiz 4
+*   **Components:** V, S, M
+*   **Casting Time:** 1 round
+*   **Range:** Close (25 ft. + 5 ft./2 levels)
+*   **Effect:** One humanoid creature/level, no two of which can be more than 30 ft. apart
+*   **Duration:** 1 min./level (D)
+*   **Saving Throw:** Fortitude negates
+*   **Spell Resistance:** Yes
+
+This spell functions like <i>[[reduce person]]</i>, except that it affects multiple creatures.
+
+Source : PHB P269
+
+---

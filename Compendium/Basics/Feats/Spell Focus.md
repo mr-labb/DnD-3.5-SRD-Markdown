@@ -1,0 +1,18 @@
+---
+aliases: [Spell Focus]
+title: Spell Focus
+tags: Feat, General_Feat
+---
+### Spell Focus 
+***Feat Type: General***
+
+Choose a school of magic.
+
+**Benefit:** Add +1 to the Difficulty Class for all saving throws
+against spells from the school of magic you select.
+
+**Special:** You can gain this feat multiple times. Its effects do not
+stack. Each time you take the feat, it applies to a new school of magic.
+
+
+Source :
