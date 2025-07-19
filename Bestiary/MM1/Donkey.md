@@ -81,3 +81,8 @@ immune:
 <p>A donkey bites only when it has no way to escape.</p>
 <p>
             <b>Skills:</b> Donkeys have a +2 racial bonus on Balance checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

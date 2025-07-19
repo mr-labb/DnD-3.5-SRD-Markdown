@@ -104,3 +104,8 @@ immune: to cold
             <b>Summon Undead (Su):</b> A nightwing can summon undead creatures once per night: 5-12 shadows, 2-4 greater shadows, or 1 dread wraith. The undead arrive in 1d10 rounds and serve for 1 hour or until released.</p>
 <p>
             <b>Skills:</b> *When hiding in a dark area or flying in a dark sky, a nightwing gains a +8 racial bonus on Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

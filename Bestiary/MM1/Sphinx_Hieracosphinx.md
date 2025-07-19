@@ -87,3 +87,8 @@ immune:
             <b>Rake (Ex):</b> Attack bonus +13 melee, damage 1d6+2.</p>
 <p>
             <b>Skills:</b> Hieracosphinxes have a +4 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

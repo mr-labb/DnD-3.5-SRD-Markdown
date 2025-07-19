@@ -88,3 +88,8 @@ immune:
             <b>Madness (Su):</b> Anyone targeting an allip with a thought detection, mind control, or telepathic ability makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.</p>
 <p>
             <b>Wisdom Drain (Su):</b> An allip causes 1d4 points of Wisdom drain each time it hits with its incorporeal touch attack. On each such successful attack, it gains 5 temporary hit points.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

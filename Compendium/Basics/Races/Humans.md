@@ -38,3 +38,8 @@ Most humans are the descendants of pioneers, conquerors, traders, travelers, ref
 - Automatic Language: Common. Bonus Languages: Any (other than secret languages, such as Druidic). Humans mingle with all kinds of other folk and thus can learn any language found in an area.
     
 - Favored Class: Any. When determining whether a multiclass human takes an experience point penalty, his or her highest-level class does not count.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -78,3 +78,8 @@ immune:
 <p>
             <b>Carrying Capacity:</b> A light load for a heavy horse is up to 200 pounds; a medium load, 201-400 pounds; and a heavy load, 401-600 pounds. A heavy horse can drag 3,000 pounds.</p>
 <p>Combat: A horse not trained for war does not normally use its hooves to attack. Its hoof attack is treated as a secondary attack and adds only half the horse's Strength bonus to damage. (These secondary attacks are noted with an asterisk in the Attack and Full Attack entries for the heavy horse and the light horse.)</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

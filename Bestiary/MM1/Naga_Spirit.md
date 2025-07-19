@@ -88,3 +88,8 @@ immune:
             <b>Spells:</b> Spirit nagas cast spells as 7th-level sorcerers, and can also cast spells from the cleric spell list and from the Chaos and Evil domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them.</p>
 <p>
             <i>Typical Spells Known</i> (6/7/7/5; save DC 13 + spell level): 0 - <i>cure minor wounds, daze, detect magic, mage hand, open/close, ray of frost, read magic;</i> 1st - <i>charm person, cure light wounds, divine favor, magic missile, shield of faith;</i> 2nd - <i>cat's grace, invisibility, summon swarm</i>; 3rd - <i>displacement, fireball.</i></p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

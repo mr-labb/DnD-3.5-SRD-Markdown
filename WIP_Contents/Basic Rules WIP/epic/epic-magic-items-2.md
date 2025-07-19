@@ -1349,3 +1349,8 @@ damage each minute until it is replaced or until his or her nonlethal
 damage exceeds his or her current hit points (though the nonlethal
 damage resumes again immediately when the former wearer regains
 consciousness).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

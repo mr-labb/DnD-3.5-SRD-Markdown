@@ -93,3 +93,8 @@ immune:
             <b>Spells:</b> Guardian nagas cast spells as 9th-level sorcerers, and can also cast spells from the cleric list and from the Good and Law domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them.</p>
 <p>
             <i>Typical Spells Known</i> (6/7/7/7/5; save DC 14 + spell level): 0 -  <i>cure minor wounds, daze, detect magic, light, mage hand, open/close, ray of frost, read magic;</i> 1st -  <i>cure light wounds, divine favor, expeditious retreat, mage armor, magic missile;</i> 2nd - <i>detect thoughts, lesser restoration, see invisibility, scorching ray;</i> 3rd -  <i>cure serious wounds, dispel magic, lightning bolt;</i> 4th - <i>divine power, greater invisibility.</i></p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

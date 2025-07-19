@@ -546,3 +546,8 @@ and another instantaneously, as long as the second creature is within
 range. This special familiar ability does not replace the deity's
 ability to have a normal familiar, which could be any kind of eligible
 creature.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

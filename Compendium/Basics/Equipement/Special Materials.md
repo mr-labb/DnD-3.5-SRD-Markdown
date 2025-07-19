@@ -72,3 +72,8 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 |Light weapon|+20 gp|
 |One-handed weapon, or one head of a double weapon|+90 gp|
 |Two-handed weapon, or both heads of a double weapon|+180 gp||
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

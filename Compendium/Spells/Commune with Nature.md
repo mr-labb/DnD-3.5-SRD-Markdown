@@ -33,3 +33,8 @@ Learn about terrain for 1 mile/level.
 Source : PHB P211
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

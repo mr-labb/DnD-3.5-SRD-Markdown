@@ -90,3 +90,8 @@ immune:
             <i>Typical Sorcerer Spells Known</i> (6/7/6/4, base save DC 13 + spell level): 0 - <i>daze, detect magic, ghost sound, mage hand, ray of frost, read magic, resistance;</i> 1st -  <i>mage armor, magic missile, ray of enfeeblement, silent image;</i> 2nd -  <i>invisibility, web;</i> 3rd - <i>lightning bolt</i>.</p>
 <p>
             <b>Skills:</b> A drider has a +4 racial bonus on Hide and Move Silently checks. It has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

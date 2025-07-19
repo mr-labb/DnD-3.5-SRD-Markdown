@@ -32,3 +32,8 @@ Turns fire into blinding light or choking smoke.
 Source : PHB P267
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

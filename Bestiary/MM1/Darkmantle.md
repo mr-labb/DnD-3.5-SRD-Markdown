@@ -90,3 +90,8 @@ immune:
 <p>
             <b>Skills:</b> A darkmantle has a +4 racial bonus on Listen and Spot checks.</p>
 <p>These bonuses are lost if its blindsight is negated. The creature's variable coloration gives it a +4 racial bonus on Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -1044,3 +1044,7 @@ To draw an encounter map for Sigil, start with a normal cityscape and add as muc
 
 ---
 
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

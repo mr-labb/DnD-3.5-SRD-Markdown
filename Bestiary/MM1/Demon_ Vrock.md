@@ -103,3 +103,8 @@ immune: to electricity and poison
               <i>Summon Demon</i> (Sp):</b> Once per day a vrock can attempt to summon 2d10 dretches or another vrock with a 35% chance of success. This ability is the equivalent of a 3rd-level spell.</p>
 <p>
             <b>Skills:</b> Vrocks have a +8 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

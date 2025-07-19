@@ -83,3 +83,8 @@ immune: to acid
 <p>The creature can also produce a concentrated stream of acid that deals 8d8 points of damage to a single target within 5 feet. In either case, a DC 17 Reflex save halves the damage. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> A digester's coloration gives it a +4 racial bonus on Hide checks. It also has a +4 racial bonus on Jump checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

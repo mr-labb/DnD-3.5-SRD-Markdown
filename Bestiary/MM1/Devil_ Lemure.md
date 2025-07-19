@@ -83,3 +83,8 @@ immune: to fire and poison
 <p>A lemure's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.</p>
 <p>
             <b>Mindless (Ex):</b> Immunity to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

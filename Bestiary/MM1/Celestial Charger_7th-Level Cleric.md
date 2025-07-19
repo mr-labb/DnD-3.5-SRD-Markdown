@@ -106,3 +106,8 @@ immune: to poison
 <p>
             <i>Cleric Spells Prepared</i> (6/7/6/5/4; save DC 18 + spell level): 0- <i>detect magic, detect poison (2), light, virtue  (2)</i>; 1st-<i>bless (2), calm animals*, obscuring mist, remove fear, sanctuary, shield of faith</i>; 2nd-<i>aid* (2), animal messenger, lesser restoration, remove paralysis, shield other</i>; 3rd-<i>prayer, protection from energy, remove curse, searing light (2)</i>; 4th-<i>air walk,  divine power, holy smite*, restoration</i>.</p>
 <p>*Domain spell. Domains: Animal and Good.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

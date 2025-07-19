@@ -2468,3 +2468,8 @@ vision, including dark-vision, beyond 5 feet. Creatures 5 feet away have
 one-half concealment, while those farther away have total concealment.
 Those caught in the cloud must succeed at a Concentration check (DC 58)
 to cast a spell. The DC is Strength-based.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

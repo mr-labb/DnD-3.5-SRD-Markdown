@@ -21,3 +21,8 @@ spell automatically increases the casting time to a full-round action.
 
 
 Source :
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

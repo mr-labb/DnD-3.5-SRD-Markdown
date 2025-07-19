@@ -479,3 +479,8 @@ Faint transmutation; CL 5th; Craft Magic Arms and Armor, fly; Price 17,257 gp; C
 
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

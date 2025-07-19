@@ -31,3 +31,8 @@ Gain 1d10 temporary hp +1/level (max +10).
 Source : PHB P229
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

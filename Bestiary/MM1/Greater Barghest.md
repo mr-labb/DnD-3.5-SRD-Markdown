@@ -112,3 +112,8 @@ immune:
             <b>Spell-Like Abilities:</b> In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities. At will - <i>invisibility sphere;</i> 1/day - <i>mass bull's strength</i>, <i>mass enlarge person.</i> Caster level equals the greater barghest's HD.</p>
 <p>COMBAT</p>
 <p>Occasionally, a greater barghest uses a magic two-handed weapon in combat instead of its claws, giving it multiple attacks (attack bonus +13/+8). It can also make one bite attack (attack bonus +8) each round. The save DC against a greater barghest's spell-like abilities is 14 + spell level.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

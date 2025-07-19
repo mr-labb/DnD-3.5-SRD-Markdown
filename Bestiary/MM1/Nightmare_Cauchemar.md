@@ -103,3 +103,8 @@ immune:
 <p>The save DC for the cauchemar's smoke attack (DC 24) is adjusted for its greater number of Hit Dice and higher Constitution score.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a cauchemar is up to 612 pounds; a medium load, 613-1,224 pounds; and a heavy load, 1,225-1,840 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

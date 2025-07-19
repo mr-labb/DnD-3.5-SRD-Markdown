@@ -394,3 +394,8 @@ Masterwork ammunition is damaged (effectively destroyed) when used. The enhancem
 All magic weapons are automatically considered to be of masterwork quality. The enhancement bonus granted by the masterwork quality doesn’t stack with the enhancement bonus provided by the weapon’s magic.
 
 Even though some types of armor and shields can be used as weapons, you can’t create a masterwork version of such an item that confers an enhancement bonus on attack rolls. Instead, masterwork armor and shields have lessened armor check penalties.|
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

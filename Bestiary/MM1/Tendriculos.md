@@ -85,3 +85,8 @@ immune:
             <b>Swallow Whole/Paralysis (Ex):</b> A tendriculos can try to swallow a grabbed opponent by making a successful grapple check. Once inside the plant's mass, the opponent must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds by the tendriculos's digestive juices, taking 2d6 points of acid damage per round. A new save is required each round inside the plant. The save DC is Constitution-based. A swallowed creature that avoids paralysis can climb out of the mass with a successful grapple check. This returns it to the plant's maw, where another successful grapple check is needed to get free. A swallowed creature can also cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the tendriculos's interior (AC 14). Once the creature exits, the plant's regenerative capacity closes the hole; another swallowed opponent must cut its own way out. A Huge tendriculos's interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.</p>
 <p>
             <b>Regeneration (Ex):</b> Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos that loses part of its body mass can regrow it in 1d6 minutes. Holding the severed portion against the mass enables it to reattach instantly.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

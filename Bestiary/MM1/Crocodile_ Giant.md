@@ -77,3 +77,8 @@ immune:
 
 <p>These huge creatures usually live in salt water and can be more than 20 feet long.</p>
 <p>Giant crocodiles fight and behave like their smaller cousins.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -90,3 +90,8 @@ immune:
             <b>Rake (Ex):</b> Attack bonus +18 melee, damage 2d4+4.</p>
 <p>
             <b>Skills:</b> Dire tigers have a +4 racial bonus on Hide and Move Silently checks. *In areas of tall grass or heavy undergrowth, the Hide bonus improves to +8.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

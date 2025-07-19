@@ -84,3 +84,8 @@ immune: to electricity
 						<b>Sound Imitation (Ex): </b>Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 25 Will saves to detect the ruse.</p>
 <p>
 						<b>Spell-Like Abilities: </b>3/day—ventriloquism. Caster level 7th; save DC 13 + spell level.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

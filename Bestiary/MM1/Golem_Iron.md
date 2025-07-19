@@ -95,3 +95,8 @@ immune: to magic
 <p>Construction</p>
 <p>An iron golem's body is sculpted from 5,000 pounds of pure iron, smelted with rare tinctures and admixtures costing at least 10,000 gp. Assembling the body requires a DC 20 Craft (armorsmithing) check or a DC 20 Craft (weaponsmithing) check.</p>
 <p>CL 16th; Craft Construct, <i>cloudkill, geas/quest, limited wish, polymorph any object</i>, caster must be at least 16th level<i>;</i> Price 150,000 gp; Cost 80,000 gp + 5,600 XP.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

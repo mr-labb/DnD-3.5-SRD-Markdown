@@ -33,3 +33,8 @@ This spell functions like [[Owls Wisdom|Owl's Wisdom]], except that it affects m
 Source : PHB P259
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

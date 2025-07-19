@@ -83,3 +83,8 @@ immune:
 <p>
             <b>Skills:</b> A grick has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
 <p>*Their coloration affords gricks a +8 racial bonus on Hide checks when in natural rocky areas.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

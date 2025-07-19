@@ -83,3 +83,8 @@ immune:
             <b>Attach (Ex):</b> A dire weasel that hits with its bite attack latches onto the opponent's body with its powerful jaws. An attached dire weasel loses its Dexterity bonus to AC and thus has an AC of 12. An attached dire weasel can be struck with a weapon or grappled itself. To remove an attached dire weasel through grappling, the opponent must achieve a pin against the creature.</p>
 <p>
             <b>Blood Drain (Ex):</b> A dire weasel drains blood for 1d4 points of Constitution damage each round it remains attached.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

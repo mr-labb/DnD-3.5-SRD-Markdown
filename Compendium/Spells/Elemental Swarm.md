@@ -35,3 +35,8 @@ Summons multiple elementals.
 Source : PHB P226
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

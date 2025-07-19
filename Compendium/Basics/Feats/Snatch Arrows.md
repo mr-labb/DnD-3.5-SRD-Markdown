@@ -17,3 +17,8 @@ You must have at least one hand free (holding nothing) to use this feat.
 
 **Special:** A fighter may select Snatch Arrows as one of his fighter
 bonus feats.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

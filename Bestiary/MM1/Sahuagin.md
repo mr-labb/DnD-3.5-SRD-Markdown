@@ -107,3 +107,8 @@ immune:
           </p>
 <p>About one in two hundred sahuagin has four arms. Such creatures can make four claw attacks or use extra weapons, in addition to the claw and bite attacks.</p>
 <p>If a community of aquatic elves is located within 100 miles of a sahuagin community, about one in one hundred sahuagin looks just like an aquatic elf. These creatures, called malenti, have a swim speed of 40 feet, can remain out of water for 1 hour per point of Constitution, and have freshwater sensitivity and light sensitivity (dazzled in bright light). Malenti have no natural attacks. They are otherwise identical with sahuagin.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -33,3 +33,8 @@ This spell functions like [[dispel evil]], except that you are surrounded by con
 Source : PHB P222
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

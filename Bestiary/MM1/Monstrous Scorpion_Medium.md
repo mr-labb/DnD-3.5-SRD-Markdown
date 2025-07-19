@@ -83,3 +83,8 @@ immune:
             <b>Poison (Ex):</b> A monstrous scorpion has a poisonous sting. The Fortitude save DC is 13 and the poison causes 1d3 points of constitution damage. The save DCs are Constitution- based. The indicated damage is initial and secondary damage.</p>
 <p>
             <b>Skills:</b> A monstrous scorpion has a +4 racial bonus on Climb, Hide, and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

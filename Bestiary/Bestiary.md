@@ -537,3 +537,8 @@ tags: 3-5e/rules/monsters
 - [[Zombie_Ogre]]
 - [[Zombie_Troglodyte]]
 - [[Zombie_Wyvern]]
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

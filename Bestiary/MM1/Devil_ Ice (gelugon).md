@@ -105,3 +105,8 @@ immune: to fire and poison
               <i>Summon Devil</i> (Sp):</b> Once per day an ice devil can attempt to summon 2d10 lemures or 1d6 bearded devils, 2d4 bone devils with a 50% chance of success, or another ice devil with a 20% chance of success. This ability is the equivalent of a 4th-level spell.</p>
 <p>
             <b>Regeneration (Ex):</b> An ice devil takes normal damage from good-aligned weapons and from spells or effects with the good descriptor.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

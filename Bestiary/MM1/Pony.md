@@ -78,3 +78,8 @@ immune:
 <p>*A pony not trained for war does not normally use its hooves to attack but rather to run. Its hoof attack is treated as a secondary attack and adds only half the pony's Strength bonus to damage.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a pony is up to 75 pounds; a medium load, 76-150 pounds; and a heavy load, 151-225 pounds. A pony can drag 1,125 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -10,9 +10,6 @@ tag: Class, Expert
 ### EXPERT
 
 
-Experts operate as craftsfolk and professionals in the world. They normally do not have the inclination or training to be adventurers, but they are capable in their own field. The skilled blacksmith, the astute barrister, the canny merchant, the educated sage, and the master shipwright are all experts.
-
-The expert could make a PC-worthy class choice, but only for those players willing to create a character focused on something other than a traditional adventuring career. Experts have a vast range of skills. Most towns and communities have at least a few experts in various fields. DMs should use the expert class for NPCs such as elite craftsfolk, experienced merchants, seasoned guides, and other highly skilled professionals.
 
 **Hit Die**: d6.
 
@@ -54,3 +51,8 @@ The expert can choose any ten skills to be class skills.
 The following is a class feature of the expert NPC class.
 
 **Weapon and Armor Proficiency**: The expert is proficient in the use of all simple weapons and with light armor but not shields.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

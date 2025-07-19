@@ -28,5 +28,7 @@ Yes.
 ### Synergy
 If you have 5 ranks in Truespeak, you gain a +2 bonus on any Knowledge checks made to conduct truename research.
 
+---
 
-
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

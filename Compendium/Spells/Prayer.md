@@ -32,3 +32,8 @@ Allies +1 bonus on most rolls, enemies -1 penalty.
 Source : PHB P264
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

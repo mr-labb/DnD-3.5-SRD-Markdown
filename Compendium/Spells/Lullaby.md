@@ -31,3 +31,8 @@ Makes subject drowsy; -5 on Spot and Listen checks, -2 on Will saves against Sle
 Source : PHB P249
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -98,3 +98,8 @@ immune:
             <b>Invisible in Light (Ex):</b> A hellcat is invisible in any area lit well enough for a human to see. In a darkened area, it shows up as a faintly glowing outline visible up to 30 feet away (60 feet if the viewer has low-light vision). Magical darkness smothers the glow and conceals the outline.</p>
 <p>
             <b>Skills:</b> Hellcats have a +4 racial bonus on Listen and Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

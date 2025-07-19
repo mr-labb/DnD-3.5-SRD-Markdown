@@ -31,3 +31,8 @@ Subject takes 1d6 points of Int, Wis, and Cha damage.
 Source : PHB P294
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

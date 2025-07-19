@@ -94,3 +94,8 @@ immune:
             <b>Svirfneblin Traits (Ex):</b> These traits are in addition to the rock gnome traits, except where noted.</p>
 <p>The svirfneblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.</p>
 <p>Challenge Rating: Svirfneblin with levels in NPC classes have a CR equal to their character level. Svirfneblin with levels in PC classes have a CR equal to their character level +1.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -9,15 +9,7 @@ tag: Class, Magewright
 
 ### MAGEWRIGHT
 
-|   |
-|---|
-||
 
-Magic suffuses Eberron and permeates every level of society. A truly talented blacksmith weaves spells over his forge to help her shape the steel, and a fine tapestry has a glamer on every thread to enhance its appearance. The villages and cities of Khorvaire are full of commoners, experts, and warriors, of course, just like cities elsewhere. The true experts in their craft, however, and the most successful at what they do, are the magewrights - minor spellcasters who weave arcane magic into the practice of their trade.
-
-Magewrights are most frequently found in cities and large towns, where they are about as common as adepts. The vast majority of magewrights are members of the guilds run by the dragonmarked houses, particularly House Cannith's Tinkers Guild and Fabricators Guild. Unlike adepts, magewrights are unknown among more savage species.
-
-A magewright's limited spell selection makes this class generally unsuitable for a player character.
 
 **Hit Die**: d4.
 
@@ -84,3 +76,8 @@ Magewright choose their spells from the following list.
 **4th Level**: Animate dead, detect scrying, divination, fire trap, hardening, illusory wall, imbue with spell ability, locate creature, minor creation, remove curse, scrying, stone shape.
 
 **5th Level**: Contact other plane, fabricate, false vision, Leomund's secret chest, major creation, permanency, sending, symbol of pain, symbol of sleep, wall of stone.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

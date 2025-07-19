@@ -32,3 +32,8 @@ One natural weapon of subject creature gets +1 on attack and damage rolls.
 Source : PHB P250
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

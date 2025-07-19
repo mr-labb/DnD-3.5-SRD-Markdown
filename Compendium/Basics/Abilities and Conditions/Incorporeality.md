@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 aliases: [Incorporeality]
 title: Compendium\Basics\Abilities and Conditions\Incorporeality
@@ -8,13 +8,13 @@ tag: Abilities
 ---
 ##### INCORPOREALITY
 
-Spectres, wraiths, and a few other creatures lack physical bodies. Such creatures are insubstantial and canÂ’t be touched by nonmagical matter or energy. Likewise, they cannot manipulate objects or exert physical force on objects. However, incorporeal beings have a tangible presence that sometimes seems like a physical attack against a corporeal creature.
+Spectres, wraiths, and a few other creatures lack physical bodies. Such creatures are insubstantial and cant be touched by nonmagical matter or energy. Likewise, they cannot manipulate objects or exert physical force on objects. However, incorporeal beings have a tangible presence that sometimes seems like a physical attack against a corporeal creature.
 
 Incorporeal creatures are present on the same plane as the characters, and characters have some chance to affect them.
 
 Incorporeal creatures can be harmed only by other incorporeal creatures, by magic weapons, or by spells, spell-like effects, or supernatural effects. They are immune to all nonmagical attack forms. They are not burned by normal fires, affected by natural cold, or harmed by mundane acids.
 
-Even when struck by magic or magic weapons, an incorporeal creature has a 50% chance to ignore any damage from a corporeal source — except for a force effect or damage dealt by a ghost touch weapon.
+Even when struck by magic or magic weapons, an incorporeal creature has a 50% chance to ignore any damage from a corporeal source � except for a force effect or damage dealt by a ghost touch weapon.
 
 Incorporeal creatures are immune to critical hits, extra damage from being favored enemies, and from sneak attacks. They move in any direction (including up or down) at will. They do not need to walk on the ground. They can pass through solid objects at will, although they cannot see when their eyes are within solid matter.
 
@@ -37,3 +37,8 @@ Incorporeal creatures do not leave footprints, have no scent, and make no noise 
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

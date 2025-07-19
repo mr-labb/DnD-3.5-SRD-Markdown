@@ -89,3 +89,8 @@ immune: to fire
             <b>Flight (Su):</b> A ravid can cease or resume flight as a free action. A rast that loses this ability falls and can perform only a single action (either a move action or an attack action) each round.</p>
 <p>
             <b>Feats:</b> A ravid has the Multiattack feat even through it does not have the requisite three natural weapons.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

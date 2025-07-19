@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 aliases: [Psionic Powers]
 title: Compendium\Basics\Abilities and Conditions\Psionic Powers
@@ -19,3 +19,8 @@ Creatures with psionic powers that take levels in a class other than the one the
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -34,3 +34,8 @@ Material Component: A bit of fleece plus powdered jade worth 100 gp.
 Source : PHB P260
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

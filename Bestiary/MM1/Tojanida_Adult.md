@@ -94,3 +94,8 @@ immune: to acid and cold
             <b>All-Around Vision (Ex):</b> The multiple apertures in a tojanida's shell allow it to look in any direction, bestowing a +4 racial bonus on Spot and Search checks. Opponents gain no flanking bonuses when attacking a tojanida.</p>
 <p>
             <b>Skills:</b> A tojanida has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

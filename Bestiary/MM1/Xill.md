@@ -93,3 +93,8 @@ immune:
             <b>Paralysis (Ex):</b> Those bitten by a xill must succeed on a DC 14 Fortitude save or be paralyzed for 1d4 hours. The save DC is Constitution-based.</p>
 <p>
             <b>Planewalk (Su):</b> These planar travelers like to slip between the folds of space to attack enemies as though from thin air. They can cross from the Ethereal Plane with a move action but take 2 rounds to cross back, during which time they are immobile. As a xill fades away, it becomes harder to hit: Opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can planewalk with a willing or helpless creature.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

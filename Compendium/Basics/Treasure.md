@@ -266,3 +266,7 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 
 ---
 
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

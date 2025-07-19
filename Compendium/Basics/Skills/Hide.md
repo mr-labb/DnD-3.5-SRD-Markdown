@@ -54,3 +54,8 @@ If you have the Stealthy feat, you get a +2 bonus on Hide checks.
 A 13th-level ranger can attempt a Hide check in any sort of natural
 terrain, even if it doesn't grant cover or concealment. A 17thlevel
 ranger can do this even while being observed.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

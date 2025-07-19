@@ -86,3 +86,8 @@ immune: to electricity
 <p>
             <b>Immunity to Electricity (Ex):</b> Shamblers take no damage from electricity. Instead, any electricity attack used against a shambler temporarily grants it 1d4 points of Constitution. The shambler loses these points at the rate of 1 per hour.</p>
 <p>Skills: Shamblers have a +4 racial bonus on Hide, Listen, and Move Silently checks. *They have a +12 racial bonus on Hide checks when in a swampy or forested area.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -102,3 +102,8 @@ immune:
 <p>Cold attacks cannot prevent a cryohydra's stump from growing new heads (since a cryohydra has immunity to cold), but 5 points of fire damage does.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

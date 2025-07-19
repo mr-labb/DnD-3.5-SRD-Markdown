@@ -78,3 +78,8 @@ immune:
             <b>Poison (Ex):</b> Injury, Fortitude DC 11, initial and secondary damage 1d4 Con. The save DC is Constitution-based. A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature. The bee then dies.</p>
 <p>
             <b>Skills:</b> Giant bees have a +4 racial bonus on Spot checks. *They also have a +4 racial bonus on Survival checks to orient themselves.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

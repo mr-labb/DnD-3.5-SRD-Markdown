@@ -80,3 +80,8 @@ immune:
 <p>Dogs generally hunt in packs, chasing and exhausting prey until they can drag it down.</p>
 <p>
             <b>Skills:</b> Dogs have a +4 racial bonus on Jump checks. *Dogs have a +4 racial bonus on Survival checks when tracking by scent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

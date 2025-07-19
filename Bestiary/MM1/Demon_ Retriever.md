@@ -94,3 +94,8 @@ immune:
 <p>The being giving the order must have seen (or must have an item belonging to) the creature to be found, or must have touched the object to be located. This ability is the equivalent of an 8th-level spell.</p>
 <p>
             <b>Improved Grab (Ex):</b> To use this ability, a retriever must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and grips the opponent fast in its mouth. This is the method by which it usually "retrieves" things.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

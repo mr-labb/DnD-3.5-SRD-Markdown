@@ -91,3 +91,8 @@ immune: to electricity and poison
               <i>Summon Demon</i> (Sp):</b> Once per day a dretch can attempt to summon another dretch with a 35% chance of success. This ability is the equivalent of a 1st-level spell.</p>
 <p>
             <b>Telepathy (Su):</b> Dretches can communicate telepathically with creatures within 100 feet that speak Abyssal.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

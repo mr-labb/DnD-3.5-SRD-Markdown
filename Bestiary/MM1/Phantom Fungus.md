@@ -81,3 +81,8 @@ immune:
             <b>Greater Invisibility (Su):</b> This ability is constant, allowing a phantom fungus to remain invisible even when attacking. It works like <i>greater invisibility</i> (caster level 12th) and lasts as long as the phantom fungus is alive. This ability is not subject to the <i>invisibility purge</i> spell. A phantom fungus becomes visible 1 minute after it is killed.</p>
 <p>
             <b>Skills:</b> A phantom fungus has a +5 racial bonus on Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

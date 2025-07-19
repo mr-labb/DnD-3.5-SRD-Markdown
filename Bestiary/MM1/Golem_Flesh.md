@@ -96,3 +96,8 @@ immune: to magic
 <p>The pieces of a flesh golem must come from normal human corpses that have not decayed significantly. Assembly requires a minimum of six different bodies - one for each limb, the torso (including head), and the brain. In some cases, more bodies may be necessary. Special unguents and bindings worth 500 gp are also required. Note that creating a flesh golem requires casting a spell with the evil descriptor.</p>
 <p>Assembling the body requires a DC 13 Craft (leatherworking) check or a DC 13 Heal check.</p>
 <p>CL 8th; Craft Construct, <i>animate dead, bull's strength, geas/quest, limited wish</i>, caster must be at least 8th level<i>;</i> Price 20,000 gp; Cost 10,500 gp + 780 XP.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

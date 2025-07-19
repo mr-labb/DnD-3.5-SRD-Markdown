@@ -105,3 +105,8 @@ immune:
             <b>Fast Healing (Ex):</b> An ooze mephit heals only if in a wet or muddy environment.</p>
 <p>
             <b>Skills:</b> An ooze mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

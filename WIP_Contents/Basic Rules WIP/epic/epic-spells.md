@@ -3541,3 +3541,8 @@ adding another 180 feet of radius to the demiplane each time.
 *Material Component:* A crystalline sphere
 
 *XP Cost:* 5,000 XP.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

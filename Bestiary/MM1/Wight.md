@@ -85,3 +85,8 @@ immune:
             <b>Energy Drain (Su):</b> Living creatures hit by a wight's slam attack gain one negative level. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the wight gains 5 temporary hit points.</p>
 <p>
             <b>Skills:</b> Wights have a +8 racial bonus on Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

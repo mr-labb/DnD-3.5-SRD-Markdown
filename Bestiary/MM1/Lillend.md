@@ -99,3 +99,8 @@ immune: to poison
 <p>A lillend also has the bardic music ability as a 6th-level bard.</p>
 <p>
             <b>Skills:</b> Lillends have a +4 racial bonus on Survival checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

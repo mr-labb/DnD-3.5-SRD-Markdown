@@ -1787,3 +1787,8 @@ At 7th level, the Union Sentinel gains the use
 of the *imprisonment* spell as a spell-like ability once per week, plus
 one additional time per week every five levels thereafter. This ability
 functions as the spell cast by a 20th-level caster.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

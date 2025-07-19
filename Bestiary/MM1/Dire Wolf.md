@@ -86,3 +86,8 @@ immune:
 <p>
             <b>Skills:</b> A dire wolf has a +2 racial bonus on Hide, Listen, Move Silently, and Spot checks.</p>
 <p>*It also has a +4 racial bonus on Survival checks when tracking by scent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

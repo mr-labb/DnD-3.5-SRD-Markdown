@@ -99,3 +99,8 @@ immune:
           </p>
 <p>Most cloud giant groups include a sorcerer or a cleric.</p>
 <p>Good-aligned clerics have access to two of the following domains: Good, Healing, Strength, or Sun. Evil-aligned clerics have access to two of the following domains: Death, Evil, or Trickery.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

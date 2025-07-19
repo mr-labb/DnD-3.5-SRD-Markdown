@@ -20,4 +20,9 @@ A lit torch swung as an improvised weapon deals 1d3 points of fire damage per hi
 
 A weapon with a special ability such as flaming or frost deals its full energy damage with each hit, even if the weapon's normal damage can't affect the swarm. 
 
-A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire damage to all creatures in squares adjacent to where it breaks. 
+A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire damage to all creatures in squares adjacent to where it breaks.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

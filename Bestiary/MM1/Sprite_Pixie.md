@@ -106,3 +106,8 @@ immune:
           </p>
 <p>A pixie character exchanges its 1 HD of fey for its first class level.</p>
 <p>Pixie characters possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

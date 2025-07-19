@@ -388,7 +388,7 @@ This portion of a spell description details what the spell does and how it works
 
 ---
 
+---
 
-
-
-
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

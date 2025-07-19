@@ -9,8 +9,6 @@ tag: Class, Barbarian
 
 ### BARBARIAN
 
-<br><br>From the frozen wastes of the north and the hellish jungles of the south come brave, even reckless, warriors. Civilized people call them barbarians or berserkers and suspect them of mayhem, impiety, and atrocities. These "barbarians," however, have proven their mettle and their value to those who would be their allies. To enemies who underestimated them, they have proved their cunning, resourcefulness, persistence, and mercilessness.<br><br>Adventuring is the best chance barbarians have of finding a place in a civilized society. They're not well suited to the monotony of guard duty or other mundane tasks. Barbarians also have no trouble with the dangers, the uncertainties, and the wandering that adventuring involves. They may adventure to defeat hated enemies. They have a noted distaste for that which they consider unnatural, including undead, demons, and devils.<br><br>The barbarian is an excellent warrior. Where the fighter's skill in combat comes from training and discipline, however, the barbarian has a powerful rage. While in this berserk fury, he becomes stronger and tougher, better able to defeat his foes and withstand their attacks. These rages leave him winded, and he has the energy for only a few such spectacular displays per day, but those few rages are usually sufficient. He is at home in the wild, and he runs at great speed.<br><br>Barbarians are never lawful. They may be honorable, but at heart they are wild. This wildness is their strength, and it could not live in a lawful soul. At best, barbarians of chaotic alignment are free and expressive. At worst, they are thoughtlessly destructive.<br><br>Some barbarians distrust established religions and prefer an intuitive, natural relationship to the cosmos over formal worship. Others devote themselves to powerful deities, such as Kord (god of strength), Obad-Hai (god of nature), or Erythnul (god of slaughter). A barbarian is capable of fierce devotion to his god.<br><br>Barbarians come from uncivilized lands or from barbaric tribes on the outskirts of civilization. A barbarian adventurer may have been lured to the settled lands by the promise of riches, may have escaped after being captured in his homeland and sold into "civilized" slavery, may have been recruited as a soldier, or may have been driven out of his homeland by invaders. Barbarians share no bond with each other unless they come from the same tribe or land. In fact, they think of themselves not as barbarians but as warriors.<br><br>Human barbarians come from the distant wild lands on the edge of civilization. Most half-orc barbarians lived among orcs before abandoning them for human lands. Dwarf barbarians are rare, usually hailing from dwarven kingdoms that have fallen into barbarism as a result of recurrent war with goblinoids, orcs, and giants. Barbarians of other races are very rare.<br><br>Among the brutal humanoids, barbarians are more common than fighters. Orcs and ogres are especially likely to be barbarians.<br><br>As people of the wild, barbarians are most comfortable in the company of rangers, druids, and clerics of nature deities, such as Obad-Hai or Ehlonna. Many barbarians admire the talents and spontaneity of bards, and some are enthusiastic lovers of music. Barbarians don't trust that which they don't understand, and that includes wizardry, which they call "book magic." They find sorcerers more understandable than wizards, but maybe that's just because sorcerers tend to be more charismatic. Monks, with their studied, practiced, deliberate approach to combat, sometimes have a hard time seeing eye to eye with barbarians, but members of these classes aren't necessarily hostile to each other. Barbarians have no special attitudes toward fighters, paladins, clerics, or rogues.<br><br>A barbarian's typical primary role in a group of adventurers is as a front-line combat specialist. No other character can match his sheer toughness. He can also serve as a good scout, thanks to his speed, skill selection, and trap sense.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any nonlawful.
 
@@ -86,23 +84,12 @@ A barbarian who becomes lawful loses the ability to rage and cannot gain more le
 
 ### BARBARIAN VARIANTS
 
-|   |
-|---|
-||
-
-|   |   |   |
-|---|---|---|
 
 |**Variant Classes**  <br>[[#Horselord]]  <br>[[#Hunter]]  <br>[[#Implacable]]  <br>[[#Totem Barbarian]]|**Alternative Class Features**  <br>[[#Aquatic Barbarian]]  <br>[[#Berserker Strength]]  <br>[[#City Brawler]]  <br>[[#Dashing Step]]  <br>[[#Devil's Luck]]  <br>[[#Fearsome Gaze]]  <br>[[#Ferocity]]  <br>[[#Frostfell Barbarian]]  <br>[[#Golarion Barbarian]]  <br>[[#Natural Born Barbarian]]  <br>[[#Relentless Smash]]  <br>[[#Roof-Dweller]]  <br>[[#Skilled City-Dweller]]  <br>[[#Spell Sense]]  <br>[[#Spiritual Totem]]  <br>[[#Streetfighter]]  <br>[[#Totem Manifestation]]  <br>[[#Trapkiller]]  <br>[[#Uncanny Bravery]]  <br>[[#Unholy Fury]]  <br>[[#View the Spirit World]]  <br>[[#Wasteland Barbarian]]  <br>[[#Whirling Frenzy]]|**Substitution Levels**  <br>[[#Duskling Barbarian]]  <br>[[#Fangshields Barbarian]]  <br>[[#Goliath Barbarian]]  <br>[[#Half-Orc Barbarian]]  <br>[[#Halfling Barbarian]]  <br>[[#Planar Barbarian]]|
   
 
 #### Aquatic Barbarian
 
-Barbarians often inhabit wild coasts or travel the open seas. They dwell in regions inhospitable to most humanoids, whether these are fetid jungle isles or the gloomy shores of arctic seas. Barbaric human tribes can be found almost anywhere, and some of them take to a life at sea. Aquatic elves and coastal clans of land-dwelling elves might also be barbarians, while darfellans favor the barbarian class above all others.
-
-Barbarians of the waters and shores are expert in fishing and in following the seasonal movements of marine animals. They might follow migrating whales, taking to skin boats to harpoon the leviathans, or move up and down rivers with the salmon. On outriggers they pursue aquatic monsters, while others line a tidal flat with nets to trap fish when the waters flood in. Such barbarians are always adept swimmers and able to tolerate extended periods in cold water or heavy rain.
-
-Maelstrom barbarians often take to raiding, descending in war canoes or longboats to ravage the shorelines of civilized lands. These reavers are widely feared and form the basis of many terrifying tales.
 
 **Fast Movement (Ex)**: Barbarians who possess a racial swim speed can choose to apply their [[#fast movement]] bonus to their swim speed instead of their land speed. The choice must be made when the character gains the class feature and cannot be changed later. This benefit still applies only when the barbarian is wearing no armor, light armor, or medium armor and not carrying a heavy load.
 
@@ -894,3 +881,8 @@ Whirling frenzy is otherwise identical to the standard barbarian rage in all oth
 A barbarian using this variant doesn't gain indomitable will at 14th level. Instead, he gains evasion, but only while in a whirling frenzy.
 
 A character can't use whirling frenzy at the same time that he uses any other form of rage (or similar ability).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

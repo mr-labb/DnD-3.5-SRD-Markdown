@@ -13,3 +13,8 @@ up a spell slot one level higher than the spell's actual level.
 
 
 Source :
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

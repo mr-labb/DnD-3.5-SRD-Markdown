@@ -104,3 +104,8 @@ immune: to electricity and poison
             <b>True Seeing (Su):</b> Nalfeshnees continuously use true seeing, as the spell (caster level 14th).</p>
 <p>
             <b>Skills:</b> Nalfeshnees have a +8 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

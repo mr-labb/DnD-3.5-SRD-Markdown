@@ -91,3 +91,8 @@ immune: to poison
             <b>Wild Empathy (Ex):</b> This power works like the druid's wild empathy class feature, except that a unicorn has a +6 racial bonus on the check.</p>
 <p>
             <b>Skills:</b> Unicorns have a +4 racial bonus on Move Silently checks. *Unicorns have a +3 competence bonus on Survival checks within the boundaries of their forest.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -105,3 +105,8 @@ immune: to fire and poison
               <i>Summon Devil</i> (Sp):</b> Once per day a horned devil can attempt to summon 2d10 lemures or 1d6 bearded devils with a 50% chance of success, 1d6 barbed devils with a 35% chance of success, or another horned devil with a 20% chance of success. This ability is the equivalent of a 6th-level spell.</p>
 <p>
             <b>Regeneration (Ex):</b> A horned devil takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

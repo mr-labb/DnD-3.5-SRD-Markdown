@@ -87,3 +87,8 @@ immune: to acid
 						<b>Water Breathing (Ex): </b>A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.</p>
 <p>
 						<b>Source : </b>MM1 P 71</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

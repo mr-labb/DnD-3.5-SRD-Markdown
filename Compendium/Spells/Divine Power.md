@@ -32,3 +32,8 @@ You gain attack bonus, +6 to Str, and 1 hp/level.
 Source : PHB P224
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

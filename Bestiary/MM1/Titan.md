@@ -116,3 +116,8 @@ immune:
             <i>Round 5:</i> Full attack against any nearby opponent, or use <i>fire storm</i>.</p>
 <p>Use another quickened <i>chain lightning</i> if foes seem really dangerous.</p>
 <p>A titan usually reserves its <i>gate</i> and <i>etherealness</i> abilities to escape a fight that is not going well.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

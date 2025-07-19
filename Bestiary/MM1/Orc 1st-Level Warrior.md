@@ -89,3 +89,8 @@ immune:
 <p>These orc-human crossbreeds can be found in either orc or human society (where their status varies according to local sentiments), or in communities of their own. Half-orcs usually inherit a good blend of the physical characteristics of their parents. They are as tall as humans and a little heavier, thanks to their muscle. They have greenish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and coarse body hair. Half-orcs who have lived among or near orcs have scars, in keeping with orcish tradition.</p>
 <p>
             <b>Half-Orc Traits (Ex):</b> Half-orcs possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

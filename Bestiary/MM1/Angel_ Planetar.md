@@ -106,3 +106,8 @@ immune: to acid
 <p>
             <i>Typical Cleric Spells Prepared</i> (6/8/8/7/7/6/6/4/3/2; save DC 16 + spell level): 0 - <i>create water, detect magic, guidance</i>, <i>resistance</i> (2), <i>virtue;</i> 1st - <i>bless</i> (2), <i>cause fear, divine favor</i> (2), <i>entropic shield, inflict light wounds*</i>, <i>shield of faith;</i> 2nd - <i>aid*, align weapon, bear 's endurance</i>, <i>bull's strength</i> (2), <i>consecrate, eagle's splendor, hold person;</i> 3rd - <i>contagion*, daylight, invisibility purge</i>, <i>prayer</i> (2), <i>summon monster III,  wind wall;</i> 4th -  <i>death ward</i>, <i>dismissal</i>, <i>inflict critical wounds*</i>, <i>neutralize poison</i> (2), <i>summon monster IV;</i> 5th -  <i>break enchantment,  mass inflict light wounds</i>*, <i>dispel evil, mark of justice, plane shift, righteous might;</i> 6th - <i>banishment, greater dispel magic, harm*, heal, heroes' feast, mass cure moderate wounds;</i> 7th -  <i>dictum, disintegrate*, holy word</i>, <i>regenerate;</i> 8th - <i>holy aura*, mass cure critical wounds, shield of law</i>; 9th - <i>implosion, summon monster IX (good)*.</i></p>
 <p>*Domain spell. Domains: Destruction and Good.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

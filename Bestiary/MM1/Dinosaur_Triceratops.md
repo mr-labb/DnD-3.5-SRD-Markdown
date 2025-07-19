@@ -82,3 +82,8 @@ immune:
             <b>Powerful Charge (Ex):</b> When a triceratops charges, its gore attack deals 4d8+20 points of damage.</p>
 <p>
             <b>Trample (Ex):</b> Reflex half DC 28. The save DC is Strength-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

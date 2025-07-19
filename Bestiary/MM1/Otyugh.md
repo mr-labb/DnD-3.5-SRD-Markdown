@@ -85,3 +85,8 @@ immune:
             <b>Improved Grab (Ex):</b> To use this ability, an otyugh must hit with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.</p>
 <p>
             <b>Skills:</b> *An otyugh has a +8 racial bonus on Hide checks when in its lair, due to its natural coloration.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

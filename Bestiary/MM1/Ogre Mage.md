@@ -91,3 +91,8 @@ immune:
             <b>OGRE MAGES AS CHARACTERS</b>
           </p>
 <p>Ogre mage characters possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

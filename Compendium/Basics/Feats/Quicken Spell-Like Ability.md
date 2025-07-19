@@ -37,3 +37,8 @@ In addition, a spell-like ability that duplicates a spell with a casting time gr
 
 
 Source :
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

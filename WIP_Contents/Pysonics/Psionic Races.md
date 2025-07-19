@@ -193,3 +193,8 @@ updated: 2023-05-16
 | Xeph, female       | 4′4″        | 2d10            | 75 lb.      | x(2d4) lb.      |
 
 : Table: Random Height and Weight
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

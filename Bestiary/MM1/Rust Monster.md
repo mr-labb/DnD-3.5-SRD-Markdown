@@ -83,3 +83,8 @@ immune:
 <p>A metal weapon that deals damage to a rust monster corrodes immediately. Wooden, stone, and other nonmetallic weapons are unaffected.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

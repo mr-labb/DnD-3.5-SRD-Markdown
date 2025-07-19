@@ -101,3 +101,8 @@ immune: to magic
 <p>Construction</p>
 <p>A clay golem's body must be sculpted from a single block of clay weighing at least 1,000 pounds, treated with rare oils and powders worth 1,500 gp. Creating the body requires a DC 15 Craft (sculpting) check or a DC 15 Craft (pottery) check.</p>
 <p>CL 11th; Craft Construct, <i>animate objects, commune, resurrection</i>, caster must be at least 11th level<i>;</i> Price 40,000 gp; Cost 21,500 gp + 1,540 XP.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

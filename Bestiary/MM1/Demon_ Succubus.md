@@ -103,3 +103,8 @@ immune: to electricity and poison
 <p>
             <b>Skills:</b> Succubi have a +8 racial bonus on Listen and Spot checks.</p>
 <p>*While using her <i>polymorph</i> ability, a succubus gains a +10 circumstance bonus on Disguise checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

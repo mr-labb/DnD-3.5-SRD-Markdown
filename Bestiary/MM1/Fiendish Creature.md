@@ -54,3 +54,8 @@ Same as the base creature +2.
 |4-7|5|5/magic|
 |8-11|10|5/magic|
 |12 or more|10|10/magic|
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

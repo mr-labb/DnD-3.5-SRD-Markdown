@@ -86,3 +86,8 @@ immune:
             <b>Jet (Ex):</b> An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.</p>
 <p>
             <b>Skills:</b> An octopus can change colors, giving it a +4 racial bonus on Hide checks. An octopus also can squeeze and contort its body, giving it a +10 racial bonus on Escape Artist checks. An octopus has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

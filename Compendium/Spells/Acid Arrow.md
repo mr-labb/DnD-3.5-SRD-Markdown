@@ -31,3 +31,8 @@ Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.
 Source : PHB P253
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

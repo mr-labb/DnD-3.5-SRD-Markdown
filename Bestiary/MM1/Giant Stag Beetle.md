@@ -75,3 +75,8 @@ immune:
 <p>These creatures are serious pests that greedily devour cultivated crops. A single beetle can strip an entire farm in short order. An adult giant stag beetle is about 10 feet long.</p>
 <p>
             <b>Trample (Ex):</b> Reflex half DC 19. The save DC is Strength-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

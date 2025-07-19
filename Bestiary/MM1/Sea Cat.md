@@ -83,3 +83,8 @@ immune:
             <b>Rend (Ex):</b> A sea cat that hits with both claw attacks latches onto the opponent's body and tears the flesh. This automatically deals an extra 2d6+6 points of damage.</p>
 <p>
             <b>Skills:</b> A sea cat has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

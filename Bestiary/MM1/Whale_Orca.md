@@ -82,3 +82,8 @@ immune:
             <b>Hold Breath (Ex):</b> A whale can hold its breath for a number of rounds equal to 8 x its Constitution score before it risks drowning.</p>
 <p>
             <b>Skills:</b> A whale has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *A whale has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsight is negated.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

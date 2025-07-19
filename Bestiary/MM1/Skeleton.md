@@ -100,4 +100,9 @@ Always neutral evil.
 As base creature (or --- if the base creature advances by character class). 
 
 #### Level Adjustment
----. 
+---.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

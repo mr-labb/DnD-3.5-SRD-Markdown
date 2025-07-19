@@ -81,3 +81,8 @@ immune:
             <b>Improved Grab (Ex):</b> To use this ability, a polar bear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.</p>
 <p>
             <b>Skills:</b> A polar bear has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *A polar bear's white coat bestows a +12 racial bonus on Hide checks in snowy areas.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

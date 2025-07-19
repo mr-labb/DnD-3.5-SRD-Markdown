@@ -91,3 +91,8 @@ immune:
             <b>Skills:</b> A spider swarm has a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on Climb checks. It uses its Dexterity modifier instead of its Strength modifier for Climb checks. It can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

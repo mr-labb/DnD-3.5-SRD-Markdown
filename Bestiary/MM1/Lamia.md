@@ -87,3 +87,8 @@ immune:
             <b>Wisdom Drain (Su):</b> A lamia drains 1d4 points of Wisdom each time it hits with its melee touch attack. (Unlike with other kinds of ability drain attacks, a lamia does not heal any damage when it uses its Wisdom drain.) Lamias try to use this power early in an encounter to make foes more susceptible to <i>charm monster</i> and <i>suggestion.</i></p>
 <p>
             <b>Skills:</b> Lamias have a +4 racial bonus on Bluff and Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

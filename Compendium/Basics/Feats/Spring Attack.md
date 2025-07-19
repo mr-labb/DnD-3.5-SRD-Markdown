@@ -20,3 +20,8 @@ in order to utilize the benefits of Spring Attack.
 
 **Special:** A fighter may select Spring Attack as one of his fighter
 bonus feats.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

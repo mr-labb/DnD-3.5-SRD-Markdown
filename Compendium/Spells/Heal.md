@@ -33,3 +33,8 @@ Cures 10 points/level of damage, all diseases and mental conditions.
 Source : PHB P239
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

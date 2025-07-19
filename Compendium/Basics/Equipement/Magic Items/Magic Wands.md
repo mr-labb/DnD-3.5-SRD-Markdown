@@ -105,3 +105,8 @@ A wand is a thin baton that contains a single spell of 4th level or lower. Each 
 ###### Wand Descriptions
 
 All wands are simply storage devices for spells and thus have no special descriptions. Refer to the spell descriptions for all pertinent details.|
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

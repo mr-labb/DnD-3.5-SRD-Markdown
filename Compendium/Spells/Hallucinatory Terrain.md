@@ -32,3 +32,8 @@ Makes one type of terrain appear like another (field into forest, or the like).
 Source : PHB P238
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

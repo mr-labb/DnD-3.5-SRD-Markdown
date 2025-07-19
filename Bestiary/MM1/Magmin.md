@@ -84,3 +84,8 @@ immune: to fire
             <b>Fiery Aura (Ex):</b> Anyone within 20 feet of a magmin must succeed on a DC 12 Fortitude save or take 1d6 points of heat damage per round from the intense heat. The save DC is Constitution-based.</p>
 <p>
             <b>Melt Weapons (Ex):</b> Any metal weapon that strikes a magmin must succeed on a DC 12 Fortitude save or melt away into slag. The save DC is Constitution-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

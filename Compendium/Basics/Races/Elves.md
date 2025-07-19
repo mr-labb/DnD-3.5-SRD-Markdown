@@ -143,3 +143,8 @@ Wood Elf Traits (Ex): These traits are in addition to the high elf traits, excep
 - +2 Strength, -2 Intelligence.
     
 - Favored Class: [[Ranger]]. This trait replaces the high elf 's favored class.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

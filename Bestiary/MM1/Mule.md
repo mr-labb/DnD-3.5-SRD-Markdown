@@ -80,3 +80,8 @@ immune:
             <b>Carrying Capacity:</b> A light load for a mule is up to 230 pounds; a medium load, 231-460 pounds; and a heavy load, 461-690 pounds. A mule can drag 3,450 pounds.</p>
 <p>
             <b>Skills:</b> Mules have a +2 racial bonus on Dexterity checks to avoid slipping or falling.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

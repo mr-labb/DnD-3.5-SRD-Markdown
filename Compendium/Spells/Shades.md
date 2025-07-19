@@ -31,3 +31,8 @@ This spell functions like <i>[[shadow conjuration]],</i> except that it mimics s
 Source : PHB P276
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

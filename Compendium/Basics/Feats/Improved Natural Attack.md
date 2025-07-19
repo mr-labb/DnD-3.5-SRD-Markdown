@@ -18,3 +18,8 @@ follows: 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.
 
 
 Source :
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

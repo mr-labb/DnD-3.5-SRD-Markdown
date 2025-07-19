@@ -81,3 +81,8 @@ immune:
             <b>Poison (Ex):</b> Injury, Fortitude DC 17, initial and secondary damage 1d8 Con. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> A phase spider has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

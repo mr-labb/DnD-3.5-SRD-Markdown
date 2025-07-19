@@ -79,3 +79,8 @@ immune:
 <p>When it is harassed or annoyed, a rhinoceros lowers its head and charges.</p>
 <p>
             <b>Powerful Charge (Ex):</b> A rhinoceros deals 4d6+24 points of damage when it makes a charge.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

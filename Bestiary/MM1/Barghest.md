@@ -102,3 +102,8 @@ immune:
             <b>Pass Without Trace (Ex):</b> A barghest in wolf form can use pass without trace (as the spell) as a free action.</p>
 <p>
             <b>Skills:</b> *A barghest in wolf form gains a +4 circumstance bonus on Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

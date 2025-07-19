@@ -9,13 +9,8 @@ tag: Class, Aristocrat
 
 ### ARISTOCRAT
 
-|   |
-|---|
-||
 
-Aristocrats are usually educated, wealthy individuals who were born into high position. Aristocrats are the wealthy or politically influential people in the world. They are given the freedom to train in the fields of their choice, for the most part, and often travel widely. With access to all the best goods and opportunities, many aristocrats become formidable individuals. Some even go on adventures with fighters, wizards, and members of other classes, although usually such activities are nothing more than a lark.
 
-The aristocrat might work as a PC class, since it has an impressive selection of skills and respectable combat training. Being an aristocrat, however, isn't so much a choice as a position you're born into. An aristocrat cannot be a multiclass character unless his or her first level is in the aristocrat class. Mostly, you should reserve the aristocrat class for rulers, their families, and their courtiers.
 
 **Hit Die**: d8.
 
@@ -57,3 +52,8 @@ The aristocrat's class skills (and the key ability for each skill) are [[Apprais
 The following is a class feature of the aristocrat NPC class.
 
 **Weapon and Armor Proficiency**: The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

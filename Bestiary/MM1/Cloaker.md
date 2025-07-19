@@ -102,3 +102,8 @@ immune:
             <i>Dancing Images:</i> This effect duplicates a <i>mirror image</i> spell (caster level 6th).</p>
 <p>
             <i>Silent Image:</i> This effect duplicates a <i>silent image</i> spell (DC 15, caster level 6th). The save DC is Charisma-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

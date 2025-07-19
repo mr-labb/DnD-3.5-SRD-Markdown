@@ -80,3 +80,8 @@ immune:
 <p>Dire badgers attack with their sharp claws and teeth.</p>
 <p>
             <b>Rage (Ex):</b> A dire badger that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 Strength, +4 Constitution, and -2 AC. The creature cannot end its rage voluntarily.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

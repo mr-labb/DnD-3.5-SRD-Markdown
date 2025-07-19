@@ -77,3 +77,8 @@ immune:
             <b>Improved Grab (Ex):</b> To use this ability, a giant praying mantis must hit with its claws attack. If it wins the ensuing grapple check, it establishes a hold and makes a bite attack as a primary attack (at its full +6 attack bonus).</p>
 <p>
             <b>Skills:</b> A giant praying mantis has a +4 racial bonus on Hide and Spot checks. *Because of its camouflage, the Hide bonus increases to +12 when a mantis is surrounded by foliage.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

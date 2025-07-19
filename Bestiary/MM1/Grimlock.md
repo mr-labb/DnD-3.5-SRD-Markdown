@@ -88,3 +88,8 @@ immune:
             <b>GRIMLOCKS AS CHARACTERS</b>
           </p>
 <p>Grimlock characters possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

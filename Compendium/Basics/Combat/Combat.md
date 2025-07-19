@@ -131,3 +131,7 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 
 ---
 
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

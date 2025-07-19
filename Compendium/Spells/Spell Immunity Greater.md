@@ -33,3 +33,8 @@ A creature can have only one <i>spell immunity</i> or <i>greater spell immunity<
 Source : PHB P282
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

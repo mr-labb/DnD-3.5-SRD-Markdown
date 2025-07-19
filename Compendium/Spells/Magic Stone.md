@@ -33,3 +33,8 @@ Three stones become +1 projectiles, 1d6 +1 damage.
 Source : PHB P251
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

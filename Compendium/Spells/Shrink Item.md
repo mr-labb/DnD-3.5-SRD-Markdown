@@ -31,3 +31,8 @@ Object shrinks to one-sixteenth size.
 Source : PHB P279
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

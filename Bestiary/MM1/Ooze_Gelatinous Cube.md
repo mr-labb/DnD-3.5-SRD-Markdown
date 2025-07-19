@@ -88,3 +88,8 @@ immune: to electricity
             <b>Paralysis (Ex):</b> A gelatinous cube secretes an anesthetizing slime. A target hit by a cube's melee or engulf attack must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds. The cube can automatically engulf a paralyzed opponent. The save DC is Constitution-based.</p>
 <p>
             <b>Transparent (Ex):</b> Gelatinous cubes are hard to see, even under ideal conditions, and it takes a DC 15 Spot check to notice one. Creatures who fail to notice a cube and walk into it are automatically engulfed.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

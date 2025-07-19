@@ -2821,3 +2821,8 @@ Armor Class, the number you subtract from your attack and add to your AC
 can be any number that does not exceed your base attack bonus.
 
 This feat eliminates the +5 maximum for the Combat Expertise feat.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -78,3 +78,8 @@ immune:
 <p>A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour. A solitary roc is typically hunting and will attack any Medium or larger creature that appears edible. A mated pair of rocs attack in concert, fighting to the death to defend their nests or hatchlings.</p>
 <p>
             <b>Skills:</b> Rocs have a +4 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

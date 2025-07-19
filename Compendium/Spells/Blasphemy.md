@@ -32,3 +32,8 @@ Kills, paralyzes, weakens, or dazes nonevil subjects.
 Source : PHB P205
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

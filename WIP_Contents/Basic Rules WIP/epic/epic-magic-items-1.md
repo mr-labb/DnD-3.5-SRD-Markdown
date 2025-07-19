@@ -1734,3 +1734,8 @@ copper), 1,670,600 gp (bronze or green), 1,782,200 gp (blue or silver),
 (brass or white), 781,600 gp + 25,620 XP (black or copper), 835,600 gp +
 26,700 XP (bronze or green), 891,400 gp + 27,816 XP (blue or silver),
 949,000 gp + 28,968 XP (gold or red).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

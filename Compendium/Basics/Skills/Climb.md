@@ -87,3 +87,8 @@ The Legendary Climber feat allows a character to ignore any penalties for accele
 
 ### Synergy : 
 If you have 5 or more ranks in [[Use Rope]], you get a +2 bonus on Climb checks made to climb a rope, a knotted rope, or a rope-and-wall combination.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

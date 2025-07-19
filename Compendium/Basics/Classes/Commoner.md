@@ -10,9 +10,7 @@ tag: Class, Commoner
 
 
 
-The common folk farm the fields, staff the shops, build the homes, and produce the goods in the world around the adventurers. Commoners usually have no desire to live the dangerous life of an adventurer and none of the skills needed to undertake the challenges adventurers must face. Commoners are skilled in their own vocations and make up the majority of the population.
 
-Commoners make poor adventurers. This class should be reserved for everyone who does not qualify for any other class.
 
 **Hit Die**: d4.
 
@@ -54,3 +52,8 @@ The commoner's class skills (and the key ability for each skill) are [[Climb]] (
 The following is a class feature of the commoner NPC class.
 
 **Weapon and Armor Proficiency**: The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shields.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

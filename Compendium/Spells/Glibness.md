@@ -31,3 +31,8 @@ You gain +30 bonus on Bluff checks, and your lies can escape magical discernment
 Source : PHB P235
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

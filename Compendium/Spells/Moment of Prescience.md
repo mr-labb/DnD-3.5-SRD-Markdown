@@ -32,3 +32,8 @@ You gain insight bonus on single attack roll, check, or save.
 Source : PHB P255
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

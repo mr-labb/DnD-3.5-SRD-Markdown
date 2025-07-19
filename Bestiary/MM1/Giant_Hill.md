@@ -93,3 +93,8 @@ immune:
 <p>Reckless brutes of incredible strength but little wit, hill giant characters are never truly accepted into society. Yet they do well on its edges and frontiers, forging a strong and profitable existence.</p>
 <p>Despite their rugged appearance and great size, their basically humanoid shape makes it easy for them to relate with more civilized folk.</p>
 <p>Hill giant characters possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

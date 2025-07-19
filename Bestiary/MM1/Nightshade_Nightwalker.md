@@ -121,3 +121,8 @@ immune: to cold
             <i>Round 4:</i> Crush the disarmed weapon (or use gaze attack if disarm attempt failed).</p>
 <p>
             <i>Round 5:</i> Full attack against the unarmed foe (or on a nearby spellcaster).</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

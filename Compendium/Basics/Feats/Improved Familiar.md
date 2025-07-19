@@ -46,3 +46,8 @@ The list in the table above presents only a few possible improved familiars. Alm
 1 Or other celestial animal from the standard familiar list.
 2 Or other fiendish animal from the standard familiar list.
 3 The master must first create the homunculus, substituting ichor or another  <br>part of the master’s body for blood if necessary
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

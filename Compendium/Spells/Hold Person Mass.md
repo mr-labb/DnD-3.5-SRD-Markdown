@@ -31,3 +31,8 @@ This spell functions like [[hold person]], except as noted above.
 Source : PHB P241
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

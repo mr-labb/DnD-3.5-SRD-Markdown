@@ -505,3 +505,8 @@ A crowbar or portable ram improves a character’s chance of breaking open a doo
 |Hold portal|+5|
 |Arcane lock|+10|
 |1 _If both apply, use the larger number._|   |
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

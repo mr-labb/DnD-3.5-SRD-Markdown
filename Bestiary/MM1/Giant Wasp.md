@@ -78,3 +78,8 @@ immune:
             <b>Poison (Ex):</b> Injury, Fortitude DC 14, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> Giant wasps have a +8 racial bonus on Spot checks. *They also have a +4 racial bonus on Survival checks to orient themselves.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -93,3 +93,8 @@ immune:
             <b>Captivating Song (Su):</b> Will DC 17 negates.</p>
 <p>
             <i>Possessions</i>: <i>+3 studded leather</i>, <i>+1 frost composite longbow</i> (+1 Str bonus), 10 cold iron arrows, 10 silvered arrows, 5 <i>+2 arrows</i>, <i>lesser bracers of archery</i>, <i>potion of cure moderate wounds</i>, <i>potion of cat's grace</i>, <i>cloak of resistance +2</i>, <i>ring of protection +1</i>. (Different harpy archers may have different possessions.)</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

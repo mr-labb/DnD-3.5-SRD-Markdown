@@ -32,3 +32,8 @@ Mimics conjuration below 4th level, but only 20% real.
 Source : PHB P276
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

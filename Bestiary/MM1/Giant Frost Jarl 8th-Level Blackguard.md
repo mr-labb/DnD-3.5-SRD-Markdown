@@ -113,3 +113,8 @@ immune: to cold
             <i>Typical Blackguard Spells Prepared</i> (3/1; save DC 11 + spell level): 1st-<i>cause fear</i>, <i>doom</i>, <i>magic weapon</i>; 2nd-<i>bull's strength</i>.</p>
 <p>
             <i>Possessions</i>: <i>+2 frost greataxe</i>, <i>+2 full plate armor</i>, <i>cloak of Charisma +2</i>, <i>ring of minor energy resistance (fire)</i>, 2 doses of bloodroot poison. (Benefits of these items are included in the statistics block.)</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

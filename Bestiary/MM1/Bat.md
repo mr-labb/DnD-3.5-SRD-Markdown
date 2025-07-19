@@ -79,3 +79,8 @@ immune:
 <p>Combat</p>
 <p>Blindsense (Ex): A bat notices and locates creatures within 20 feet. Opponents still have 100% concealment against a creature with blindsense.</p>
 <p>Skills: *A bat has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsense is negated.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -96,3 +96,8 @@ immune: to electricity
 <p>A behir's gizzard can hold 2 Medium, 8 Small, 32 Tiny, or 128 Diminutive or smaller opponents.</p>
 <p>
             <b>Skills:</b> Behirs have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

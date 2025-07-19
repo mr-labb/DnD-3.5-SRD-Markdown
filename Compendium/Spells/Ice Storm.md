@@ -33,3 +33,8 @@ Hail deals 5d6 damage in cylinder 40 ft. across.
 Source : PHB P243
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -32,3 +32,8 @@ Opens or closes small or light things.
 Source : PHB P258
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -66,3 +66,8 @@ Trade goods are the exception to the half-price rule. A trade good, in this sens
 
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

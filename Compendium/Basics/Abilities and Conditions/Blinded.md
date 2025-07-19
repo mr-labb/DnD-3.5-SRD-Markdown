@@ -13,3 +13,8 @@ The character cannot see. He takes a –2 penalty to Armor Class, loses his Dext
 **If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

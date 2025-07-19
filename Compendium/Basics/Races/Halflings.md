@@ -83,3 +83,8 @@ Deep Halfling Traits (Ex): These traits are in addition to the lightfoot halflin
 - +2 racial bonus on [[Appraise]] checks and [[Craft]] checks that are related to stone or metal.
     
 - Deep halflings are less athletic than lightfoot halflings and do not have a racial bonus on [[Climb]], [[Compendium/Spells/Jump]], and [[Move Silently]] checks.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

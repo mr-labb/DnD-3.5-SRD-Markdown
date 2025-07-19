@@ -32,3 +32,8 @@ Blinds creature with 200 hp or less.
 Source : PHB P263
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

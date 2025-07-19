@@ -81,3 +81,8 @@ immune:
             <b>Rend (Ex):</b> A girallon that hits with two or more claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d4+12 points of damage.</p>
 <p>
             <b>Skills:</b> A girallon has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

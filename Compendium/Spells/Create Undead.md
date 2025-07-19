@@ -36,3 +36,8 @@ A much more potent spell than [[animate dead]], this evil spell allows you to cr
 Source : PHB P215
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

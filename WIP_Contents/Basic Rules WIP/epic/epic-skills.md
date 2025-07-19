@@ -868,3 +868,8 @@ must be at least 21st to attempt this task.) If you are successful, the
 scrying ends, and the scryer may not target you with a Divination
 (Scrying) spell or effect for a number of hours equal to your
 Intelligence modifier (minimum 1).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

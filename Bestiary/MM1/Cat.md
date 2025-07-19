@@ -83,3 +83,8 @@ immune:
 <p>Cats prefer to sneak up on their prey.</p>
 <p>
             <b>Skills:</b> Cats have a +4 racial bonus on Climb, Hide, and Move Silently checks and a +8 racial bonus on Jump checks. Cats have a +8 racial bonus on Balance checks. They use their Dexterity modifier instead of their Strength modifier for Climb and Jump checks. *In areas of tall grass or heavy undergrowth, the Hide bonus rises to +8.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

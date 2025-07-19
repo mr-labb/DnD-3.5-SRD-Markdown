@@ -63,3 +63,8 @@ A half-elf has a +1 racial bonus on Listen checks..
 
 A sleeping character may make Listen checks at a --10 penalty. A
 successful check awakens the sleeper.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

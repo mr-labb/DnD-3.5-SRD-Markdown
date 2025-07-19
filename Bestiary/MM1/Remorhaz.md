@@ -83,3 +83,8 @@ immune:
             <b>Swallow Whole (Ex):</b> When a remorhaz begins its turn with a grappled opponent in its mouth, it can swallow that opponent with a successful grapple check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 8d6 points of fire damage per round from the remorhaz's gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 15). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A Huge remorhaz's interior can hold 2 Large, 4 Medium, 8 Small, 32 Tiny, 128 Diminutive, or 512 Fine or smaller opponents.</p>
 <p>
             <b>Heat (Ex):</b> An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed attacks are subject to this damage, but creatures striking with melee weapons do not take damage from the remorhaz's heat. This heat can melt or char weapons; any weapon that strikes a remorhaz is allowed a DC 18 Fortitude save to avoid destruction. The save DC is Constitution-based. Skills: Remorhazes have a +4 racial bonus on Listen checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

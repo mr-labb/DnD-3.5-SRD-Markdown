@@ -60,3 +60,8 @@ checks.
 ### Synergy
 If you have 5 or more ranks in Sense Motive, you get a +2
 bonus on Diplomacy checks.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

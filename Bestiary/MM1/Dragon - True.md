@@ -1109,3 +1109,8 @@ A silver dragon can tread on clouds or fog as though on solid ground. The abilit
 #### Skills
 
 Bluff, Disguise, and Jump are considered class skills for silver dragons.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

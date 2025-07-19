@@ -32,3 +32,8 @@ Suppresses fear or gives +4 on saves against fear for one subject + one per four
 Source : PHB P271
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

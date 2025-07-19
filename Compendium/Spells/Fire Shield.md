@@ -33,3 +33,8 @@ Creatures attacking you take fire damage; you're protected from heat or cold.
 Source : PHB P230
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

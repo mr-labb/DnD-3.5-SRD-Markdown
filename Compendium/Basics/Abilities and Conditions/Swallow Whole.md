@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 aliases: [Swallow Whole]
 title: Compendium\Basics\Abilities and Conditions\Swallow Whole
@@ -18,8 +18,13 @@ A swallowed creature can try to cut its way free with any light slashing or pier
 
 The Armor Class of the interior of a creature that swallows whole is normally 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. 
 
-If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again.
+If the swallowed creature escapes the grapple, success puts it back in the attacker�s mouth, where it may be bitten or swallowed again.
 
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

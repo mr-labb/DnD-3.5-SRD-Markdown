@@ -264,3 +264,8 @@ Strong necromancy; CL 13th; Craft Rod, Craft Magic Arms and Armor, contagion; Pr
 |98–100|Flesh to stone (or stone to flesh if target is stone already) if target is within 60 ft. (Fortitude DC 18 negates).|
 
 Moderate enchantment; CL 10th; Craft Rod, confusion, creator must be chaotic; Price 12,000 gp.|
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

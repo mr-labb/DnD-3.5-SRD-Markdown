@@ -87,3 +87,8 @@ immune:
             <b>Rake (Ex):</b> Attack bonus +9 melee, damage 1d8+3.</p>
 <p>
             <b>Skills:</b> Tigers have a +4 racial bonus on Balance, Hide, and Move Silently checks. *In areas of tall grass or heavy undergrowth, the Hide bonus improves to +8.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

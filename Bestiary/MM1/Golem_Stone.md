@@ -94,3 +94,8 @@ immune: to magic
             <b>Slow (Su):</b> A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.</p>
 <p>A <i>transmute rock to mud</i> spell slows a stone golem (as the <i>slow</i> spell) for 2d6 rounds, with no saving throw, while <i>transmute mud to rock</i> heals all of its lost hit points.</p>
 <p>A <i>stone to flesh</i> spell does not actually change the golem's structure but negates its damage reduction and immunity to magic for 1 full round.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

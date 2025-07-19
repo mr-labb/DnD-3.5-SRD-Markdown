@@ -90,3 +90,8 @@ immune:
 <p>If the whirlwind's base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the whirlwind's height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.</p>
 <p>Those caught in the cloud must succeed on a Concentration check (DC 15 + spell level) to cast a spell.</p>
 <p>An elemental in whirlwind form cannot make slam attacks and does not threaten the area around it.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

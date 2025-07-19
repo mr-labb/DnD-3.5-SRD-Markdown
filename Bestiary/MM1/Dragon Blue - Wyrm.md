@@ -95,3 +95,8 @@ immune: to electricity
 						</b>
 					</p>
 <p>Typically, blue dragons attack from above or burrow beneath the sands until opponents come within 100 feet. Older dragons use their special abilities, such as hallucinatory terrain, in concert with these tactics to mask the land and improve their chances to surprise the target. Blue dragons run from a fight only if they are severely damaged, since they view retreat as cowardly.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

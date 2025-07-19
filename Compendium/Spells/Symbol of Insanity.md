@@ -38,3 +38,8 @@ Unlike <i>symbol of death</i>, symbol of insanity has no hit point limit; once t
 Source : PHB P290
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

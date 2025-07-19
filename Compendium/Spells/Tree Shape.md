@@ -32,3 +32,8 @@ You look exactly like a tree for 1 hour/level.
 Source : PHB P296
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

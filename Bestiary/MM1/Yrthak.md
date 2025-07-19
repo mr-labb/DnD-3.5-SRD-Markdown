@@ -88,3 +88,8 @@ immune:
             <b>Immunities:</b> Yrthaks have immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.</p>
 <p>
             <b>Skills:</b> Yrthaks have a +4 racial bonus on Listen checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

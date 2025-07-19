@@ -78,3 +78,8 @@ immune:
 <p>A cockatrice fiercely attacks anything that it deems a threat to itself or its lair. Flocks of cockatrices do their utmost to overwhelm and confuse their foes, and sometimes fly directly into their opponents' faces.</p>
 <p>
             <b>Petrification (Su):</b> Creatures hit by a cockatrice's bite attack must succeed on a DC 12 Fortitude save or instantly turn to stone. The save DC is Constitution-based. Cockatrices have immunity to the petrification ability of other cockatrices, but other petrification attacks affect them normally.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

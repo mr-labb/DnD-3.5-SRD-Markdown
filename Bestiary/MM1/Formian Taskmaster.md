@@ -102,3 +102,8 @@ immune: to poison
             <b>Dominated Creature (Ex):</b> A taskmaster is never encountered alone. One dominated nonformian creature always accompanies it (choose or determine randomly any creature of CR 4).</p>
 <p>
             <b>Poison (Ex):</b> Injury, Fortitude DC 15, initial and secondary damage 1d6 Str. The save DC is Constitution-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

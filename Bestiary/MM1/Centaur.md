@@ -83,3 +83,8 @@ immune:
             <b>CENTAURS AS CHARACTERS</b>
           </p>
 <p>A centaur druid is usually a tribe's designated leader and speaker. Centaur characters possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

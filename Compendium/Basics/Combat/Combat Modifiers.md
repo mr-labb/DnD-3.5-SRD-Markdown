@@ -137,3 +137,8 @@ Delivering a coup de grace provokes attacks of opportunity from threatening oppo
 You can’t deliver a coup de grace against a creature that is immune to critical hits. You can deliver a coup de grace against a creature with total concealment, but doing this requires two consecutive full-round actions (one to “find” the creature once you’ve determined what square it’s in, and one to deliver the coup de grace).
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

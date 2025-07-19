@@ -32,3 +32,8 @@ Blows away or knocks down smaller creatures.
 Source : PHB P238
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

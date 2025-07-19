@@ -93,3 +93,8 @@ immune: to electricity
 <p>
             <b>Camouflage (Ex):</b> Since an assassin vine looks like a normal plant when at rest, it takes a DC 20 Spot check to notice it before it attacks.</p>
 <p>Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Spot to notice the plant. Dwarves can use stonecunning to notice the subterranean version.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

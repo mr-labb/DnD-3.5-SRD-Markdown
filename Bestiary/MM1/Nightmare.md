@@ -94,3 +94,8 @@ immune:
             <b>Astral Projection and Etherealness (Su):</b> These abilities function just like the spells of the same names (caster level 20th); a nightmare can use either at will.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a nightmare is up to 300 pounds; a medium load, 301-600 pounds; and a heavy load, 601-900 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

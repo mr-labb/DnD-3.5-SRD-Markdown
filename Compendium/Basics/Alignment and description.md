@@ -154,3 +154,8 @@ The dice roll given in the Height Modifier column determines the character’s e
 |Half-orc, female|4´ 5?|+2d12|110 lb.|× (2d6) lb.|
 |Halfling, male|2´ 8?|+2d4|30 lb.|× 1 lb.|
 |Halfling, female|2´ 6?|+2d4|25 lb.|× 1 lb.|
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

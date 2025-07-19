@@ -89,3 +89,8 @@ immune:
             <b>Unnatural Aura (Su):</b> Animals, whether wild or domesticated, can sense the unnatural presence of a spectre at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so; they remain panicked as long as they are within that range.</p>
 <p>
             <b>Sunlight Powerlessness (Ex):</b> Spectres are powerless in natural sunlight (not merely a <i>daylight</i> spell) and flee from it. A spectre caught in sunlight cannot attack and can take only a single move or attack action in a round.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

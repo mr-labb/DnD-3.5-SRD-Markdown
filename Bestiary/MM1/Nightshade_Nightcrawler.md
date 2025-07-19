@@ -110,3 +110,8 @@ immune: to cold
             <b>Summon Undead (Su):</b> A nightcrawler can summon undead creatures once per night: 9-16 shadows, 3-6 greater shadows, or 2-4 dread wraiths. The undead arrive in 1d10 rounds and serve for 1 hour or until released.</p>
 <p>
             <b>Swallow Whole (Ex):</b> A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round from the nightcrawler's gizzard and is subject to the creature's energy drain. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the gizzard (AC 21). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A nightcrawler's interior can hold 2 Huge, 8 Large, 32 Medium, 128 Small, 512 Tiny or smaller opponents.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

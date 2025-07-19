@@ -95,3 +95,8 @@ immune:
 <p>
             <b>Spell-Like Abilities:</b> 3/day - <i>clairaudience/clairvoyance, detect magic, read magic, see invisibility</i>; 1/day - <i>comprehend languages, locate object, dispel magic,  remove curse</i> (DC 18), <i>legend lore</i>. Caster level 14th. The save DC is Charisma-based.</p>
 <p>Once per week a gynosphinx can create a <i>symbol of death,</i> a <i>symbol of fear,</i> a <i>symbol of insanity,</i> a <i>symbol of pain,</i> a <i>symbol of persuasion,</i> a  <i>symbol of sleep,</i> and a <i>symbol of stunning</i> as the spells (caster level 18th), except that all save DCs are 22 and each symbol remains a maximum of one week once scribed. The save DCs are Charisma-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

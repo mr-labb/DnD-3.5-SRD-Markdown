@@ -84,3 +84,8 @@ immune:
             <b>Blink (Su):</b> A blink dog can use <i>blink</i> as the spell (caster level 8th), and can evoke or end the effect as a free action.</p>
 <p>
             <b>Dimension Door (Su):</b> A blink dog can teleport, as <i>dimension door</i> (caster level 8th), once per round as a free action. The ability affects only the blink dog, which never appears within a solid object and can act immediately after teleporting.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

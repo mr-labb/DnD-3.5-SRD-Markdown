@@ -103,3 +103,8 @@ immune:
             <b>Spell-Like Abilities:</b> Once per hour an air mephit can surround itself with vapor, duplicating the effect of a <i>blur</i> spell (caster level 3rd). Once per day it can use  <i>gust of wind</i> (DC 14, caster level 6th) . The save DC is Charisma-based.</p>
 <p>
             <b>Fast Healing (Ex):</b> An air mephit heals only if exposed to moving air, be it a breeze, a draft, a spell effect, or even the mephit fanning itself.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

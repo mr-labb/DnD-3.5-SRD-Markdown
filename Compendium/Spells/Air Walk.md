@@ -33,3 +33,8 @@ Subject treads on air as if solid (climb at 45-degree angle).
 Source : PHB P196
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -83,3 +83,8 @@ immune:
 <p>If trained for war, these animals can make trip attacks just as wolves do (see the Wolf entry). A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.</p>
 <p>
             <b>Skills:</b> Riding dogs have a +4 racial bonus on Jump checks. *Riding dogs have a +4 racial bonus on Survival checks when tracking by scent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -32,3 +32,8 @@ Makes a rope move at your command.
 Source : PHB P199
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -31,3 +31,8 @@ Touch delivers 1d6/level electricity damage (max 5d6).
 Source : PHB P279
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

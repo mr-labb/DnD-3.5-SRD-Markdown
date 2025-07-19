@@ -315,3 +315,8 @@ Moderate (wizardry I) or strong (wizardry II–IV) (no school); CL 11th (I), 14t
 Using the ring is physically exhausting, causing the wearer 1 point of Constitution damage per minute after the first 10 minutes of use in a single day.
 
 Moderate divination; CL 6th; Forge Ring, true seeing; Price 25,000 gp.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

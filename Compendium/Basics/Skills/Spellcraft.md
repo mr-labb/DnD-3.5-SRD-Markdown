@@ -59,3 +59,8 @@ Magic Device checks related to scrolls.
 Additionally, certain spells allow you to gain information about magic,
 provided that you make a successful Spellcraft check as detailed in the
 spell description.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

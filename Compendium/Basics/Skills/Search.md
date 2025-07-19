@@ -64,3 +64,8 @@ A dwarf, even one who is not a rogue, can use the Search skill to find a
 difficult trap (one with a DC higher than 20) if the trap is built into
 or out of stone. He gains a +2 racial bonus on the Search check from his
 stonecunning ability.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

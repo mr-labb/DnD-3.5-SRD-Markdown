@@ -169,3 +169,8 @@ The skill name line is followed by a general description of what using the skill
 **Restriction**: The full utility of certain skills is restricted to characters of certain classes or characters who possess certain feats. This entry indicates whether any such restrictions exist for the skill.
 
 **Untrained**: This entry indicates what a character without at least 1 rank in the skill can do with it. If this entry doesn’t appear, it means that the skill functions normally for untrained characters (if it can be used untrained) or that an untrained character can’t attempt checks with this skill (for skills that are designated as “Trained Only”).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

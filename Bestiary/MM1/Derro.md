@@ -91,3 +91,8 @@ immune:
             <b>Vulnerability to Sunlight (Ex):</b> A derro takes 1 point of Constitution damage for every hour it is exposed to sunlight, and it dies if its Constitution score reaches 0. Lost Constitution points are recovered at the rate of 1 per every 24-hour period spent underground or otherwise sheltered from the sun.</p>
 <p>
             <b>Skills:</b> Derro have a +4 racial bonus on Hide and Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

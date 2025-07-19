@@ -87,3 +87,8 @@ immune:
 <p>Criosphinxes attack with their claws, as do their kin, but they can also butt with their horns. They don't cast spells and employ only the most simple battle tactics.</p>
 <p>
             <b>Rake (Ex):</b> Attack bonus +15 melee, damage 1d6+3.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

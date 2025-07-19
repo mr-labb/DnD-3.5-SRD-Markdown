@@ -53,3 +53,8 @@ A violet fungus flails about with its tentacles at living creatures that come wi
 
 #### Poison (Ex)
 Injury, Fortitude DC 14, initial and secondary damage 1d4 Str and 1d4 Con. The save DC is Constitution-based.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

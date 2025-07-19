@@ -1,4 +1,4 @@
-Ôªø---
+---
 lang: en
 aliases: [Manufactured Weapons]
 title: Compendium\Basics\Abilities and Conditions\Manufactured Weapons
@@ -8,8 +8,13 @@ tag: Abilities, Conditions
 ---
 ##### Manufactured Weapons
 
-Some monsters employ manufactured weapons when they attack. Creatures that use swords, bows, spears, and the like follow the same rules as characters, including those for additional attacks from a high base attack bonus and two-weapon fighting penalties. This category also includes ‚Äúfound items,‚Äù such as rocks and logs, that a creature wields in combat‚Äî in essence, any weapon that is not intrinsic to the creature.
+Some monsters employ manufactured weapons when they attack. Creatures that use swords, bows, spears, and the like follow the same rules as characters, including those for additional attacks from a high base attack bonus and two-weapon fighting penalties. This category also includes ìfound items,î such as rocks and logs, that a creature wields in combató in essence, any weapon that is not intrinsic to the creature.
 
-Some creatures combine attacks with natural and manufactured weapons when they make a full attack. When they do so, the manufactured weapon attack is considered the primary attack unless the creature‚Äôs description indicates otherwise and any natural weapons the creature also uses are considered secondary natural attacks. These secondary attacks do not interfere with the primary attack as attacking with an off-hand weapon does, but they take the usual ‚Äì5 penalty (or ‚Äì2 with the Multiattack feat) for such attacks, even if the natural weapon used is normally the creature‚Äôs primary natural weapon.
+Some creatures combine attacks with natural and manufactured weapons when they make a full attack. When they do so, the manufactured weapon attack is considered the primary attack unless the creatureís description indicates otherwise and any natural weapons the creature also uses are considered secondary natural attacks. These secondary attacks do not interfere with the primary attack as attacking with an off-hand weapon does, but they take the usual ñ5 penalty (or ñ2 with the Multiattack feat) for such attacks, even if the natural weapon used is normally the creatureís primary natural weapon.
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

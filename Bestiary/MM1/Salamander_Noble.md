@@ -94,3 +94,8 @@ immune: to fire
             <b>Skills:</b> Salamanders have a +4 racial bonus on Craft (blacksmithing) checks.</p>
 <p>
             <b>Feats:</b> Salamanders have the Multiattack feat even though they do not have the requisite three natural weapons.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

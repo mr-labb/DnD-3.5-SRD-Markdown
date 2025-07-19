@@ -89,3 +89,8 @@ immune: to cold
             <b>Death Throes (Ex):</b> When killed, a frost worm turns to ice and shatters in an explosion that deals 12d6 points of cold damage and 8d6 points of piercing damage to everything within 100 feet (Reflex half DC 22). The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> *A frost worm, due to its coloration and its affinity for burying itself in the snow, has a +10 racial bonus on Hide checks in its native environment.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -90,3 +90,8 @@ immune:
             <b>Shadow Blend (Su):</b> In any condition of illumination other than full daylight, a shadow mastiff can disappear into the shadows, giving it total concealment. Artificial illumination, even a <i>light</i> or <i>continual flame</i> spell, does not negate this ability. A <i>daylight</i> spell, however, will.</p>
 <p>
             <b>Skills:</b> *A shadow mastiff has a +4 racial bonus on Survival checks when tracking by scent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

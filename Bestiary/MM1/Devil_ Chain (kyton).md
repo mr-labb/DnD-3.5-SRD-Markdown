@@ -97,3 +97,8 @@ immune: to cold
             <b>Regeneration (Ex):</b> Chain devils take normal damage from silvered weapons, good-aligned weapons, and spells or effects with the good descriptor. A chain devil that loses a piece of its body regrows it in 2d6x10 minutes. Holding the severed member against the stump enables it to reattach instantly.</p>
 <p>
             <b>Skills:</b> Chain devils have a +8 racial bonus on Craft checks involving metalwork.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

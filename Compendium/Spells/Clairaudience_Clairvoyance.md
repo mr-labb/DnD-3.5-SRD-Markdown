@@ -33,3 +33,8 @@ Hear or see at a distance for 1 min./level.
 Source : PHB P209
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

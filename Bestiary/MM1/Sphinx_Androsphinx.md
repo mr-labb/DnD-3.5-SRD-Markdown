@@ -97,3 +97,8 @@ immune:
 <p>
             <i>Typical Cleric Spells Prepared</i> (5/5/5/4; save DC 13 + spell level): 0 - <i>cure minor wounds, detect magic, guidance, light, resistance;</i> 1st - <i>divine favor,  protection from evil*, shield of faith, remove fear, summon monster I;</i> 2nd - <i>bull's strength, remove paralysis, resist energy, shield other*, summon monster II;</i> 3rd - <i> cure serious wounds*, daylight, invisibility purge, searing light.</i></p>
 <p>*Domain spell. Domains: Good and Healing.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

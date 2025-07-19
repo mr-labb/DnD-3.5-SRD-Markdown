@@ -87,3 +87,8 @@ immune:
 <p>Pegasus eggs are worth 2,000 gp each on the open market, while young are worth 3,000 gp per head. Pegasi mature at the same rate as horses. Professional trainers charge 1,000 gp to rear or train a pegasus, which serves a good or neutral master with absolute faithfulness for life.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a pegasus is up to 300 pounds; a medium load, 301-600 pounds; and a heavy load, 601-900 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

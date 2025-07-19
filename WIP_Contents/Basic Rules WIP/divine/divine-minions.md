@@ -157,3 +157,8 @@ The deities may choose particular servants for specific tasks that may
 retain the knowledge of their previous selves. These exceptional
 petitioners retain the feats and skills they had in life, but are
 otherwise limited as for the petitioners of their plane.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

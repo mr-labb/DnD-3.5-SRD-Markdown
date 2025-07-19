@@ -32,3 +32,8 @@ Creatures in area take 1d8 damage, may be slowed.
 Source : PHB P283
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

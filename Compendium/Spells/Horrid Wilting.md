@@ -32,3 +32,8 @@ Deals 1d6/level damage within 30 ft.
 Source : PHB P242
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -79,3 +79,8 @@ immune:
 <p>Owls swoop quietly down onto prey, attacking with their powerful talons.</p>
 <p>
             <b>Skills:</b> Owls have a +8 racial bonus on Listen checks and a +14 racial bonus on Move Silently checks. *They have a +8 racial bonus on Spot checks in areas of shadowy illumination.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

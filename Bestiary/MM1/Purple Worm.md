@@ -84,3 +84,8 @@ immune:
             <b>Swallow Whole (Ex):</b> A purple worm can try to swallow a grabbed opponent of a smaller size than itself by making a successful grapple check. Once inside, the opponent takes 2d8+12 points of crushing damage plus 8 points of acid damage per round from the worm's gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 17). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A Gargantuan worm's interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.</p>
 <p>
             <b>Skills:</b> A purple worm has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

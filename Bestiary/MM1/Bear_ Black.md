@@ -81,3 +81,8 @@ immune:
 <p>Black bears rip prey with their claws and teeth.</p>
 <p>
             <b>Skills:</b> A black bear has a +4 racial bonus on Swim checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

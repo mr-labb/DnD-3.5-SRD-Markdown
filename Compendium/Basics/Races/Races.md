@@ -88,3 +88,8 @@ A number of the minor races, particularly nonhumanoids, begin play with some num
 **Racial Saving Throw Bonuses**: The character begins with the base Fortitude, Reflex, and Will saving throw bonuses listed. He adds the saving throw bonuses for his class levels to his racial saves to determine his total saving throw bonuses, which are then modified by the appropriate ability scores, magic items, and other conditions that modify saving throws.
 
 **Racial Skills**: Depending on the creature type of the character's race, he begins with a number of racial skill points. These skill points may be spent on any skills the character likes. The character gains quadruple skill points for the first Hit Die of his race - or, in other words, the number of skill points a character gains for his racial Hit Dice equals (racial skill point allowance per Hit Die + Intelligence modifier, minimum 1) × (racial Hit Dice + 3).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

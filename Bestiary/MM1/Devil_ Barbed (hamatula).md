@@ -104,3 +104,8 @@ immune: to fire and poison
             <b>Barbed Defense (Su):</b> Any creature striking a barbed devil with handheld weapons or natural weapons takes 1d8+6 points of piercing and slashing damage from the devil's barbs. Note that weapons with exceptional reach, such as longspears, do not endanger their users in this way.</p>
 <p>
             <b>Spell-Like Abilities:</b> At will - <i>greater teleport</i> (self plus 50 pounds of objects only), <i>hold person</i> (DC 16), <i>major image</i> (DC 17), <i>scorching ray</i> (2 rays only). 1/day - <i>order's wrath</i> (DC 18), <i>unholy blight</i> (DC 18). Caster level 12th. The save DCs are Charisma-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

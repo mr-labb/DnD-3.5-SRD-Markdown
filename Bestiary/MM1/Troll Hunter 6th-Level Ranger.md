@@ -100,3 +100,8 @@ immune:
 <p>The troll hunter uses its limited repertoire of spells to protect itself from damaging forms of energy and to immobilize enemies.</p>
 <p>
             <i>Typical Ranger Spells Prepared</i> (2; save DC 12 + spell level): 1st-<i>entangle</i>, <i>resist energy</i>.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

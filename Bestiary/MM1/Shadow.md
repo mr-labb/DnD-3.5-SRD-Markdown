@@ -85,3 +85,8 @@ immune:
             <b>Create Spawn (Su):</b> Any humanoid reduced to Strength 0 by a shadow becomes a shadow under the control of its killer within 1d4 rounds.</p>
 <p>
             <b>Skills:</b> Shadows have a +2 racial bonus on Listen and Spot checks and a +4 racial bonus on Search checks. *A shadow gains a +4 racial bonus on Hide checks in areas of shadowy illumination. In brightly lit areas, it takes a -4 penalty on Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

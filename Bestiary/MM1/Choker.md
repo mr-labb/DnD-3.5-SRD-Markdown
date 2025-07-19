@@ -86,3 +86,8 @@ immune:
             <b>Quickness (Su):</b> Although not particularly dexterous, a choker is supernaturally quick. It can take an extra standard action or move action during its turn each round.</p>
 <p>
             <b>Skills:</b> A chokers has a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -83,3 +83,8 @@ immune:
 <p>A shrieker has no means of attack. Instead, it lures prey to its vicinity by emitting a loud noise.</p>
 <p>
             <b>Shriek (Ex):</b> Movement or a light source within 10 feet of a shrieker causes the fungus to emit a piercing sound that lasts for 1d3 rounds. The sound attracts nearby creatures that are disposed to investigate it. Some creatures that live near shriekers come to learn that the fungus's noise means there is food nearby.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

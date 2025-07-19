@@ -89,3 +89,8 @@ immune:
 <p>An ettercap can move across its own sheet web at its climb speed and can determine the exact location of any creature touching the web.</p>
 <p>
             <b>Skills:</b> Ettercaps have a +4 racial bonus on Craft (trapmaking), Hide, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -87,3 +87,8 @@ immune:
             <b>Petrifying Gaze (Su):</b> Turn to stone permanently, 30 feet, Fortitude DC 15 negates. The save DC is Charisma-based.</p>
 <p>
             <b>Poison (Ex):</b> Injury, Fortitude DC 14, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

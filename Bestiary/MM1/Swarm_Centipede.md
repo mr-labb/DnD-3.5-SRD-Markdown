@@ -88,3 +88,8 @@ immune:
             <b>Poison (Ex):</b> Injury, Fortitude DC 13, initial and secondary damage 1d4 Dex. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> A centipede swarm has a +4 racial bonus on Spot checks and a +8 racial bonus on Climb checks, and uses its Dexterity modifier instead of its Strength modifier for Climb checks. A centipede swarm has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

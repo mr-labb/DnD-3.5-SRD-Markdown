@@ -170,3 +170,8 @@ Rateliff, Thomas Reid, James Wyatt, based on original material by E.
 Gary Gygax and Dave Arneson.
 
 END OF LICENSE
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

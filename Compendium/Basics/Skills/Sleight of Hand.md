@@ -71,3 +71,8 @@ An untrained Sleight of Hand check is simply a Dexterity
 check. Without actual training, you can't succeed on any Sleight of Hand
 check with a DC higher than 10, except for hiding an object on your
 body.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

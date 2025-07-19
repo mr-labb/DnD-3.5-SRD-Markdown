@@ -83,3 +83,8 @@ immune:
 <p>
             <b>Superior Two-Weapon Fighting (Ex):</b> An ettin fights with a morningstar or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons.</p>
 <p>Skills: An ettin's two heads give it a +2 racial bonus on Listen, Spot, and Search checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

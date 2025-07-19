@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 aliases: [Polymorph]
 title: Compendium\Basics\Abilities and Conditions\Polymorph
@@ -8,7 +8,7 @@ tag: Abilities
 ---
 ##### POLYMORPH
 
-Magic can cause creatures and characters to change their shapes — sometimes against their will, but usually to gain an advantage. Polymorphed creatures retain their own minds but have new physical forms.
+Magic can cause creatures and characters to change their shapes � sometimes against their will, but usually to gain an advantage. Polymorphed creatures retain their own minds but have new physical forms.
 
 The polymorph spell defines the general polymorph effect.
 
@@ -23,3 +23,8 @@ Otherwise, it melds with the new form and ceases to function for the duration of
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

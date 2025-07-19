@@ -78,3 +78,8 @@ immune:
 <p>Hawks combine both talons into a single attack.</p>
 <p>
             <b>Skills:</b> Hawks have a +8 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

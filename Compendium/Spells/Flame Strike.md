@@ -34,3 +34,8 @@ Smite foes with divine fire (1d6/level damage).
 Source : PHB P231
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

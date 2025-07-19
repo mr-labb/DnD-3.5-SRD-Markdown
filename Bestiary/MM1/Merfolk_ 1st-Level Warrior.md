@@ -88,3 +88,8 @@ immune:
             <b>MERFOLK CHARACTERS</b>
           </p>
 <p>A merfolk's favored class is bard.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

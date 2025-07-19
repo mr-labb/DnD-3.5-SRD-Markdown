@@ -102,3 +102,8 @@ immune:
             <b>Skills:</b> Vampire spawn have a +4 racial bonus on Bluff, Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks.</p>
 <p>VAMPIRE SPAWN WEAKNESSES</p>
 <p>Vampire spawn are vulnerable to all attacks and effects that repel or slay vampires. For details, see the Vampire entry.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -1568,3 +1568,8 @@ Moderate transmutation; CL 10th; Craft Wondrous Item, fly; Price 54,000 gp;Weigh
 
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

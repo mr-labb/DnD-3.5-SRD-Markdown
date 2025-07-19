@@ -32,3 +32,8 @@ This spell functions like <i>[[teleport]],</i> except that there is no range lim
 Source : PHB P292
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

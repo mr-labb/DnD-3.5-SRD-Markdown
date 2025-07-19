@@ -31,3 +31,8 @@ Prevents anyone from viewing or scrying an area for 24 hours.
 Source : PHB P256
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

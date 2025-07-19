@@ -92,3 +92,8 @@ immune:
             <b>Tree Dependent (Su):</b> Each dryad is mystically bound to a single, enormous oak tree and must never stray more than 300 yards from it. Any who do become ill and die within 4d6 hours. A dryad's oak does not radiate magic.</p>
 <p>
             <b>Wild Empathy (Ex):</b> This power works like the druid's wild empathy class feature, except that the dryad has a +6 racial bonus on the check.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

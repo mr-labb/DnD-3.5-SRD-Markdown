@@ -97,3 +97,8 @@ immune:
             <b>Spell Deflection (Su):</b> The trapped essence provides a measure of magical protection. If any of the following spells are cast at the devourer and overcome its spell resistance, they affect the imprisoned essence instead: <i>banishment, chaos hammer, confusion, crushing despair, detect thoughts, dispel evil, dominate person, fear, geas/quest, holy word, hypnotism, imprisonment,  magic jar, maze, suggestion, trap the soul,</i> or any form of charm or compulsion. In many cases, this deflection effectively neutralizes the spell. Some of these effects might eliminate the trapped essence, depriving the devourer of its spell-like abilities until it can consume another victim.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

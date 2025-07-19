@@ -89,3 +89,8 @@ immune:
             <b>Improved Tracking (Ex):</b> An invisible stalker is a consummate tracker and makes Spot checks instead of the usual Survival checks to trace a creature's passage.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

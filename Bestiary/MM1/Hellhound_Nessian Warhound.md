@@ -95,3 +95,8 @@ immune: to fire
             <b>Breath Weapon (Su):</b> 10-foot cone, once every 2d4 rounds, damage 3d6 fire, Reflex DC 21 half. The save DC is Constitution- based.</p>
 <p>
             <b>Fiery Bite (Su):</b> A Nessian warhound deals an extra 1d8 points of fire damage every time it bites an opponent, as if its bite were a flaming weapon.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

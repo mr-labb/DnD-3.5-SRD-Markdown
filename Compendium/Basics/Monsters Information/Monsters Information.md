@@ -155,3 +155,7 @@ Some creatures may have particular powers that are manifested at a higher or low
 
 ---
 
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

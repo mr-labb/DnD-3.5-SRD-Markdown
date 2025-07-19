@@ -11,10 +11,6 @@ tag: Class, Adept
 
 
 
-Some tribal societies or less sophisticated regions don't have the resources to train wizards and clerics. Reflecting a lesser [[Knowledge]] of magic yet an intriguing combination of arcane and divine skills, the adept serves these cultures as both wise woman (or holy man) and mystical defender.
-
-Adepts can be found in isolated human, elf, dwarf, gnome, and halfling communities but are most prevalent among more bestial humanoid and giant species such as orcs, goblins, gnolls, bugbears, and ogres.
-
 **Hit Die**: d6.
 
 ###### Class Skills
@@ -109,3 +105,8 @@ Urban adepts choose their spells from the following list.
 **4th Level**: Cure critical wounds, legend lore, minor creation, restoration, scrying, stoneskin.
 
 **5th Level**: Break enchantment, commune, dream, heal, major creation, nightmare, raise dead, true seeing.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -125,3 +125,8 @@ Gold Dwarf Racial Traits: Gold dwarves have all the dwarf racial traits, with th
 - +2 Constitution, -2 Dexterity: Gold dwarves are stout and tough, but not as quick or agile as other races.
     
 - +1 racial bonus on attack rolls against aberrations: Gold dwarves are trained in special combat techniques against these bizarre creatures (this replaces the attack bonus against orcs and goblinoids).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

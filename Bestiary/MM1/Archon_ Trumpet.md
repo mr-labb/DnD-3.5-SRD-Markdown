@@ -104,3 +104,8 @@ immune: to electricity and petrification
 <p>
             <b>Trumpet (Su):</b> An archon's trumpet produces music of utter clarity, piercing beauty, and, if the trumpet archon wills it, paralyzing awe. All creatures except archons within 100 feet of the blast must succeed on a DC 19 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Charisma-based. The archon can also command its trumpet to become a <i>+4 greatsword</i> as a free action.</p>
 <p>If a trumpet is ever stolen, it becomes a chunk of useless metal until the owner can recover it. Woe betide any thief caught with one.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

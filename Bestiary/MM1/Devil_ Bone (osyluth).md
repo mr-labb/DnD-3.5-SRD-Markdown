@@ -101,3 +101,8 @@ immune: to fire and poison
 <p>
             <b>
               <i>Summon Devil</i> (Sp):</b> Once per day a bone devil can attempt to summon 2d10 lemures with a 50% chance of success, or another bone devil with a 35% chance of success. This ability is the equivalent of a 4th-level spell.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

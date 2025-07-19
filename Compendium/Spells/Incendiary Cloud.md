@@ -32,3 +32,8 @@ Cloud deals 4d6 fire damage/round.
 Source : PHB P244
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

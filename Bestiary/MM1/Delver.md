@@ -87,3 +87,8 @@ immune: to acid
             <b>Corrosive Slime (Ex):</b> A delver produces a mucuslike slime that contains a highly corrosive substance. The slime is particularly effective against stone. A delver's mere touch deals 2d6 points of acid damage to organic creatures or objects. Against metallic creatures or objects, a delver's slime deals 4d8 points of damage, and against stony creatures (including earth elementals) or objects it deals 8d10 points of damage. A slam attack by a delver leaves a patch of slime that deals 2d6 points of damage on contact and another 2d6 points of damage in each of the next 2 rounds. A large quantity (at least a quart) of water or weak acid, such as vinegar, washes off the slime. An opponent's armor and clothing dissolve and become useless immediately unless the wearer succeeds on a DC 22 Reflex save. Weapons that strike a delver also dissolve immediately unless the wielder succeeds on a DC 22 Reflex save. A creature attacking a delver with natural weapons takes damage from its slime each time an attack hits unless the creature succeeds on a DC 22 Reflex save. These save DCs are Constitution-based.</p>
 <p>
             <b>Stone Shape (Ex):</b> A delver can alter its slime to temporarily soften stone instead of dissolving it. Once every 10 minutes, a delver can soften and shape up to 25 cubic feet of stone, as a <i>stone shape</i> spell (caster level 15th).</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

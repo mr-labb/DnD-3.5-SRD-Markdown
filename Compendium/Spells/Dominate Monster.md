@@ -31,3 +31,8 @@ This spell functions like [[dominate person]], except that the spell is not rest
 Source : PHB P224
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

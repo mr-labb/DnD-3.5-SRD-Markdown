@@ -92,3 +92,8 @@ immune:
 <p>COMBAT</p>
 <p>
             <b>Strength Damage (Su):</b> The touch of a greater shadow deals 1d8 points of Strength damage to a living foe.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

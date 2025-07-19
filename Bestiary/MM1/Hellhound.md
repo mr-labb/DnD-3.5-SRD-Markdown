@@ -89,3 +89,8 @@ immune: to fire
 <p>
             <b>Skills:</b> Hell hounds have a +5 racial bonus on Hide and Move Silently checks.</p>
 <p>*They also receive a +8 racial bonus on Survival checks when tracking by scent, due to their keen sense of smell.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

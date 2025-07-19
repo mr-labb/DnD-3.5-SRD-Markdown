@@ -32,3 +32,8 @@ A creature with this special quality has the ability to assume one or more speci
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

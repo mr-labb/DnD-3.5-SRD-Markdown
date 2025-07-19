@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: en
 aliases: [Poison]
 title: Compendium\Basics\Abilities and Conditions\Poison
@@ -9,15 +9,15 @@ tag: Abilities, Conditions
 
 ##### POISON [[Special Abilities#Extraordinary Abilities (Ex)|(Ex)]]
 
-When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes poisoned food or drink, or is otherwise poisoned, he must make a Fortitude saving throw. If he fails, he takes the poisonâ€™s initial damage (usually ability damage). Even if he succeeds, he typically faces more damage 1 minute later, which he can also avoid with a successful Fortitude saving throw.
+When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes poisoned food or drink, or is otherwise poisoned, he must make a Fortitude saving throw. If he fails, he takes the poison’s initial damage (usually ability damage). Even if he succeeds, he typically faces more damage 1 minute later, which he can also avoid with a successful Fortitude saving throw.
 
 One dose of poison smeared on a weapon or some other object affects just a single target. A poisoned weapon or object retains its venom until the weapon scores a hit or the object is touched (unless the poison is wiped off before a target comes in contact with it). Any poison smeared on an object or exposed to the elements in any way remains potent until it is touched or used.
 
 Although supernatural and spell-like poisons are possible, poisonous effects are almost always extraordinary.
 
-Poison attacks deal initial damage, such as [[ability damage]] or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first saveâ€™s result) to avoid secondary damage. A creatureâ€™s descriptive text provides the details.
+Poison attacks deal initial damage, such as [[ability damage]] or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage. A creature’s descriptive text provides the details.
 
-The Fortitude save DC against a poison attack is equal to 10 + 1/2 poisoning creatureâ€™s racial HD + poisoning creatureâ€™s Con modifier (the exact DC is given in the creatureâ€™s descriptive text).
+The Fortitude save DC against a poison attack is equal to 10 + 1/2 poisoning creature’s racial HD + poisoning creature’s Con modifier (the exact DC is given in the creature’s descriptive text).
 
 A successful save avoids (negates) the damage.  
 
@@ -28,13 +28,13 @@ Poisons can be divided into four basic types according to the method by which th
 
 **Ingested**: Ingested poisons are virtually impossible to utilize in a combat situation. A poisoner could administer a potion to an unconscious creature or attempt to dupe someone into drinking or eating something poisoned. Assassins and other characters tend to use ingested poisons outside of combat.
 
-**Inhaled**: Inhaled poisons are usually contained in fragile vials or eggshells. They can be thrown as a ranged attack with a range increment of 10 feet. When it strikes a hard surface (or is struck hard), the container releases its poison. One dose spreads to fill the volume of a 10-foot cube. Each creature within the area must make a saving throw. (Holding oneâ€™s breath is ineffective against inhaled poisons; they affect the nasal membranes, tear ducts, and other parts of the body.)
+**Inhaled**: Inhaled poisons are usually contained in fragile vials or eggshells. They can be thrown as a ranged attack with a range increment of 10 feet. When it strikes a hard surface (or is struck hard), the container releases its poison. One dose spreads to fill the volume of a 10-foot cube. Each creature within the area must make a saving throw. (Holding one’s breath is ineffective against inhaled poisons; they affect the nasal membranes, tear ducts, and other parts of the body.)
 
 **Injury**: This poison must be delivered through a wound. If a creature has sufficient damage reduction to avoid taking any damage from the attack, the poison does not affect it. Traps that cause damage from weapons, needles, and the like sometimes contain injury poisons.
 
 The characteristics of poisons are summarized on Table: Poisons. Terms on the table are defined below.
 
-_Type_: The poisonâ€™s method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude save DC to avoid the poisonâ€™s damage.
+_Type_: The poison’s method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude save DC to avoid the poison’s damage.
 
 _Initial Damage_: The damage the character takes immediately upon failing his saving throw against this poison. Ability damage is temporary unless marked with an asterisk (*), in which case the loss is ability drain. Paralysis lasts for 2d6 minutes.
 
@@ -96,3 +96,8 @@ Creatures with natural poison attacks are immune to their own poison. Nonliving 
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

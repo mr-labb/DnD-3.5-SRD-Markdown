@@ -81,3 +81,8 @@ immune:
             <b>Trip (Ex):</b> A hyena that hits with its bite attack can attempt to trip the opponent (+2 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the hyena.</p>
 <p>
             <b>Skills:</b> *Hyenas have a +4 racial bonus on Hide checks in areas of tall grass or heavy undergrowth.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

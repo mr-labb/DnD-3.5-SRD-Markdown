@@ -35,3 +35,8 @@ This spell causes the targets to become [[confused]], making them unable to inde
 Source : PHB P212
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

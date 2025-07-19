@@ -52,3 +52,8 @@ as follows.
     points to become literate) can read and write any language she
     speaks. Each language has an alphabet, though sometimes several
     spoken languages share a single alphabet.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -90,3 +90,8 @@ immune: to sleep and paralysis
             <b>Telepathy (Su):</b> Pseudodragons can communicate telepathically with creatures that speak Common or Sylvan, provided they are within 60 feet.</p>
 <p>
             <b>Skills:</b> Pseudodragons have a chameleonlike ability that grants them a +4 racial bonus on Hide checks. *In forests or overgrown areas, this bonus improves to +8.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

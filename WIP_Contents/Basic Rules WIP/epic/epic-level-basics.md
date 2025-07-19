@@ -138,3 +138,8 @@ character does not gain the base attack bonuses and base save bonuses
 normally gained when adding a second class. Instead, an epic character
 uses the epic attack bonus and epic save bonus progression shown on
 Table: Epic Save and Epic Attack Bonus.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

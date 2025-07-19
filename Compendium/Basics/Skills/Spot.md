@@ -75,3 +75,8 @@ daylight or other lighted areas.
 
 The master of an owl familiar gains a +3 bonus on Spot checks in shadowy
 or other darkened areas.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -77,3 +77,8 @@ immune:
 <p>Combat</p>
 <p>
             <b>Stampede (Ex):</b> A frightened herd of bison flees as a group in a random direction (but always away from the perceived source of danger). They literally run over anything of Large size or smaller that gets in their way, dealing 1d12 points of damage for each five bison in the herd (Reflex DC 18 half ). The save DC is Strength-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -84,3 +84,8 @@ immune:
 <p>
             <b>Spit Acid (Ex):</b> 30-ft. line, once every 6 hours; damage 4d4 acid, Reflex DC 14 half. One such attack depletes the ankheg's acid supply for 6 hours. It cannot spit acid or deal acid damage during this time. The save DC is Constitution-based.</p>
 <p>An ankheg does not use this ability unless it is desperate or frustrated. It most often spits acid when reduced to fewer than half its full normal hit points or when it has not successfully grabbed an opponent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

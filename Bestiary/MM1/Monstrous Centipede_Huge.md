@@ -79,3 +79,8 @@ immune:
             <b>Poison (Ex):</b> A monstrous centipede has a poisonous bite. The Fortitude save DC is 14 and the poison causes 1d6 points of dexterity damage. The save DCs are Constitution-based. The indicated damage is both initial and secondary damage.</p>
 <p>
             <b>Skills:</b> Monstrous centipedes have a +4 racial bonus on Spot checks, and a +8 racial bonus on Climb and Hide checks. They can use either their Strength or Dexterity modifier for Climb checks, whichever is higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or distracted.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

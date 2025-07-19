@@ -90,3 +90,8 @@ immune:
 <p>Spider eater eggs are worth 2,000 gp apiece on the open market, while young are worth 3,000 gp each. Professional trainers charge 3,000 gp to rear or train a spider eater.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a spider eater is up to 306 pounds; a medium load, 307-612 pounds; and a heavy load, 613-920 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -89,3 +89,8 @@ immune:
             <i>Typical Sorcerer Spells Known</i> (6/7/7/4; save DC 12 + spell level): 0 - <i>acid splash, daze, detect magic, light, mage hand, open/close, read magic;</i> 1st -  <i>expeditious retreat, magic missile, obscuring mist, shield, true strike;</i> 2nd - <i>invisibility, acid arrow, mirror image;</i> 3rd - <i>protection from energy, suggestion.</i></p>
 <p>
             <b>Skills:</b> A water naga has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

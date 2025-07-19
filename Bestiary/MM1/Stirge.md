@@ -83,3 +83,8 @@ immune:
 <p>An attached stirge can be struck with a weapon or grappled itself. To remove an attached stirge through grappling, the opponent must achieve a pin against the stirge.</p>
 <p>
             <b>Blood Drain (Ex):</b> A stirge drains blood, dealing 1d4 points of Constitution damage in any round when it begins its turn attached to a victim. Once it has dealt 4 points of Constitution damage, it detaches and flies off to digest the meal. If its victim dies before the stirge's appetite has been sated, the stirge detaches and seeks a new target.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

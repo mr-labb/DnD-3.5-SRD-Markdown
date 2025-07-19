@@ -111,3 +111,8 @@ immune: to fire
             <b>Rake (Ex):</b> Attack bonus +19 melee, damage 1d6+4.</p>
 <p>
             <i>Possessions: Bracers of armor +2, ring of protection +1.</i> (Different golden protectors may have different possessions.)</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

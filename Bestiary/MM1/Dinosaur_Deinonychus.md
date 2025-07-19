@@ -85,3 +85,8 @@ immune:
             <b>Pounce (Ex):</b> If a deinonychus charges, it can make a full attack.</p>
 <p>
             <b>Skills:</b> A deinonychus has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

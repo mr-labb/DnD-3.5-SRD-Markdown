@@ -83,3 +83,8 @@ immune:
             <b>Rend (Ex):</b> A dire ape that hits with both claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d6+12 points of damage.</p>
 <p>
             <b>Skills:</b> Dire apes have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

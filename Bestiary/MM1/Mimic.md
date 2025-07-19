@@ -89,3 +89,8 @@ immune: to acid
             <b>Mimic Shape (Ex):</b> A mimic can assume the general shape of any object that fills roughly 150 cubic feet (5 feet by 5 feet by 6 feet), such as a massive chest, a stout bed, or a wide door frame. The creature cannot substantially alter its size, though. A mimic's body is hard and has a rough texture, no matter what appearance it might present. Anyone who examines the mimic can detect the ruse with a successful Spot check opposed by the mimic's Disguise check. Of course, by this time it is generally far too late.</p>
 <p>
             <b>Skills:</b> A mimic has a +8 racial bonus on Disguise checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

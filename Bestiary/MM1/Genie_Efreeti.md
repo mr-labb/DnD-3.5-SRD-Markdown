@@ -99,3 +99,8 @@ immune: to fire
             <b>Heat (Ex):</b> An efreeti's red-hot body deals 1d6 points of extra fire damage whenever it hits in melee, or in each round it maintains a hold when grappling.</p>
 <p>
             <b>Spell-Like Abilities:</b> At will - <i>detect magic, produce flame, pyrotechnics</i> (DC 14), <i>scorching ray</i> (1 ray only); 3/day - <i>invisibility, wall of fire</i> (DC 16); 1/day - grant up to three <i>wishes</i> (to nongenies only), <i>gaseous form, permanent image</i> (DC 18), <i>polymorph</i> (self only). Caster level 12th. The save DCs are Charisma-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

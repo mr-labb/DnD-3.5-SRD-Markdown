@@ -36,3 +36,8 @@ An undead creature struck by the ray gains 2d4x5 temporary hit points for 1 hour
 Source : PHB P226
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -91,3 +91,8 @@ immune: to fire
             <b>FIRE GIANT CHARACTERS</b>
           </p>
 <p>Most groups of fire giants include clerics. A fire giant cleric has access to two of the following domains: Evil, Law, Trickery, or War (most choose Trickery or War, some choose both).</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

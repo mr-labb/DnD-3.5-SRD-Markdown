@@ -266,3 +266,8 @@ The staff may be used as a weapon, functioning as a +2 quarterstaff. The staff o
 Moderate varied; CL 13th; Craft Staff, Craft Magic Arms and Armor, animate plants, barkskin, charm animal, pass without trace, speak with animals, summon nature’s ally VI, wall of thorns; Price 101,250 gp.
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

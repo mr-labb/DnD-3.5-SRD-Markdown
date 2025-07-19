@@ -105,3 +105,8 @@ immune:
 <p>Mountain dwarves live deeper under the mountains than hill dwarves but generally not as far underground as deep dwarves. They average about 4-1/2 feet tall and have lighter skin and hair than hill dwarves, but the same general appearance.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

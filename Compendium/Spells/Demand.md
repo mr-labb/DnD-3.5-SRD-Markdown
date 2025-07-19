@@ -35,3 +35,8 @@ Material Component: A short piece of copper wire and some small part of the subj
 Source : PHB P217
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

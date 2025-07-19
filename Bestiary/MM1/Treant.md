@@ -90,3 +90,8 @@ immune:
             <b>Double Damage against Objects (Ex):</b> A treant or animated tree that makes a full attack against an object or structure deals double damage.</p>
 <p>
             <b>Trample (Ex):</b> Reflex DC 22 half. The save DC is Strength-based. Skills: *Treants have a +16 racial bonus on Hide checks made in forested areas.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

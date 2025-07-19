@@ -91,3 +91,8 @@ immune: to electricity
 <p>Shocker lizards use their Dexterity modifier instead of their Strength modifier for Climb and Jump checks.</p>
 <p>A shocker lizard has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
 <p>A shocker lizard has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

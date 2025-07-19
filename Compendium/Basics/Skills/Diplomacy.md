@@ -57,3 +57,8 @@ Use the table below to determine the effectiveness of Diplomacy checks (or Chari
 _Fanatic:_ In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a -1 penalty to AC whenever fighting for you or your cause. This attitude will remain for one day plus one day per point of your Charisma modifier, at which point the NPC's attitude will revert to its original attitude (or indifferent, if no attitude is specified).
 
 Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can't be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC's attitude can't be further adjusted by the use of skills.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

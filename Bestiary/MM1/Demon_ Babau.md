@@ -100,3 +100,8 @@ immune: to electricity and poison
               <i>Summon Demon</i> (Sp):</b>Once per day a babau can attempt to summon 1 babau with a 40% chance of success. This ability is the equivalent of a 3rd-level spell.</p>
 <p>
             <b>Skills:</b> Babaus have a +8 racial bonus on Hide, Listen, Move Silently, and Search checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -79,3 +79,8 @@ immune:
             <b>Carrying Capacity:</b> A light load for a camel is up to 300 pounds; a medium load, 301-600 pounds; and a heavy load, 601-900 pounds. A camel can drag 4,500 pounds.</p>
 <p>Combat</p>
 <p>*A camel's bite is treated as a secondary attack and adds only half the camel's Strength bonus to the damage roll.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

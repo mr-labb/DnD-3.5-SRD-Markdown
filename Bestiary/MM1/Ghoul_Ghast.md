@@ -85,3 +85,8 @@ immune:
             <b>Paralysis (Ex):</b> Those hit by a ghast's bite or claw attack must succeed on a DC 15 Fortitude save or be paralyzed for 1d4+1 rounds. Even elves can be affected by this paralysis. The save DC is Charisma-based.</p>
 <p>
             <b>Stench (Ex):</b> The stink of death and corruption surrounding these creatures is overwhelming. Living creatures within 10 feet must succeed on a DC 15 Fortitude save or be sickened for 1d6+4 minutes. A creature that successfully saves cannot be affected again by the same ghast's stench for 24 hours. A <i>delay poison</i> or <i>neutralize poison</i> spell removes the effect from a sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws. The save DC is Charisma-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

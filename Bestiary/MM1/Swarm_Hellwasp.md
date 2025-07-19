@@ -96,3 +96,8 @@ immune:
             <b>Poison (Ex):</b> Injury, Fortitude DC 18, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.</p>
 <p>
             <b>Hive Mind (Ex):</b> Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for a standard hellwasp swarm) forms a hive mind, giving it an Intelligence of 6. When a hellwasp swarm is reduced below this hit point threshold, it becomes mindless.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

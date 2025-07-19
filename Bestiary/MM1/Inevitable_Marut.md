@@ -101,3 +101,8 @@ immune:
             <b>Spell-Like Abilities:</b> At will - <i>air walk, dimension door, fear</i> (DC 18)<i>, greater command</i> (DC 19)<i>, greater dispel magic, mass inflict light wounds</i> (DC 19),  <i>locate creature, true seeing;</i> 1/day - <i>chain lightning</i> (DC 20)<i>, circle of death</i> (DC 20)<i>, mark of justice, wall of force;</i> 1/week -  <i>earthquake</i> (DC 22)<i>, geas/quest, plane shift</i> (DC 21)<i>.</i> Caster level 14th. The save DCs are Charisma-based.</p>
 <p>
             <b>Skills:</b> A marut has a +4 racial bonus on Concentration, Listen, and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

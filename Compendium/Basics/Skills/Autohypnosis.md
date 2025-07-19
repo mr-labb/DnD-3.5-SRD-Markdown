@@ -55,3 +55,8 @@ Yes, for memorize and willpower uses, though a success doesn't cancel the effect
 If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on [[Knowledge]] (psionics)checks.
 
 If you have 5 or more ranks in [[Concentration]], you get a +2 bonus on Autohypnosis checks.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

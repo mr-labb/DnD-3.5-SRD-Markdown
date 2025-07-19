@@ -111,3 +111,8 @@ immune:
 <p>The aboleth mage uses a number of spells, such as <i>displacement</i>, <i>greater invisibility</i>, and <i>wall of force</i>, to protect itself while seizing control of its foes with spells and innate abilities.</p>
 <p>
             <i>Typical Wizard Spells Prepared</i> (4/6/5/4/4/3; save DC 15 + spell level): 0-<i>daze</i>, <i>detect magic</i> (2), <i>resistance</i>; 1st-<i>alarm</i>, <i>charm person</i>, <i>color spray</i>, <i>mage armor</i>, <i>magic missile</i> (2); 2nd-<i>blur</i>, <i>bull's strength</i>, <i>darkness</i>, <i>fox's cunning</i>, <i>see invisibilty</i>; 3rd-<i>dispel magic</i>, <i>displacement</i>, <i>fly</i>, <i>lightning bolt</i>; 4th-<i>greater invisibility</i>, <i>phantasmal killer</i>, <i>scrying</i>, <i>stoneskin</i>; 5th-<i>hold monster</i>, empowered <i>lightning bolt</i>, <i>wall of force</i>.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

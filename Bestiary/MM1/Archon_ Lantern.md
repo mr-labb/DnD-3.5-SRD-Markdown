@@ -93,3 +93,8 @@ immune: to electricity and petrification
             <b>Light Ray (Ex):</b> A lantern archon's light rays have a range of 30 feet. This attack overcomes damage reduction of any type.</p>
 <p>
             <b>Spell-Like Abilities:</b> At will - <i>aid, detect evil, continual flame.</i> Caster level 3rd.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

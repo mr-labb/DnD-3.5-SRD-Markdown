@@ -81,3 +81,8 @@ immune:
             <b>Breath Weapon (Su):</b> 60-foot cone, once every 1d4 rounds (but no more than five times per day), turn to stone permanently, Fortitude DC 19 negates. The save DC is Constitution-based.</p>
 <p>
             <b>Trample (Ex):</b> Reflex DC 19 half. The save DC is Strength-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

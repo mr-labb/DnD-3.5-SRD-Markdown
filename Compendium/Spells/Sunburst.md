@@ -33,3 +33,8 @@ Blinds all within 10 ft., deals 6d6 damage.
 Source : PHB P289
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

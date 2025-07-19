@@ -958,3 +958,8 @@ Many spells are either arcane or divine, depending on the class of the caster. S
 1 *Assumes powerful request but no expensive material components in excess of 100 gp and no additional XP cost.*
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

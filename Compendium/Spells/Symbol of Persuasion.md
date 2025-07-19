@@ -39,3 +39,8 @@ Unlike <i>symbol of death</i>, <i>symbol of persuasion</i> has no hit point limi
 Source : PHB P290
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

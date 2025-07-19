@@ -32,3 +32,8 @@ Creates decoy duplicates of you (1d4 +1 per three levels, max 8).
 Source : PHB P254
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

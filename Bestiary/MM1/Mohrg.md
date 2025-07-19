@@ -84,3 +84,8 @@ immune:
             <b>Improved Grab (Ex):</b> To use this ability, a mohrg must hit a creature of its size or smaller with its slam attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.</p>
 <p>
             <b>Paralyzing Touch (Su):</b> A mohrg lashes out with its tongue in combat. An opponent the tongue touches must succeed on a DC 17 Fortitude save or become paralyzed for 1d4 minutes. The save DC is Charisma-based. <b>Create Spawn (Su):</b> Creatures killed by a mohrg rise after 1d4 days as zombies under the morhg's control. They do not possess any of the abilities they had in life.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

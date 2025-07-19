@@ -81,3 +81,8 @@ immune:
 <p>Lizards prefer flight to combat, but they can bite painfully if there is no other option.</p>
 <p>
             <b>Skills:</b> Lizards have a +8 racial bonus on Balance checks. They also have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened. Lizards use their Dexterity modifier instead of their Strength modifier for Climb checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

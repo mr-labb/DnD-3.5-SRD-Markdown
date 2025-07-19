@@ -87,3 +87,8 @@ immune: to electricity
 <p>
 						<b>Spell Resistance : 27</b>
 					</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

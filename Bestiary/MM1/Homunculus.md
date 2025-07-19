@@ -86,3 +86,8 @@ immune:
 <p>After the body is sculpted, it is animated through an extended magical ritual that requires a specially prepared laboratory or workroom, similar to an alchemist's laboratory and costing 500 gp to establish. If the creator is personally constructing the creature's body, the building and ritual can be performed together.</p>
 <p>A homunculus with more than 2 Hit Dice can be created, but each additional Hit Die adds +2,000 gp to the cost to create.</p>
 <p>Craft Construct, <i>arcane eye, mirror image, mending,</i> caster must be at least 4th level; Price  -  (never sold); Cost 1,050 gp + 78 XP.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

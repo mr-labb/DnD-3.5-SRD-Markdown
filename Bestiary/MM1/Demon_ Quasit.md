@@ -97,3 +97,8 @@ immune: to poison
 <p>Once per week a quasit can use <i>commune</i> to ask six questions. The ability otherwise works as the spell (caster level 12th).</p>
 <p>
             <b>Alternate Form (Su):</b> A quasit can assume other forms at will as a standard action. This ability functions as a <i>polymorph</i> spell cast on itself (caster level 12th), except that a quasit does not regain hit points for changing form, and any individual quasit can assume only one or two forms no larger than Medium. Common forms include bat, monstrous centipede, toad, and wolf. A quasit in alternate form loses its poison attack.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

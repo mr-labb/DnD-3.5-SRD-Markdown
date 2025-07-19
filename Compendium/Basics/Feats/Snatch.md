@@ -20,3 +20,8 @@ a standard action to fling it aside. A flung creature travels 1d6 x 10
 feet, and takes 1d6 points of damage per 10 feet traveled. If the
 creature flings a snatched opponent while flying, the opponent takes
 this amount or falling damage, whichever is greater.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

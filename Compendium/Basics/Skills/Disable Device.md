@@ -57,3 +57,8 @@ It's possible to ruin many traps without making a Disable Device check.
 **Pits**: Disabling a pit trap generally ruins only the trapdoor, making it an uncovered pit. Filling in the pit or building a makeshift bridge across it is an application of manual labor, not the Disable Device skill. Characters could neutralize any spikes at the bottom of a pit by attacking them - they break just as daggers do.
 
 **Magic Traps**: Dispel magic helps here. Someone who succeeds on a caster level check against the level of the trap's creator suppresses the trap for 1d4 rounds. This works only with a targeted dispel magic, not the area version (see the spell description).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

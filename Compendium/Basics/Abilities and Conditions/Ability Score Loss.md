@@ -46,3 +46,8 @@ If a character’s Constitution score drops, then he loses 1 hit point per Hit D
 The ability that some creatures have to drain ability scores is a supernatural one, requiring some sort of attack. Such creatures do not drain abilities from enemies when the enemies strike them, even with unarmed attacks or natural weapons.
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

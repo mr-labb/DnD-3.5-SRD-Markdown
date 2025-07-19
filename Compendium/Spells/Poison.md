@@ -32,3 +32,8 @@ Touch deals 1d10 Con damage, repeats in 1 min.
 Source : PHB P262
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

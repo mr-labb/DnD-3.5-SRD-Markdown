@@ -82,3 +82,8 @@ immune:
             <b>Attach (Ex):</b> If a weasel hits with a bite attack, it uses its powerful jaws to latch onto the opponent's body and automatically deals bite damage each round it remains attached. An attached weasel loses its Dexterity bonus to Armor Class and has an AC of 12. An attached weasel can be struck with a weapon or grappled itself. To remove an attached weasel through grappling, the opponent must achieve a pin against the creature.</p>
 <p>
             <b>Skills:</b> Weasels have a +4 racial bonus on Move Silently checks and a +8 racial bonus on Balance and Climb checks. They use their Dexterity modifier for Climb checks. A weasel can always choose to take 10 on a Climb check, even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -81,3 +81,8 @@ immune: to fire
             <b>Heat (Ex):</b> Merely touching or being touched by a thoqqua automatically deals 2d6 fire damage.</p>
 <p>
             <b>Burn (Ex):</b> When a thoqqua hits with its slam attack, the opponent must succeed on a DC 12 Reflex save or catch fire. The save DC is Constitution-based. The flame burns for 1d4 rounds if not extinguished sooner. A burning creature can use a full-round action to put out the flame.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

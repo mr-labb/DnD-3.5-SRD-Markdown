@@ -85,3 +85,8 @@ immune:
             <b>Ethereal Jaunt (Su):</b> An ethereal filcher can shift from the Ethereal Plane to the Material Plane as part of any move action, and shift back again as a free action. It can remain on the Ethereal Plane for 1 round before returning to the Material Plane. The ability is otherwise identical with the <i>ethereal jaunt</i> spell (caster level 15th).</p>
 <p>
             <b>Skills:</b> Ethereal filchers have a +8 racial bonus on Sleight of Hand checks, and a +4 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

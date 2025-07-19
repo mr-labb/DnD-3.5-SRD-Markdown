@@ -97,3 +97,8 @@ immune: to poison
             <b>Detect Thoughts (Su):</b> A dark naga can continuously use detect thoughts as the spell (caster level 9th; Will DC 15 negates). This ability is always active. The save DC is Charisma-based.</p>
 <p>
             <b>Guarded Thoughts (Ex):</b> Dark nagas are immune to any form of mind reading.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

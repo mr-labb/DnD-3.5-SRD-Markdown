@@ -89,3 +89,8 @@ immune:
 <p>The tiefling warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.</p>
 <p>Tieflings as Characters</p>
 <p>Tiefling characters possess the following racial traits.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

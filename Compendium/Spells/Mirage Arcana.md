@@ -32,3 +32,8 @@ This spell functions like [[hallucinatory terrain]], except that it enables you 
 Source : PHB P254
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

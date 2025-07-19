@@ -111,3 +111,8 @@ immune:
               <i>Change Size</i> (Sp):</b> Once per hour, an earth mephit can magically change its size. This works just like an <i>enlarge person</i> spell, except that the power works only on the earth mephit. This is the equivalent of a 2nd-level spell.</p>
 <p>
             <b>Fast Healing (Ex):</b> An earth mephit heals only if it is underground or buried up to its waist in earth.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

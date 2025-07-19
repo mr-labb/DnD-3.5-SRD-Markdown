@@ -81,3 +81,8 @@ immune:
 <p>A dire bear attacks by tearing at opponents with its claws.</p>
 <p>
             <b>Improved Grab (Ex):</b> To use this ability, a dire bear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

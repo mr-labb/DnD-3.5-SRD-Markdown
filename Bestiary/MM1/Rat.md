@@ -81,3 +81,8 @@ immune:
 <p>Rats usually run away. They bite only as a last resort.</p>
 <p>
             <b>Skills:</b> Rats have a +4 racial bonus on Hide and Move Silently checks, and a +8 racial bonus on Balance, Climb, and Swim checks. A rat can always choose to take 10 on Climb checks, even if rushed or threatened. A rat uses its Dexterity modifier instead of its Strength modifier for Climb and Swim checks. A rat has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

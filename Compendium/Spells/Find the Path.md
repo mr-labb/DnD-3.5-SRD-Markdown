@@ -35,3 +35,8 @@ Shows most direct way to a location.
 Source : PHB P230
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

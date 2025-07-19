@@ -2492,3 +2492,8 @@ single attack with each extra weapon.
 ### Special
 This feat replaces the Improved Two-Weapon Fighting feat
 for creatures with more than two arms.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

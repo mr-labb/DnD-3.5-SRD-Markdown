@@ -84,3 +84,8 @@ immune:
 <p>A captivated victim walks toward the harpy, taking the most direct route available. If the path leads into a dangerous area (through flame, off a cliff, or the like), that creature gets a second saving throw. Captivated creatures can take no actions other than to defend themselves. (Thus, a fighter cannot run away or attack but takes no defensive penalties.) A victim within 5 feet of the harpy stands there and offers no resistance to the monster's attacks. The effect continues for as long as the harpy sings and for 1 round thereafter. A bard's countersong ability allows the captivated creature to attempt a new Will save.</p>
 <p>
             <b>Skills:</b> Harpies have a +4 racial bonus on Bluff and Listen checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

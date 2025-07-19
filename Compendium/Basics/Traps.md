@@ -599,3 +599,8 @@ Once you know the Challenge Rating of a trap determine the [[Craft]] (trapmaking
 **Making the Checks**: To determine how much progress a character makes on building a trap each week, that character makes a Craft (trapmaking) check. See the Craft skill description for details on Craft checks and the circumstances that can affect them.
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

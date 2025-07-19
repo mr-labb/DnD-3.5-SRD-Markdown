@@ -87,3 +87,8 @@ immune:
 <p>Mummy rot is a powerful curse, not a natural disease. A character attempting to cast any conjuration (healing) spell on a creature afflicted with mummy rot must succeed on a DC 20 caster level check, or the spell has no effect on the afflicted character.</p>
 <p>To eliminate mummy rot, the curse must first be broken with <i>break enchantment</i> or <i>remove curse</i> (requiring a DC 20 caster level check for either spell), after which a caster level check is no longer necessary to cast healing spells on the victim, and the mummy rot can be magically cured as any normal disease.</p>
 <p>An afflicted creature who dies of mummy rot shrivels away into sand and dust that blow away into nothing at the first wind.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

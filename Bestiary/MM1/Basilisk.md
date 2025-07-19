@@ -81,3 +81,8 @@ immune:
             <b>Petrifying Gaze (Su):</b> Turn to stone permanently, range 30 feet; Fortitude DC 13 negates. The save DC is Charisma-based.</p>
 <p>
             <b>Skills:</b> *The basilisk's dull coloration and its ability to remain motionless for long periods of time grant it a +4 racial bonus on Hide checks in natural settings.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

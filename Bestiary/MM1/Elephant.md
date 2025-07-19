@@ -79,3 +79,8 @@ immune:
 <p>Elephants tend to charge at threatening creatures.</p>
 <p>
             <b>Trample (Ex):</b> Reflex half DC 25. The save DC is Strength-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

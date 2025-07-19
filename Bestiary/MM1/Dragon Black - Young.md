@@ -86,3 +86,8 @@ immune: to acid
 <p></p>
 <p>
 						<b>Source : </b>MM1 P 71</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

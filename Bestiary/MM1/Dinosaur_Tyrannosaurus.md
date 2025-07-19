@@ -85,3 +85,8 @@ immune:
 <p>A Huge tyrannosaurus's gizzard can hold 2 Medium, 8 Small, 32 Tiny, or 128 Diminutive or smaller opponents.</p>
 <p>
             <b>Skills:</b> A tyrannosaurus has a +2 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -74,3 +74,8 @@ A character with the Self-Sufficient feat gets a +2 bonus
 on Heal checks.
 
 A healer's kit gives you a +2 circumstance bonus on Heal checks.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

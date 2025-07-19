@@ -31,3 +31,8 @@ Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures ins
 Source : PHB P299
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

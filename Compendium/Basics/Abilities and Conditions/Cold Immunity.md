@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 aliases: [Cold Immunity]
 title: Compendium\Basics\Abilities and Conditions\Cold Immunity
@@ -13,3 +13,8 @@ A creature with cold immunity never takes cold damage. It has vulnerability to f
 
 <br><br>
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

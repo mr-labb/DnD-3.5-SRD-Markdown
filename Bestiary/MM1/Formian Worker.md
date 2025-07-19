@@ -96,3 +96,8 @@ immune: to poison
 <p>
             <b>
               <i>Make Whole</i> (Sp):</b> Three workers together can repair an object as though using the <i>make whole</i> spell (caster level 7th). This is a fullround action for all three workers.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

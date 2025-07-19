@@ -87,3 +87,8 @@ immune: to acid
 <p>Arrowhawks are extremely territorial and always hungry. They attack almost any other creature they meet, seeking a meal or trying to drive away a rival. The primary mode of attack is an electricity ray, fired from the tail. The creature also bites, but it prefers to stay out of reach.</p>
 <p>
             <b>Electricity Ray (Su):</b> An arrowhawk can fire this ray once per round, with a range of 50 feet.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

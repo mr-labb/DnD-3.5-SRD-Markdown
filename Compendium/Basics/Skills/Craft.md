@@ -179,3 +179,8 @@ You can use Craft (blacksmithing) or Craft (weaponsmithing) instead of Craft (si
 
 ### Synergy : 
 If you have 5 ranks in a Craft skill, you get a +2 bonus on [[Appraise]] checks related to items made with that Craft skill.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

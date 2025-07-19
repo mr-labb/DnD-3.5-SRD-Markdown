@@ -32,3 +32,8 @@ This spell functions like [[heroism]], except the creature gains a +4 morale bon
 Source : PHB P240
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

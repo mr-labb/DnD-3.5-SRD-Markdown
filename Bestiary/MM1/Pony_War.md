@@ -78,3 +78,8 @@ immune:
 <p>A warpony can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a warpony is up to 100 pounds; a medium load, 101-200 pounds; and a heavy load, 201-300 pounds. A warpony can drag 1,500 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

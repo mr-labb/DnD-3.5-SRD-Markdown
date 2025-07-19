@@ -33,3 +33,8 @@ This spell functions like [[Eagles Splendor|eagle's splendor]], except that it a
 Source : PHB P225
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

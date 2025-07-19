@@ -138,3 +138,8 @@ Fortitude saving throw (DC 29).
   -------- --------------------------------------------------------------------------------------------------------------------------
 
 After the burst, the extradimensional origin point is sealed.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

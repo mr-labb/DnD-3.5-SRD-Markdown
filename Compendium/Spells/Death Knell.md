@@ -32,3 +32,8 @@ Kill dying creature and gain 1d8 temporary hp, +2 to Str, and +1 caster level.
 Source : PHB P217
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

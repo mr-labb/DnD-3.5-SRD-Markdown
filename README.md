@@ -19,10 +19,10 @@ What it will include:
 
 ##  To do
 
-- [ ] Categorize and format everything in the WIP_Contents directory;
-- [ ] Create index for monster (waiting for Obsidian V1.9 and base file)
-- [ ] In the bestiary, True Dragon need to be done
+- [ ] Categorize and format everything in the SRD_Contents ZIP;
+- [ ] In the bestiary, True Dragon need to be done as individual file
 - [ ] Dice Roller support not tested
 - [ ] Initiative Tracker Support not tested
 - [ ] Review each spell to include internal link (table need to be redone in markdown format)
 - [ ] Review spell for those saying function like ...  and put the right text instead
+

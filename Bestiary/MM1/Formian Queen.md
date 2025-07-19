@@ -105,3 +105,8 @@ immune: to poison
             <b>Spell-Like Abilities:</b> At will - <i>calm emotions</i> (DC 17), <i>charm monster</i> (DC 19), <i>clairaudience/clairvoyance, detect chaos, detect thoughts, dictum</i> (DC 22), <i>divination, hold monster</i> (DC 20), <i>magic circle against chaos, order's wrath</i> (DC 19), <i>shield of law</i> (DC 23), <i>true seeing.</i> Caster level 17th. The save DCs are Charisma-based.</p>
 <p>
             <b>Telepathy (Su):</b> The queen can communicate telepathically with any intelligent creature within 50 miles whose presence she is aware of.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

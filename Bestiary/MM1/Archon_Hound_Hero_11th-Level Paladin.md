@@ -121,3 +121,8 @@ immune: to electricity and petrification
             <i>Possessions</i>: <i>+3 full plate armor</i>, <i>+2 cold iron greatsword</i>.</p>
 <p>HOUND ARCHON HERO MOUNTS</p>
 <p>In the course of their adventures, many hound archon heroes befriend bronze dragons, which may come to serve as their mounts. The relationship between these mounts and their celestial riders goes beyond even the special bond between paladin and mount. The dragon and the archon are naturally allies and friends, as can be expected of two powerful servants of cosmic justice. The juvenile bronze dragon mount gains 2 additional HD, 4 points of Strength, an additional 4 points of natural armor, improved evasion, and +10 feet to speed in all its movement forms. The dragon cannot, however, command other creatures of its type as other kinds of paladin mounts can.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

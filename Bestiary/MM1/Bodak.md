@@ -81,3 +81,8 @@ immune: to electricity
             <b>Death Gaze (Su):</b> Death, range 30 feet, Fortitude DC 15 negates. Humanoids who die from this attack are transformed into bodaks 24 hours later. The save DC is Charisma-based.</p>
 <p>
             <b>Vulnerability to Sunlight (Ex):</b> Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to the direct rays of the sun deals 1 point of damage to the creature.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

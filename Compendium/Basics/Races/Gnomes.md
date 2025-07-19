@@ -126,3 +126,8 @@ Forest Gnome Traits (Ex): These traits are in addition to the rock gnome traits,
 - Automatic Languages: Gnome, Elven, Sylvan, and a simple language that enables them to communicate on a very basic level with forest animals (this replaces the rock gnome's speak with animals ability). Bonus Languages: Common, Draconic, Dwarven, Giant, Goblin, Orc. This trait replaces the rock gnome's automatic and bonus languages.
     
 - +4 racial bonus on [[Hide]] checks, which improves to +8 in a wooded area.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

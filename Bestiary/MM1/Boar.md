@@ -77,3 +77,8 @@ immune:
 <p>Combat</p>
 <p>
             <b>Ferocity (Ex):</b> A boar is such a tenacious combatant that it continues to fight without penalty even while disabled or dying.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

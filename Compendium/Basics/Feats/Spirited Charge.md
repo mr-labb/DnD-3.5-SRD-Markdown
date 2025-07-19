@@ -13,3 +13,8 @@ damage with a melee weapon (or triple damage with a lance).
 
 **Special:** A fighter may select Spirited Charge as one of his fighter
 bonus feats.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

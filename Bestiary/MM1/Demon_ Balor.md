@@ -142,3 +142,8 @@ immune: to electricity
             <i>Round 3: Insanity</i> or <i>telekinesis</i> to incapacitate or repel a dangerous opponent.</p>
 <p>
             <i>Round 4: Teleport</i> or fly away to reestablish range; repeat round 1 and continue.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

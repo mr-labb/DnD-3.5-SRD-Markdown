@@ -34,3 +34,8 @@ One creature of 5 HD or less flees for 1d4 rounds.
 Source : PHB P208
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -20,4 +20,9 @@ All mephits have one or more spell-like abilities (save DC 12 + spell level). Se
 Once per day, a mephit can attempt to summon another mephit of the same variety, much as though casting a *summon monster* spell, but with only a 25% chance of success. Roll d%: On a failure, no creature answers the summons that day. A mephit that has just been summoned cannot use its own summon ability for 1 hour. This ability is the equivalent of a 2nd-level spell. 
 
 #### Fast Healing (Ex)
-Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details. 
+Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

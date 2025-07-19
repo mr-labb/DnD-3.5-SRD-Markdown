@@ -88,3 +88,8 @@ immune:
             <b>Flight (Su):</b> A yeth hound can cease or resume flight as a free action.</p>
 <p>
             <b>Skills:</b> *A yeth hound has a +4 racial bonus on Survival checks when tracking by scent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

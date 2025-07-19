@@ -90,3 +90,8 @@ immune:
 <p>Riding a giant eagle requires an exotic saddle. A giant eagle can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.</p>
 <p>Giant eagle eggs are worth 2,500 gp apiece on the open market, while chicks are worth 4,000 gp each. Professional trainers charge 1,000 gp to rear or train a giant eagle.</p>
 <p>Carrying Capacity: A light load for a giant eagle is up to 300 pounds; a medium load, 301-600 pounds; and a heavy load, 601-900 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

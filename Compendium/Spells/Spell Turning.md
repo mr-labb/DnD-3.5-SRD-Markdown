@@ -33,3 +33,8 @@ Reflect 1d4+6 spell levels back at caster.
 Source : PHB P282
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

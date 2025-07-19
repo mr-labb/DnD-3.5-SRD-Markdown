@@ -80,3 +80,8 @@ immune:
 <p>Monkeys generally flee into the safety of the trees, but if cornered can fight ferociously.</p>
 <p>
             <b>Skills:</b> Monkeys have a +8 racial bonus on Balance and Climb checks. They can always choose to take 10 on Climb checks, even if rushed or threatened. They use their Dexterity modifier instead of their Strength modifier for Climb checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

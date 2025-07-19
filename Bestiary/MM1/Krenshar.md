@@ -83,3 +83,8 @@ immune:
 <p>Combining this scare ability with a loud screech produces an unsettling effect that works like a <i>scare</i> spell from a 3rd-level caster (Will DC 13 partial). A creature that successfully saves cannot be affected again by the same krenshar's scare ability for 24 hours. The shriek does not affect other krenshars. This is a supernatural, sonic mind-affecting fear effect. The save DC is Charisma-based.</p>
 <p>
             <b>Skills:</b> Krenshars have a +4 racial bonus on Jump and Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

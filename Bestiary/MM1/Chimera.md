@@ -86,3 +86,8 @@ immune:
 <p>*In areas of scrubland or brush, a chimera gains a +4 racial bonus on Hide checks.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a chimera is up to 348 pounds; a medium load, 349-699 pounds, and a heavy load, 700-1,050 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -99,3 +99,8 @@ immune:
             <b>Plane Shift (Su):</b> This ability affects only the bebilith. It is otherwise similar to the <i>plane shift</i> spell (caster level 12th).</p>
 <p>
             <b>Skills:</b> A bebilith has mottled coloration that gives it a +8 racial bonus on Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

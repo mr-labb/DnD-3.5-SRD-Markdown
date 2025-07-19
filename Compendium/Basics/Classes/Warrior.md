@@ -9,13 +9,7 @@ tag: Class, Warrior
 
 ### WARRIOR
 
-|   |
-|---|
-||
 
-The warrior is a strong, stout combatant without the specialized training and finesse of a fighter, the survival and outdoor skills of the barbarian or ranger, or the sophistication and religious focus of a paladin. The warrior is a straightforward and unsubtle opponent in a fight, but a respectable one.
-
-Warriors are not as good as fighters, and thus PCs should be encouraged to avoid this class in favor of the standard combat-oriented ones given in the Player's Handbook. Representing experience in fighting and related areas but not sophisticated training, warriors are common among the humanoids and giants (orcs, ogres, and so forth). You can also use the warrior class for soldiers (although perhaps not for commanders or career soldiers), guards, local thugs, toughs, bullies, and even regular people who have learned to defend their homes with some ability.
 
 **Hit Die**: d8.
 
@@ -57,3 +51,8 @@ The warrior's class skills (and the key ability for each skill) are [[Climb]] (S
 The following is a class feature of the warrior NPC class.
 
 **Weapon and Armor Proficiency**: The warrior is proficient in the use of all simple and martial weapons and all armor and shields.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

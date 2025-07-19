@@ -103,3 +103,8 @@ immune: to electricity and petrification
             <b>True Seeing (Su):</b> This ability is identical with <i>true seeing</i> (caster level 14th), except that it has personal range and the avoral must concentrate for 1 full round before it takes effect. Thereafter the ability remains in effect as long as the avoral concentrates on it.</p>
 <p>
             <b>Skills:</b> An avoral's sharp eyes give it a +8 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

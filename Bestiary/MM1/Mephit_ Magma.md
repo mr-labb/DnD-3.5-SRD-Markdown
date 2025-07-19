@@ -103,3 +103,8 @@ immune: to fire
 <p>Once per day a magma mephit can use <i>pyrotechnics</i> (DC 14). It can use itself as the fire source without harm. Caster level 6th. The save DC is Charisma-based.</p>
 <p>
             <b>Fast Healing (Ex):</b> A magma mephit heals only if it is touching magma, lava, or a flame at least as large as a torch.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

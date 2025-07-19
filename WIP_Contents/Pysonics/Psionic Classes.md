@@ -1405,3 +1405,8 @@ A war mind cannot use this ability if he has moved more than 10 feet since the e
 At 10th level, a war mind learns the fourth principle of warfare for the individual combatant: to discover the underlying violence of the world and deliver it in a perfectly executed attack.
 
 The war mind taps into this underlying energy and apply it to a single attack, dealing an extra 10d6 points of damage. A war mind can use this power once per day. Activating this power is a free action. If the attack misses, the power is wasted.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

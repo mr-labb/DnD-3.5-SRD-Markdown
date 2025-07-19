@@ -31,3 +31,8 @@ Touch attack deals 1d8 +1/two levels damage.
 Source : PHB P231
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

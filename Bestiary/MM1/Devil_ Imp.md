@@ -95,3 +95,8 @@ immune: to poison
 <p>Once per week an imp can use <i>commune</i> to ask six questions. The ability otherwise works as the spell (caster level 12th).</p>
 <p>
             <b>Alternate Form (Su):</b> An imp can assume other forms at will as a standard action. This ability functions as a <i>polymorph</i> spell cast on itself (caster level 12th), except that an imp does not regain hit points for changing form, and an individual imp can assume only one or two forms no larger than Medium. Common forms include monstrous spider, raven, rat, and boar.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -92,3 +92,8 @@ immune:
             <b>Distraction (Ex):</b> Any living creature that begins its turn with a swarm in its square must succeed on a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> A rat swarm has a +4 racial bonus on Hide and Move Silently checks, and a +8 racial bonus on Balance, Climb, and Swim checks. A rat swarm can always choose to take 10 on all Climb checks, even if rushed or threatened. A rat swarm uses its Dexterity modifier instead of its Strength modifier for Climb and Swim checks. A rat swarm has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

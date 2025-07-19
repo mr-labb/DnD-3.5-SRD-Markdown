@@ -82,3 +82,8 @@ immune:
             <b>Ethereal Jaunt (Su):</b> An ethereal marauder can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action. The ability is otherwise identical with the <i>ethereal jaunt</i> spell (caster level 15th).</p>
 <p>
             <b>Skills:</b> Ethereal marauders have a +2 racial bonus on Listen, Move Silently, and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

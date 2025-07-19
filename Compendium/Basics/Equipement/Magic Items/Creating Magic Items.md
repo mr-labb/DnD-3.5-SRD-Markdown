@@ -379,3 +379,8 @@ Some body slots have different affinities for different specific items.
 |Boots|Movement|
 
 Wondrous items that don’t match the affinity for a particular body slot should cost 50% more than wondrous items that match the affinity.|
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

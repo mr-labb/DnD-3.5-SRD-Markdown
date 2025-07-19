@@ -101,3 +101,8 @@ immune: to electricity and poison
               <i>Summon Demon</i> (Sp):</b> Once per day a hezrou can attempt to summon 4d10 dretches or another hezrou with a 35% chance of success. This ability is the equivalent of a 4th-level spell.</p>
 <p>
             <b>Skills:</b> Hezrous have a +8 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

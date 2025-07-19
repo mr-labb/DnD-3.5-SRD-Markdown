@@ -92,3 +92,8 @@ immune: to cold
             <b>FROST GIANT CHARACTERS</b>
           </p>
 <p>Many groups of frost giants include clerics. A frost giant cleric has access to two of the following domains: Chaos, Destruction, Evil, or War (most choose Destruction or War, some choose both).</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

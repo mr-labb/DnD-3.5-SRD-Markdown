@@ -83,3 +83,8 @@ immune:
             <b>Keen Scent (Ex):</b> A shark can notice creatures by scent in a 180-foot radius and detect blood in the water at ranges of up to a mile.</p>
 <p>
             <b>Skills:</b> A shark has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

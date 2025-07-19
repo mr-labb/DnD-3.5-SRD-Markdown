@@ -39,3 +39,8 @@ The circle itself is subtle and nearly impossible to notice. If you intend to ke
 Source : PHB P
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

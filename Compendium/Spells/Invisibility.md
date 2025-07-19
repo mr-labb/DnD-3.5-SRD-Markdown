@@ -33,3 +33,8 @@ Subject is invisible for 1 min./level or until it attacks.
 Source : PHB P245
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

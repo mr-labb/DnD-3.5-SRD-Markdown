@@ -94,3 +94,8 @@ immune:
 <p>CL 15th; Craft Construct, <i>limited wish, discern location, shield, shield other,</i> caster must be at least 15th level; Price 120,000 gp; Cost 65,000 gp + 4,600 XP.</p>
 <p>AMULET</p>
 <p>If a shield guardian's amulet is destroyed, the guardian ceases to function until a new one is created. If the wearer dies but the amulet is intact, the shield guardian carries out the last command it was given.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -85,4 +85,9 @@ Same as the base creature + 2 (minimum 3).
 Same as the dragon variety. 
 
 #### Level Adjustment
-Same as base creature +3. 
+Same as base creature +3.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

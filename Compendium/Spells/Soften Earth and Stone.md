@@ -32,3 +32,8 @@ Turns stone to clay or dirt to sand or mud.
 Source : PHB P280
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -31,3 +31,8 @@ Fills area with positive energy, making undead weaker.
 Source : PHB P212
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

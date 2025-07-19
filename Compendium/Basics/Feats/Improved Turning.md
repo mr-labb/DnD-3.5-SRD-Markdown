@@ -13,3 +13,8 @@ higher than you are in the class that grants you the ability.
 
 
 Source :
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

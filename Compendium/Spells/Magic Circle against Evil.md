@@ -34,3 +34,8 @@ As Protection From Evil, but 10-ft. radius and 10 min./level.
 Source : PHB P249
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -89,3 +89,8 @@ immune:
             <b>LACEDON</b>
           </p>
 <p>These cousins of the ghoul have the aquatic subtype. They lurk near hidden reefs or other places where ships are likely to meet their end. They have a base land speed of 30 feet and a swim speed of 30 feet and are found only in aquatic environments.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

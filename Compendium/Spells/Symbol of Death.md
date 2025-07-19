@@ -32,3 +32,8 @@ Triggered rune slays nearby creatures.
 Source : PHB P298
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

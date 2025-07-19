@@ -2765,3 +2765,8 @@ inexorably toward the corpse touched. Over the course of the next week,
 they consume the flesh of the corpse, and when the last bit of the
 corpse is devoured, the creature is returned to a semblance of life as a
 worm that walks.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

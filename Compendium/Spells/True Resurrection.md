@@ -31,3 +31,8 @@ As Resurrection, plus remains aren?t needed.
 Source : PHB P296
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

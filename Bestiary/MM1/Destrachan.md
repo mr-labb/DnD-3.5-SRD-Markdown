@@ -97,3 +97,8 @@ immune:
             <b>Protection from Sonics (Ex):</b> While they can be affected by loud noises and sonic spells (such as <i>ghost sound</i> or <i>silence</i>), destrachans are less vulnerable to sonic attacks (+4 circumstance bonus on all saves) because they can protect their ears. A destrachan whose sense of hearing is impaired is effectively blinded, and all targets are treated as having total concealment.</p>
 <p>
             <b>Skills:</b> A destrachan has a +10 racial bonus on Listen checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

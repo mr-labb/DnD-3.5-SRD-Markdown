@@ -101,3 +101,8 @@ immune:
             <i>Typical Cleric Spells Prepared</i> (6/7/6/5/5/4; save DC 15 + spell level): 0-<i>detect magic (2), guidance, read  magic, resistance, virtue</i>; 1st-<i>bane, command, deathwatch,  divine favor, doom, sanctuary*, shield of faith</i>; 2nd-<i>bull's  strength, death knell*, hold person, resist energy, silence, spiritual  weapon</i>; 3rd-<i>animate dead*, deeper darkness, dispel magic, invisibility  purge, searing light</i>; 4th-<i>air walk, dismissal, divine power,  giant vermin, spell immunity*</i>; 5th-<i>insect plague, slay living*,  spell resistance, symbol of pain.</i></p>
 <p>*Domain Spell. Domains: Death and Protection.</p>
 <p>Possessions: +2 half-plate armor, cloak of resistance +2, ring of minor energy resistance (fire), brooch of shielding. (Different mummy lords may have different possessions.)</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

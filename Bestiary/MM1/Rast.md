@@ -87,3 +87,8 @@ immune: to fire
             <b>Blood Drain (Ex):</b> A rast drains blood from a grabbed opponent, dealing 1 point of Constitution damage each round it maintains the hold.</p>
 <p>
             <b>Flight (Su):</b> A rast can cease or resume flight as a free action. A rast that loses this ability falls and can perform only a single action (either a move action or an attack action) each round.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

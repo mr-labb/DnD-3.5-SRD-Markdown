@@ -34,3 +34,8 @@ accomplish some specific task can usually be retried.
 Untrained laborers and assistants (that is, characters
 without any ranks in Profession) earn an average of 1 silver piece per
 day.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

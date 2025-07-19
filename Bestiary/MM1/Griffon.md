@@ -88,3 +88,8 @@ immune:
 <p>Although intelligent, a griffon requires training before it can bear a rider in combat. To be trained, a griffon must have a friendly attitude toward the trainer (this can be achieved through a successful Diplomacy check). Training a friendly griffon requires six weeks of work and a DC 25 Handle Animal check. Riding a griffon requires an exotic saddle. A griffon can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.</p>
 <p>Griffon eggs are worth 3,500 gp apiece on the open market, while young are worth 7,000 gp each. Professional trainers charge 1,500 gp to rear or train a griffon.</p>
 <p>Carrying Capacity: A light load for a griffon is up to 300 pounds; a medium load, 301-600 pounds; and a heavy load, 601-900 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

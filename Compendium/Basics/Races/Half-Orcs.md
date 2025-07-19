@@ -45,3 +45,8 @@ _Orc Female Names_: Baggi, Emen, Engong, Myev, Neega, Ovak, Ownka, Shautha, Vola
 - Automatic Languages: Common and Orc. Bonus Languages: Draconic, Giant, Gnoll, Goblin, and Abyssal. Smart half-orcs (who are rare) may know the languages of their allies or rivals.
     
 - Favored Class: [[Barbarian]]. A multiclass half-orc's barbarian class does not count when determining whether he takes an experience point penalty. Ferocity runs in a half-orc's veins.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

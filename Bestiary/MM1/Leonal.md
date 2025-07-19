@@ -104,3 +104,8 @@ immune: to electricity and petrification
             <b>Speak with Animals (Su):</b> This ability works like <i>speak with animals</i> (caster level 8th) but is a free action and does not require sound.</p>
 <p>
             <b>Skills:</b> Leonals have a +4 racial bonus on Balance, Hide, and Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

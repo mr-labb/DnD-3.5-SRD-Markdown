@@ -80,3 +80,8 @@ immune:
 <p>Athachs charge into melee combat unless their opponents are out of reach, in which case they throw rocks. They sometimes try to overrun armored opponents to reach unarmored opponents in back ranks. With its first few melee attacks, an athach tends to flail about indiscriminately. After a few rounds, it concentrates on foes that have been hitting it most often and uses its bite on whoever has dealt it the most damage.</p>
 <p>
             <b>Poison (Ex):</b> Injury, Fortitude DC 22, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

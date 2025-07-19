@@ -88,3 +88,8 @@ immune:
             <b>Rake (Ex):</b> Attack bonus +6 melee, damage 1d3+1.</p>
 <p>
             <b>Skills:</b> Leopards have a +8 racial bonus on Jump checks and a +4 racial bonus on Hide and Move Silently checks. Leopards have a +8 racial bonus on Balance and Climb checks. A leopard can always choose to take 10 on a Climb check, even if rushed or threatened. *In areas of tall grass or heavy undergrowth, the Hide bonus improves to +8.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

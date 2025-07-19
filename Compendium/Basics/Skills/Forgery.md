@@ -63,3 +63,8 @@ Forgery is language-dependent; thus, to forge documents
 and detect forgeries, you must be able to read and write the language in
 question. A barbarian can't learn the Forgery skill unless he has
 learned to read and write.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -101,3 +101,8 @@ immune: to acid
             <b>Stun (Su):</b> If an astral deva strikes an opponent twice in one round with its mace, that creature must succeed on a DC 22 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.</p>
 <p>
             <b>Uncanny Dodge (Ex):</b> An astral deva retains its Dexterity bonus to AC when flat-footed, and it cannot be flanked except by a rogue of at least 16th level. It can flank characters with the uncanny dodge ability as if it were a 12th-level rogue.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

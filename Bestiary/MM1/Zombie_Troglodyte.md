@@ -74,3 +74,8 @@ immune:
 
 <p>Zombies are corpses reanimated through dark and sinister magic.</p>
 <p>Because of their utter lack of intelligence, the instructions given to a newly created zombie must be very simple.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

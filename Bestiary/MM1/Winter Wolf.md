@@ -87,3 +87,8 @@ immune: to cold
             <b>Trip (Ex):</b> A winter wolf that hits with a bite attack can attempt to trip the opponent (+8 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the winter wolf.</p>
 <p>
             <b>Skills:</b> Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. Winter wolves have a +2 racial bonus on Hide checks. *Their natural coloration grants them a +7 racial bonus on Hide checks in areas of snow and ice. A winter wolf has a +4 racial bonus on Survival checks when tracking by scent.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

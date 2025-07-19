@@ -97,3 +97,8 @@ immune:
 <p>An aranea remains in one form until it chooses to assume a new one. A change in form cannot be dispelled, nor does an aranea revert to its natural form when killed. A <i>true seeing</i> spell, however, reveals its natural form if it is in humanoid or hybrid form.</p>
 <p>
             <b>Skills:</b> Araneas have a +2 racial bonus on Jump, Listen, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks even if rushed or threatened.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

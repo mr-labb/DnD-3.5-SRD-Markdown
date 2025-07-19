@@ -31,3 +31,8 @@ Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
 Source : PHB P274
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

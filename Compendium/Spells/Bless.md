@@ -32,3 +32,8 @@ Allies gain +1 on attack rolls and saves against fear.
 Source : PHB P205
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

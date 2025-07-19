@@ -106,3 +106,8 @@ immune: to electricity and poison
             <b>Skills:</b> Mariliths have a +8 racial bonus on Listen and Spot checks.</p>
 <p>
             <b>Feats:</b> In combination with its natural abilities, a marilith's Multiweapon Fighting feat allows it to attack with all its arms at no penalty.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

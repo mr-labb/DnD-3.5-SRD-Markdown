@@ -34,3 +34,8 @@ In addition, an afflicted lycanthrope aware of his condition may attempt to use 
 A character can retry voluntary changes to animal form or hybrid form as often as he likes. Each attempt is a standard action. However, on a failed check to return to humanoid form, the character must remain in animal or hybrid form until the next dawn, when he automatically returns to humanoid form.
 
 **Special**: An afflicted lycanthrope cannot attempt a voluntary change until it becomes aware of its condition (see Lycanthropy as an Affliction).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

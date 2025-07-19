@@ -31,3 +31,8 @@ Gives subject +4 armor bonus.
 Source : PHB P249
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

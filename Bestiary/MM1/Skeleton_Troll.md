@@ -80,3 +80,8 @@ immune: to cold
             <i>Immunity to Cold (Ex):</i> Skeletons are not affected by cold.</p>
 <p>
             <i>Damage Reduction 5/Bludgeoning:</i> Skeletons lack flesh or internal organs.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

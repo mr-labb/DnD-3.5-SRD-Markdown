@@ -31,3 +31,8 @@ This spell functions like <i>[[reduce person]]</i>, except that it affects multi
 Source : PHB P269
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -32,3 +32,8 @@ Frees one or more creatures from paralysis or slow effect.
 Source : PHB P271
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

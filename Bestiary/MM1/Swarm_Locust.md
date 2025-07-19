@@ -87,3 +87,8 @@ immune:
             <b>Distraction (Ex):</b> Any living creature that begins its turn with a locust swarm in its space must succeed on a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> A locust swarm has a +4 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

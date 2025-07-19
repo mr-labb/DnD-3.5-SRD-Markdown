@@ -35,3 +35,8 @@ Deeper darkness counters and dispels any light spell of equal or lower level, in
 Source : PHB P217
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

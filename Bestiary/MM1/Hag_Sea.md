@@ -100,3 +100,8 @@ immune:
 <p>Once per month, a covey that does not have a <i>hag eye</i> can create one from a gem worth at least 20 gp (see below).</p>
 <p>Hag Eye</p>
 <p>A <i>hag eye</i> is a magic gem created by a covey. It appears to be nothing more than a semiprecious stone, but a <i>gem of seeing</i> or other such effect reveals it as a disembodied eye. Often, a <i>hag eye</i> is worn as a ring, brooch, or other adornment. Any of the three hags who created the <i>hag eye</i> can see through it whenever they wish, so long as it is on the same plane of existence as the hag. A <i>hag eye</i> has hardness 5 and 10 hit points. Destroying a <i>hag eye</i> deals 1d10 points of damage to each member of the covey and causes the one who sustained the greatest damage to be blinded for 24 hours.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

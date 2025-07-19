@@ -9266,3 +9266,8 @@ None
 As *claw of energy,* except this power can be manifested on a touched
 weapon. This power's subtype is the same as the type of energy infused
 in the touched weapon.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

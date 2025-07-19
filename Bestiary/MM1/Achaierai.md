@@ -88,3 +88,8 @@ immune:
 <p>
             <b>Black Cloud (Ex):</b> Up to three times per day an achaierai can release a choking, toxic black cloud.</p>
 <p>Those other than achaierai within 10 feet instantly take 2d6 points of damage. They must also succeed on a DC 15 Fortitude save or be affected for 3 hours as though by an <i>insanity</i> spell (caster level 16th). The save DC is Constitution-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

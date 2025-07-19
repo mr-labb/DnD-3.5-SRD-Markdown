@@ -101,3 +101,8 @@ immune: to fire and poison
               <i>Summon Devil</i> (Sp):</b> Once per day an erinyes can attempt to summon 2d10 lemures or 1d4 bearded devils with a 50% chance of success. This ability is the equivalent of a 3rd-level spell.</p>
 <p>
             <b>True Seeing (Su):</b> Erinyes continuously use true seeing, as the spell (caster level 14th).</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

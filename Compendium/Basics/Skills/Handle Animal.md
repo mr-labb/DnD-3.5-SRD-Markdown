@@ -186,3 +186,8 @@ Charisma check to handle and push domestic animals, but you can't teach,
 rear, or train animals. A druid or ranger with no ranks in Handle Animal
 can use a Charisma check to handle and push her animal companion, but
 she can't teach, rear, or train other nondomestic animals.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

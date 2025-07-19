@@ -180,3 +180,8 @@ A monster with more than one Hit Die, a level adjustment, and class
 levels adds its Hit Dice, class levels, and level adjustment together
 when determining experience needed (HD + level adjustment + class
 level).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

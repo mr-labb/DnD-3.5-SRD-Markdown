@@ -31,3 +31,8 @@ This spell functions like <i>[[shadow evocation]],</i> except that it enables yo
 Source : PHB P277
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

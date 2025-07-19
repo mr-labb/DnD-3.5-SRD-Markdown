@@ -64,3 +64,8 @@ Bardic Music in the bard class description.
 In addition to using the Perform skill, you can entertain people with
 sleight of hand, tumbling, tightrope walking, and spells (especially
 illusions).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

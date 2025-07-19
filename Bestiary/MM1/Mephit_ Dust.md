@@ -104,3 +104,8 @@ immune:
             <b>Spell-Like Abilities:</b> Once per hour, a dust mephit can surround itself with a plume of dust, duplicating the effect of a <i>blur</i> spell (caster level 3rd). Once per day it can create a mass of roiling dust that duplicates the effect of <i>wind wall</i> (DC 15, caster level 6th). The save DC is Charisma-based.</p>
 <p>
             <b>Fast Healing (Ex):</b> A dust mephit heals only if in an arid, dusty environment.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

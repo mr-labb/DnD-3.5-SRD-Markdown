@@ -95,3 +95,8 @@ immune:
             <b>Rake (Ex):</b> Attack bonus +12 melee, damage 1d6+3.</p>
 <p>
             <b>Skills:</b> Lammasus have a +2 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

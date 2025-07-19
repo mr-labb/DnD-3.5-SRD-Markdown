@@ -93,3 +93,8 @@ immune: to poison
 <p>A formian warrior's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.</p>
 <p>
             <b>Poison (Ex):</b> Injury, Fortitude DC 14, initial and secondary damage 1d6 Str. The save DC is Constitution-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

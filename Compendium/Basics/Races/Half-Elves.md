@@ -67,3 +67,8 @@ Half-Human Elves Traits (Ex): Half-human elves have all the half-elf racial trai
 - Half-human elves have the same weapon proficiency as elves. They receive free Martial Weapon Proficiency feats for the longsword, rapier, shortbow, and longbow. Living among people who esteem the arts of swordplay and archery, almost all half-human elves are familiar with these weapons.
     
 - Favored Class: Wizard. Half-human elves lack some of the flexibility of half-elves who are raised by humans.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

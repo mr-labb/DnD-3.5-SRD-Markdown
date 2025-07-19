@@ -103,3 +103,8 @@ immune: to fire
             <b>Spell-Like Abilities:</b> 1/hour - <i>scorching ray</i> (DC 14) as the spell cast by a 3rd-level sorcerer; 1/day - <i>heat metal</i> (DC 14). Caster level 6th. The save DC is Charisma-based.</p>
 <p>
             <b>Fast Healing (Ex):</b> A fire mephit heals only if it is touching a flame at least as large as a torch.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

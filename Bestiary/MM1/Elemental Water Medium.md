@@ -93,3 +93,8 @@ immune:
 <p>An elemental in vortex form cannot make slam attacks and does not threaten the area around it.</p>
 <p>Skills: A water elemental has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.</p>
 <p>The elemental is 8 ft tall and weights 280 lb.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

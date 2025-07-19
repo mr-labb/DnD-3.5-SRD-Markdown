@@ -31,3 +31,8 @@ Creates new sounds or changes existing ones.
 Source : PHB P275
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

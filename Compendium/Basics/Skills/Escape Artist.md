@@ -61,3 +61,8 @@ bonus on Use Rope checks to bind someone.
 
 If you have 5 or more ranks in Use Rope, you get a +2 bonus on Escape
 Artist checks when escaping from rope bonds.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

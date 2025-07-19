@@ -31,3 +31,8 @@ Restores life to subject who died as long as one day/level ago.
 Source : PHB P268
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

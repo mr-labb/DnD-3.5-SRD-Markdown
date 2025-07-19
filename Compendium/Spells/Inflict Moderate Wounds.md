@@ -31,3 +31,8 @@ Touch attack, 2d8 damage +1/level (max +10).
 Source : PHB P244
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

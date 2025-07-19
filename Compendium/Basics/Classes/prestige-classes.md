@@ -2799,3 +2799,8 @@ A thaumaturgist can have only one planar cohort at a time, but he can
 continue to make agreements with other called creatures normally. A
 planar cohort replaces a thaumaturgist's existing cohort, if he has one
 by virtue of the Leadership feat.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

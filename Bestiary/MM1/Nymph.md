@@ -106,3 +106,8 @@ immune:
             <b>Skills:</b> A nymph has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. She can always choose to take 10 on a Swim check, even if distracted or endangered. She can use the run action while swimming, provided she swims in a straight line.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

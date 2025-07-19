@@ -74,3 +74,8 @@ immune:
 ## Description
 
 <p>These glossy black birds are about 2 feet long and have wingspans of about 4 feet. They combine both claws into a single attack. The statistics presented here can describe most nonpredatory birds of similar size.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

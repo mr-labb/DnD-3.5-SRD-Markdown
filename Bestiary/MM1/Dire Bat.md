@@ -83,3 +83,8 @@ immune:
             <b>Blindsense (Ex):</b> A dire bat uses echolocation to pinpoint creatures within 40 feet. Opponents still have total concealment against the bat unless it can actually see them.</p>
 <p>
             <b>Skills:</b> Dire bats have a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsense is negated.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -54,3 +54,8 @@ on Appraise checks related to items made with that Craft skill.
 For common items, failure on an untrained check means no
 estimate. For rare items, success means an estimate of 50% to 150%
 (2d6+3 times 10%).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

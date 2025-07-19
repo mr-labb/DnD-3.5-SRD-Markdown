@@ -94,3 +94,8 @@ immune:
             <b>Fiddle (Su):</b> One grig in each band carries a tiny, grig-sized fiddle. When the fiddler plays, any nonsprite within 30 feet of the instrument must succeed on a DC 12 Will save or be affected as though by <i>irresistible dance</i> for as long as the playing continues. The save DC is Charisma-based.</p>
 <p>
             <b>Skills:</b> Grigs have a +8 racial bonus on Jump checks. *They also have a +5 racial bonus on Move Silently checks in a forest setting.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

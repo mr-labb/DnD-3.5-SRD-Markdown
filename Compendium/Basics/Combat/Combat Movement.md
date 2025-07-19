@@ -130,3 +130,8 @@ Large or larger creatures using reach weapons can strike up to double their natu
 1 _These values are typical for creatures of the indicated size. Some exceptions exist._
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

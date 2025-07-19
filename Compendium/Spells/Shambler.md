@@ -32,3 +32,8 @@ Summons 1d4+2 shambling mounds to fight for you.
 Source : PHB P277
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

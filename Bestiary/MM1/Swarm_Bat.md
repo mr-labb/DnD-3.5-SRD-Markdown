@@ -91,3 +91,8 @@ immune:
             <b>Blindsense (Ex):</b> A bat swarm notices and locates creatures within 20 feet. Opponents still have total concealment against the bat swarm (but swarm attacks ignore concealment).</p>
 <p>
             <b>Skills:</b> A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are lost if its blindsense is negated.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

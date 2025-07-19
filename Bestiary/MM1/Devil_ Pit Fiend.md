@@ -133,3 +133,8 @@ immune: to fire and poison
             <i>Round 4:</i> Continue melee against injured enemy, or <i>power word stun</i> against annoying spellcaster.</p>
 <p>
             <i>Round 5:</i> Repeat from round 1, or <i>greater teleport</i> to safety if endangered.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

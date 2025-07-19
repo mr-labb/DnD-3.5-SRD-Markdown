@@ -87,3 +87,8 @@ immune: to electricity
             <b>Weakness (Ex):</b> A roper's strands can sap an opponent's strength. Anyone grabbed by a strand must succeed on a DC 18 Fortitude save or take 2d8 points of Strength damage. The save DC is Constitution-based.</p>
 <p>
             <b>Skills:</b> *Ropers have a +8 racial bonus on Hide checks in stony or icy areas.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -78,3 +78,8 @@ immune:
 <p>Owlbears attack prey - any creature bigger than a mouse - on sight, always fighting to the death. They slash with claws and beak, trying to grab their prey and rip it apart.</p>
 <p>
             <b>Improved Grab (Ex):</b> To use this ability, an owlbear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

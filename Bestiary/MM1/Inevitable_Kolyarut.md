@@ -104,3 +104,8 @@ immune:
             <b>Vampiric Touch (Su):</b> As a melee touch attack, a kolyarut can steal life force from its foe, as the <i>vampiric touch</i> spell (caster level 13th).</p>
 <p>
             <b>Skills:</b> A kolyarut has a +4 racial bonus on Disguise, Gather Information, and Sense Motive checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

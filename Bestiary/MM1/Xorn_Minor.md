@@ -88,3 +88,8 @@ immune: to cold and fire
             <b>All-Around Vision (Ex):</b> A xorn's symmetrically placed eyes allow it to look in any direction, providing a +4 racial bonus on Spot and Search checks. A xorn can't be flanked.</p>
 <p>
             <b>Earth Glide (Ex):</b> A xorn can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. A <i>move earth</i> spell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

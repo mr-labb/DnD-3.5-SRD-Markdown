@@ -59,3 +59,8 @@ check to perform a special action or avoid a hazard. The creature always
 can choose to take 10 on a Swim check, even if distracted or endangered
 when swimming. Such a creature can use the run action while swimming,
 provided that it swims in a straight line.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

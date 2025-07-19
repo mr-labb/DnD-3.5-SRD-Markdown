@@ -91,3 +91,8 @@ immune:
             <b>Trap Sense (Ex):</b> An ogre barbarian has a +1 bonus on Reflex saves made to avoid traps. He also has a +1 bonus to his AC against attacks by traps.</p>
 <p>
             <b>Uncanny Dodge (Ex):</b> An ogre barbarian retains his Dex bonus to AC regardless of being caught flat-footed or attacked by an invisible opponent. His Dex bonus to AC is +0, but this means that he is not subject to a rogue's sneak attack in these circumstances.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

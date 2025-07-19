@@ -77,3 +77,8 @@ immune:
 <p>These diminutive amphibians are innocuous and beneficial, since they eat insects.</p>
 <p>
             <b>Skills:</b> A toad's coloration gives it a +4 racial bonus on Hide checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

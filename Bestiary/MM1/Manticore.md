@@ -81,3 +81,8 @@ immune:
             <b>Spikes (Ex):</b> With a snap of its tail, a manticore can loose a volley of six spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only twenty-four spikes in any 24-hour period.</p>
 <p>
             <b>Skills:</b> *Manticores have a +4 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

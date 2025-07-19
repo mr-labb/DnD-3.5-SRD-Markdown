@@ -98,3 +98,8 @@ immune:
             <b>Skills:</b> A zelekhut has a +4 racial bonus on Search and Sense Motive checks.</p>
 <p>
             <b>Feats:</b> Due to its centaur-like construction, a zelekhut qualifies for feats as if it had the Mounted Combat feat.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

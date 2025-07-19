@@ -90,3 +90,8 @@ immune:
           </p>
 <p>Goblin characters possess the following racial traits.</p>
 <p>The goblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

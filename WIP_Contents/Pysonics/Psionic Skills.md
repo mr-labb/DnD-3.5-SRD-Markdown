@@ -224,3 +224,8 @@ A character with the Psionic Affinity feat gets a +2 bonus on Use Psionic Device
 If you have 5 or more ranks in Psicraft, you get a +2 bonus on Use Magic Device checks related to power stones.
 
 If you have 5 or more ranks in Use Psionic Device, you get a +2 bonus on Psicraft checks to address power stones.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

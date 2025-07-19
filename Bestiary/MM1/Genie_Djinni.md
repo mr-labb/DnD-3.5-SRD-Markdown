@@ -111,3 +111,8 @@ immune: to acid
             <b>Noble Djinn</b>
           </p>
 <p>Some djinn (1% of the total population) are noble. A noble djinni can grant three <i>wishes</i> to any being (nongenies only) who captures it. Noble djinn perform no other services and, upon granting the third <i>wish,</i> are free of their servitude. Noble djinn are as strong as efreet (see below), with 10 Hit Dice.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

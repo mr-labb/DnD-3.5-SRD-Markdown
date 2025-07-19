@@ -33,3 +33,8 @@ Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall d
 Source : PHB P298
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

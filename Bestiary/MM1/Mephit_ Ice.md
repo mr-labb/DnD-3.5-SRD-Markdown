@@ -103,3 +103,8 @@ immune: to cold
             <b>Spell-Like Abilities:</b> 1/hour - <i>magic missile</i> (caster level 3rd); 1/day - <i>chill metal</i> (DC 14, caster level 6th). The save DC is Charisma-based.</p>
 <p>
             <b>Fast Healing (Ex):</b> An ice mephit heals only if it is touching a piece of ice of at least Tiny size or if the ambient temperature is 32 degreesF. or below.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -19,4 +19,9 @@ Unless their very existence is threatened, inevitables focus completely on the t
 An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction. 
 
 #### Fast Healing (Ex)
-An inevitable heals a certain amount of damage each round (specified in each variety's description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate. 
+An inevitable heals a certain amount of damage each round (specified in each variety's description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

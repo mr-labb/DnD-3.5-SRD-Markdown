@@ -96,3 +96,8 @@ immune:
             <b>Constitution Drain (Su):</b> Living creatures hit by a dread wraith's incorporeal touch attack must succeed on a DC 25 Fortitude save or take 1d8 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the dread wraith gains 5 temporary hit points.</p>
 <p>
             <b>Create Spawn (Su):</b> Any humanoid slain by a dread wraith becomes a wraith in 1d4 rounds. Its body remains intact and inanimate, but its spirit is torn free from its corpse and transformed. Spawn are under the command of the wraith that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

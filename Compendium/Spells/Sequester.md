@@ -31,3 +31,8 @@ Subject is invisible to sight and scrying; renders creature comatose.
 Source : PHB P276
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

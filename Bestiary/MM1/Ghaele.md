@@ -106,3 +106,8 @@ immune: to electricity and petrification
             <b>Protective Aura (Su):</b> Against attacks made or effects created by evil creatures, <i>t</i>his ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the ghaele. Otherwise, it functions as a <i>magic circle against evil</i> effect and a <i>lesser globe of invulnerability,</i> both with a radius of 20 feet (caster level equals ghaele's HD). (The defensive benefits from the circle are not included in a ghaele's statistics block.)</p>
 <p>
             <b>Tongues (Su):</b> Ghaeles can speak with any creature that has a language, as though using a <i>tongues</i> spell (caster level 14th). This ability is always active.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

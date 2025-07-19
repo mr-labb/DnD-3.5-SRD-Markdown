@@ -81,3 +81,8 @@ immune:
 <p>An elasmosaurus is aggressive and attacks anything it notices. The creature is strong, fast, and highly maneuverable, able to turn quickly and lunge at prey. When hunting, it travels with its head out of the water, snapping down quickly to seize prey.</p>
 <p>
             <b>Skills:</b> *An elasmosaurus has a +8 racial bonus on Hide checks in water.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

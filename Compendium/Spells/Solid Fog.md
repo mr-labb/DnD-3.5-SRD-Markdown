@@ -36,3 +36,8 @@ However, unlike normal fog, only a severe wind (31+ mph) disperses these vapors,
 Source : PHB P281
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

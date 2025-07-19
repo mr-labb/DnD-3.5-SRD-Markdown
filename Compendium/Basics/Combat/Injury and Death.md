@@ -110,3 +110,8 @@ Spellcasters who fall unconscious retain any spellcasting ability they had befor
 When a spell or a magical power cures hit point damage, it also removes an equal amount of nonlethal damage.
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -98,3 +98,8 @@ immune: to fire
 <p>If the tarrasque loses a limb or body part, the lost portion regrows in 1d6 minutes (the detached piece dies and decays normally). The creature can reattach the severed member instantly by holding it to the stump.</p>
 <p>
             <b>Skills:</b> The tarrasque has a +8 racial bonus on Listen and Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

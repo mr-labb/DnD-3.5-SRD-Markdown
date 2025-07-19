@@ -84,3 +84,8 @@ immune:
             <b>Smoke Form (Su):</b> Most of the time a belker is more or less solid, but at will it can assume smoke form. It can switch forms once per round as a free action and can spend up to 20 rounds per day in smoke form. A belker in smoke form can fly at a speed of 50 feet (perfect). The ability is otherwise similar to a <i>gaseous form</i> spell (caster level 7th).</p>
 <p>
             <b>Skills:</b> Belkers have a +4 racial bonus on Move Silently checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

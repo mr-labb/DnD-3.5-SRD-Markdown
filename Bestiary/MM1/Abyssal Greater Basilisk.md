@@ -89,3 +89,8 @@ immune:
 <p>An abyssal greater basilisk's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.</p>
 <p>
             <b>Smite Good (Su):</b> Once per day an abyssal greater basilisk can make a normal melee attack to deal an extra 18 points of damage against a good foe.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

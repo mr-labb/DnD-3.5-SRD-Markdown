@@ -97,3 +97,8 @@ immune:
 <p>Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep halflings speak Dwarven fluently.</p>
 <p>
             <b>Deep Halfling Traits (Ex):</b> These traits are in addition to the lightfoot halfling traits, except where noted.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

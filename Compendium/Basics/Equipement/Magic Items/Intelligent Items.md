@@ -831,3 +831,8 @@ The Shadowstaff also has these powers.
 A character who is evil or chaotic (LE, NE, CE, CN, CG) gains four negative levels if she attempts to use this artifact. Although these negative levels never results in actual level loss, they remain as long as the shield is in hand and cannot be overcome in any way (including restoration spells). The negative levels disappear when the shield is stowed or leaves the wearer’s possession.
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

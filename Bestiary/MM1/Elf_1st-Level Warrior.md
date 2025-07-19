@@ -121,3 +121,8 @@ immune:
 <p>Their hair color ranges from yellow to a coppery red, and they are more muscular than other elves. Their clothing is in dark shades of green and earth tones to better blend in with their natural surroundings.</p>
 <p>
             <b>Wood Elf Traits (Ex):</b> These traits are in addition to the high elf traits, except where noted.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

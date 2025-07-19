@@ -95,3 +95,8 @@ immune:
             <b>Tremorsense (Ex):</b> A phasm can automatically sense the location of anything within 60 feet that is in contact with the ground, so long as it is touching the ground itself.</p>
 <p>
             <b>Skills:</b> *When using shapechange, a phasm gains a +10 circumstance bonus on Disguise checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

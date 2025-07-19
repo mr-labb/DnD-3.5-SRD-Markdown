@@ -89,4 +89,9 @@ HD 4 or less, as base creature +1; HD 5 to 10, as base creature +2; HD 11 or mor
 Always evil (any). 
 
 #### Level Adjustment
-+4. 
++4.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

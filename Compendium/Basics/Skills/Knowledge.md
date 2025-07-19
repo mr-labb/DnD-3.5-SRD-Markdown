@@ -93,3 +93,8 @@ If you have 5 or more ranks in Survival, you get a +2 bonus on Knowledge
 An untrained Knowledge check is simply an Intelligence
 check. Without actual training, you know only common knowledge (DC 10 or
 lower).
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

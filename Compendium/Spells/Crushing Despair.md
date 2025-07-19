@@ -32,3 +32,8 @@ Subjects take -2 on attack rolls, damage rolls, saves, and checks.
 Source : PHB P215
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

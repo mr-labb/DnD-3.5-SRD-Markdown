@@ -31,3 +31,8 @@ Traps extraplanar creature of 6 HD or less until it performs a task.
 Source : PHB P261
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

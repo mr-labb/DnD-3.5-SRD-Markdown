@@ -102,3 +102,8 @@ immune: to poison
             <b>Poison (Ex):</b> Injury, Fortitude DC 20, initial and secondary damage 2d6 Dex. The save DC is Constitution-based.</p>
 <p>
             <b>Spell-Like Abilities:</b> At will - <i>charm monster</i> (DC 17), <i>clairaudience/clairvoyance, detect chaos, detect thoughts</i> (DC 15), <i>magic circle against chaos</i>,  <i>greater teleport;</i> 1/day - <i>dictum</i> (DC 20), <i>order's wrath</i> (DC 17). Caster level 12th. The save DCs are Charisma-based.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

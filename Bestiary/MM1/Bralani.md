@@ -98,3 +98,8 @@ immune: to electricity and petrification
 <p>A bralani remains in one form until it chooses to assume a new one. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed. A <i>true seeing</i> spell, however, reveals both forms simultaneously.</p>
 <p>
             <b>Tongues (Su):</b> Bralanis can speak with any creature that has a language, as though using a <i>tongues</i> spell (caster level 14th). This ability is always active.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

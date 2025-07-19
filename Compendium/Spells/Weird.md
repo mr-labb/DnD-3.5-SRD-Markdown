@@ -33,3 +33,8 @@ If a subject's Fortitude save succeeds, it still takes 3d6 points of damage and 
 Source : PHB P301
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

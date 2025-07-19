@@ -483,3 +483,8 @@ In addition, not every town or village has a spellcaster of sufficient level to 
 
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

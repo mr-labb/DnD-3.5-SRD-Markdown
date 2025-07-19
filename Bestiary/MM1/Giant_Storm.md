@@ -103,3 +103,8 @@ immune: to electricity
             <b>STORM GIANT CHARACTERS</b>
           </p>
 <p>About 20% of adult storm giants are sorcerers or clerics. A storm giant cleric has access to two of the following domains: Chaos, Good, Protection, or War.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

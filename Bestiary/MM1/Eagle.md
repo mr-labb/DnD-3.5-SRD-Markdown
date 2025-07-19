@@ -79,3 +79,8 @@ immune:
 <p>Eagles dive at prey, raking with their powerful talons.</p>
 <p>
             <b>Skills:</b> Eagles have a +8 racial bonus on Spot checks.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

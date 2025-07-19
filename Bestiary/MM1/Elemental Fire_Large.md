@@ -83,3 +83,8 @@ immune: to fire
             <b>Burn (Ex):</b> A fire elemental's slam attack deals bludgeoning damage plus fire damage from the elemental's flaming body. Those hit by a fire elemental's slam attack also must succeed on a Reflex save or catch on fire. The flame burns for 1d4 rounds. The burn save DC is 17. A burning creature can take a move action to put out the flame. The save DC is Constitution- based.</p>
 <p>Creatures hitting a fire elemental with natural weapons or unarmed attacks take fire damage as though hit by the elemental's attack, and also catch on fire unless they succeed on a Reflex save.</p>
 <p>The elemental is 16 ft tall and weights 4 lb.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

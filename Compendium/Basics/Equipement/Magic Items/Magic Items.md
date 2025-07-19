@@ -179,4 +179,7 @@ Typically, a list of prerequisites includes one feat and one or more spells (or 
 |82–91|69–83|76–80|Wands|
 |92–100|84–100|81–100|Wondrous items||
 
+---
 
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

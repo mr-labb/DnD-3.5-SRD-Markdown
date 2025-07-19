@@ -39,3 +39,8 @@ Abominations speak Abyssal, Celestial, Infernal, and often a language associated
   This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

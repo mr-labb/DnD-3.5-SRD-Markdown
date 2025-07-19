@@ -97,3 +97,8 @@ immune:
 <p>They are the smallest of all the gnomes, averaging 2 to 2-1/2 feet in height, but look just like regular gnomes except with bark-colored or gray-green skin, and eyes that can be brown or green as well as blue. A very long-lived people, forest gnomes have an average life expectancy of 500 years.</p>
 <p>
             <b>Forest Gnome Traits (Ex):</b> These traits are in addition to the rock gnome traits, except where noted.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -34,3 +34,8 @@ This spell functions like <i>[[shout]],</i> except that the cone deals 10d6 poin
 Source : PHB P
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

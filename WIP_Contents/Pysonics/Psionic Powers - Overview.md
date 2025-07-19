@@ -594,3 +594,8 @@ This portion of a power description details what the power does and how it works
 Many powers have variable effects based on the number of power points you spend when you manifest them. The more points spent, the more powerful the manifestation. How this extra expenditure affects a power is specific to the power. Some augmentations allow you to increase the number of damage dice, while others extend a power's duration or modify a power in unique ways. Each power that can be augmented includes an entry giving how many power points it costs to augment and the effects of doing so. However, you can spend only a total number of points on a power equal to your manifester level.
 
 Augmenting a power takes place as part of another action (manifesting a power). Unless otherwise noted in the Augment section of an individual power description, you can augment a power only at the time you manifest it.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

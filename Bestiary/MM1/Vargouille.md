@@ -87,3 +87,8 @@ immune:
 <p>First, over a period of 1d6 hours, all the victim's hair falls out. Within another 1d6 hours thereafter, the ears grow into leathery wings, tentacles sprout on the chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation is complete 1d6 hours later, when the head breaks free of the body (which promptly dies) and becomes a vargouille. This transformation is interrupted by sunlight, and even a <i>daylight</i> spell can delay death, but to reverse the transformation requires <i>remove disease</i>. The save DC is Constitution-based and includes a +4 racial bonus.</p>
 <p>
             <b>Poison (Ex):</b> Injury, Fortitude DC 12 or be unable to heal the vargouille's bite damage naturally or magically. A <i>neutralize poison</i> or <i>heal</i> spell removes the effect, while <i>delay poison</i> allows magical healing. The save DC is Constitution-based and includes a +1 racial bonus.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

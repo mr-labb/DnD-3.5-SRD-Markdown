@@ -992,3 +992,8 @@ Base attack bonus +8.
 To use this feat, you must expend your psionic focus. You can make an attack with such vicious force that you wound your opponent. A wound deals 1 point of Constitution damage to your foe in addition to the usual damage dealt.
 
 You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

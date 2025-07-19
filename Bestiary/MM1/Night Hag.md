@@ -95,3 +95,8 @@ immune: to fire
             <b>Dream Haunting (Su):</b> Night hags can visit the dreams of chaotic or evil individuals by using a special periapt known as a <i>heartstone</i> to become ethereal, then hovering over the creature. Once a hag invades someone's dreams, it rides on the victim's back until dawn. The sleeper suffers from tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions, by confronting and defeating the night hag.</p>
 <p>HEARTSTONE</p>
 <p>All night hags carry a periapt known as a <i>heartstone,</i> which instantly cures any disease contracted by the holder. In addition, a <i>heartstone</i> provides a +2 resistance bonus on all saving throws (this bonus is included in the statistics block). A night hag that loses this charm can no longer use <i>etherealness</i> until it can manufacture another (which takes one month). Creatures other than the hag can benefit from the <i>heartstone</i>'s powers, but the periapt shatters after ten uses (any disease cured or saving throw affected counts as a use) and it does not bestow <i>etherealness</i> to a bearer that is not a night hag. If sold, an intact <i>heartstone</i> brings 1,800 gp.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

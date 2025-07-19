@@ -80,3 +80,8 @@ immune:
 <p>When it senses something edible (that is, senses movement), it breaks to the surface, crest first, and begins its attack.</p>
 <p>
             <b>Leap (Ex):</b> A bulette can jump into the air during combat. This allows it to make four claw attacks instead of two, each with a +15 attack bonus, but it cannot bite.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

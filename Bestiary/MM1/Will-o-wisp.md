@@ -87,3 +87,8 @@ immune: to magic
             <b>Immunity to Magic (Ex):</b> A will-o'-wisp is immune to most spells or spell-like abilities that allow spell resistance, except <i>magic missile</i> and <i>maze.</i></p>
 <p>
             <b>Natural Invisibility (Ex):</b> A startled or frightened will-o'-wisp can extinguish its glow, effectively becoming invisible as the <i>invisibility</i> spell.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

@@ -31,3 +31,8 @@ Aura grants +2 or higher deflection bonus.
 Source : PHB P278
 
 ---
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

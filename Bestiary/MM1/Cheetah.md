@@ -82,3 +82,8 @@ immune:
             <b>Trip (Ex):</b> A cheetah that hits with a claw or bite attack can attempt to trip the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the cheetah.</p>
 <p>
             <b>Sprint (Ex):</b> Once per hour, a cheetah can move ten times its normal speed (500 feet) when it makes a charge.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

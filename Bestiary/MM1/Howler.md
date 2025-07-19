@@ -90,3 +90,8 @@ immune:
 <p>Although intelligent, a howler requires training before it can bear a rider in combat. To be trained, a howler must have a friendly attitude toward the trainer (this can be achieved through a successful Diplomacy check). Training a friendly howler requires six weeks of work and a DC 25 Handle Animal check. Riding a howler requires an exotic saddle. A howler can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.</p>
 <p>
             <b>Carrying Capacity:</b> A light load for a howler is up to 460 pounds; a medium load, 461-920 pounds; and a heavy load, 921-1,380 pounds. A howler can drag 6,900 pounds.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

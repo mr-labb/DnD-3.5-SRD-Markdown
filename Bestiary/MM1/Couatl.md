@@ -107,3 +107,8 @@ immune:
             <b>Telepathy (Su):</b> A couatl can communicate telepathically with any creature within 90 feet that has an Intelligence score. The creature can respond to the couatl if it wishes - no common language is needed.</p>
 <p>
           </p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

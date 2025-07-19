@@ -85,3 +85,8 @@ immune:
             <b>Rend (Ex):</b> A gray render that wins a grapple check after a successful bite attack establishes a hold, latching onto the opponent's body and tearing the flesh. This attack automatically deals 2d6+9 points of damage.</p>
 <p>
             <b>Skills:</b> Gray renders have a +4 racial bonus on Spot checks due to their six keen eyes.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

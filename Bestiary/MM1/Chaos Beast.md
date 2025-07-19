@@ -94,3 +94,8 @@ immune: to critical hits and transformation
 <p>Corporeal instability is not a disease or a curse and so is hard to remove. A <i>shapechange</i> or <i>stoneskin</i> spell does not cure an afflicted creature but fixes its form for the duration of the spell. A <i>restoration, heal,</i> or <i>greater restoration</i> spell removes the affliction (a separate <i>restoration</i> is necessary to restore any drained points of Wisdom).</p>
 <p>
             <b>Immunity to Transformation (Ex):</b> No mortal magic can permanently affect or fix a chaos beast's form. Effects such as polymorphing or petrification force the creature into a new shape, but at the start of its next turn it immediately returns to its mutable form as a free action.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

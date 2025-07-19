@@ -108,3 +108,8 @@ immune: to acid
 <p>
             <i>Typical Cleric Spells Prepared</i> (6/8/8/8/7/7/6/6/5/5; save DC 17 + spell level): 0 - <i>create water, detect magic, guidance</i> (2), <i>resistance</i> (2); 1st - <i>bless</i> (2), <i>cause fear, divine favor</i> (2), <i>entropic shield, obscuring mist</i>*, <i>shield of faith;</i> 2nd - <i>align weapon, bear's endurance</i> (2), <i>bull's strength</i> (2), <i>consecrate, eagle's splendor, spiritual weapon</i>*; 3rd - <i>daylight, invisibility purge, magic circle against evil, magic vestment</i>*, <i>prayer</i> (2), <i>protection from energy, wind wall;</i> 4th - <i>death ward</i> (2), <i>dismissal</i> (2), <i>divine power</i>*, <i>neutralize poison</i> (2); 5th - <i>break enchantment, control winds</i>*, <i>dispel evil,  plane shift, righteous might</i> (2), <i>symbol of pain;</i> 6th - <i>banishment, chain lightning</i>*, <i>heroes' feast, mass cure moderate wounds, undeath to death, word of recall;</i> 7th - <i>control weather</i>*, <i>destruction, dictum, ethereal jaunt, holy word, regenerate;</i> 8th - <i>fire storm, holy aura, mass cure critical wounds</i> (2), <i>whirlwind</i>*; 9th -  <i>etherealness, elemental swarm (air)</i>*<i>, mass heal, miracle, storm of vengeance</i>.</p>
 <p>*Domain spell. Domains: Air and War.</p>
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.

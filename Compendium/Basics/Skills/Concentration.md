@@ -61,3 +61,8 @@ A character with the [[Combat Manifestation]] feat gets a +4 bonus on Concentrat
 If you have 5 or more ranks in Concentration, you get a +2 bonus on [[Autohypnosis]] checks.  
 
 If you have 5 or more ranks in any [[Perform]] skill, you get a +2 bonus on Concentration checks to resist heckling while using that skill.
+
+---
+
+This material is Open Game Content, and is licensed for public use under
+the terms of the Open Game License v1.0a.
