@@ -1,166 +1,123 @@
 ---
 lang: en
-title: v3.5 SRD / Divine Rules/ Divine Minions
+title: Divine Rules — Divine Minions (v3.5 SRD)
 tags: 
   - 35E_SRD
-  - Minions
   - Divine
+  - Minions
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# DIVINE MINIONS
+# Divine Minions
 
-All types of beings may serve deities. In general, a deity only accepts
-minions who have accomplished some great deed in service to the deity.
-Such minions usually have the same alignment as the deity. No minion's
-alignment is opposed to the patron deity's alignment on either the
-law--chaos axis or the good--evil axis.
+Any kind of creature may serve deities, but typically only those who have accomplished a great deed in their patron’s name are accepted as divine minions. These minions usually share the same alignment as the deity — no minion’s alignment may oppose their patron’s alignment on either the **law–chaos** or **good–evil** axis.
 
 ## Proxies
 
-A divine proxy speaks and acts on behalf of the divine being. When the
-demand for a deity's presence is too high, the deity may use proxies.
+Divine proxies act on behalf of their deity when the demand for divine attention exceeds capacity. A proxy is a servant invested with **1 divine rank**, temporarily transferred from the patron deity. This reduces the deity’s rank by 1 while the proxy holds it.
 
-Proxies are divine minions invested with a small portion of the deity's
-power. A deity may invest 1 rank of its power (reducing its divine rank
-accordingly) in a single servant for as long as the deity chooses. The
-minion must be physically present for the deity to perform the
-investiture. While so invested, the proxy gains any salient divine
-abilities held by the patron deity as well as the powers and abilities
-of a rank 1 demigod. Without the requisite ability scores or divine
-ranks, the proxy may not be able to use all those powers and abilities.
-A deity may have more than one proxy, but it must lose 1 divine rank for
-each proxy it invests. A deity can retrieve a single divine rank as a
-standard action, and doing so it does not require the physical presence
-of the proxy.
+- The proxy must be **physically present** for investiture.
+- While invested, they gain any **salient divine abilities** of the deity and powers of a **rank 1 demigod**.
+- Some powers may be inaccessible if the proxy lacks appropriate ability scores or prerequisites.
+- A deity may reclaim the invested rank **as a standard action** — no physical contact required.
+- Multiple proxies are allowed, each costing the deity one rank.
 
 ## Petitioners
 
-Some spirits demonstrate their devotion to their deity by traveling to
-the deity's home plane. Those that survive the journey across the planes
-become servants of their deity. While a few may remain disembodied
-spirits, most become petitioners through the divine will of their patron
-deity.
+Some spirits show their devotion by making the dangerous journey to their deity’s home plane. Survivors of this pilgrimage may become **petitioners**, or divine servants, transformed by their patron’s will.
 
-In general, petitioners appear in the form that they had when they died,
-though they may be remade by deities to fit the nature of their
-particular afterlife. In general, petitioners who become divine servants
-are creatures that originally had at least 1 Intelligence and 1 Wisdom.
+Petitioners typically retain the **form they had at death**, though deities may reshape them to match their realm. Petitioners must have had at least **1 Intelligence and 1 Wisdom** in life.
 
-The following creature types may become petitioners depending on the
-deity: aberrations, animals, dragons, fey, giants, humanoids, magical
-beasts, monstrous humanoids, and plants, oozes, and vermin with
-sufficient ability scores. Constructs and undead are not usually made
-into petitioners, though the spirits of their original forms may be.
-Elementals and outsiders tend to meld with their native planes, and as
-such do not become petitioners. Their spirits may still be called back
-from the dead, however.
+Eligible creature types include:
 
-The template presented below is for NPCs, not player characters. If dead
-characters who are petitioners are later restored to life (once again
-becoming player characters), they forget any of their experiences as
-petitioners.
+- Aberrations  
+- Animals  
+- Dragons  
+- Fey  
+- Giants  
+- Humanoids  
+- Magical beasts  
+- Monstrous humanoids  
+- Plants, oozes, vermin (if sufficiently intelligent)
+
+**Excluded types:**
+
+- Constructs and undead (though their original spirits may qualify)
+- Elementals and outsiders typically merge with their native plane and do not become petitioners, though they may be recalled.
+
+> Note: This template applies to NPCs only. Player characters restored from petitioner status **lose all memories** of that time.
 
 ## Creating a Petitioner
 
-"Petitioner" is a template that may be added to any creature as
-determined by the nature of the campaign (referred to hereafter as the
-base creature). The creature's type changes to outsider, and the
-creature uses all the base creature's statistics and special abilities
-except as noted here.
+The **Petitioner** template may be applied to any creature at the DM’s discretion. The creature becomes an **Outsider** and retains its original statistics except as modified below.
 
 ### Hit Dice
-Change to 2d8. Retain bonus hit points.
+Set to **2d8**, retaining bonus hit points.
 
-### AC
-Natural Armor Class, Dexterity, and size bonuses or penalties
-apply. Armor bonuses are not applicable.
+### Armor Class (AC)
+Applies bonuses/penalties from **Dexterity, size, and natural armor**. **Armor bonuses** do not apply.
 
 ### Attacks
-Base attack bonus is reduced to +2, subject to
-modifications for size and Strength.
+Base Attack Bonus (BAB) set to **+2**, adjusted for size and Strength.
 
 ### Special Attacks
-A petitioner loses all supernatural and spell-like
-attacks, but retains normal and exceptional attacks.
+Loser of all **supernatural and spell-like attacks**. Retains **normal and exceptional attacks**.
 
 ### Special Qualities
-A petitioner loses all supernatural and
-spell-like abilities, but retains exceptional abilities. In addition, it
-gains the following qualities.
+- Loses all **supernatural and spell-like abilities**
+- Retains **exceptional abilities**
+- Gains the following traits:
 
-*Mental Immunity:* All petitioners are immune to mind-affecting effects.
+**Mental Immunity:** Immune to all mind-affecting effects  
+**Other Immunities:** Immune to **two** of the following (chosen by plane or deity):  
+`acid`, `cold`, `electricity`, `fire`, `poison`, `petrifaction`, `polymorphing`  
+**Energy Resistance:** Resistance 20 to **two** of the following, as determined by plane:  
+`acid`, `cold`, `electricity`, `fire`  
+**Planar Commitment:** Petitioners **cannot leave their native plane**. If forced to exit, they are teleported **100 miles in a random direction**.  
+**Additional Traits (plane-dependent):** May include any one of the following:
 
-*Other Immunities:* Depending on its nature, the petitioner is immune to
-two of the following effects: acid, cold, electricity, fire, poison,
-petrifaction, or polymorphing. These immunities are applied similarly to
-all petitioners of a particular plane or deity.
+- Damage reduction 5/silver and spell resistance 5  
+- Continuous *magic circle against evil*  
+- Fast healing 1  
+- Damage reduction 10/magic  
+- Spell resistance 10  
+- Additional 2d8 HD  
+- Complete removal of immunities and resistances except mind-affecting immunity, plus resistance 5 to acid, cold, electricity, fire, and poison
 
-*Resistances:*Depending on the nature of the petitioner's plane, the
-petitioner gains resistance 20 against two of the following effects:
-acid, cold, electricity, or fire.
+These modifications depend on **cosmic traits** or the plane's dominant powers.
 
-*Planar Commitment:* Petitioners cannot leave the plane they inhabit.
-They are teleported one hundred miles in a random direction if an
-attempt is made to force them to leave.
-
-*Additional Special Qualities:* Particular planes may provide additional
-benefits for petitioners of those planes. Typical additional special
-qualities may include any one of the following.
-
--   Damage reduction 5/silver and spell resistance 5.
--   Continuous magic circle against evil.
--   Fast healing 1.
--   Damage reduction 10/magic.
--   Spell resistance 10.
--   Additional 2d8 Hit Dice.
--   Remove all immunities and resistances except immunity to
-    mind-affecting effects. Add acid, cold, electricity, fire, and
-    poison resistance 5.
-
-Such modifications are the result of the nature of the plane or the
-powerful beings within it.
-
-### Saves
-Base saving throw bonuses are +3.
+### Saving Throws
+Base bonuses set to **+3** across all save types.
 
 ### Abilities
-Same as the base creature. Some cosmologies or deities
-may set a maximum of 18 for petitioner ability scores. Abilities higher
-than that are reduced to the maximum.
+Same as base creature. Some cosmologies cap ability scores at **18** — excess scores are reduced.
 
-### Skills
-Petitioners have no skills. Previous skills are lost.
-
-### Feats
-Petitioners have no feats. Previous feats are lost.
+### Skills & Feats
+Petitioners **lose all skills and feats** from life.
 
 ### Climate/Terrain
-Any land and underground (within the same plane).
+Any land or underground area on their native plane.
 
 ### Organization
-Same as the base creature.
+As per the base creature.
 
 ### Challenge Rating
-1.
+Set to **1**.
 
 ### Treasure
 None.
 
 ### Alignment
-Same as the native plane.
+Matches the native plane.
 
 ### Advancement
 None.
 
 ## Exceptional Petitioners
 
-The deities may choose particular servants for specific tasks that may
-retain the knowledge of their previous selves. These exceptional
-petitioners retain the feats and skills they had in life, but are
-otherwise limited as for the petitioners of their plane.
+Some deities choose unique servants for special tasks — **exceptional petitioners**. These retain feats and skills from life but otherwise conform to the petitioner template.
+
 
 ---
 
