@@ -2,7 +2,9 @@
 lang: en
 title: 3.5 Compendium / 3.5 Compendium Monsters Index
 aliases: 3.5 Compendium Monsters Index
-tags: 3-5e/rules/monsters
+tags: 
+  - 35E_SRD 
+  - Monster
 ---
 
 # All Monsters A to Z

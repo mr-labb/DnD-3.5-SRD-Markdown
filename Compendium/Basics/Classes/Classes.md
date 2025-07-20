@@ -18,7 +18,21 @@ tag: Class
 * [[Rogue]]
 * [[Sorcerer]]
 * [[Wizard]]
+* [[Psion]]
+* [[Psychic Warrior]]
+* [[Soulknife]]
+* [[Wilder]]
 
+**Prestige**
+[[Cerebremancer]]
+[[Elocater]]
+[[Metamind]]
+[[Psion Uncarnate]]
+[[Psionic Fist]]
+[[Psychic Slayer]]
+[[Pyrokineticist]]
+[[Thrallherd]]
+[[War Mind]]
 
 #### [[#NPC Classes]]
 * [[Adept]]

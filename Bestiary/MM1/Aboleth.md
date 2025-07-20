@@ -1,7 +1,9 @@
 ---
 aliases: [Aboleth]
 title: Bestiary/MM1/Aboleth
-tags: [35E_SRD, Monster]
+tags: 
+  - 35E_SRD 
+  - Monster
 Monster: Aboleth
 Size: Huge
 Type: Aberration

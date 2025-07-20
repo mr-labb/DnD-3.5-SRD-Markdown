@@ -19,10 +19,12 @@ What it will include:
 
 ##  To do
 
-- [ ] Categorize and format everything in the SRD_Contents ZIP;
+- [ ] Review each spell to include internal link (table need to be redone in markdown format)
+- [ ] Review spell for those saying function like ...  and put the right text instead
+- [ ] Divine Rules need to be formated
+- [ ] Psionics need to be formated
+- [ ] Epic  Rules need to be formated
 - [ ] In the bestiary, True Dragon need to be done as individual file
 - [ ] Dice Roller support not tested
 - [ ] Initiative Tracker Support not tested
-- [ ] Review each spell to include internal link (table need to be redone in markdown format)
-- [ ] Review spell for those saying function like ...  and put the right text instead
 
