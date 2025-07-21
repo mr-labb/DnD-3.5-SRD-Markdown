@@ -1,7 +1,14 @@
 ---
 aliases: [Cat's Grace]
 title: Compendium/Basics/Spell/Cat's Grace
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Druid, Ranger, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Druid
+  - Ranger
+  - Bard
 Spell Name: Cat's Grace
 School: Transmutation
 Subschool: 
@@ -13,7 +20,6 @@ Level:
   - Sor/Wiz 2
 Source: PHB
 ---
-
 
 ## Cat's Grace
 
@@ -27,15 +33,20 @@ Subject gains +4 to Dex for 1 min./level.
 *   **Effect:** Creature touched
 *   **Duration:** 1 min./level
 *   **Saving Throw:** Will negates (harmless)
-*   **Spell Resistance:** Yes
+*   **Spell Resistance:** Yes (harmless)
 
-<p>The transmuted creature becomes more graceful, agile, and coordinated. The spell grants a +4 enhancement bonus to Dexterity, adding the usual benefits to AC, Reflex saves, and other uses of the Dexterity modifier.</p><p><i>Material Component:</i> A pinch of cat fur.</p>
+The transmuted creature becomes noticeably more agile, graceful, and coordinated. The spell grants a **+4 enhancement bonus to Dexterity**, improving:
+
+- Armor Class (AC)
+- Reflex saving throws
+- Dexterity-based skills and checks
+- Initiative rolls
+
+*Material Component:* A pinch of cat fur.
 
 Source : PHB P208
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

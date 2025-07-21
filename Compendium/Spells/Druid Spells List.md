@@ -1,10 +1,11 @@
 ---
 aliases: [Druid Spells List]
 title: Compendium/Basics/Spell/Wizard Spell List
-tags: [35E_SRD, Spell, Druid]
+tags:
+  - 35E_SRD
+  - Spell
+  - Druid
 ---
-
-
 
 
 
@@ -231,10 +232,6 @@ tags: [35E_SRD, Spell, Druid]
 |[[Summon Natures Ally IX]] :|Conjuration|Calls creature to fight.|
 |[[Sympathy]] :|Enchantment|Object or location attracts certain creatures.|
 
-
-
-
----
 
 ---
 

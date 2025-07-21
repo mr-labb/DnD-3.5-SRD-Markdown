@@ -1,7 +1,10 @@
 ---
 aliases: [Blasphemy]
 title: Compendium/Basics/Spell/Blasphemy
-tags: [35E_SRD, Spell, Cleric]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
 Spell Name: Blasphemy
 School: Evocation
 Subschool: 
@@ -11,7 +14,6 @@ Level:
   - Evil 7
 Source: PHB
 ---
-
 
 ## Blasphemy
 
@@ -27,13 +29,29 @@ Kills, paralyzes, weakens, or dazes nonevil subjects.
 *   **Saving Throw:** None or Will negates; see text
 *   **Spell Resistance:** Yes
 
-<p>Any nonevil creature within the area of a <i>blasphemy</i> spell suffers the following ill effects.</p><table> <tr decoration="underline"> <td> <b>HD</b> </td> <td> <b>Effect</b> </td> </tr> <tr> <td> Equal to caster level </td> <td> Dazed </td> </tr> <tr> <td> Up to caster level -1 </td> <td> Weakened, dazed </td> </tr> <tr> <td> Up to caster level -5 </td> <td> Paralyzed, weakened, dazed </td> </tr> <tr> <td> Up to caster level -10 </td> <td> Killed, paralyzed, weakened, dazed </td> </tr> </table><p>The effects are cumulative and concurrent.</p><p>No saving throw is allowed against these effects.</p><p><i>Dazed:</i> The creature can take no actions for 1 round, though it defends itself normally.</p><p><i>Weakened:</i> The creature's Strength score decreases by 2d6 points for 2d4 rounds.</p><p><i>Paralyzed:</i> The creature is paralyzed and helpless for 1d10 minutes.</p><p><i>Killed:</i> Living creatures die. Undead creatures are destroyed.</p><p>Furthermore, if you are on your home plane when you cast this spell, nonevil extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the <i>blasphemy.</i> The banishment effect allows a Will save (at a -4 penalty) to negate.</p><p>Creatures whose Hit Dice exceed your caster level are unaffected by <i>blasphemy.</i></p>
+Any nonevil creature within the area of a *blasphemy* spell suffers the following cumulative and concurrent ill effects:
+
+| HD Compared to Caster Level      | Effect(s)                                 |
+|----------------------------------|-------------------------------------------|
+| Equal to caster level            | Dazed                                     |
+| Up to caster level –1            | Weakened, Dazed                           |
+| Up to caster level –5            | Paralyzed, Weakened, Dazed                |
+| Up to caster level –10           | Killed, Paralyzed, Weakened, Dazed        |
+
+No saving throw is allowed against these effects:
+
+- **Dazed:** Cannot take actions for 1 round; defends normally.  
+- **Weakened:** Strength –2d6 for 2d4 rounds.  
+- **Paralyzed:** Helpless for 1d10 minutes.  
+- **Killed:** Living creatures die; undead are destroyed.
+
+If you cast *blasphemy* on your home plane, nonevil extraplanar creatures within range are instantly **banished** for at least 24 hours. This banishment **does** allow a Will save at **–4 penalty** to resist.
+
+Creatures with Hit Dice **higher than your caster level** are **unaffected**.
 
 Source : PHB P205
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

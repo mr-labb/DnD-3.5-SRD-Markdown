@@ -1,7 +1,12 @@
 ---
 aliases: [Displacement]
 title: Compendium/Basics/Spell/Displacement
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Bard]
+tags:
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Bard
 Spell Name: Displacement
 School: Illusion
 Subschool: (Glamer)
@@ -12,28 +17,39 @@ Level:
 Source: PHB
 ---
 
-
 ## Displacement
 
 Attacks miss subject 50%.
 
-*   Illusion (Glamer)
-*   **Level:** Brd 3, Sor/Wiz 3
-*   **Components:** V, M
-*   **Casting Time:** 1 standard action
-*   **Range:** Touch
-*   **Effect:** Creature touched
-*   **Duration:** 1 round/level (D)
-*   **Saving Throw:** Will negates (harmless)
-*   **Spell Resistance:** Yes (harmless)
+### Spell Details
 
-<p>The subject of this spell appears to be about 2 feet away from its true location. The creature benefits from a 50% miss chance as if it had total concealment. However, unlike actual total concealment, <i>displacement</i> does not prevent enemies from targeting the creature normally. <i>True seeing</i> reveals its true location.</p><p><i>Material Component:</i> A small strip of leather twisted into a loop.</p>
+- **School:** Illusion (Glamer)  
+- **Level:** Brd 3, Sor/Wiz 3  
+- **Components:** V, M  
+- **Casting Time:** 1 standard action  
+- **Range:** Touch  
+- **Effect:** Creature touched  
+- **Duration:** 1 round/level (D)  
+- **Saving Throw:** Will negates (harmless)  
+- **Spell Resistance:** Yes (harmless)  
 
-Source : PHB P223
+### Description
+
+This spell cloaks the subject in an illusory effect that makes it appear to be about **2 feet away from its true position**.
+
+- Grants a **50% miss chance** on attacks targeting the creature  
+  - Similar to **total concealment**, but attackers can still target normally  
+- Does **not affect** spell targeting or area effects  
+- Creatures with **True Seeing** can perceive the actual location
+
+### Material Component
+
+- A small strip of **leather twisted into a loop**
+
+
+**Source:** PHB P223
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

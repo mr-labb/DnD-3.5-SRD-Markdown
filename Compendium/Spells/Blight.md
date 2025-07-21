@@ -1,7 +1,12 @@
 ---
 aliases: [Blight]
 title: Compendium/Basics/Spell/Blight
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Druid]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Druid
 Spell Name: Blight
 School: Necromancy
 Subschool: 
@@ -11,7 +16,6 @@ Level:
   - Sor/Wiz 5
 Source: PHB
 ---
-
 
 ## Blight
 
@@ -27,13 +31,15 @@ Withers one plant or deals 1d6/level damage to plant creature.
 *   **Saving Throw:** Fortitude half; see text
 *   **Spell Resistance:** Yes
 
-<p>This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage. A plant that isn't a creature doesn't receive a save and immediately withers and dies.</p><p>This spell has no effect on the soil or surrounding plant life.</p>
+This spell withers a single plant of any size. If the target is a plant creature, it takes 1d6 damage per caster level (maximum 15d6) and can attempt a Fortitude save for half damage.
+
+If the target is a non-creature plant, it receives no saving throw and immediately withers and dies.
+
+This spell does not affect surrounding plant life or soil.
 
 Source : PHB P206
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

@@ -1,7 +1,12 @@
 ---
 aliases: [Blur]
 title: Compendium/Basics/Spell/Blur
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Bard
 Spell Name: Blur
 School: Illusion
 Subschool: (Glamer)
@@ -12,13 +17,12 @@ Level:
 Source: PHB
 ---
 
-
 ## Blur
 
 Attacks miss subject 20% of the time.
 
 *   Illusion (Glamer)
-*   **Level:** Brd 2,Sor/Wiz 2
+*   **Level:** Brd 2, Sor/Wiz 2
 *   **Components:** V
 *   **Casting Time:** 1 standard action
 *   **Range:** Touch
@@ -27,13 +31,15 @@ Attacks miss subject 20% of the time.
 *   **Saving Throw:** Will negates (harmless)
 *   **Spell Resistance:** Yes (harmless)
 
-<p>The subject's outline appears blurred, shifting and wavering. This distortion grants the subject concealment (20% miss chance).</p><p>A <i>see invisibility</i> spell does not counteract the <i>blur</i> effect, but a <i>true seeing</i> spell does.</p><p>Opponents that cannot see the subject ignore the spell's effect (though fighting an unseen opponent carries penalties of its own).</p>
+The subject's outline appears blurred, shifting and wavering. This visual distortion grants the subject **concealment**, resulting in a **20% miss chance** on attacks.
+
+- *See invisibility* does **not** negate the effect.
+- *True seeing* **does** counteract the blur.
+- Opponents who **cannot see** the subject ignore the spell’s effect (though attacking unseen targets incurs its own penalties).
 
 Source : PHB P206
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

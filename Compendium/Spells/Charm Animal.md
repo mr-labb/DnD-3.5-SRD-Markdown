@@ -1,7 +1,11 @@
 ---
 aliases: [Charm Animal]
 title: Compendium/Basics/Spell/Charm Animal
-tags: [35E_SRD, Spell, Druid, Ranger]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Druid
+  - Ranger
 Spell Name: Charm Animal
 School: Enchantment
 Subschool: (Charm)
@@ -11,7 +15,6 @@ Level:
   - Rgr 1
 Source: PHB
 ---
-
 
 ## Charm Animal
 
@@ -27,13 +30,15 @@ Makes one animal your friend.
 *   **Saving Throw:** Will negates
 *   **Spell Resistance:** Yes
 
-This spell functions like [[charm person]], except that it affects a creature of the animal type.
+This spell functions like [[Charm Person]], except that it affects one **creature of the animal type**.
+
+- The animal regards you as a trusted friend and ally.
+- It will follow your suggestions and cooperate unless harmed or endangered.
+- Intelligence 1–2 animals only; does not affect magical beasts or higher-intelligence creatures.
 
 Source : PHB P208
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

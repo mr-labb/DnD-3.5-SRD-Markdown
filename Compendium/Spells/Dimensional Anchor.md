@@ -1,7 +1,12 @@
 ---
 aliases: [Dimensional Anchor]
 title: Compendium/Basics/Spell/Dimensional Anchor
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Cleric]
+tags:
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Cleric
 Spell Name: Dimensional Anchor
 School: Abjuration
 Subschool: 
@@ -12,28 +17,50 @@ Level:
 Source: PHB
 ---
 
-
 ## Dimensional Anchor
 
 Bars extradimensional movement.
 
-*   Abjuration
-*   **Level:** Clr 4, Sor/Wiz 4
-*   **Components:** V, S
-*   **Casting Time:** 1 standard action
-*   **Range:** Medium (100 ft. + 10 ft./level)
-*   **Effect:** Ray
-*   **Duration:** 1 min./level
-*   **Saving Throw:** None
-*   **Spell Resistance:** Yes (object)
+### Spell Details
 
-<p>A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck by the ray is covered with a shimmering emerald field that completely blocks extradimensional travel. Forms of movement barred by a <i>dimensional anchor</i> include <i>astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport,</i> and similar spell-like or psionic abilities. The spell also prevents the use of a <i>gate</i> or <i>teleportation circle</i> for the duration of the spell.</p><p>A <i>dimensional anchor</i> does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms. Also, <i>dimensional anchor</i> does not prevent summoned creatures from disappearing at the end of a summoning spell.</p>
+- **School:** Abjuration  
+- **Level:** Clr 4, Sor/Wiz 4  
+- **Components:** V, S  
+- **Casting Time:** 1 standard action  
+- **Range:** Medium (100 ft. + 10 ft./level)  
+- **Effect:** Ray  
+- **Duration:** 1 min./level  
+- **Saving Throw:** None  
+- **Spell Resistance:** Yes (object)  
 
-Source : PHB P221
+### Description
+
+A green ray springs from your outstretched hand. You must make a **ranged touch attack** to hit the target. Any creature or object struck becomes surrounded by a **shimmering emerald field** that prevents all **extradimensional travel**.
+
+### Blocked Effects
+
+The following forms of movement are blocked:
+
+- [[Astral Projection]]  
+- [[Blink]]  
+- [[Dimension Door]]  
+- [[Ethereal Jaunt]], [[Etherealness]]  
+- [[Gate]], [[Maze]]  
+- [[Plane Shift]], [[Shadow Walk]], [[Teleport]]  
+- Similar spell-like or psionic effects
+
+It also disables [[Gate]] and [[Teleportation Circle]] for the duration.
+
+### Exceptions
+
+- Does **not affect** creatures **already in ethereal or astral form** when cast  
+- Does **not block** extradimensional **perception or attacks**  
+- Does **not prevent** **summoned creatures** from disappearing at the end of a summoning duration
+
+
+**Source:** PHB P221
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

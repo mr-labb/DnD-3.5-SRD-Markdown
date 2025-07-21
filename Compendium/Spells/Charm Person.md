@@ -1,7 +1,12 @@
 ---
 aliases: [Charm Person]
 title: Compendium/Basics/Spell/Charm Person
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Bard
 Spell Name: Charm Person
 School: Enchantment
 Subschool: (Charm)
@@ -11,7 +16,6 @@ Level:
   - Sor/Wiz 1
 Source: PHB
 ---
-
 
 ## Charm Person
 
@@ -27,13 +31,18 @@ Makes one person your friend.
 *   **Saving Throw:** Will negates
 *   **Spell Resistance:** Yes
 
-<p>This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target's attitude as friendly). If the creature is currently being threatened or attacked by you or your allies, however, it receives a +5 bonus on its saving throw.</p><p>The spell does not enable you to control the <i>charmed</i> person as if it were an automaton, but it perceives your words and actions in the most favorable way. You can try to give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. (Retries are not allowed.) An affected creature never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing. Any act by you or your apparent allies that threatens the <i>charmed</i> person breaks the spell. You must speak the person's language to communicate your commands, or else be good at pantomiming.</p>
+This spell makes a humanoid creature regard you as a trusted friend and ally (as if its attitude were "friendly").
+
+- If the target is currently **threatened or attacked** by you or your allies, it receives a **+5 bonus** on its saving throw.
+- The charmed target is **not under direct control**, but interprets your words and actions favorably.
+- You may issue **suggestions or commands**, but anything it wouldn’t normally do requires an **opposed Charisma check** (no retries allowed).
+- The target **never obeys suicidal or obviously harmful instructions**, though risky actions may be persuaded.
+- **Any threat or damage** from you or your allies **breaks the charm immediately**.
+- You must be able to **speak the creature’s language** or use clear pantomime to communicate.
 
 Source : PHB P209
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

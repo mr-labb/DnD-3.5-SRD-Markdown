@@ -1,7 +1,10 @@
 ---
 aliases: [Bless Weapon]
 title: Compendium/Basics/Spell/Bless Weapon
-tags: [35E_SRD, Spell, Paladin]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Paladin
 Spell Name: Bless Weapon
 School: Transmutation
 Subschool: 
@@ -10,7 +13,6 @@ Level:
   - Pal 1
 Source: PHB
 ---
-
 
 ## Bless Weapon
 
@@ -26,13 +28,24 @@ Weapon strikes true against evil foes.
 *   **Saving Throw:** None
 *   **Spell Resistance:** No
 
-<p>This transmutation makes a weapon strike true against evil foes. The weapon is treated as having a +1 enhancement bonus for the purpose of bypassing the damage reduction of evil creatures or striking evil incorporeal creatures (though the spell doesn't grant an actual enhancement bonus). The weapon also becomes good, which means it can bypass the damage reduction of certain creatures. (This effect overrides and suppresses any other alignment the weapon might have.) Individual arrows or bolts can be transmuted, but affected projectile weapons (such as bows) don't confer the benefit to the projectiles they shoot.</p><p>In addition, all critical hit rolls against evil foes are automatically successful, so every threat is a critical hit. This last effect does not apply to any weapon that already has a magical effect related to critical hits, such as a keen weapon or a vorpal sword.</p>
+This transmutation makes a weapon strike true against evil foes. The weapon is treated as having a +1 enhancement bonus for:
+- Bypassing the damage reduction of evil creatures
+- Striking evil incorporeal creatures  
+> Note: This spell doesn't grant an actual enhancement bonus.
+
+The weapon also gains the *good* alignment:
+- Bypasses DR of certain creatures
+- Suppresses any other alignment it may have
+
+Individual arrows or bolts can be transmuted. However, projectile weapons (e.g. bows) do not confer this benefit to ammunition.
+
+Additionally, all critical hit rolls against evil foes are automatically successful:
+- Every threat becomes a confirmed critical hit
+- This does *not* apply to weapons with magical effects related to crits (e.g. *keen*, *vorpal*)
 
 Source : PHB P205
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

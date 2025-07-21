@@ -1,7 +1,11 @@
 ---
 aliases: [Burning Hands]
 title: Compendium/Basics/Spell/Burning Hands
-tags: [35E_SRD, Spell, Sorcerer, Wizard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
 Spell Name: Burning Hands
 School: Evocation
 Subschool: 
@@ -11,7 +15,6 @@ Level:
   - Sor/Wiz 1
 Source: PHB
 ---
-
 
 ## Burning Hands
 
@@ -27,13 +30,11 @@ Source: PHB
 *   **Saving Throw:** Reflex half
 *   **Spell Resistance:** Yes
 
-<p>A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.</p><p> </p>
+A cone of searing flame shoots from your fingertips. Each creature in the area takes **1d4 points of fire damage per caster level** (maximum **5d4**). Flammable materials ignite if touched by the flame. Burning items can be extinguished with a **full-round action**.
 
 Source : PHB P207
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

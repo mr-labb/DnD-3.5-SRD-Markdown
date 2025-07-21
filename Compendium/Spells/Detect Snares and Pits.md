@@ -1,7 +1,11 @@
 ---
 aliases: [Detect Snares and Pits]
 title: Compendium/Basics/Spell/Detect Snares and Pits
-tags: [35E_SRD, Spell, Druid, Ranger]
+tags:
+  - 35E_SRD
+  - Spell
+  - Druid
+  - Ranger
 Spell Name: Detect Snares and Pits
 School: Divination
 Subschool: 
@@ -12,28 +16,49 @@ Level:
 Source: PHB
 ---
 
-
 ## Detect Snares and Pits
 
 Reveals natural or primitive traps.
 
-*   Divination
-*   **Level:** Drd 1, Rgr 1
-*   **Components:** V, S
-*   **Casting Time:** 1 standard action
-*   **Range:** 60 ft.
-*   **Effect:** Cone-shaped emanation
-*   **Duration:** Concentration, up to 10 min./level (D)
-*   **Saving Throw:** None
-*   **Spell Resistance:** No
+### Spell Details
 
-<p>You can detect simple pits, deadfalls, and snares as well as mechanical traps constructed of natural materials. The spell does not detect complex traps, including trapdoor traps.</p><p><i>Detect snares and pits</i> does detect certain natural hazards - quicksand (a snare), a sinkhole (a pit), or unsafe walls of natural rock (a deadfall). However, it does not reveal other potentially dangerous conditions. The spell does not detect magic traps (except those that operate by pit, deadfall, or snaring; see the spell <i>snare</i>), nor mechanically complex ones, nor those that have been rendered safe or inactive.</p><p>The amount of information revealed depends on how long you study a particular area.</p><p><i>1st Round:</i> Presence or absence of hazards.</p><p><i>2nd Round:</i> Number of hazards and the location of each. If a hazard is outside your line of sight, then you discern its direction but not its exact location.</p><p><i>Each Additional Round:</i> The general type and trigger for one particular hazard closely examined by you.</p><p>Each round, you can turn to detect snares and pits in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.</p>
+- **School:** Divination  
+- **Level:** Drd 1, Rgr 1  
+- **Components:** V, S  
+- **Casting Time:** 1 standard action  
+- **Range:** 60 ft.  
+- **Effect:** Cone-shaped emanation  
+- **Duration:** Concentration, up to 10 min./level (D)  
+- **Saving Throw:** None  
+- **Spell Resistance:** No  
 
-Source : PHB P220
+### Description
+
+You detect simple pits, deadfalls, snares, and mechanical traps built from natural materials. The spell does not reveal complex mechanisms, trapdoor traps, or other sophisticated constructions.
+
+It does detect certain natural hazards, such as:
+- Quicksand (considered a snare)  
+- Sinkholes (considered pits)  
+- Unsafe natural rock formations (deadfalls)  
+
+However, it does not identify other dangerous conditions or magical traps unless they mimic a snaring, pit, or falling hazard (e.g., see [[Snare]] spell). Safe or deactivated traps are also undetectable by this spell.
+
+### Information by Round
+
+- **1st Round:** Presence or absence of hazards  
+- **2nd Round:** Number and location of hazards; if not visible, reveals only direction  
+- **Each Additional Round:** General type and triggering mechanism of one closely examined hazard
+
+You may change direction each round to examine a new area. The spell penetrates most barriers but is blocked by:
+- 1 foot of stone  
+- 1 inch of common metal  
+- A thin sheet of lead  
+- 3 feet of wood or dirt
+
+
+**Source:** PHB P220
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

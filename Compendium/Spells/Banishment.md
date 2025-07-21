@@ -1,7 +1,12 @@
 ---
 aliases: [Banishment]
 title: Compendium/Basics/Spell/Banishment
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Cleric]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Cleric
 Spell Name: Banishment
 School: Abjuration
 Subschool: 
@@ -11,7 +16,6 @@ Level:
   - Sor/Wiz 7
 Source: PHB
 ---
-
 
 ## Banishment
 
@@ -27,13 +31,19 @@ Banishes 2 HD/level of extraplanar creatures.
 *   **Saving Throw:** Will negates
 *   **Spell Resistance:** Yes
 
-<p>A <i>banishment</i> spell is a more powerful version of the <i>dismissal</i> spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.</p><p>You can improve the spell's chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes. For each such object or substance, you gain a +1 bonus on your caster level check to overcome the target's spell resistance (if any), the saving throw DC increases by 2.</p><p>Certain rare items might work twice as well as a normal item for the purpose of the bonuses (each providing a +2 bonus on the caster level check against spell resistance and increasing the save DC by 4).</p><p><i>Arcane Focus:</i> Any item that is distasteful to the subject (optional, see above).</p>
+A *banishment* spell is a more powerful version of the *dismissal* spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.
+
+You can improve the spell's chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes. For each such object or substance:
+- You gain a +1 bonus on your caster level check to overcome the target's spell resistance (if any).
+- The saving throw DC increases by 2.
+
+Certain rare items might work twice as well for these bonuses (each granting +2 on caster level check and increasing the save DC by 4).
+
+*Arcane Focus:* Any item that is distasteful to the subject (optional, see above).
 
 Source : PHB P203
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

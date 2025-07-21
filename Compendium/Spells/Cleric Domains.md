@@ -1,16 +1,19 @@
 ---
 aliases: [Cleric Domains]
 title: Compendium/Basics/Spell/Cleric Domains
-tags: [35E_SRD, Spell, Cleric, Domains]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
+  - Domains
 ---
 
 
 # Cleric Domains
 
 
-|||||
-|---|---|---|---|---|---|
 |Air|Creation|Fire|Liberation|Protection|Travel|
+|---|---|---|---|---|---|
 |Animal|Darkness|Glory|Luck|Repose|Trickery|
 |Artifice|Death|Good|Madness|Rune|War|
 |Chaos|Destruction|Healing|Magic|Skalykind|Water|

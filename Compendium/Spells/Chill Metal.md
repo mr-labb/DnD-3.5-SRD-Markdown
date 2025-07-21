@@ -1,7 +1,10 @@
 ---
 aliases: [Chill Metal]
 title: Compendium/Basics/Spell/Chill Metal
-tags: [35E_SRD, Spell, Druid]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Druid
 Spell Name: Chill Metal
 School: Transmutation
 Subschool: 
@@ -10,7 +13,6 @@ Level:
   - Drd 2
 Source: PHB
 ---
-
 
 ## Chill Metal
 
@@ -21,18 +23,46 @@ Cold metal damages those who touch it.
 *   **Components:** V, S, DF
 *   **Casting Time:** 1 standard action
 *   **Range:** Close (25 ft. + 5 ft./2 levels)
-*   **Effect:** Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from any of the rest
+*   **Effect:** Metal equipment of one creature per two levels (max 1 target/2 levels), no two of which can be more than 30 ft. apart; or up to 25 lb. of metal/level, all within 30 ft. of each other
 *   **Duration:** 7 rounds
 *   **Saving Throw:** Will negates (object)
 *   **Spell Resistance:** Yes (object)
 
-<p><i>Chill metal</i> makes metal extremely cold. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw bonus unless its own is higher.</p><p>A creature takes cold damage if its equipment is chilled. It takes full damage if its armor is affected or if it is holding, touching, wearing, or carrying metal weighing one-fifth of its weight. The creature takes minimum damage (1 point or 2 points; see the table) if it's not wearing metal armor and the metal that it's carrying weighs less than one-fifth of its weight.</p><p>On the first round of the spell, the metal becomes chilly and uncomfortable to touch but deals no damage. The same effect also occurs on the last round of the spell's duration. During the second (and also the next-to-last) round, icy coldness causes pain and damage. In the third, fourth, and fifth rounds, the metal is freezing cold, causing more damage, as shown on the table below.</p><table> <tr decoration="underline"> <td> <b>Round</b> </td> <td> <b>Metal Temperature</b> </td> <td> <b>Damage</b> </td> </tr> <tr> <td> 1 </td> <td> Cold </td> <td> None </td> </tr> <tr> <td> 2 </td> <td> Icy </td> <td> 1d4 points </td> </tr> <tr> <td> 3-5 </td> <td> Freezing </td> <td> 2d4 points </td> </tr> <tr> <td> 6 </td> <td> Icy </td> <td> 1d4 points </td> </tr> <tr> <td> 7 </td> <td> Cold </td> <td> None </td> </tr> </table><p>Any heat intense enough to damage the creature negates cold damage from the spell (and vice versa) on a point-for-point basis. Underwater, <i>chill metal</i> deals no damage, but ice immediately forms around the affected metal, making it more buoyant.</p><p><i>Chill metal</i> counters and dispels <i>heat metal</i>.</p>
+The spell chills selected metal, dealing cold damage to creatures in contact with it:
+
+- **Unattended, nonmagical metal**: no save  
+- **Magical or attended metal**: saving throw allowed  
+- Saving throw bonus uses creature’s if higher than object’s
+
+### Damage Conditions
+
+- **Full damage** (based on spell round):
+  - If wearing affected metal armor
+  - If holding/wearing/carrying metal ≥ 1/5 of body weight
+- **Minimal damage** (1–2 points per round):
+  - If wearing no metal armor
+  - If metal < 1/5 of body weight
+
+### Temperature & Damage by Round
+
+| Round | Metal Temperature | Damage     |
+|-------|-------------------|------------|
+| 1     | Cold              | None       |
+| 2     | Icy               | 1d4 points |
+| 3–5   | Freezing          | 2d4 points |
+| 6     | Icy               | 1d4 points |
+| 7     | Cold              | None       |
+
+- **Heat sources** (fire, lava, etc.) negate cold damage point-for-point
+- **Underwater**: no damage; ice forms on metal, making it more buoyant
+
+### Spell Interaction
+
+- *Chill Metal* **counters and dispels** [[Heat Metal]]
 
 Source : PHB P209
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

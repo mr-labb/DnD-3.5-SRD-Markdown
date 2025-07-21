@@ -1,10 +1,11 @@
 ---
 aliases: [Bard Spells List]
 title: Compendium/Basics/Spell/Wizard Spell List
-tags: [35E_SRD, Spell, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Bard
 ---
-
-
 
 
 
@@ -211,9 +212,6 @@ tags: [35E_SRD, Spell, Bard]
 |[[Sympathetic Vibration]] :|Evocation|Deals 2d10 damage/round to freestanding structure.|
 |[[Veil]] :|Illusion|Changes appearance of group of creatures.|
 
-
-
----
 
 ---
 

@@ -1,7 +1,11 @@
 ---
 aliases: [Bless]
 title: Compendium/Basics/Spell/Bless
-tags: [35E_SRD, Spell, Cleric, Paladin]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
+  - Paladin
 Spell Name: Bless
 School: Enchantment
 Subschool: (Compulsion)
@@ -11,7 +15,6 @@ Level:
   - Pal 1
 Source: PHB
 ---
-
 
 ## Bless
 
@@ -27,13 +30,15 @@ Allies gain +1 on attack rolls and saves against fear.
 *   **Saving Throw:** None
 *   **Spell Resistance:** Yes (harmless)
 
-<p><i>Bless</i> fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.</p><p><i>Bless</i> counters and dispels <i>bane</i>.</p>
+*Bless* fills your allies with courage. Each ally gains a +1 morale bonus on:
+- Attack rolls
+- Saving throws against fear effects
+
+*Bless* counters and dispels *bane*.
 
 Source : PHB P205
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

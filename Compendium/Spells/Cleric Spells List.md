@@ -1,7 +1,11 @@
 ---
 aliases: [Cleric Spells List]
 title: Compendium/Basics/Spell/Wizard Spell List
-tags: [35E_SRD, Spell, Cleric]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
+  - Domains
 ---
 
 

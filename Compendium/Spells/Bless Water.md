@@ -1,7 +1,11 @@
 ---
 aliases: [Bless Water]
 title: Compendium/Basics/Spell/Bless Water
-tags: [35E_SRD, Spell, Cleric, Paladin]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
+  - Paladin
 Spell Name: Bless Water
 School: Transmutation
 Subschool: 
@@ -11,7 +15,6 @@ Level:
   - Pal 1
 Source: PHB
 ---
-
 
 ## Bless Water
 
@@ -27,13 +30,13 @@ Makes holy water.
 *   **Saving Throw:** Will negates (object)
 *   **Spell Resistance:** Yes (object)
 
-<p>This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.</p><p><i>Material Component:</i> 5 pounds of powdered silver (worth 25 gp).</p>
+This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.
+
+*Material Component:* 5 pounds of powdered silver (worth 25 gp).
 
 Source : PHB P205
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

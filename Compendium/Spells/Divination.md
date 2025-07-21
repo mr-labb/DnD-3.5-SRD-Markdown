@@ -1,7 +1,10 @@
 ---
 aliases: [Divination]
 title: Compendium/Basics/Spell/Divination
-tags: [35E_SRD, Spell, Cleric]
+tags:
+  - 35E_SRD
+  - Spell
+  - Cleric
 Spell Name: Divination
 School: Divination
 Subschool: 
@@ -12,28 +15,51 @@ Level:
 Source: PHB
 ---
 
-
 ## Divination
 
 Provides useful advice for specific proposed actions.
 
-*   Divination
-*   **Level:** Clr 4, Knowledge 4
-*   **Components:** V, S, M
-*   **Casting Time:** 10 minutes
-*   **Range:** Personal
-*   **Effect:** You
-*   **Duration:** Instantaneous
-*   **Saving Throw:** Non spécifié
-*   **Spell Resistance:** Non spécifié
+### Spell Details
 
-<p>Similar to <i>augury</i> but more powerful, a <i>divination</i> spell can provide you with a useful piece of advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. If your party doesn't act on the information, the conditions may change so that the information is no longer useful. The base chance for a correct <i>divination</i> is 70% + 1% per caster level, to a maximum of 90%. If the dice roll fails, you know the spell failed, unless specific magic yielding false information is at work.</p><p>As with <i>augury</i>, multiple <i>divinations</i> about the same topic by the same caster use the same dice result as the first <i>divination</i> spell and yield the same answer each time.</p><p><i>Material Component:</i> Incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp.</p>
+- **School:** Divination  
+- **Level:** Clr 4, Knowledge 4  
+- **Components:** V, S, M  
+- **Casting Time:** 10 minutes  
+- **Range:** Personal  
+- **Effect:** You  
+- **Duration:** Instantaneous  
+- **Saving Throw:** Not applicable  
+- **Spell Resistance:** Not applicable  
 
-Source : PHB P224
+### Description
+
+This spell functions like [[Augury]] but is significantly more powerful. It offers advice regarding a **specific goal, event, or activity** that is expected to occur **within one week**.
+
+- The response may be:
+  - A **short phrase**
+  - A **cryptic rhyme**
+  - An **omen**
+
+Accuracy is based on caster level:
+
+- **Base chance:** 70% + 1% per caster level  
+- **Maximum chance:** 90%  
+- If the roll fails, you **know the spell has failed**, unless magically obscured by effects that give false information
+
+### Notes
+
+- Information may become outdated if the party does not act promptly  
+- Casting **multiple divinations on the same topic** results in the **same outcome** as the original casting (using the same dice roll)
+
+### Material Component
+
+- **Incense**  
+- A **sacrificial offering** appropriate to your religion (minimum value: **25 gp**)
+
+
+**Source:** PHB P224
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

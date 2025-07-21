@@ -1,7 +1,10 @@
 ---
 aliases: [Bane]
 title: Compendium/Basics/Spell/Bane
-tags: [35E_SRD, Spell, Cleric]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
 Spell Name: Bane
 School: Enchantment
 Subschool: (Compulsion)
@@ -10,7 +13,6 @@ Level:
   - Clr 1
 Source: PHB
 ---
-
 
 ## Bane
 
@@ -26,13 +28,13 @@ Enemies take -1 on attack rolls and saves against fear.
 *   **Saving Throw:** Will negates
 *   **Spell Resistance:** Yes
 
-<p><i>Bane</i> fills your enemies with fear and doubt. Each affected creature takes a -1 penalty on attack rolls and a -1 penalty on saving throws against fear effects.</p><p><i>Bane</i> counters and dispels <i>bless</i>.</p>
+*Bane* fills your enemies with fear and doubt. Each affected creature takes a –1 penalty on attack rolls and a –1 penalty on saving throws against fear effects.
+
+*Bane* counters and dispels *bless*.
 
 Source : PHB P203
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

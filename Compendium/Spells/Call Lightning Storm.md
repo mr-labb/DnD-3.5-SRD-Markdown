@@ -1,7 +1,10 @@
 ---
 aliases: [Call Lightning Storm]
 title: Compendium/Basics/Spell/Call Lightning Storm
-tags: [35E_SRD, Spell, Druid]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Druid
 Spell Name: Call Lightning Storm
 School: Evocation
 Subschool: 
@@ -10,7 +13,6 @@ Level:
   - Drd 5
 Source: PHB
 ---
-
 
 ## Call Lightning Storm
 
@@ -26,13 +28,15 @@ As [[Call Lightning]], but 5d6 damage per bolt.
 *   **Saving Throw:** Reflex half
 *   **Spell Resistance:** Yes
 
-<p>This spell functions like <i>call lightning</i>, except that each bolt deals 5d6 points of electricity damage (or 5d10 if created outdoors in a stormy area), and you may call a maximum of 15 bolts.</p>
+This spell functions like *Call Lightning*, allowing you to summon **vertical bolts of lightning** (30-ft. line, 5-ft. wide) once per round. Each bolt deals:
+- **5d6 electricity damage**, or
+- **5d10** if cast **outdoors in a stormy area** (rain, clouds, wind, tornado)
+
+You can summon a **maximum of 15 bolts**, one per round as a standard action. The lightning strikes any chosen point within range, affecting all creatures in its path.
 
 Source : PHB P207
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

@@ -1,7 +1,12 @@
 ---
 aliases: [Dimension Door]
 title: Compendium/Basics/Spell/Dimension Door
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Bard]
+tags:
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Bard
 Spell Name: Dimension Door
 School: Conjuration
 Subschool: (Teleportation)
@@ -13,28 +18,52 @@ Level:
 Source: PHB
 ---
 
-
 ## Dimension Door
 
-Teleports you short distance.
+Teleports you a short distance.
 
-*   Conjuration (Teleportation)
-*   **Level:** Brd 4, Sor/Wiz 4, Travel 4
-*   **Components:** V
-*   **Casting Time:** 1 standard action
-*   **Range:** Long (400 ft. + 40 ft./level)
-*   **Effect:** You and touched objects or other touched willing creatures
-*   **Duration:** Instantaneous
-*   **Saving Throw:** None and Will negates (object)
-*   **Spell Resistance:** No and Yes (object)
+### Spell Details
 
-<p>You instantly transfer yourself from your current location to any other spot within range. You always arrive at exactly the spot desired - whether by simply visualizing the area or by stating direction. After using this spell, you can't take any other actions until your next turn. You can bring along objects as long as their weight doesn't exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.</p><p>If you arrive in a place that is already occupied by a solid body, you and each creature traveling with you take 1d6 points of damage and are shunted to a random open space on a suitable surface within 100 feet of the intended location.</p><p>If there is no free space within 100 feet, you and each creature traveling with you take an additional 2d6 points of damage and are shunted to a free space within 1,000 feet. If there is no free space within 1,000 feet, you and each creature travelling with you take an additional 4d6 points of damage and the spell simply fails.</p>
+- **School:** Conjuration (Teleportation)  
+- **Level:** Brd 4, Sor/Wiz 4, Travel 4  
+- **Components:** V  
+- **Casting Time:** 1 standard action  
+- **Range:** Long (400 ft. + 40 ft./level)  
+- **Effect:** You and touched objects or other touched willing creatures  
+- **Duration:** Instantaneous  
+- **Saving Throw:** None and Will negates (object)  
+- **Spell Resistance:** No and Yes (object)  
 
-Source : PHB P221
+### Description
+
+You instantly transport yourself to any location within range. Arrival is precise, based on your visualization or description of the destination. After casting, you can't take further actions until your next turn.
+
+You may carry:
+- Objects up to your **maximum load**  
+- One **willing Medium or smaller creature** per **three caster levels**
+  - Each additional creature must be in physical contact with one another and with you
+  - **Large** creature = 2 Medium  
+  - **Huge** creature = 2 Large, and so on
+
+### Mishap Conditions
+
+If your destination is occupied by a solid body:
+- All travelers take **1d6 damage**
+- Shifted to a **random open space** within **100 ft**
+
+If no space within 100 ft:
+- Additional **2d6 damage**
+- Shifted within **1,000 ft**
+
+If still no space within 1,000 ft:
+- Additional **4d6 damage**
+- Spell **fails**
 
 ---
 
+**Source:** PHB P221
+
 ---
 
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

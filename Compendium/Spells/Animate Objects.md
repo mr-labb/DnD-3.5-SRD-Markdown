@@ -1,7 +1,11 @@
 ---
 aliases: [Animate Objects]
 title: Compendium/Basics/Spell/Animate Objects
-tags: [35E_SRD, Spell, Cleric, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Cleric
+  - Bard
 Spell Name: Animate Objects
 School: Transmutation
 Subschool: 
@@ -12,7 +16,6 @@ Level:
   - Clr 6
 Source: PHB
 ---
-
 
 ## Animate Objects
 
@@ -28,13 +31,17 @@ Objects attack your foes.
 *   **Saving Throw:** None
 *   **Spell Resistance:** No
 
-<p>You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.</p><p>An animated object can be of any nonmagical material. You may animate one Small or smaller object or an equivalent number of larger objects per caster level. A Medium object counts as two Small or smaller objects, a Large object as four, a Huge object as eight, a Gargantuan object as sixteen, and a Colossal object as thirty-two. You can change the designated target or targets as a move action, as if directing an active spell.</p><p>This spell cannot animate objects carried or worn by a creature.</p><p><i>Animate objects</i> can be made permanent with a <i>permanency</i> spell.</p>
+You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.
+
+An animated object can be of any nonmagical material. You may animate one Small or smaller object or an equivalent number of larger objects per caster level. A Medium object counts as two Small or smaller objects, a Large object as four, a Huge object as eight, a Gargantuan object as sixteen, and a Colossal object as thirty-two. You can change the designated target or targets as a move action, as if directing an active spell.
+
+This spell cannot animate objects carried or worn by a creature.
+
+*Animate objects* can be made permanent with a *permanency* spell.
 
 Source : PHB P199
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

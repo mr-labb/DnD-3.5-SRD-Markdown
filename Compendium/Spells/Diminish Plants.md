@@ -1,7 +1,11 @@
 ---
 aliases: [Diminish Plants]
 title: Compendium/Basics/Spell/Diminish Plants
-tags: [35E_SRD, Spell, Druid, Ranger]
+tags:
+  - 35E_SRD
+  - Spell
+  - Druid
+  - Ranger
 Spell Name: Diminish Plants
 School: Transmutation
 Subschool: 
@@ -12,28 +16,51 @@ Level:
 Source: PHB
 ---
 
-
 ## Diminish Plants
 
 Reduces size or blights growth of normal plants.
 
-*   Transmutation
-*   **Level:** Drd 3, Rgr 3
-*   **Components:** V, S, DF
-*   **Casting Time:** 1 standard action
-*   **Range:** See text
-*   **Effect:** See text
-*   **Duration:** Instantaneous
-*   **Saving Throw:** None
-*   **Spell Resistance:** No
+### Spell Details
 
-<p>This spell has two versions.</p><p><i>Prune Growth:</i> This version causes normal vegetation within long range (400 feet + 40 feet per level) to shrink to about one-third of their normal size, becoming untangled and less bushy. The affected vegetation appears to have been carefully pruned and trimmed.</p><p>At your option, the area can be a 100- foot-radius circle, a 150-foot-radius semicircle, or a 200-foot-radius quarter-circle.</p><p>You may also designate portions of the area that are not affected.</p><p><i>Stunt Growth:</i> This version targets normal plants within a range of 1/2 mile, reducing their potential productivity over the course of the following year to one third below normal.</p><p><i>Diminish plants</i> counters <i>plant growth</i>.</p><p>This spell has no effect on plant creatures.</p>
+- **School:** Transmutation  
+- **Level:** Drd 3, Rgr 3  
+- **Components:** V, S, DF  
+- **Casting Time:** 1 standard action  
+- **Range:** See text  
+- **Effect:** See text  
+- **Duration:** Instantaneous  
+- **Saving Throw:** None  
+- **Spell Resistance:** No  
 
-Source : PHB P221
+### Description
+
+This spell has two alternate effects:
+
+#### Prune Growth
+
+Shrinks normal vegetation within long range (400 ft. + 40 ft./level) to approximately one-third its original size.
+
+- Vegetation becomes untangled and less bushy  
+- Appears carefully pruned or trimmed  
+- Area affected may be:
+  - 100-ft.-radius circle  
+  - 150-ft.-radius semicircle  
+  - 200-ft.-radius quarter-circle  
+- You may exclude designated portions from the effect
+
+#### Stunt Growth
+
+Targets normal plants within a range of **½ mile**, reducing their **productivity** over the following year to **one-third** below normal.
+
+### Additional Notes
+
+- *Diminish Plants* counters [[Plant Growth]]  
+- Has **no effect** on **plant creatures**
+
+
+**Source:** PHB P221
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

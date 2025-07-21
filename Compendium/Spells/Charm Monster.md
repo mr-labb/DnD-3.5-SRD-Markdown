@@ -1,7 +1,12 @@
 ---
 aliases: [Charm Monster]
 title: Compendium/Basics/Spell/Charm Monster
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Bard
 Spell Name: Charm Monster
 School: Enchantment
 Subschool: (Charm)
@@ -11,7 +16,6 @@ Level:
   - Sor/Wiz 4
 Source: PHB
 ---
-
 
 ## Charm Monster
 
@@ -27,13 +31,11 @@ Makes monster believe it is your ally.
 *   **Saving Throw:** Will negates
 *   **Spell Resistance:** Yes
 
-This spell functions like [[charm person]], except that the effect is not restricted by creature type or size.
+This spell functions like [[Charm Person]], except that it is not restricted by creature type or size. It can affect any living creature, making it regard you as a trusted friend and ally.
 
 Source : PHB P209
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

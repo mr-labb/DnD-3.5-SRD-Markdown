@@ -1,7 +1,11 @@
 ---
 aliases: [Arcane Lock]
 title: Compendium/Basics/Spell/Arcane Lock
-tags: [35E_SRD, Spell, Sorcerer, Wizard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
 Spell Name: Arcane Lock
 School: Abjuration
 Subschool: 
@@ -10,7 +14,6 @@ Level:
   - Sor/Wiz 2
 Source: PHB
 ---
-
 
 ## Arcane Lock
 
@@ -26,13 +29,13 @@ Magically locks a portal or chest.
 *   **Saving Throw:** None
 *   **Spell Resistance:** No
 
-<p>An <i>arcane lock</i> spell cast upon a door, chest, or portal magically locks it. You can freely pass your own <i>arcane lock</i> without affecting it; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful <i>dispel magic</i> or <i>knock</i> spell. Add 10 to the normal DC to break open a door or portal affected by this spell. (A <i>knock</i> spell does not remove an <i>arcane lock;</i> it only suppresses the effect for 10 minutes.)</p><p><i>Material Component:</i> Gold dust worth 25 gp.</p>
+An *arcane lock* spell cast upon a door, chest, or portal magically locks it. You can freely pass your own *arcane lock* without affecting it; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful *dispel magic* or *knock* spell. Add 10 to the normal DC to break open a door or portal affected by this spell. (A *knock* spell does not remove an *arcane lock*; it only suppresses the effect for 10 minutes.)
+
+*Material Component:* Gold dust worth 25 gp.
 
 Source : PHB P200
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

@@ -1,7 +1,13 @@
 ---
 aliases: [Mass Cat's Grace]
 title: Compendium/Basics/Spell/Cat's Grace, Mass
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Druid, Bard]
+tags: 
+  - 35E_SRD
+  - Spell
+  - Sorcerer
+  - Wizard
+  - Druid
+  - Bard
 Spell Name: Mass Cat's Grace
 School: Transmutation
 Subschool: 
@@ -12,7 +18,6 @@ Level:
   - Sor/Wiz 6
 Source: PHB
 ---
-
 
 ## Cat's Grace, Mass
 
@@ -28,13 +33,11 @@ As [[Cats Grace|Cat's Grace]], affects one subject/level.
 *   **Saving Throw:** Will negates (harmless)
 *   **Spell Resistance:** Yes
 
-<p>This spell functions like <i>cat's grace</i>, except that it affects multiple creatures.</p>
+This spell functions like *cat's grace*, except that it affects multiple creatures simultaneously. Each target receives a +4 enhancement bonus to Dexterity for the duration. The spell can affect up to one creature per caster level, and all targets must be within 30 feet of each other at the time of casting.
 
 Source : PHB P208
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.

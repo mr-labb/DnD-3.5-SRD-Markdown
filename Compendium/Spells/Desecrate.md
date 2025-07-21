@@ -1,7 +1,10 @@
 ---
 aliases: [Desecrate]
 title: Compendium/Basics/Spell/Desecrate
-tags: [35E_SRD, Spell, Cleric]
+tags:
+  - 35E_SRD
+  - Spell
+  - Cleric
 Spell Name: Desecrate
 School: Evocation
 Subschool: 
@@ -12,28 +15,53 @@ Level:
 Source: PHB
 ---
 
-
 ## Desecrate
 
 Fills area with negative energy, making undead stronger.
 
-*   Evocation [Evil]
-*   **Level:** Clr 2, Evil 2
-*   **Components:** V, S, M, DF
-*   **Casting Time:** 1 standard action
-*   **Range:** Close (25 ft. + 5 ft./2 levels)
-*   **Effect:** 20-ft.-radius emanation
-*   **Duration:** 2 hours/level
-*   **Saving Throw:** None
-*   **Spell Resistance:** Yes
+### Spell Details
 
-<p>This spell imbues an area with negative energy. Each Charisma check made to turn undead within this area takes a -3 profane penalty, and every undead creature entering a <i>desecrated</i> area gains a +1 profane bonus on attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD.</p><p>If the <i>desecrated</i> area contains an altar, shrine, or other permanent fixture dedicated to your deity or aligned higher power, the modifiers given above are doubled (-6 profane penalty on turning checks, +2 profane bonus and +2 hit points per HD for undead in the area).</p><p>Furthermore, anyone who casts <i>animate dead</i> within this area may create as many as double the normal amount of undead (that is, 4 HD per caster level rather than 2 HD per caster level).</p><p>If the area contains an altar, shrine, or other permanent fixture of a deity, pantheon, or higher power other than your patron, the <i>desecrate</i> spell instead curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.</p><p><i>Desecrate</i> counters and dispels <i>consecrate</i>.</p><p><i>Material Component:</i> A vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.</p>
+- **School:** Evocation [Evil]  
+- **Level:** Clr 2, Evil 2  
+- **Components:** V, S, M, DF  
+- **Casting Time:** 1 standard action  
+- **Range:** Close (25 ft. + 5 ft./2 levels)  
+- **Effect:** 20-ft.-radius emanation  
+- **Duration:** 2 hours/level  
+- **Saving Throw:** None  
+- **Spell Resistance:** Yes  
 
-Source : PHB P218
+### Description
+
+Desecrate imbues an area with **negative energy**, enhancing undead and weakening turn attempts:
+
+- Turning undead incurs a **–3 profane penalty** on Charisma checks.
+- Undead within the area gain **+1 profane bonus** on attack, damage, and saving throws.
+- Undead created or summoned in the area gain **+1 HP per Hit Die**.
+
+**Altar Bonus:** If the area includes a fixture dedicated to your deity:
+- Penalty to turn undead becomes **–6**
+- Bonuses to undead increase to **+2**
+- HP bonus increases to **+2 per HD**
+
+**Animate Dead Bonus:**
+- Doubles undead creation: **4 HD per caster level** instead of 2
+
+**Desecrate vs. Other Deities:**
+- If cast on a site sacred to another power, it **curses** the area, severing divine connection.
+- This **does not** grant the undead bonuses above.
+
+ Desecrate **counters and dispels** [[Consecrate]].
+
+### Material Component
+
+- A **vial of unholy water**  
+- **25 gp of silver dust** (5 pounds), spread around the area
+
+
+**Source:** PHB P218
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
