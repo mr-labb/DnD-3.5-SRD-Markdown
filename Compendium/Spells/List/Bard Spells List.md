@@ -29,7 +29,7 @@ tags:
 |[[Mage Hand]] :|Transmutation|5-pound [[telekinesis]].|
 |[[Mending]] :|Transmutation|Makes minor repairs on an object.|
 |[[Message]] :|Transmutation|Whispered conversation at distance.|
-|[[Open-Close]] :|Transmutation|Opens or closes small or light things.|
+|[[Open_Close|Open-Close]] :|Transmutation|Opens or closes small or light things.|
 |[[Prestidigitation]] :|Universal|Performs minor tricks.|
 |[[Read Magic]] :|Divination|Read scrolls and spellbooks.|
 |[[Resistance]] :|Abjuration|Subject gains +1 on saving throws.|
@@ -112,7 +112,7 @@ tags:
 |---|---|---|
 |[[Blink]] :|Transmutation|You randomly vanish and reappear for 1 round/level.|
 |[[Charm Monster]] :|Enchantment|Makes monster believe it is your ally.|
-|[[Clairaudience-Clairvoyance]] :|Divination|Hear or see at a distance for 1 min./level.|
+|[[Clairaudience_Clairvoyance|Clairaudience-Clairvoyance]] :|Divination|Hear or see at a distance for 1 min./level.|
 |[[Confusion]] :|Enchantment|Subjects behave oddly for 1 round/level.|
 |[[Crushing Despair]] :|Enchantment|Subjects take –2 on attack rolls, damage rolls, saves, and checks.|
 |[[Cure Serious Wounds]] :|Conjuration|Cures 3d8 damage +1/level (max +15).|
@@ -219,7 +219,13 @@ tags:
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under
+
 the terms of the Open Game License v1.0a.
+

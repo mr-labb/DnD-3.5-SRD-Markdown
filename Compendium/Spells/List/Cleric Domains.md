@@ -137,7 +137,7 @@ Community Domain Spells
 |6|[[Heroes Feast]] :|Food for one creature/level cures and grants combat bonuses.|
 |7|[[Refuge]] :|Alters item to transport its possessor to you.|
 |8|[[Sympathy]] :|Object or location attracts certain creatures.|
-|9|[[Mass Heal]] :|As [[heal]], but with several subjects.|
+|9|[[Heal Mass |Mass Heal]] :|As [[heal]], but with several subjects.|
 
 ## CREATION DOMAIN
 
@@ -168,7 +168,7 @@ Darkness Domain Spells
 |Lv|Spell Name|Brief Description|
 |---|---|---|
 |1|[[Obscuring Mist]] :|Fog surrounds you.|
-|2|[[Blindness]] :|Makes subject blinded.|
+|2|[[Blindness_Deafness|Blindness]] :|Makes subject blinded.|
 |3|[[Blacklight]] :|Creats magical darkness that the caster can see through.|
 |4|[[Armor of Darkness]] :|Shroud obscures caster and grants darkvison and deflection bonus to AC.|
 |5|[[Summon monster V]] :|Calls extraplanar creature to fight for you*.|
@@ -382,7 +382,7 @@ Liberation Domain Spells
 |3|[[Remove Curse]] :|Frees object or person from curse.|
 |4|[[Freedom of Movement]] :|Subject moves normally despite impediments.|
 |5|[[Break Enchantment]] :|Frees subjects from enchantments, alterations, curses, and petrification.|
-|6|[[Greater Dispel Magic]] :|As [[dispel magic]], but up to +20 on check.|
+|6|[[Dispel Magic Greater|Greater Dispel Magic]] :|As [[dispel magic]], but up to +20 on check.|
 |7|[[Refuge]] :|Alters item to transport its possessor to you.|
 |8|[[Mind Blank]] :|Subject is immune to mental/emotional magic and scrying.|
 |9|[[Freedom]] :|Releases creature from imprisonment.|
@@ -458,7 +458,7 @@ Nobility Domain Spells
 |2|[[Enthrall]] :|Captivates all within 100 ft. + 10 ft./level.|
 |3|[[Magic Vestment]] :|Armor or shield gains +1 enhancement per four levels.|
 |4|[[Discern Lies]] :|Reveals deliberate falsehoods.|
-|5|[[Greater Command]] :|As [[command]], but affects one subject/level.|
+|5|[[Command Greater|Greater Command]] :|As [[command]], but affects one subject/level.|
 |6|[[Geas_Quest]] :|As [[Geas Lesser|lesser geas]], plus it affects any creature.|
 |7|[[Repulsion]] :|Creatures can’t approach you.|
 |8|[[Demand]] :|As [[sending]], plus you can send suggestion.|
@@ -536,8 +536,8 @@ Rune Domain Spells
 |2|[[Secret Page]] :|Changes one page to hide its real content.|
 |3|[[Glyph of Warding]] :|Inscription harms those who pass it.|
 |4|[[Explosive Runes]] :|Deals 6d6 damage when read.|
-|5|[[Lesser Planar Binding]] :|Traps extraplanar creature of 6 HD or less until it performs a task.|
-|6|[[Greater Glyph of Warding]] :|As [[glyph of warding]], but up to 10d8 damage or 6th-level spell.|
+|5|[[Planar Binding Lesser|Lesser Planar Binding]] :|Traps extraplanar creature of 6 HD or less until it performs a task.|
+|6|[[Glyph of Warding Greater|Greater Glyph of Warding]] :|As [[glyph of warding]], but up to 10d8 damage or 6th-level spell.|
 |7|[[Instant Summons]] :|Prepared object appears in your hand.|
 |8|[[Symbol of Death]] :|Triggered rune slays nearby creatures.|
 |9|[[Teleportation Circle]] :|Circle teleports any creature inside to designated spot.|
@@ -554,7 +554,7 @@ Skalykind Domain Spells
 |---|---|---|
 |1|[[Magic Fang]] :|One natural weapon of subject creature gets +1 on attack and damage rolls.|
 |2|[[Animal Trance]] :|Fascinates 2d6 HD of animals*.|
-|3|[[Greater Magic Fang]] :|One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5).|
+|3|[[Magic Fang Greater|Greater Magic Fang]] :|One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5).|
 |4|[[Poison]] :|Touch deals 1d10 Con damage, repeats in 1 min.|
 |5|[[Animal Growth]] :|One animal-two levels doubles in size*.|
 |6|[[Eyebite]] :|Target becomes panicked, sickened, and comatose.|
@@ -707,7 +707,13 @@ Weather Domain Spells
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under
+
 the terms of the Open Game License v1.0a.
+

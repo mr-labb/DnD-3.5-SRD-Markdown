@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/MM1/Wraith_Dread.md",
+                "file": "Compendium/Spells/List/Bard Spells List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wraith_Dread"
+              "title": "Bard Spells List"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "f22075824f7f97bf",
   "lastOpenFiles": [
-    "Bestiary/MM1/Wraith_ Dread.md",
     "Bestiary/MM1/Wraith_Dread.md",
+    "Bestiary/MM1/Wraith_ Dread.md",
     "Bestiary/MM1/Planetouched_Aasimar 1st-level Warrior.md",
     "Bestiary/MM1/Planetouched_Tiefling 1st-level Warrior.md",
     "Bestiary/MM1/Nightmare_Cauchemar.md",
