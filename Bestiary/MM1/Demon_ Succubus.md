@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Succubus]
+aliases:
+ - Demon
+ - Succubus
 title: Bestiary/MM1/Demon, Succubus
 tags: [35E_SRD, Monster]
 Monster: Demon, Succubus

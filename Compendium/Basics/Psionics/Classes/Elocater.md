@@ -247,13 +247,13 @@ At 3rd level, a slayer becomes especially skilled at resisting mental attacks. S
 ### Cerebral Blind (Su)
 After reaching 6th level, a slayer is protected from all devices, powers, and spells that reveal location. This ability protects against information gathering by clairsentience powers or effects that reveal location.
 
-The ability even foils *bend reality, limited wish, miracle, reality revision,* and *wish* when they are used to gain information about the slayer's location (however, *metafaculty* can pierce this protective barrier). In the case of *remote viewing* or *scrying* that scans an area a slayer is in, the effect works, but the slayer simply isn't detected. *Remote viewing* or *scrying* attempts that are targeted specifically at a slayer do not work. This ability is active as long as the slayer is psionically focused.
+The ability even foils *bend reality, [[limited wish]], [[miracle]], reality revision,* and *[[wish]]* when they are used to gain information about the slayer's location (however, *metafaculty* can pierce this protective barrier). In the case of *remote viewing* or *[[scrying]]* that scans an area a slayer is in, the effect works, but the slayer simply isn't detected. *Remote viewing* or *[[scrying]]* attempts that are targeted specifically at a slayer do not work. This ability is active as long as the slayer is psionically focused.
 
 ### Breach Power Resistance (Su)
 A slayer of 8th level or higher can enhance her weapon with psionic might. Each successful melee attack (or ranged attack if the target is within 30 feet) she makes with her weapon against a creature with power resistance temporarily reduces its power resistance by 1. Unless the creature is slain, its lost power resistance returns all at once 12 hours later. This ability is active as long as the slayer is psionically focused.
 
 ### Cerebral Immunity (Su)
-On reaching 9th level, a slayer gains protection from all devices, powers, and spells that influence the mind. This ability shields her against almost all mind-affecting powers and effects (though the slayer can selectively allow powers or spells to affect her). The ability even foils *bend reality*, *limited wish*, *miracle, reality revision*, and *wish* when they are used to mentally influence a slayer. This ability is active as long as the slayer is psionically focused.
+On reaching 9th level, a slayer gains protection from all devices, powers, and spells that influence the mind. This ability shields her against almost all mind-affecting powers and effects (though the slayer can selectively allow powers or spells to affect her). The ability even foils *bend reality*, *[[limited wish]]*, *[[miracle]], reality revision*, and *[[wish]]* when they are used to mentally influence a slayer. This ability is active as long as the slayer is psionically focused.
 
 ### Blast Feedback (Su)
 At 10th level, if a slayer makes her saving throw when attacked with *mind blast,* the *mind blast* rebounds upon the attacker. Only the original attacker is targeted in the rebound effect. If the original attacker fails a Will saving throw (DC equal to that of the original attack), the attacker is affected normally by the *mind blast.*
@@ -261,5 +261,8 @@ At 10th level, if a slayer makes her saving throw when attacked with *mind blast
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

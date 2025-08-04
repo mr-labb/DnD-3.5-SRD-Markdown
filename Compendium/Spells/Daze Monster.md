@@ -1,5 +1,6 @@
 ---
-aliases: [Daze Monster]
+aliases:
+ - Daze Monster
 title: Compendium/Basics/Spell/Daze Monster
 tags:
   - 35E_SRD
@@ -45,9 +46,13 @@ This spell functions like [[daze]], but can affect **any one living creature** o
 - A pinch of **wool** or similar material
 
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

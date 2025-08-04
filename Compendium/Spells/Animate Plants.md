@@ -1,5 +1,6 @@
 ---
-aliases: [Animate Plants]
+aliases:
+ - Animate Plants
 title: Compendium/Basics/Spell/Animate Plants
 tags: 
   - 35E_SRD
@@ -35,11 +36,15 @@ Use the statistics for animated objects, except that plants smaller than Large u
 
 *Animate plants* cannot affect plant creatures, nor does it affect nonliving vegetable material.
 
-*Entangle:* Alternatively, you may imbue all plants within range with a degree of mobility, which allows them to entwine around creatures in the area. This usage of the spell duplicates the effect of an *entangle* spell. Spell resistance does not keep creatures from being entangled. This effect lasts 1 hour per caster level.
+*[[Entangle]]:* Alternatively, you may imbue all plants within range with a degree of mobility, which allows them to entwine around creatures in the area. This usage of the spell duplicates the effect of an *[[entangle]]* spell. Spell resistance does not keep creatures from being entangled. This effect lasts 1 hour per caster level.
 
-Source : PHB P199
+**Source :** PHB P199
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

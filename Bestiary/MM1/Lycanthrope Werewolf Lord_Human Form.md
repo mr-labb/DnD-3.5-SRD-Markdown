@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Werewolf Lord, Human Form]
+aliases:
+ - Lycanthrope
+ - Werewolf Lord
+ - Human Form
 title: Bestiary/MM1/Lycanthrope, Werewolf Lord, Human Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Werewolf Lord, Human Form

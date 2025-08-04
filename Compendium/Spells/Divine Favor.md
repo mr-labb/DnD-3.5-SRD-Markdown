@@ -1,5 +1,6 @@
 ---
-aliases: [Divine Favor]
+aliases:
+ - Divine Favor
 title: Compendium/Basics/Spell/Divine Favor
 tags:
   - 35E_SRD
@@ -34,7 +35,7 @@ You gain +1 per three levels on attack and damage rolls.
 
 ### Description
 
-By invoking divine power, you channel the strength and grace of your deity to enhance your martial prowess.
+By invoking [[divine power]], you channel the strength and grace of your deity to enhance your martial prowess.
 
 - Grants a **luck bonus** to **attack and weapon damage rolls**  
 - Bonus is **+1 per three caster levels** (minimum +1, maximum +6)  
@@ -54,9 +55,13 @@ By invoking divine power, you channel the strength and grace of your deity to en
 Whether you're on the front lines with mace or longsword, this spell offers a simple but potent edge when you need every strike to count.
 
 
-**Source:** PHB P224
+**Source :** PHB P224
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

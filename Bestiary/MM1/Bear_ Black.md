@@ -1,5 +1,7 @@
 ---
-aliases: [Bear, Black]
+aliases:
+ - Bear
+ - Black
 title: Bestiary/MM1/Bear, Black
 tags: [35E_SRD, Monster]
 Monster: Bear, Black

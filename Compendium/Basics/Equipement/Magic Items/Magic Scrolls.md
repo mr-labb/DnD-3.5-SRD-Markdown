@@ -12,7 +12,7 @@ To protect it from wrinkling or tearing, a scroll is rolled up from both ends to
 
 **Activation**: To activate a scroll, a spellcaster must read the spell written on it. Doing so involves several steps and conditions.
 
-_Decipher the Writing_: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a read magic spell or a successful Spellcraft check (DC 20 + spell level).
+_Decipher the Writing_: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a [[read magic]] spell or a successful Spellcraft check (DC 20 + spell level).
 
 Deciphering a scroll to determine its contents does not activate its magic unless it is a specially prepared cursed scroll. A character can decipher the writing on a scroll in advance so that he or she can proceed directly to the next step when the time comes to use the scroll.
 
@@ -373,7 +373,7 @@ Many spells are either arcane or divine, depending on the class of the caster. S
 |46–47|[[mirage arcana]]|1,125 gp|
 |48–49|[[mages faithful hound]]|1,125 gp|
 |50–51|[[mages private sanctum]]|1,125 gp|
-|52–53|[[nightmare]]|1,125 gp|
+|52–53|[[Compendium/Bestiary/MM1/Nightmare]]|1,125 gp|
 |54–57|[[overland flight]]|1,125 gp|
 |58–60|[[passwall]]|1,125 gp|
 |61|[[permanency]]|10,125 gp1|
@@ -959,7 +959,4 @@ Many spells are either arcane or divine, depending on the class of the caster. S
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

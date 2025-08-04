@@ -1,7 +1,10 @@
 ---
-aliases: [Giant Wasp]
+aliases:
+ - Giant Wasp
 title: Bestiary/MM1/Giant Wasp
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Giant Wasp
 Size: Large
 Type: Vermin
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Giant Wasp
+image: [[Giant Wasp.PNG]]
 race: Giant Wasp
 class: 
 level: 
@@ -27,59 +29,74 @@ size: Large
 type: Vermin
 subtype: 
 alignment: 
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "14 (-1 size, +1 Dex, +4 natural), touch 10, flat-footed 13"
+ac: 14
 touch: 10
-flat_footed: 13
-hit_point:
-  - name: hp
-    desc: "32 ; 5d8+10"
-speed: 20 ft. (4 squares), fly 60 ft. (good)
-
-abilities: [18, 12, 14, -, 13, 11]
-saves:
-  - Fort: +6
-  - Ref: +2
-  - Will: +2
-damage_resist: 
-spell_resist: 
+flatfooted: 13
+AC_desc: -1 size, +1 Dex, +4 natural
+hp: 32
+hit_dice: 5d8+10
 initiative: 1
+speed: 20 ft. (4 squares), fly 60 ft. (good)
 space/reach: 10 ft./5 ft.
-cr: 3
+stats:
+  - 18
+  - 12
+  - 14
+  - 0
+  - 13
+  - 11
+saves:
+ - Fortitude : 6
+ - Reflex : 2
+ - Will : 2
+skillsaves:
+ - Spot: +9
+ - Survival: +1
 base_attack/grapple: +3/+11
-attack: Sting +6 melee (1d3+6 plus poison)
-full_attack: Sting +6 melee (1d3+6 plus poison)
-special_attacks: Poison
-
-special_qualities:
-  - name: 
-    desc: Darkvision 60 ft., vermin traits
-
-skills:
-  - Spot: +9
-  - Survival: +1
-feats: [[-]]
-weak: 
 environment: Temperate forests
 organization: Solitary, swarm (2-5), or nest (11-20)
 treasure: 
 advancement: 6-8 HD (Large); 9-15 HD (Huge)
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 3
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Darkvision 60 ft., vermin traits
+actions:
+  - name: Full Attack
+    desc: "Sting +6 melee (1d3+6 plus poison)"
+  - name: Attack
+    desc: "Sting +6 melee (1d3+6 plus poison)"
+  - name: special attacks
+    desc: "Poison"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: -
+combat_gear:  
 ```
 
-## Description
 
-<p>Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young.</p>
-<p>
-            <b>Poison (Ex):</b> Injury, Fortitude DC 14, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.</p>
-<p>
-            <b>Skills:</b> Giant wasps have a +8 racial bonus on Spot checks. *They also have a +4 racial bonus on Survival checks to orient themselves.</p>
+Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young.
+
+
+**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.
+
+
+**Skills:** Giant wasps have a +8 racial bonus on Spot checks. *They also have a +4 racial bonus on Survival checks to orient themselves.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

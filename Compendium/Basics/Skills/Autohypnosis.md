@@ -1,5 +1,6 @@
 ---
-aliases: [Autohypnosis]
+aliases:
+ - Autohypnosis
 title: Compendium/Basics/skills/Autohypnosis
 tags: skill
 ---
@@ -52,11 +53,10 @@ None. Making an Autohypnosis check doesn't require an action; it is either a fre
 Yes, for memorize and willpower uses, though a success doesn't cancel the effects of a previous failure. No for the other uses.
 
 ### Synergy:
-If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on [[Knowledge]] (psionics)checks.
+If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (psionics)checks.
 
 If you have 5 or more ranks in [[Concentration]], you get a +2 bonus on Autohypnosis checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

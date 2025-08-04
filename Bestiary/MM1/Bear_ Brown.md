@@ -1,5 +1,7 @@
 ---
-aliases: [Bear, Brown]
+aliases:
+ - Bear
+ - Brown
 title: Bestiary/MM1/Bear, Brown
 tags: [35E_SRD, Monster]
 Monster: Bear, Brown

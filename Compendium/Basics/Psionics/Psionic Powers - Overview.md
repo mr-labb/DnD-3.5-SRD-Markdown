@@ -128,7 +128,7 @@ Many powers give creatures bonuses to ability scores, Armor Class, attacks, and 
 ### Bringing Back the Dead
 Of all the psionic powers, only *reality revision* has the ability to restore slain characters to life. When a living creature dies, its soul departs the body, leaves the Material Plane, travels through the Astral Plane, and goes to abide on the plane where the creature's deity resides. If the creature did not worship a deity, its soul departs to the plane corresponding to its alignment. Bringing someone back from the dead means retrieving his or her soul and returning it to his or her body.
 
-*Level Loss:* The passage from life to death and back again is a wrenching journey for a being's soul. Consequently, any creature brought back to life usually loses one level of experience. The character's new experience point total is midway between the minimum needed for his or her new (reduced) level and the minimum needed for the next one. If the character was 1st level at the time of death, he or she loses 2 points of Constitution instead of losing a level. This level loss or Constitution loss cannot be repaired by any mortal means, even the spells *wish* or *miracle*. A revived character can regain a lost level by earning XP through further adventuring. A revived character who was 1st level at the time of death can regain lost points of Constitution by improving his or her Constitution score when he or she attains a level that allows an ability score increase.
+*Level Loss:* The passage from life to death and back again is a wrenching journey for a being's soul. Consequently, any creature brought back to life usually loses one level of experience. The character's new experience point total is midway between the minimum needed for his or her new (reduced) level and the minimum needed for the next one. If the character was 1st level at the time of death, he or she loses 2 points of Constitution instead of losing a level. This level loss or Constitution loss cannot be repaired by any mortal means, even the spells *wish* or *[[miracle]]*. A revived character can regain a lost level by earning XP through further adventuring. A revived character who was 1st level at the time of death can regain lost points of Constitution by improving his or her Constitution score when he or she attains a level that allows an ability score increase.
 
 *Preventing Revivif cation:* Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using a single manifestation of *reality revision* to restore the slain character to life.
 
@@ -145,9 +145,9 @@ When the rule about psionics--magic transparency is in effect, it has the follow
 
 Spell resistance is effective against powers, using the same mechanics. Likewise, power resistance is effective against spells, using the same mechanics as spell resistance. If a creature has one kind of resistance, it is assumed to have the other. (The effects have similar ends despite having been brought about by different means.)
 
-All spells that dispel magic have equal effect against powers of the same level using the same mechanics, and vice versa.
+All spells that [[dispel magic]] have equal effect against powers of the same level using the same mechanics, and vice versa.
 
-The spell *detect magic* detects powers, their number, and their strength and location within 3 rounds (though a Psicraft check is necessary to identify the discipline of the psionic aura).
+The spell *[[detect magic]]* detects powers, their number, and their strength and location within 3 rounds (though a Psicraft check is necessary to identify the discipline of the psionic aura).
 
 Dead magic areas are also dead psionics areas.
 
@@ -600,5 +600,8 @@ Augmenting a power takes place as part of another action (manifesting a power). 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -23,7 +23,7 @@ Cone-shaped shriek distracts smart foes, makes concentrating difficult.
 #### 3rd-Level Cleric Spell
 
 -   ### Telepathic Bond, Lesser
-As *telepathic bond,* but you and one other creature.
+As *[[telepathic bond]],* but you and one other creature.
 
 #### 4th-Level Cleric Spell
 
@@ -226,7 +226,7 @@ You manifest the powers as a psion of your caster level does, creating displays 
 
 Any unspent power points dissipate when the spell ends.
 
-*Material Component:* A *potion of fox's cunning,* which you drink (its effect is overridden by the effect of this spell).
+*Material Component:* A *potion of [[Foxs Cunning|fox's cunning]],* which you drink (its effect is overridden by the effect of this spell).
 
 #### Probe Thoughts
 
@@ -310,5 +310,8 @@ You forge a telepathic bond with another creature with an Intelligence score of 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

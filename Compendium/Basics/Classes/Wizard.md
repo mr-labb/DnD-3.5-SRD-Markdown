@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Wizard]
+aliases:
+ - Wizard
 title: Compendium/Basics/Classe/Wizard
 tag: Class, Wizard
 ---
@@ -9,7 +10,8 @@ tag: Class, Wizard
 
 ### WIZARD
 
-
+<br><br>A few unintelligible words and fleeting gestures carry more power than a battleaxe, when they are the words and gestures of a wizard. These simple acts make magic seem easy, but they only hint at the time the wizard must spend poring over her spellbook preparing each spell for casting, and the years before that spent in apprenticeship to learn the arts of magic. Wizards depend on intensive study to create their magic. They examine musty old tomes, debate magical theory with their peers, and practice minor magics whenever they can. For a wizard, magic is not a talent but a difficult, rewarding art.<br><br>Wizards conduct their adventures with caution and forethought. When prepared, they can use their spells to devastating effect. When caught by surprise, they are vulnerable. They seek [[Compendium/Basics/Skills/Knowledge]], power, and the resources to conduct their studies. They may also have any of the noble or ignoble motivations that other adventurers have.<br><br>The wizard's strength is her spells. Everything else is secondary. She learns new spells as she experiments and grows in experience, and she can also learn them from other wizards. In addition to learning new spells, a wizard can, over time, learn to manipulate her spells so they go farther, work better, or are improved in some other way. Some wizards prefer to specialize in a certain type of magic. Specialization makes a wizard more powerful in her chosen field, but it denies her access to some of the spells that lie outside that field (see [[#School Specialization]]. Like a sorcerer, a wizard can call a familiar - a small, magical animal companion that serves her. For some wizards, their familiars are their only true friends.<br><br>Overall, wizards show a slight tendency toward law over chaos because the study of magic rewards those who are disciplined. Illusionists and transmuters, however, are masters of deception and change, respectively. They favor chaos over law.<br><br>Wizards commonly revere Boccob (god of magic). Some, especially necromancers or simply more misanthropic wizards, prefer Wee Jas (goddess of death and magic). Evil necromancers are known to worship Nerull (god of death). Wizards in general are more devoted to their studies than to their spiritual sides.<br><br>Wizards recognize each other as comrades or rivals. Even wizards from very different cultures or magical traditions have much in common because they all conform to the same laws of magic. Unlike fighters or rogues, wizards see themselves as members of a distinct, if diverse, group. In civilized lands where wizards study in academies, schools, or guilds, wizards also identify themselves and others according to membership in these formal organizations. But while a guild magician may look down her nose at a rustic wizard who learned his arts from a doddering hermit, she nevertheless can't deny the rustic's identity as a wizard.<br><br>Humans take to magic for any of various reasons: curiosity, ambition, lust for power, or just personal inclination. Human wizards tend to be practical innovators, creating new spells or using old spells creatively. Elves are enthralled by magic, and many of them become wizards for love of the art. Elf wizards see themselves as artists, and they hold magic in high regard as a wondrous mystery, as opposed to the more pragmatic human wizards, who see magic more as a set of tools or tricks. Illusion magic comes so simply to gnomes that becoming an illusionist is just natural to brighter and more talented ones. Gnome wizards who don't specialize in the school of illusion are rare, but they don't suffer under any special stigma. Half-elf wizards feel both the elf's attraction to magic and the human's drive to conquer and understand. Some of the most powerful wizards are half-elves. Dwarf and halfling wizards are rare because their societies don't encourage the study of magic. Half-orc wizards are rare because few half-orcs have the brains necessary for wizardry. Drow (evil, subterranean elves) often take up wizardry, but wizards are quite rare among the savage humanoids.<br><br>Wizards prefer to work with members of other classes. They love to cast their spells from behind strong fighters, to "magic up" rogues and send them out to scout, and to rely on the divine healing of clerics. They may find members of certain classes (such as sorcerers, rogues, and bards) to be not quite serious enough, but they're not judgmental.<br><br>The wizard's role depends somewhat on her spell selection, but most wizards share certain similarities in function. They are among the most offensively minded of the spellcasting classes, with a broad range of options available for neutralizing enemies. Some wizards provide great support to their comrades by way of their spells, while others may focus on divination or other facets of wizardry.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any.
 
@@ -17,7 +19,7 @@ tag: Class, Wizard
 
 ###### Class Skills
 
-The wizard's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Decipher Script]] (Int), [[Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
+The wizard's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Decipher Script]] (Int), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -71,7 +73,7 @@ Unlike a bard or sorcerer, a wizard may know any number of spells. She must choo
 
 The wizard chooses the kind of familiar he gets. As the wizard advances in level, his familiar also increases in power.
 
-If the familiar dies or is dismissed by the wizard, the wizard must attempt a DC 15 Fortitude saving throw. Failure means he loses 200 experience points per wizard level; success reduces the loss to one-half that amount. However, a wizard's experience point total can never go below 0 as the result of a familiar's demise or dismissal. A slain or dismissed familiar cannot be replaced for a year and day. A slain familiar can be raised from the dead just as a character can be, and it does not lose a level or a Constitution point when this happy event occurs.
+If the familiar dies or is dismissed by the wizard, the wizard must attempt a DC 15 Fortitude saving throw. Failure means he loses 200 experience points per wizard level; success reduces the loss to one-half that amount. However, a wizard's experience point total can never go below 0 as the result of a familiar's demise or [[dismissal]]. A slain or dismissed familiar cannot be replaced for a year and day. A slain familiar can be raised from the dead just as a character can be, and it does not lose a level or a Constitution point when this happy event occurs.
 
 A character with more than one class that grants a familiar may have only one familiar at a time.
 
@@ -81,7 +83,7 @@ A character with more than one class that grants a familiar may have only one fa
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of [item creation feats], [metamagic feats], or [[Spell Mastery]] when choosing these feats.
 
-**Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for read magic, which all wizards can prepare from memory.
+**Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for [[read magic]], which all wizards can prepare from memory.
 
 A wizard begins play with a spellbook containing all 0-level wizard spells (except those from her prohibited school or schools, if any; see School Specialization, below) plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards' spellbooks to her own.
 
@@ -125,14 +127,14 @@ Levels of different classes that are entitled to familiars stack for the purpose
 |---|---|
 |Bat|Master gains a +3 bonus on [[Listen]] checks|
 |Cat|Master gains a +3 bonus on [[Move Silently]] checks|
-|Hawk|Master gains a +3 bonus on [[Spot]] checks in bright light|
+|[[Hawk]]|Master gains a +3 bonus on [[Spot]] checks in bright light|
 |Lizard|Master gains a +3 bonus on [[Climb]] checks|
 |Owl|Master gains a +3 bonus on Spot checks in shadows|
 |Rat|Master gains a +2 bonus on Fortitude saves|
 |Raven1|Master gains a +3 bonus on [[Appraise]] checks|
 |Snake2|Master gains a +3 bonus on [[Bluff]] checks|
-|Toad|Master gains +3 hit points|
-|Weasel|Master gains a +2 bonus on Reflex saves|
+|[[Toad]]|Master gains +3 hit points|
+|[[Weasel]]|Master gains a +2 bonus on Reflex saves|
 |1 _A raven familiar can speak one language of its master's choice as a supernatural ability._|   |
 |2 _Tiny viper._|   |
 
@@ -168,7 +170,7 @@ _Deliver Touch Spells (Su)_: If the master is 3rd level or higher, a familiar ca
 
 _Speak with Master (Ex)_: If the master is 5th level or higher, a familiar and the master can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
 
-_Speak with Animals of Its Kind (Ex)_: If the master is 7th level or higher, a familiar can communicate with animals of approximately the same kind as itself (including dire varieties): bats with bats, rats with rodents, cats with felines, hawks and owls and ravens with birds, lizards and snakes with reptiles, toads with amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, skunks, wolverines, and badgers). Such communication is limited by the intelligence of the conversing creatures.
+_[[Speak with Animals]] of Its Kind (Ex)_: If the master is 7th level or higher, a familiar can communicate with animals of approximately the same kind as itself (including dire varieties): bats with bats, rats with rodents, cats with felines, hawks and owls and ravens with birds, lizards and snakes with reptiles, toads with amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, skunks, wolverines, and badgers). Such communication is limited by the intelligence of the conversing creatures.
 
 _Spell Resistance (Ex)_: If the master is 11th level or higher, a familiar gains spell resistance equal to the master's level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the familiar's spell resistance.
 
@@ -179,7 +181,7 @@ _Scry on Familiar (Sp)_: If the master is 13th level or higher, he may scry on h
 |1st-2nd|+1|6|Alertness, improved evasion, share spells, empathic link|
 |3rd-4th|+2|7|Deliver touch spells|
 |5th-6th|+3|8|Speak with master|
-|7th-8th|+4|9|Speak with animals of its kind|
+|7th-8th|+4|9|[[Speak with animals]] of its kind|
 |9th-10th|+5|10|—|
 |11th-12th|+6|11|Spell resistance|
 |13th-14th|+7|12|Scry on familiar|
@@ -276,39 +278,39 @@ In addition to those of the standard wizard, the anagakok also has Survival as a
 
 An anagakok can prepare as many spells per day a regular specialist.
 
-**Spellbooks**: Just like a wizard, an anagakok must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for read magic, which all anagakoks can prepare from memory. An anagakok's spellbook is usually made from crudely cut layers of bark. Some anagakoks even carve the formulas for their spells on stone, tree roots, or other materials found in nature, but most prefer bark because it is lighter and easier to write on.
+**Spellbooks**: Just like a wizard, an anagakok must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for [[read magic]], which all anagakoks can prepare from memory. An anagakok's spellbook is usually made from crudely cut layers of bark. Some anagakoks even carve the formulas for their spells on stone, tree roots, or other materials found in nature, but most prefer bark because it is lighter and easier to write on.
 
 **School Specialization**: An anagakok is a specialist wizard (see School Specialization) specializing in a distinctive school of magic unique to anagakoks. Unlike typical wizard schools, the anagakok's school of magic regroups spells especially useful to survival in harsh environmental conditions as well as spells affecting nature in general. As such, the anagakok school of magic allows him to cast spells not typically available to other wizards (i.e., not on the wizard spell list). As a type of specialist wizard, an anagakok can prepare one additional spell of this specialty school per spell level each day, as normal. These spells go on the anagakok's spell list, allowing him to prepare them in any spell slot. He also gains a +2 bonus on Spellcraft checks to learn spells of this school. The anagakok's prohibited schools are always illusion and necromancy, and he may never learn or cast spells from them. An anagakok cannot become a specialist in any other school.
 
 The anagakok's school includes the following spells:
 
-_0_ - create water, know direction, purify food and drink;
+_0_ - [[create water]], [[know direction]], [[purify food and drink]];
 
-_1st_ - calm animals, charm animal, detect animals or plants, detect snares and pits, longstrider, pass without trace;
+_1st_ - [[calm animals]], [[charm animal]], [[detect animals or plants]], [[detect snares and pits]], [[longstrider]], [[pass without trace]];
 
-_2nd_ - animal trance, hold animal, reduce animal, wood shape;
+_2nd_ - [[animal trance]], [[hold animal]], [[reduce animal]], [[wood shape]];
 
-_3rd_ - diminish plants, dominate animal, neutralize poison, quench, snare;
+_3rd_ - [[diminish plants]], [[dominate animal]], [[neutralize poison]], quench, snare;
 
-_4th_ - antiplant shell, command plants, repel vermin, rusting grasp;
+_4th_ - [[antiplant shell]], [[command plants]], [[repel vermin]], [[rusting grasp]];
 
-_5th_ - awaken, commune with nature, control winds, tree stride;
+_5th_ - [[awaken]], [[commune with nature]], [[control winds]], [[tree stride]];
 
-_6th_ - find the path, repel wood, stone tell, transport via plants;
+_6th_ - [[find the path]], [[repel wood]], [[stone tell]], [[transport via plants]];
 
-_7th_ - animate plants, transmute metal to wood, windwalk;
+_7th_ - [[animate plants]], [[transmute metal to wood]], windwalk;
 
-_8th_ - animal shapes, control plants, repel metal or stone;
+_8th_ - [[animal shapes]], [[control plants]], [[repel metal or stone]];
 
-_9th_ - elemental swarm, regenerate, shambler.
+_9th_ - [[elemental swarm]], [[regenerate]], [[shambler]].
 
 **Illiteracy**: With the exception of arcane spell formulas, the anagakok cannot read or write. He may spend 2 skill points to gain the ability to read and write all languages he is able to speak.
 
 An anagakok who gains a level in any other class except barbarian automatically gains literacy. Any other character who gains an anagakok level does not lose the literacy he already had.
 
-**Spontaneous Casting**: An anagakok can channel stored spell energy into an endure elements spell the anagakok did not prepare ahead of time. The anagakok can "lose" any prepared spell of 1st level or higher that is not his specialist bonus spell in order to cast endure elements.
+**Spontaneous Casting**: An anagakok can channel stored spell energy into an [[endure elements]] spell the anagakok did not prepare ahead of time. The anagakok can "lose" any prepared spell of 1st level or higher that is not his specialist bonus spell in order to cast [[endure elements]].
 
-**Wilderness Lore**: An anagakok is learned in the ways of nature. He gains a +2 bonus on [[Knowledge]] (nature) and on Survival checks.
+**Wilderness Lore**: An anagakok is learned in the ways of nature. He gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) and on Survival checks.
 
 **Good Fortune**: The anagakok is well regarded by the many spirits that inhabit the wilderness and begins to attract their attention early in his career. Blessed by the spirits of nature, he gains a number of good fortune points he can apply (as an immediate action) to any die roll to gain a luck bonus equal to the number of points he expends. At 1st level, he receives 2 good fortune points per day, and this number increases by 2 more points at 5th level and every five levels thereafter. The anagakok may spread out his good fortune points to add bonuses to a number of rolls, checks, or saving throws or expend them all on a single die roll. As a readied action, the anagakok may also choose to expend his good fortune points to grant a luck bonus on the roll of an ally he can touch.
 
@@ -358,11 +360,11 @@ All the following are features of the changeling wizard's racial substitution le
 
 **Dual Specialization (Ex)**: At 1st level, a changeling wizard can choose to pursue a dual specialization in illusion and transmutation. To do so, he must give up three other schools of magic (but just as for a normal specialist wizard, a changeling wizard can't give up divination to fulfill this requirement).
 
-A changeling wizard can prepare one additional spell per spell level each day, chosen from either of his specialty schools. For instance, he might choose to prepare ghost sound (illusion) as his additional 0-level spell and expeditious retreat (transmutation) as his additional 1st-level spell.
+A changeling wizard can prepare one additional spell per spell level each day, chosen from either of his specialty schools. For instance, he might choose to prepare [[ghost sound]] (illusion) as his additional 0-level spell and [[expeditious retreat]] (transmutation) as his additional 1st-level spell.
 
 In addition, he gains a +2 bonus on Spellcraft checks to learn spells from either of these schools. This substitution feature replaces the standard wizard's specialization option.
 
-**Limited Spell [[Knowledge]]**: A changeling wizard's focused studies in illusion and transmutation lead to an excess of [[Knowledge]] in those areas, but limit his ability to easily add spells of other schools to his spellbook. Each time the character selects a changeling wizard substitution level (other than 1st level), he chooses three spells from the illusion or transmutation schools to add to his spellbook in lieu of the normal two spells added to the standard wizard's spellbook upon gaining a new wizard level. This has no effect on a changeling wizard's ability to add other spells to his spellbook, such as those taken from a scroll or from another wizard's spellbook.
+**Limited Spell [[Compendium/Basics/Skills/Knowledge]]**: A changeling wizard's focused studies in illusion and transmutation lead to an excess of [[Compendium/Basics/Skills/Knowledge]] in those areas, but limit his ability to easily add spells of other schools to his spellbook. Each time the character selects a changeling wizard substitution level (other than 1st level), he chooses three spells from the illusion or transmutation schools to add to his spellbook in lieu of the normal two spells added to the standard wizard's spellbook upon gaining a new wizard level. This has no effect on a changeling wizard's ability to add other spells to his spellbook, such as those taken from a scroll or from another wizard's spellbook.
 
 **Morphic Familiar (Su)**: At 5th level, a changeling wizard's familiar gains the ability to alter its form on command. As a full-round action, the familiar can change its form to that of any creature that the wizard could normally have as a [[familiar]]. The wizard gains the new benefit of the familiar while losing the previous benefit. If the changeling wizard does not have a familiar, this ability has no effect until he gains one.
 
@@ -379,14 +381,14 @@ This substitution feature replaces the standard wizard's bonus feat gained at 10
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
 |1st|+0|+0|+0|+2|Dual specialization, summon familiar, Scribe Scroll|Same as wizard|
-|5th|+2|+1|+1|+4|Limited spell [[Knowledge]], morphic familiar|Same as wizard|
-|10th|+5|+3|+3|+7|Limited spell [[Knowledge]], override transmutation|Same as wizard|
+|5th|+2|+1|+1|+4|Limited spell [[Compendium/Basics/Skills/Knowledge]], morphic familiar|Same as wizard|
+|10th|+5|+3|+3|+7|Limited spell [[Compendium/Basics/Skills/Knowledge]], override transmutation|Same as wizard|
 
   
 
 #### Combat Wizard
 
-Some wizards trade their [[Knowledge]] of magic and craft to improve their combat prowess.
+Some wizards trade their [[Compendium/Basics/Skills/Knowledge]] of magic and craft to improve their combat prowess.
 
 This variant simply swaps one or more of a class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
@@ -414,7 +416,7 @@ Deathwalkers crave undeath, and they view necromancy as a useful tool for collec
 
 ##### Class Skills
 
-The deathwalker's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The deathwalker's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -461,17 +463,17 @@ Like a wizard, a deathwalker can cast only a certain number of arcane spells of 
 
 All deathwalkers function as necromancer specialist wizards for the purpose of spellcasting. They must specialize in necromancy and choose prohibited schools as per the standard rules for specialist wizards.
 
-**Spellbooks**: A deathwalker must record her spells in thick books. Each morning, she pores over these tomes to prepare her spells for use later in the day. The deathwalker can prepare read magic from memory, but all other spells must appear in her spellbooks before she can prepare them. A deathwalker gains all 0-level wizard spells (except for those from prohibited schools) at 1st level. In addition, she gains three 1st-level spells and an additional number equal to her Intelligence bonus. Thereafter, each time the deathwalker achieves a new level, she gains two new spells of any level or levels that her new level allows her to cast.
+**Spellbooks**: A deathwalker must record her spells in thick books. Each morning, she pores over these tomes to prepare her spells for use later in the day. The deathwalker can prepare [[read magic]] from memory, but all other spells must appear in her spellbooks before she can prepare them. A deathwalker gains all 0-level wizard spells (except for those from prohibited schools) at 1st level. In addition, she gains three 1st-level spells and an additional number equal to her Intelligence bonus. Thereafter, each time the deathwalker achieves a new level, she gains two new spells of any level or levels that her new level allows her to cast.
 
 Like a wizard, a deathwalker may select the Spell Mastery feat.
 
-**Master of the Dead (Sp)**: At 1st level, the deathwalker gains the ability to bind certain undead creatures to her service, controlling them as though with animate dead. If the deathwalker or any of her allies attack a controlled creature, control is immediately broken for that creature.
+**Master of the Dead (Sp)**: At 1st level, the deathwalker gains the ability to bind certain undead creatures to her service, controlling them as though with [[animate dead]]. If the deathwalker or any of her allies attack a controlled creature, control is immediately broken for that creature.
 
 Upon confronting a zombie or skeleton, the deathwalker can attempt a Charisma check (DC 15 + the undead's Hit Dice) to command it. She cannot use this method if she or any of her comrades have already attacked the target creature.
 
-A deathwalker can control only 5 HD worth of skeletons and zombies per deathwalker level. (Treat undead with less than one Hit Die as 1-HD undead for the purpose of this ability.) If she attempts to gain control of undead in excess of her limit, she must immediately release already controlled zombies and skeletons from her service until the number she has under her control falls to or below her limit. The limit of 5 x the deathwalker's class levels is the maximum number of Hit Dice of mindless undead that the deathwalker can control by any means, including animate dead, (That is, casting animate dead does not allow the deathwalker to exceed this limit.)
+A deathwalker can control only 5 HD worth of skeletons and zombies per deathwalker level. (Treat undead with less than one Hit Die as 1-HD undead for the purpose of this ability.) If she attempts to gain control of undead in excess of her limit, she must immediately release already controlled zombies and skeletons from her service until the number she has under her control falls to or below her limit. The limit of 5 x the deathwalker's class levels is the maximum number of Hit Dice of mindless undead that the deathwalker can control by any means, including [[animate dead]], (That is, casting [[animate dead]] does not allow the deathwalker to exceed this limit.)
 
-The deathwalker's ability to control undead using master of the dead extends only to skeletons and zombies.
+The deathwalker's ability to [[control undead]] using master of the dead extends only to skeletons and zombies.
 
 At this point in her development, the deathwalker gains a pale complexion and an unnaturally low body temperature. Her hands are cold to the touch, and her eyes have a glassy look. She takes a -2 penalty on all Fortitude saves to resist negative levels as her life force begins to waver within her physical shell.
 
@@ -479,13 +481,13 @@ At this point in her development, the deathwalker gains a pale complexion and an
 
 **Aura of the Grave (Ex)**: At 5th level, the deathwalker continues her slow descent into an undead state. She no longer needs to sleep, and she gains immunity to sleep effects. She also becomes immune to all diseases. Her nerve endings begin to dull, making her less able to feel pain.
 
-The physical effects of the deathwalker's continuing transformation become more marked at this point. Her skin draws tightly over her body, giving her a hollow, empty look. Any person viewing her may make a [[Knowledge]] (arcana) check (DC 25) to determine that she follows the deathwalker's path. Because of her decreased tactile sense, she may absentmindedly skewer her hand with a needle while deep in thought, singe her hand on a hot stove without noticing, or fail to note the flies that land on her eye or buzz in or near her mouth. Slowly but surely, she continues to lose her grip on life.
+The physical effects of the deathwalker's continuing transformation become more marked at this point. Her skin draws tightly over her body, giving her a hollow, empty look. Any person viewing her may make a [[Compendium/Basics/Skills/Knowledge]] (arcana) check (DC 25) to determine that she follows the deathwalker's path. Because of her decreased tactile sense, she may absentmindedly skewer her hand with a needle while deep in thought, singe her hand on a hot stove without noticing, or fail to note the flies that land on her eye or buzz in or near her mouth. Slowly but surely, she continues to lose her grip on life.
 
 **Shroud of Death (Ex)**: As the deathwalker's magical prowess increases, her physical body continues to fail. Yet, in many ways, she becomes stronger than ever. As her body dies, her organs rot in place, but the necromantic energies she has learned to harness keep her bodily processes functioning enough to sustain the shred of life remaining in her.
 
 At 10th level, the deathwalker gains a +4 circumstance bonus on saves against poison, paralysis, and mind-affecting effects. Since her organs have largely ceased functioning, there is a 50% chance that extra damage from a critical his or sneak attack does not affect her. This ability works much like the fortification special armor quality. She no longer needs to eat or drink to stay alive (although she still must breathe). However, the stench of decay that surrounds her imposes a -2 penalty on Charisma, Bluff, and Diplomacy checks against any creatures except undead.
 
-**Mastery of Undeath (Su)**: At 15th level, the deathwalker gains the ability to force obedience and servitude From even the mightiest undead creatures. The raw force of her necromantic magic combined with the slow replacement of her living body with undead flesh make her appear as a commanding, regal figure to the undead. She gains the ability to rebuke or command undead as an evil cleric of her deathwalker level a number of times per day equal to 1 + her Charisma bonus (if any).
+**Mastery of Undeath (Su)**: At 15th level, the deathwalker gains the ability to force obedience and servitude From even the mightiest undead creatures. The raw force of her necromantic magic combined with the slow replacement of her living body with undead flesh make her appear as a commanding, regal figure to the undead. She gains the ability to rebuke or [[command undead]] as an evil cleric of her deathwalker level a number of times per day equal to 1 + her Charisma bonus (if any).
 
 She also develops further outward signs of her descent into undeath. Her stomach bloats and may even split open because of the rot within her body, and her teeth turn yellow and fall from her gums.
 
@@ -679,11 +681,11 @@ In some cases, an arcane domain includes spells not normally on the wizard's cla
 
 4th - [[confusion]];
 
-5th - [hold monster](https://srd.dndtools.org/srd/magic/spells/spells/spellsAllCore.html#hold-monster);
+5th - [[hold monster]];
 
-6th - [greater heroism](https://srd.dndtools.org/srd/magic/spells/spells/spellsAllCore.html#greater-heroism);
+6th - [[Heroism Greater|Greater Heroism]];
 
-7th - [insanity](https://srd.dndtools.org/srd/magic/spells/spells/spellsAllCore.html#insanity);
+7th - [[insanity]];
 
 8th - [[mass charm monster]];
 
@@ -713,7 +715,7 @@ In some cases, an arcane domain includes spells not normally on the wizard's cla
 
 ##### FIRE DOMAIN
 
-0 - flare;
+0 - [[flare]];
 
 1st - [[burning hands]];
 
@@ -835,11 +837,11 @@ Arcane spellcasters, even those who don't claim the blood of dragons as their ow
 
 When your familiar would normally gain the ability to deliver touch spells, it gains a breath weapon instead. This breath is a 15-foot cone of fire, usable once per hour, that deals a number of points of damage equal to 1d6 + twice your class level (levels of different classes that are entitled to familiars stack for this purpose). A successful Reflex save (10 + 1/2 your total class levels for determining the familiar's abilities) halves the damage dealt.
 
-When your familiar would normally gain the ability to speak with animals of its kind, it instead gains the ability to speak with creatures of the dragon type.
+When your familiar would normally gain the ability to [[speak with animals]] of its kind, it instead gains the ability to speak with creatures of the dragon type.
 
 #### Drow Wizard
 
-Wizards are among the most feared and admired nondivine members of drow society. Despite their innate resistance to magic, the drow have great respect for both the spells and the [[Knowledge]] available to these masters of the arcane arts. Although they are not directly tied to Lolth in the way divine casters and warlocks are, their devotion to the Spider Queen - and indeed, their very upbringing within society - has led to the development of race-specific wizard traits.
+Wizards are among the most feared and admired nondivine members of drow society. Despite their innate resistance to magic, the drow have great respect for both the spells and the [[Compendium/Basics/Skills/Knowledge]] available to these masters of the arcane arts. Although they are not directly tied to Lolth in the way divine casters and warlocks are, their devotion to the Spider Queen - and indeed, their very upbringing within society - has led to the development of race-specific wizard traits.
 
 ##### Abyssal Specialist
 
@@ -861,7 +863,7 @@ These wizards of a dwindling order protect the tenuous peace under the Sea of Fa
 
 ##### Requirements
 
-To take a Dukar substitution level, a character must be a member of the Dukars, have 1 rank in [[Knowledge]] (religion), and be about to take his 5th, 10th, or 15th level of wizard. The first time a character takes a Dukar substitution level, he must undergo a secret Dukar ritual that implants the living coral under the skin of his palms (see Dukar hand coral). The coral does not interfere with using his hands in any way. If the Dukar somehow loses this coral, he loses his coral-related powers, but if he is implanted again he immediately regains his full abilities.
+To take a Dukar substitution level, a character must be a member of the Dukars, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 5th, 10th, or 15th level of wizard. The first time a character takes a Dukar substitution level, he must undergo a secret Dukar ritual that implants the living coral under the skin of his palms (see Dukar hand coral). The coral does not interfere with using his hands in any way. If the Dukar somehow loses this coral, he loses his coral-related powers, but if he is implanted again he immediately regains his full abilities.
 
 ##### Class Skills
 
@@ -892,7 +894,7 @@ All of the following are features of the Dukar substitution levels.
 |Maalirn|Green|Conjuration, divination|
 |Numos|White|Illusion, necromancy|
 
-* _The order of Jhimar was destroyed centuries ago and its [[Knowledge]] and traditions are lost._
+* _The order of Jhimar was destroyed centuries ago and its [[Compendium/Basics/Skills/Knowledge]] and traditions are lost._
 
 This class feature replaces the standard wizard's ability to add two spells to his spellbook each time he gains a wizard level.
 
@@ -906,7 +908,7 @@ _Acid (Ex)_: A Dukar adds 1d4 points of acid damage to all claw attacks (includi
 
 _Armor (Ex)_: Three times per day as a standard action, a Dukar can make his coral extend hard growths across his skin, giving him a +1 enhancement bonus to his natural armor bonus to AC. These growths crumble to dust after 10 minutes. If a Dukar selects this ability a second time, the enhancement bonus to his natural armor increases to +2.
 
-_Color Spray (Sp)_: A Dukar's coral gains the ability to glow intensely in confusing patterns. At will as a standard action, a Dukar can use this light as a color spray effect. Using this ability requires the Dukar to have one hand free, uncovered, and able to make gestures. The save DC of this ability is Intelligence-based. If a Dukar takes this ability a second time, the save DC of this ability increases by 2.
+_[[Color Spray]] (Sp)_: A Dukar's coral gains the ability to glow intensely in confusing patterns. At will as a standard action, a Dukar can use this light as a [[color spray]] effect. Using this ability requires the Dukar to have one hand free, uncovered, and able to make gestures. The save DC of this ability is Intelligence-based. If a Dukar takes this ability a second time, the save DC of this ability increases by 2.
 
 _Wound Transfer (Su)_: A Dukar's coral develops the ability to transfer life energy by touch from him to another creature, healing its wounds at the expense of his own health. Each use of this ability heals the target of 1d6 points of damage and deals a like amount of damage to the Dukar. If a Dukar chooses this ability a second time, he heals the target of 2d6 points of damage and takes a like amount of damage per use. This ability can never provide a target more hit points than its full normal total +10. Any hit points gained beyond its normal maximum are treated as temporary hit points that last for up to 1 hour.
 
@@ -950,9 +952,9 @@ The elf wizard may also prepare one additional spell of her highest spell level 
 
 This substitution feature replaces the standard wizard's ability to specialize in a school of magic.
 
-**Natural Link (Su)**: At 3rd level, an elf wizard's link to her familiar strengthens. The bonus on skill checks, saves, or hit points granted by the familiar doubles. For example, the cat familiar of an elf wizard grants a +6 bonus on Move Silently checks (rather than +3), a weasel familiar grants a +4 bonus on Reflex saves (rather than +2), and a toad familiar grants +6 hit points (rather than +3). This increase only applies when the familiar is within arm's reach of the wizard; when the creature is farther away than that, the normal bonus applies (unless the familiar is more than one mile away, in which case no bonus applies).
+**Natural Link (Su)**: At 3rd level, an elf wizard's link to her familiar strengthens. The bonus on skill checks, saves, or hit points granted by the familiar doubles. For example, the cat familiar of an elf wizard grants a +6 bonus on Move Silently checks (rather than +3), a [[weasel]] familiar grants a +4 bonus on Reflex saves (rather than +2), and a [[toad]] familiar grants +6 hit points (rather than +3). This increase only applies when the familiar is within arm's reach of the wizard; when the creature is farther away than that, the normal bonus applies (unless the familiar is more than one mile away, in which case no bonus applies).
 
-This substitution feature replaces the standard wizard familiar's ability to deliver touch spells (normally gained by the familiar of a 3rd-level wizard) and the familiar's ability to speak with animals of its kind (normally gained by the familiar of a 7th-level wizard). If the wizard's familiar already has either of these abilities (for instance, if the character is a multiclass sorcerer/wizard), it loses those abilities when the wizard selects this substitution level.
+This substitution feature replaces the standard wizard familiar's ability to deliver touch spells (normally gained by the familiar of a 3rd-level wizard) and the familiar's ability to [[speak with animals]] of its kind (normally gained by the familiar of a 7th-level wizard). If the wizard's familiar already has either of these abilities (for instance, if the character is a multiclass sorcerer/wizard), it loses those abilities when the wizard selects this substitution level.
 
 **Bonus Feat**: At 5th level, an elf wizard gains a bonus feat, chosen from the following list: Defensive Archery, Far Shot, Point Blank Shot, Precise Shot, Rapid Shot, or Weapon Focus (longbow/composite longbow or shortbow/composite shortbow only). The wizard must still meet all prerequisites for a bonus feat.
 
@@ -985,7 +987,7 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Compsognathus|—|—|1st|Master gains a +3 bonus on Hide checks|
 |Critic lizard|—|—|1st|Master gains a +2 bonus on Reflex saves|
 |Crow|Raven|—|1st|Master gains a +2 bonus on Fortitude saves|
-|Dark chanting goshawk|Hawk|—|1st|Master gains a +2 bonus on Will saves|
+|Dark chanting goshawk|[[Hawk]]|—|1st|Master gains a +2 bonus on Will saves|
 |Dire rat|—|Huge or bigger master|1st|Master gains a +2 bonus on Fortitude saves|
 |Dog|—|—|1st|Master gains a +3 bonus on Sense Motive checks|
 |Dung snake|—|—|1st|Master gains a +2 bonus on saving throws against disease|
@@ -996,8 +998,8 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Fly|Thrush (Fine size)|—|1st|Master gains a +3 bonus on Gather Information checks|
 |Flying fox|Raven|—|1st|Master gains a +3 bonus on Sleight of Hand checks|
 |Fox|Cat|—|1st|Master gains a +2 bonus on Will saves|
-|Gyrfalcon|Hawk|—|1st|Master gains a +3 bonus on Spot checks|
-|Hawk|—|—|1st|Master gains a +3 bonus on [[Spot]] checks in bright light|
+|Gyrfalcon|[[Hawk]]|—|1st|Master gains a +3 bonus on Spot checks|
+|[[Hawk]]|—|—|1st|Master gains a +3 bonus on [[Spot]] checks in bright light|
 |Hedgehog|—|Tiny or smaller master|1st|Master gains a +1 natural armor bonus|
 |Horned lizard|—|—|1st|Master gains a +2 bonus on Will saves|
 |Huitzil|—|—|1st|Master gains a +3 bonus on Sleight of Hand checks|
@@ -1007,16 +1009,16 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Jankx|—|—|1st|Master gains a +3 bonus on Listen checks|
 |Kes'trekel|—|—|1st|Master gains a +2 bonus on Fortitude saves|
 |Lemming|Rat|—|1st|Master gains a +2 bonus on Listen and Spot checks|
-|Leopard|—|Huge or bigger master|1st|Master gains a +2 bonus on Move Silently checks|
+|[[Leopard]]|—|Huge or bigger master|1st|Master gains a +2 bonus on Move Silently checks|
 |Lizard|—|—|1st|Master gains a +3 bonus on [[Climb]] checks|
 |Mink|Ferret|—|1st|Master gains a +3 bonus on Diplomacy checks|
 |Monitor lizard|—|Huge or bigger master|1st|Master gains +3 hit points|
-|Monkey|—|—|1st|Master gains a +3 bonus on Tumble checks|
+|[[Monkey]]|—|—|1st|Master gains a +3 bonus on Tumble checks|
 |Mouse|—|Tiny or smaller master|1st|Master gains a +3 bonus on Move Silently checks|
 |Mulworm|—|—|1st|Master gains +3 hit points|
 |Needletooth|Lizard (bite bleeds for 1 round, with target losing 1 hit point the following round)|—|1st|Master gains a +3 bonus on Hide checks in forests or jungles|
 |Night lizard|Lizard|—|1st|Master gains a +3 bonus on Hide checks|
-|Octopus|—|—|1st|Master gains a +3 bonus on Grapple checks|
+|[[Octopus]]|—|—|1st|Master gains a +3 bonus on Grapple checks|
 |Otter|—|—|1st|Master gains a +3 bonus on Swim checks|
 |Owl, Tiny|—|—|1st|Master gains a +3 bonus on [[Spot]] checks in shadows|
 |Owl, Medium|Advanced owl (2 HD)|Huge or bigger master|1st|Master gains a +2 bonus on Move Silently checks|
@@ -1039,25 +1041,25 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Snowy owl|Owl|—|1st|Master gains a +3 bonus on Move Silently checks|
 |Spider|Mouse|—|1st|Master gains a +3 bonus on Sleight of Hand checks|
 |Squirrel|Rat|—|1st|Master gains a +3 bonus on Jump checks|
-|Sewerm|—|—|1st|Master gains a +2 bonus on saving throws against effects that cause pain (such as a symbol of pain)|
+|Sewerm|—|—|1st|Master gains a +2 bonus on saving throws against effects that cause pain (such as a [[symbol of pain]])|
 |Thrush|—|Tiny or smaller master|1st|Familiar can speak one language of its master's choice as a supernatural ability|
-|Toad|—|—|1st|Master gains +3 hit points|
+|[[Toad]]|—|—|1st|Master gains +3 hit points|
 |Turtle|Hedgehog (without poison quills)|—|1st|Master gains a +1 bonus on Armor Class when prone or behind cover|
 |Vampire bat|Bat|—|1st|—|
-|Vulture|Hawk|—|1st|Master gains a +4 bonus on Fortitude saves to resist disease|
-|Weasel|—|—|1st|Master gains a +2 bonus on Reflex saves|
-|Wolverine|—|Huge or bigger master|1st|Master gains a +2 bonus on Reflex saves|
+|Vulture|[[Hawk]]|—|1st|Master gains a +4 bonus on Fortitude saves to resist disease|
+|[[Weasel]]|—|—|1st|Master gains a +2 bonus on Reflex saves|
+|[[Wolverine]]|—|Huge or bigger master|1st|Master gains a +2 bonus on Reflex saves|
 |Z'tal|—|—|1st|Master gains a +3 bonus on Intimidate checks|
 |Monstrous centipede, Small|—|Improved Familiar|2nd|—|
-|Badger|—|Improved Familiar|3rd|—|
+|[[Badger]]|—|Improved Familiar|3rd|—|
 |Celestial animal|Any familiar available at 1st level with the Celestial creature template|Improved Familiar|3rd|Same as base animal|
 |Copper asp|—|Improved Familiar|3rd|—|
-|Fiendish animal|Any familiar available at 1st level with the Fiendish creature template|Improved Familiar|3rd|Same as base animal|
+|Fiendish animal|Any familiar available at 1st level with the [[Fiendish creature]] template|Improved Familiar|3rd|Same as base animal|
 |Flying snake|—|Improved Familiar|3rd|—|
 |Glacier snake|—|Improved Familiar|3rd|—|
 |Great horned owl|Advanced owl (2 HD)|Improved Familiar|3rd|—|
 |King cobra|Snake, Large viper|Improved Familiar|3rd|—|
-|Krenshar|—|Improved Familiar|3rd|—|
+|[[Krenshar]]|—|Improved Familiar|3rd|—|
 |Lizard, spitting crawler|—|Improved Familiar|3rd|—|
 |Lynx|—|Improved Familiar|3rd|—|
 |Monstrous scorpion, Small|—|Improved Familiar|3rd|—|
@@ -1067,13 +1069,13 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Swarm, spider|—|Improved Familiar|3rd|[[#Swarm Familiar]]|
 |Tree python|—|Improved Familiar|3rd|—|
 |Whipsnake|—|Improved Familiar|3rd|—|
-|Worg|—|Improved Familiar|3rd|—|
+|[[Worg]]|—|Improved Familiar|3rd|—|
 |Monstrous spider, Small|—|Improved Familiar|4th|—|
 |Anarchic animal|Any familiar available at 1st level with the Anarchic creature template|Planar Familiar|5th|Same as base animal|
 |Axiomatic animal|Any familiar available at 1st level with the Axiomatic creature template|Planar Familiar|5th|Same as base animal|
 |Bat, night hunter|—|Darkness Familiar|5th|—|
 |Beholderkin, eyeball|—|Improved Familiar|5th|—|
-|Blink dog|—|Improved Familiar|5th|—|
+|[[Blink dog]]|—|Improved Familiar|5th|—|
 |Butterfly|Thrush|Master must first take the caterpillar familiar|5th|Master gains a +3 bonus on Spellcraft checks|
 |Cat1|—|Improved Familiar|5th|Master gains a +3 bonus on Move Silently checks and [[#Nine Lives]]|
 |Clockwork mender|—|Improved Familiar|5th|—|
@@ -1094,22 +1096,22 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Raven1|—|Improved Familiar|5th|Master gains a +3 bonus on Appraise checks and [[#Second Memory]], familiar can speak one language of its master's choice as a supernatural ability|
 |Sailsnake|—|Improved Familiar|5th|—|
 |Salvage rat|—|Improved Familiar|5th|—|
-|Shocker lizard|—|Improved Familiar|5th|—|
-|Stirge|—|Improved Familiar|5th|—|
+|[[Shocker lizard]]|—|Improved Familiar|5th|—|
+|[[Stirge]]|—|Improved Familiar|5th|—|
 |Swarm, bat|—|Improved Familiar|5th|[[#Swarm Familiar]]|
 |Swarm, rat|—|Improved Familiar|5th|[[#Swarm Familiar]]|
 |Tirbana, eyewing|—|Improved Familiar|5th|—|
 |Tressym|—|Improved Familiar|5th|—|
 |Shadow asp|—|Darkness Familiar|6th|—|
-|Vargouille|Vargouilles summoned as familiars do not possess the kiss supernatural ability.|Improved Familiar|6th|—|
+|[[Vargouille]]|Vargouilles summoned as familiars do not possess the kiss supernatural ability.|Improved Familiar|6th|—|
 |Archon, lantern|—|Celestial Familiar|7th|—|
 |Eladrin, coure|—|Celestial Familiar|7th|—|
 |Erudite owl|—|Improved Familiar|7th|—|
 |Formian, worker|—|Improved Familiar|7th|—|
 |Guardinal, musteval|—|Celestial Familiar|7th|—|
 |Hippogriff|—|Improved Familiar|7th|—|
-|Homunculus|—|Improved Familiar|7th|—|
-|Howler|—|Improved Familiar|7th|—|
+|[[Homunculus]]|—|Improved Familiar|7th|—|
+|[[Howler]]|—|Improved Familiar|7th|—|
 |Imp|—|Improved Familiar|7th|—|
 |Imp, choleric|—|Improved Familiar|7th|—|
 |Imp, filth|—|Planar Familiar|7th|—|
@@ -1131,7 +1133,7 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Mephit, sulfur|—|Improved Familiar|7th|—|
 |Mephit, water|—|Improved Familiar|7th|—|
 |Mercurial spider|—|Improved Familiar|7th|—|
-|Pseudodragon|—|Improved Familiar|7th|—|
+|[[Pseudodragon]]|—|Improved Familiar|7th|—|
 |Pseudo-elemental, Small darkness|—|Darkness Familiar|7th|—|
 |Quasit|—|Improved Familiar|7th|—|
 |Snake, Small viper1|—|Improved Familiar|7th|Master gains a +3 bonus on Bluff checks and [[#Scent]]|
@@ -1139,7 +1141,7 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Swarm, locust|—|Improved Familiar|7th|[[#Swarm Familiar]]|
 |Weasel1|—|Improved Familiar|7th|Master gains a +2 bonus on Reflex saves and [[#Scent]]|
 |White dragon, wyrmling|—|Dragon Familiar|7th|—|
-|Winter wolf|—|Improved Familiar|7th|—|
+|[[Winter wolf]]|—|Improved Familiar|7th|—|
 |Bat, sinister|—|Darkness Familiar|8th|—|
 |Black dragon, wyrmling|—|Dragon Familiar|8th|—|
 |Brass dragon, wyrmling|—|Dragon Familiar|9th|—|
@@ -1168,7 +1170,7 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 |Swarm, bloodmote cloud|—|Improved Familiar|13th|[[#Swarm Familiar]]|
 |Swarm, dread bloom|—|Improved Familiar|13th|[[#Swarm Familiar]]|
 |Swarm, needletooth|—|Improved Familiar|13th|[[#Swarm Familiar]]|
-|Cloaker|—|Darkness Familiar|14th|—|
+|[[Cloaker]]|—|Darkness Familiar|14th|—|
 |Gold dragon, wyrmling|—|Dragon Familiar|14th|—|
 |Shadow mastiff|—|Darkness Familiar|14th|—|
 |Wraith|—|Darkness Familiar|14th|—|
@@ -1188,7 +1190,7 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 
 **Scent (Su)**: You gain the [[scent]] ability. You can identify familiar odors just as normal humans do familiar sights.
 
-**Second Memory (Ex)**: You may seek your familiar's sometimes dubious advice. Whenever you attempt a [[Knowledge]] check for a [[Knowledge]] skill in which you have at least 1 rank your raven familiar attempts to assist you. It need only make a DC 10 Intelligence check to do so. If it succeeds, you receive the standard +2 bonus on your skill check.
+**Second Memory (Ex)**: You may seek your familiar's sometimes dubious advice. Whenever you attempt a [[Compendium/Basics/Skills/Knowledge]] check for a [[Compendium/Basics/Skills/Knowledge]] skill in which you have at least 1 rank your raven familiar attempts to assist you. It need only make a DC 10 Intelligence check to do so. If it succeeds, you receive the standard +2 bonus on your skill check.
 
 **Self-Cannibalize (Su)**: Your will to survive allows you to feed upon your magic. Once per day you may, as a free action, sacrifice one of your available spell slots or prepared spells to convert some lethal damage you take from an attack or spell into nonlethal damage. The level of the spell sacrificed represents the number of hit points converted into nonlethal damage.
 
@@ -1200,29 +1202,29 @@ _Granted Abilities_: In addition to special abilities gained as a result of stan
 
 _Hive Mind (Ex)_: Swarm familiars gain a hive mind that connects them to each other by the arcane power of their master. The master gains an empathic link and the ability to share spells with the hive mind of the swarm familiar.
 
-_Nonhealing (Ex)_: When a swarm takes damage, part of it is physically destroyed. Therefore, swarm familiars cannot be healed in the normal manner. Instead, new creatures must be summoned to the swarm to replace those that have died. A summon swarm spell "cures" a swarm familiar by replacing dead creatures in the swarm at a rate of 1d6 hit points per caster level. The number of hit points healed in this manner cannot exceed the swarm's maximum hit point total. Only a druid or the wizard to whom the swarm familiar belongs can cure a swarm familiar in this fashion. Summon swarm spells used to heal a familiar create no other effect.
+_Nonhealing (Ex)_: When a swarm takes damage, part of it is physically destroyed. Therefore, swarm familiars cannot be healed in the normal manner. Instead, new creatures must be summoned to the swarm to replace those that have died. A [[summon swarm]] spell "cures" a swarm familiar by replacing dead creatures in the swarm at a rate of 1d6 hit points per caster level. The number of hit points healed in this manner cannot exceed the swarm's maximum hit point total. Only a druid or the wizard to whom the swarm familiar belongs can cure a swarm familiar in this fashion. [[Summon swarm]] spells used to heal a familiar create no other effect.
 
 #### Filidh
 
-Highly respected lawgivers of barbarian society, filidhs draw their power from their [[Knowledge]] and application of lore. They provide judgments in legal disputes and defend their people using the mysterious ways of their ancestors. If shamans are the conscience of the tribe and skalds its memory, then filidhs are its unshakable will.
+Highly respected lawgivers of barbarian society, filidhs draw their power from their [[Compendium/Basics/Skills/Knowledge]] and application of lore. They provide judgments in legal disputes and defend their people using the mysterious ways of their ancestors. If shamans are the conscience of the tribe and skalds its memory, then filidhs are its unshakable will.
 
 The filidh is a variant wizard. Unless otherwise noted, a filidh advances in the same manner as a wizard (same Hit Die, base attack bonus, saving throw bonuses, skill points, and so on). When a character elects to take a level of wizard or filidh, he may not later take levels in the other class. This prevents the character from gaining the benefits of a 1st-level wizard twice.
 
-Filidhs seek to preserve the beliefs of their tribe. As enforcers of ancestral traditions, they seek out magical power to increase their [[Knowledge]] and strengthen their position within the tribe. These barbaric lore keepers tend toward neutral alignments, although both lawful and chaotic societies have traditions filidhs might seek to uphold. To aid them, most filidhs typically devote a significant number of spells to divination, balancing them with other offensive or supporting spells. These tribal wizards equate [[Knowledge]] with power and carefully dispense their learning to a select few. They tend to play subtle but domineering roles in any group, even if they do not obviously lead it. Many filidhs associate with religious orders or druids as they often hold similar perspectives and goals.
+Filidhs seek to preserve the beliefs of their tribe. As enforcers of ancestral traditions, they seek out magical power to increase their [[Compendium/Basics/Skills/Knowledge]] and strengthen their position within the tribe. These barbaric lore keepers tend toward neutral alignments, although both lawful and chaotic societies have traditions filidhs might seek to uphold. To aid them, most filidhs typically devote a significant number of spells to divination, balancing them with other offensive or supporting spells. These tribal wizards equate [[Compendium/Basics/Skills/Knowledge]] with power and carefully dispense their learning to a select few. They tend to play subtle but domineering roles in any group, even if they do not obviously lead it. Many filidhs associate with religious orders or druids as they often hold similar perspectives and goals.
 
-Devout and spiritual beyond most traditional wizards, filidhs usually worship gods of [[Knowledge]], magic, poetry, or travel. They also highly respect and might worship creator gods, as they are usually credited with teaching laws to the first mortals. Other filidhs worship nature gods and explore the secrets of both the natural and the unseen world.
+Devout and spiritual beyond most traditional wizards, filidhs usually worship gods of [[Compendium/Basics/Skills/Knowledge]], magic, poetry, or travel. They also highly respect and might worship creator gods, as they are usually credited with teaching laws to the first mortals. Other filidhs worship nature gods and explore the secrets of both the natural and the unseen world.
 
 ##### Class Skills
 
-The filidh's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), Gather Information (Cha), [[Intimidate]] (Cha), [[Knowledge]] (all skills, taken individually) (Int), [[Sense Motive]] (Wis), [[SpellCraft]] (Int), and [[Survival]] (Wis).
+The filidh's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), Gather Information (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Sense Motive]] (Wis), [[SpellCraft]] (Int), and [[Survival]] (Wis).
 
 ##### Class Features
 
-The filidh loses the base wizard's Scribe Scroll, bonus feats, and summon familiar class features but gains several abilities related to [[Knowledge]] and divination. All of the following are class features of the filidh.
+The filidh loses the base wizard's Scribe Scroll, bonus feats, and summon familiar class features but gains several abilities related to [[Compendium/Basics/Skills/Knowledge]] and divination. All of the following are class features of the filidh.
 
 **Weapon and Armor Proficiencies**: Filidhs are proficient with the club, dagger, quarterstaff, and shortbow but not with any type of armor or shield. Armor of any type interferes with a filidh's movements, which can cause her spells with somatic components to fail.
 
-**Filidh [[Knowledge]]**: This ability functions as the bardic [[Knowledge]] ability. A filidh with levels in another class that grants bardic [[Knowledge]] stacks those levels with her filidh levels when determining her total bonus to bardic [[Knowledge]] checks.
+**Filidh [[Compendium/Basics/Skills/Knowledge]]**: This ability functions as the bardic [[Compendium/Basics/Skills/Knowledge]] ability. A filidh with levels in another class that grants bardic [[Compendium/Basics/Skills/Knowledge]] stacks those levels with her filidh levels when determining her total bonus to bardic [[Compendium/Basics/Skills/Knowledge]] checks.
 
 **Greater Divining**: A filidh is able to cast divination spells as if her caster level was +1 level higher at 5th level. This ability increases to +2 levels higher at 10th level, +3 levels higher at 15th level, and +4 levels higher at 20th level.
 
@@ -1238,7 +1240,7 @@ The fleshcrafter lurks at the edge of society, picking off the weak and those un
 
 ##### Class Skills
 
-The fleshcrafter's class skills and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Heal]] (Wis), [[Knowledge]] (all skills, taken individually) (Int), and [[SpellCraft]] (Int).
+The fleshcrafter's class skills and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1293,7 +1295,7 @@ Like a wizard, a fleshcrafter can cast only a certain number of arcane spells of
 
 All fleshcrafters function as necromancer specialist wizards for the purpose of spellcasting. They must specialize in necromancy and choose prohibited schools as per the standard rules for specialist wizards.
 
-**Spellbooks**: A fleshcrafter must record his spells in thick books. Each morning, he pores over these tomes to prepare his spells for use later in the day. The fleshcrafter can prepare read magic from memory, but all other spells must appear in his spellbooks before he can prepare them. A fleshcrafter gains all 0-level wizard spells (except for those from prohibited schools) at 1st level. In addition, he gains three 1st-level spells and an additional number equal to his Intelligence bonus. Thereafter, each time the fleshcrafter achieves a new level, he gains two new spells of any level or levels that his new level allows him to cast.
+**Spellbooks**: A fleshcrafter must record his spells in thick books. Each morning, he pores over these tomes to prepare his spells for use later in the day. The fleshcrafter can prepare [[read magic]] from memory, but all other spells must appear in his spellbooks before he can prepare them. A fleshcrafter gains all 0-level wizard spells (except for those from prohibited schools) at 1st level. In addition, he gains three 1st-level spells and an additional number equal to his Intelligence bonus. Thereafter, each time the fleshcrafter achieves a new level, he gains two new spells of any level or levels that his new level allows him to cast.
 
 Like a wizard, a fleshcrafter may select the Spell Mastery feat.
 
@@ -1322,7 +1324,7 @@ _Uncanny Likeness_: The close link that the stitched flesh familiar has with its
 
 _Sustained Spirit_: When the fleshcrafter reaches 9th level, his link with his stitched flesh familiar becomes strong enough to survive after death. If a fleshcrafter creates a new stitched flesh familiar to replace a lost one, the newly created servant has all the memories of the previous one, as well as the same personality. Thus, a stitched flesh familiar created to replace one that was killed under mysterious circumstances can remember the details of its predecessor's death (including the killers, if it saw them).
 
-**Reaper's Touch (Ex)**: At 1st level, the fleshcrafter gains such an intimate [[Knowledge]] of living things that he can increase the chances of a creature's death while appearing to heal it. When using the Heal skill to treat another creature, he may instead double any hit point or ability score damage his patient takes due to any conditions from which it already suffers. The Heal DC decreases by 5 when he uses the skill for this purpose, and the effect lasts for 24 hours. Thus, a creature with fewer than 0 hit points loses 2 hit points per round rather than 1.
+**Reaper's Touch (Ex)**: At 1st level, the fleshcrafter gains such an intimate [[Compendium/Basics/Skills/Knowledge]] of living things that he can increase the chances of a creature's death while appearing to heal it. When using the Heal skill to treat another creature, he may instead double any hit point or ability score damage his patient takes due to any conditions from which it already suffers. The Heal DC decreases by 5 when he uses the skill for this purpose, and the effect lasts for 24 hours. Thus, a creature with fewer than 0 hit points loses 2 hit points per round rather than 1.
 
 Furthermore, the affected creature cannot check to stabilize as long as the creature is taking extra damage from this ability. An observer may make a Heal check opposed by the fleshcrafter's Heal check result to notice the latter's sabotage of the patient. A successful Heal check opposed by the fleshcrafter's Heal result or the application of any sort of healing magic is sufficient to halt the accelerated loss of life.
 
@@ -1334,7 +1336,7 @@ For each 2 HD of the animated object to be created, the fleshcrafter must harves
 
 **Master of Life and Death (Su)**: At 15th level, the fleshcrafter perfects his understanding of life, death, and magic. His spells are so attuned to the patterns and energy of life that they are difficult for living creatures to resist. When the fleshcrafter affects a living creature (that is, any creature other than a construct or undead) with a spell, the DC for the saving throw (if any) increases by +1.
 
-**Forge Life (Ex)**: At 20th level, the fleshcrafter can use his [[Knowledge]] of arcane magic and biology to create a flesh golem using special, rare methods that only he and others of his class can access. The fleshcrafter need spend only 5,000 gp to produce the golem, although he must still meet all the remaining prerequisites, and spend the standard amount of time and XP based on the value of the flesh golem listed in the Monster Manual. In addition, he must collect body parts from the equivalent equivalent of at least twenty different Medium humanoids that he personally killed to assemble the golem. The fleshcrafter can create any number of flesh golems in this manner.
+**Forge Life (Ex)**: At 20th level, the fleshcrafter can use his [[Compendium/Basics/Skills/Knowledge]] of arcane magic and biology to create a [[Golem_Flesh|flesh golem]] using special, rare methods that only he and others of his class can access. The fleshcrafter need spend only 5,000 gp to produce the golem, although he must still meet all the remaining prerequisites, and spend the standard amount of time and XP based on the value of the [[Golem_Flesh|flesh golem]] listed in the Monster Manual. In addition, he must collect body parts from the equivalent equivalent of at least twenty different Medium humanoids that he personally killed to assemble the golem. The fleshcrafter can create any number of flesh golems in this manner.
 
 #### Focus Caster
 
@@ -1366,13 +1368,13 @@ _Divination_: Usually a large crystal (loose or mounted on a rod or staff) or or
 
 _Enchantment_: Usually an ornate and typically nonfunctional piece of clothing, such as a sash or a hair ribbon, your focus increases the duration of any enchantment spell you cast by 1 round (including spells that require concentration). Spells that require concentration also continue for 1 extra round after you stop concentrating. At 7th level, the duration bonuses each increase by 2 rounds. At 15th level, the DC of your enchantment spells increases by +2.
 
-_Evocation_: Usually a bladed weapon, such as a longsword or dagger, your focus grants +1 point of damage to any evocation spell you cast. Non-area effect spells that allow multiple targets (such as magic missile) only deal the bonus damage to a single target of your choice. For example, a fireball spell cast by a 6th-level sorcerer with this focus deals 6d6+1 points of damage to all creatures caught within it, while a magic missile spell cast by the same sorcerer creates three missiles: two that deal 1d4+1 points of damage and one that deals 1d4+2 points of damage. At 7th level, evocation spells you cast ignore the first 5 points of any energy or elemental resistances that a creature may have. Immunities are not affected. At 15th level, you may, once per day, ignore a creature's immunity when you cast an evocation spell that affects it.
+_Evocation_: Usually a bladed weapon, such as a longsword or dagger, your focus grants +1 point of damage to any evocation spell you cast. Non-area effect spells that allow multiple targets (such as [[magic missile]]) only deal the bonus damage to a single target of your choice. For example, a fireball spell cast by a 6th-level sorcerer with this focus deals 6d6+1 points of damage to all creatures caught within it, while a [[magic missile]] spell cast by the same sorcerer creates three missiles: two that deal 1d4+1 points of damage and one that deals 1d4+2 points of damage. At 7th level, evocation spells you cast ignore the first 5 points of any energy or elemental resistances that a creature may have. Immunities are not affected. At 15th level, you may, once per day, ignore a creature's immunity when you cast an evocation spell that affects it.
 
 _Illusion_: Usually a mask, shroud, cloak, or similar concealing piece of clothing, your focus increases the caster level of illusion spells you cast by +1. At 7th level, for every illusion spell you cast you gain a bonus on caster level checks made to defeat spell resistance equal to half your caster level. At 15th level, you may cast any personal illusion spell as a touch spell.
 
-_Necromancy_: Usually a flail, kama, sickle, scythe, or other weapon derived from harvesting crops, your focus increases the range of any necromancy spell you cast by +25%. At 7th level, any necromancy spell you cast that deals ability damage, ability drain, or directly assigns a penally to an ability score deals +1 point of ability damage or ability drain or increases the penalty by an additional -1. For example, a 12th-level necromancer who casts ray of enfeeblement bestows a Strength penalty of 1d6+6 instead of the normal 1d6+5. At 15th level, any living creature affected by a necromancy spell you cast and fails the Fortitude save against it also becomes fatigued.
+_Necromancy_: Usually a flail, kama, sickle, scythe, or other weapon derived from harvesting crops, your focus increases the range of any necromancy spell you cast by +25%. At 7th level, any necromancy spell you cast that deals ability damage, ability drain, or directly assigns a penally to an ability score deals +1 point of ability damage or ability drain or increases the penalty by an additional -1. For example, a 12th-level necromancer who casts [[ray of enfeeblement]] bestows a Strength penalty of 1d6+6 instead of the normal 1d6+5. At 15th level, any living creature affected by a necromancy spell you cast and fails the Fortitude save against it also becomes fatigued.
 
-_Transmutation_: Usually a piece of equipment or set of tools used to create something (such as thieves' tools, a musical instrument, or artisan's tools), your focus grants any nonpersonal transmutation spell you cast with one or more targets one additional target. The additional target is affected by the spell for half the normal duration. At 7th level, the additional targets of your spells receive them for the full duration. At 15th level, once per day, a transmutation spell you cast that grants a bonus to ability scores doubles the bonus. For example, a bull's strength spell grants a +8 bonus to Strength instead of the normal +4.
+_Transmutation_: Usually a piece of equipment or set of tools used to create something (such as thieves' tools, a musical instrument, or artisan's tools), your focus grants any nonpersonal transmutation spell you cast with one or more targets one additional target. The additional target is affected by the spell for half the normal duration. At 7th level, the additional targets of your spells receive them for the full duration. At 15th level, once per day, a transmutation spell you cast that grants a bonus to ability scores doubles the bonus. For example, a [[Bulls Strength|bull's strength]] spell grants a +8 bonus to Strength instead of the normal +4.
 
 
 
@@ -1426,25 +1428,25 @@ All the following are features of the gnome illusionist's racial substitution le
 
 **Gnome Illusion Spells**: A gnome illusionist who takes the 1st-level racial substitution level uses her wizard level as the caster level for her racial spell-like abilities. In addition, she can prepare and cast the following illusion spells at the indicated spell level, rather than at their normal spell level:
 
-_0 level_: Silent image, ventriloquism.
+_0 level_: Silent image, [[ventriloquism]].
 
-_1st level_: Leomund's trap, minor image.
+_1st level_: Leomund's trap, [[minor image]].
 
-_2nd level_: Illusory script, major image.
+_2nd level_: [[Illusory script]], [[major image]].
 
-_3rd level_: Illusory wall.
+_3rd level_: [[Illusory wall]].
 
-_4th level_: Persistent image.
+_4th level_: [[Persistent image]].
 
-_5th level_: Programmed image.
+_5th level_: [[Programmed image]].
 
 In exchange for this benefit, a gnome illusionist must choose one of the following schools of magic from which she can cast spells (in other words, one that she has not given up access to as the price for specializing in illusion): evocation, transmutation, or conjuration. The gnome illusionist's effective caster level for spells of this school is equal to her actual caster level minus one. At 1st level, she cannot cast any spells from the selected school.
 
-**Extended Illusions (Su)**: A gnome illusionist who takes the 5th-level racial substitution level gains the ability to create illusions that last longer than normal. When she casts any illusion spell that has a duration other than instantaneous, the duration of the spell is doubled. A spell with a duration of concentration lasts for the duration of the illusionist's concentration plus 1d4 rounds. A spell with a duration of concentration plus a certain increment of time lasts for the duration of the illusionist's concentration plus double that increment of time. Thus, a mirror image spell cast by a 10th-level gnome illusionist lasts for 20 minutes, a silent image spell lasts for the duration of the caster's concentration plus 1d4 rounds, a minor image spell lasts for the duration of the caster's concentration plus 4 rounds, and a mirage arcana lasts for the duration of her concentration plus 20 hours.
+**Extended Illusions (Su)**: A gnome illusionist who takes the 5th-level racial substitution level gains the ability to create illusions that last longer than normal. When she casts any illusion spell that has a duration other than instantaneous, the duration of the spell is doubled. A spell with a duration of concentration lasts for the duration of the illusionist's concentration plus 1d4 rounds. A spell with a duration of concentration plus a certain increment of time lasts for the duration of the illusionist's concentration plus double that increment of time. Thus, a [[mirror image]] spell cast by a 10th-level gnome illusionist lasts for 20 minutes, a silent image spell lasts for the duration of the caster's concentration plus 1d4 rounds, a [[minor image]] spell lasts for the duration of the caster's concentration plus 4 rounds, and a [[mirage arcana]] lasts for the duration of her concentration plus 20 hours.
 
 This benefit replaces the bonus feat gained by a standard wizard at 5th level, as well as the two spells a standard 5thlevel wizard learns for free.
 
-**Insidious Illusions (Su)**: A gnome illusionist who takes the 10th-level racial substitution level can cast illusion spells that are harder for other creatures to detect or pierce. When any creature employs a divination spell, spell-like ability, or magic item (such as detect magic or true seeing) that would detect or pierce an illusion spell cast by the gnome illusionist, that creature must make a caster level check (DC 11 + the gnome illusionist's caster level) to successfully detect or pierce the illusion. The detecting creature can check only once for each divination spell or effect used, no matter how many of the gnome illusionist's illusion spells are operating in an area.
+**Insidious Illusions (Su)**: A gnome illusionist who takes the 10th-level racial substitution level can cast illusion spells that are harder for other creatures to detect or pierce. When any creature employs a divination spell, spell-like ability, or magic item (such as detect magic or [[true seeing]]) that would detect or pierce an illusion spell cast by the gnome illusionist, that creature must make a caster level check (DC 11 + the gnome illusionist's caster level) to successfully detect or pierce the illusion. The detecting creature can check only once for each divination spell or effect used, no matter how many of the gnome illusionist's illusion spells are operating in an area.
 
 This benefit replaces the bonus feat gained by a standard wizard at 10th level, as well as the two spells a standard 10thlevel wizard learns for free.
 
@@ -1456,7 +1458,7 @@ Wizards who train at the Arcanamirum spend much of their time studying the pract
 
 #### Halfling Wizard
 
-Lacking the great colleges of wizardry in which human and elven wizards learn their craft, halflings master magic by practice, curiosity, and the random accumulation of [[Knowledge]]. Halfling wizards gain a new form of versatility.
+Lacking the great colleges of wizardry in which human and elven wizards learn their craft, halflings master magic by practice, curiosity, and the random accumulation of [[Compendium/Basics/Skills/Knowledge]]. Halfling wizards gain a new form of versatility.
 
 **Hit Die**: d4.
 
@@ -1488,7 +1490,7 @@ All of the following are features of the halfling wizard's racial substitution l
 
 This substitution feature replaces the standard wizard's two automatic spells learned.
 
-**Lore (Ex)**: At 5th level, the wizard knows legends or information regarding various topics, just as a bard can with bardic [[Knowledge]]. She adds her wizard level and Intelligence modifier to the lore check, which otherwise functions like a bardic [[Knowledge]] check.
+**Lore (Ex)**: At 5th level, the wizard knows legends or information regarding various topics, just as a bard can with bardic [[Compendium/Basics/Skills/Knowledge]]. She adds her wizard level and Intelligence modifier to the lore check, which otherwise functions like a bardic [[Compendium/Basics/Skills/Knowledge]] check.
 
 This substitution replaces the wizard's two automatic spells known and her bonus feat gained at 5th level.
 
@@ -1504,7 +1506,7 @@ Some paladins of Azuth belong to the Order of the Swords of the High One. These 
 
 ##### Requirements
 
-To take a level of High One warrior-wizard, a character must be a member of the Swords of the High One, have 1 rank in [[Knowledge]] (religion), have at least two paladin levels, and be about to take her 2nd, 4th, or 5th level of wizard.
+To take a level of High One warrior-wizard, a character must be a member of the Swords of the High One, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), have at least two paladin levels, and be about to take her 2nd, 4th, or 5th level of wizard.
 
 ##### Class Skills
 
@@ -1577,11 +1579,11 @@ An abjurer using this variant can use this ability one additional time per day f
 
 An abjurer using this variant does not gain bonus feats for advancing as a wizard.
 
-**Spontaneous Dispelling (Ex)**: At 5th level, an abjurer using this variant gains the ability to spontaneously cast the spell [[dispel magic]]. This ability is similar to the cleric's ability to spontaneously cast cure spells, with a few exceptions. The abjurer can "lose" four or more levels of prepared spells to cast dispel magic. The prepared spells can be of any level or combination of levels as long as the total spell levels add up to four or more (0-level spells don't count). For example, an abjurer using this variant could lose two 2nd-level spells or one 1st-level spell and one 3rd-level spell to cast dispel magic.
+**Spontaneous Dispelling (Ex)**: At 5th level, an abjurer using this variant gains the ability to spontaneously cast the spell [[dispel magic]]. This ability is similar to the cleric's ability to spontaneously cast cure spells, with a few exceptions. The abjurer can "lose" four or more levels of prepared spells to cast [[dispel magic]]. The prepared spells can be of any level or combination of levels as long as the total spell levels add up to four or more (0-level spells don't count). For example, an abjurer using this variant could lose two 2nd-level spells or one 1st-level spell and one 3rd-level spell to cast [[dispel magic]].
 
 At 11th level, an abjurer can "lose" seven or more levels of prepared spells to spontaneously cast [[dispel magic greater]].
 
-An abjurer using this variant can use it in conjunction with a readied action to use dispel magic or greater dispel magic as a counterspell.
+An abjurer using this variant can use it in conjunction with a readied action to use [[dispel magic]] or [[Dispel Magic Greater|greater dispel magic]] as a counterspell.
 
 An abjurer using this variant does not gain additional spells per day for being a specialist wizard.
 
@@ -1611,7 +1613,7 @@ _Note:_ Since conjurers using this variant obviously summon monsters frequently,
 
 ##### HIGH DIVINER
 
-Seekers of [[Knowledge]], hoarders of lore, and master spies, diviners are perhaps the most underrated specialist wizards. Because they must give up access to only one other school of magic, they are also the most versatile specialists. More than any other specialists, diviners excel at gathering information, and an adventuring party that includes a diviner is much more likely to prepare properly for an adventure.
+Seekers of [[Compendium/Basics/Skills/Knowledge]], hoarders of lore, and master spies, diviners are perhaps the most underrated specialist wizards. Because they must give up access to only one other school of magic, they are also the most versatile specialists. More than any other specialists, diviners excel at gathering information, and an adventuring party that includes a diviner is much more likely to prepare properly for an adventure.
 
 Many campaigns benefit from featuring more than one type of divination specialist, and diviners can play important parts in any game revolving around information gathering. Campaigns that feature mysteries and detective-style adventures, themes of prophecy and oracles, or large amounts of social interaction and espionage all make excellent forums for a diviner's powers. In campaigns that feature high diviners with different class abilities, one simple way to add more variety is to make each distinct group of specialists experts in and proponents of a different form of divination. In game terms, this divergence is represented by altering the material components for some divination spells. For example, one group of diviners might favor osteomancy and require a collection of bones to use as components for their spells.
 
@@ -1714,7 +1716,7 @@ Wrapped in mystery and burdened by reputations of evil, necromancers control dan
 
 Campaigns that include evil necromancers or groups of undead as antagonists can benefit from the inclusion of high necromancers. Rival groups of necromancers might view certain types of undead as the only true or "pure" undead and all others as evils that must be destroyed, with each group disagreeing on which types are which. Other factions or groups might have an innate loathing for undead raised by any but themselves.
 
-**Skeletal Minion**: A 1st-level necromancer using this variant can begin play with an undead minion (a human warrior [[skeleton]]). Obtaining this minion takes 24 hours and uses up magical materials that cost 100 gp.
+**Skeletal Minion**: A 1st-level necromancer using this variant can begin play with an undead minion (a human warrior [[Skeleton]]). Obtaining this minion takes 24 hours and uses up magical materials that cost 100 gp.
 
 This creature is a loyal servant that follows the necromancer's commands and accompanies her on adventures if desired. If the skeletal minion is destroyed, the necromancer suffers no ill effects and may replace it by performing a ceremony identical to the one that allowed her to obtain her first servant.
 
@@ -1748,7 +1750,7 @@ A transmuter using this variant permanently gives up the ability to obtain a fam
 
 **Spell Versatility (Ex)**: A 5th-level transmuter using this variant can adapt magic of other schools to his own style of spellcasting. For every five class levels that the transmuter gains, he can select one spell of any spell level that he has access to and treat it as if it were a transmutation spell. This means, for example, that the specialist can learn the spell normally and even prepare it as a bonus spell from the transmutation school. This spell can even be from a school that he has chosen as a prohibited school. Once a spell is chosen to be affected by this ability, it cannot be changed.
 
-For example, a transmutation specialist using this variant has selected abjuration and necromancy as his prohibited schools. At 5th level, he gains access to 3rd-level spells. He chooses [[dispel magic]] and forever after treats dispel magic as if were a transmutation spell.
+For example, a transmutation specialist using this variant has selected abjuration and necromancy as his prohibited schools. At 5th level, he gains access to 3rd-level spells. He chooses [[dispel magic]] and forever after treats [[dispel magic]] as if were a transmutation spell.
 
 A transmuter using this variant does not gain bonus feats for advancing as a wizard.
 
@@ -1830,15 +1832,15 @@ To select this ability, you must also choose to specialize in a school of magic.
 
 _Urgent Shield (abjuration)_: You create a temporary shield of force that grants you a +2 shield bonus to AC.
 
-_Abrupt Jaunt (conjuration)_: You teleport up to 10 feet. You can't bring along any other creatures.
+_Abrupt Jaunt (conjuration)_: You [[teleport]] up to 10 feet. You can't bring along any other creatures.
 
-_Glimpse Peril (divination)_: You get a flash of foresight into the danger lying in your future. You gain a +2 insight bonus on the next saving throw you make before your next turn.
+_Glimpse Peril (divination)_: You get a flash of [[foresight]] into the danger lying in your future. You gain a +2 insight bonus on the next saving throw you make before your next turn.
 
 _Instant Daze (enchantment)_: When an enemy that has HD equal to or less than your wizard level makes a melee attack against you, you can render him dazed (Will negates). This is a compulsion, mind-affecting ability.
 
 _Counterfire (evocation)_: When a visible enemy within 60 feet targets you with a ranged attack or spell, you can respond with a glowing arrow of force. This requires a ranged touch attack to hit and deals 1d6 points of damage per three wizard levels. Both attacks resolve simultaneously (neither can disrupt the other).
 
-_Brief Figment (illusion)_: You create a figment double of yourself (similar to mirror image). The image lasts until it is struck or until the start of your next turn.
+_Brief Figment (illusion)_: You create a figment double of yourself (similar to [[mirror image]]). The image lasts until it is struck or until the start of your next turn.
 
 _Cursed Glance (necromancy)_: When a visible enemy within 60 feet targets you with an attack or spell, you can respond with a curse. If the enemy fails a Will save, he takes a -2 penalty to AC and on saving throws.
 
@@ -1856,13 +1858,13 @@ Sorcerers typically seek to maximize their limited spell selection by utilizing 
 
 You may apply the metamagic feat spontaneously, as you cast the spell. If you prepare spells, you do not need to prepare the spells with the metamagic feat already applied.
 
-Even though this ability does not increase the spell's level, you must be able to cast spells of the level the spell would be if you applied the metamagic feat normally. For example, a quickened magic missile would normally require a 5th-level spell slot. With this ability you may cast a quickened magic missile as a 1st-level spell, but you must still be able to cast 5th-level spells.
+Even though this ability does not increase the spell's level, you must be able to cast spells of the level the spell would be if you applied the metamagic feat normally. For example, a quickened [[magic missile]] would normally require a 5th-level spell slot. With this ability you may cast a quickened [[magic missile]] as a 1st-level spell, but you must still be able to cast 5th-level spells.
 
 #### Planar Wizard
 
-While other spellcasters may have a vested interest in a particular planar viewpoint, the wizard prefers a more open policy toward the planes. To a wizard, the planes represent [[Knowledge]] and power, and the wizard who can learn the secrets of the planes without regard to those planes' alignments or other traits is a true master of magic.
+While other spellcasters may have a vested interest in a particular planar viewpoint, the wizard prefers a more open policy toward the planes. To a wizard, the planes represent [[Compendium/Basics/Skills/Knowledge]] and power, and the wizard who can learn the secrets of the planes without regard to those planes' alignments or other traits is a true master of magic.
 
-More so than many other classes, the wizard already has the ability to customize her abilities with an eye to the planes, simply through the spells she learns and prepares each day. If a wizard learns plane shift and planar tolerance, then the caster is self-customized to adventure on the planes. But the planar wizard goes a step beyond this adaptation, learning to channel the pure power of the planes themselves in her spells.
+More so than many other classes, the wizard already has the ability to customize her abilities with an eye to the planes, simply through the spells she learns and prepares each day. If a wizard learns [[plane shift]] and planar tolerance, then the caster is self-customized to adventure on the planes. But the planar wizard goes a step beyond this adaptation, learning to channel the pure power of the planes themselves in her spells.
 
 **Hit Die**: d4.
 
@@ -1872,7 +1874,7 @@ To take a wizard planar substitution level, a character must be about to take he
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1906,7 +1908,7 @@ This benefit replaces the 3rd-level spell slot gained by a standard wizard at 6t
 
 **Planar Spellcasting (Su)**: A 10th-level planar wizard learns to channel planar energy through her spells. Upon gaining this ability, the wizard chooses to make her spells anarchic (chaotic), axiomatic (lawful), celestial (good), or fiendish (evil). Her spells gain the indicated alignment descriptor. The wizard can choose any of the four options, regardless of her own alignment. Against creatures of the opposed alignment, she gains a +1 bonus on caster level checks made to overcome spell resistance, and her spell save DCs are increased by 1. If she casts a spell that normally has the same alignment descriptor that she would apply, or whenever she casts a spell on a plane with an alignment trait that matches the alignment she chose, the bonuses increase to +2. These effects apply only to the character's wizard spells; any spellcasting ability gained from another class functions normally.
 
-For example, the spells of a wizard choosing to cast fiendish spells gain the evil descriptor. She gains a +1 bonus on caster level checks to overcome the spell resistance of good-aligned creatures, and good-aligned creatures attempting to save against her spells do so against a DC that is 1 higher than normal. If she casts a spell that would normally be an evil spell (such as contagion), or if she casts any spell on an evil-aligned plane (such as the Abyss or the Nine Hells), these values would increase by 2 instead of by 1.
+For example, the spells of a wizard choosing to cast fiendish spells gain the evil descriptor. She gains a +1 bonus on caster level checks to overcome the spell resistance of good-aligned creatures, and good-aligned creatures attempting to save against her spells do so against a DC that is 1 higher than normal. If she casts a spell that would normally be an evil spell (such as [[contagion]]), or if she casts any spell on an evil-aligned plane (such as the Abyss or the Nine Hells), these values would increase by 2 instead of by 1.
 
 This benefit replaces the bonus feat gained by a standard wizard at 10th level, as well as the two spells a standard 10th-level wizard learns for free.
 
@@ -1936,7 +1938,7 @@ _Enchantment_: For 24 hours after an enchantment spell you cast expires, the tar
 
 _Evocation_: Whenever you cast an evocation spell that deals hit point damage, that spell deals +1 point of damage.
 
-_Illusion_: Whenever you cast an illusion (shadow) spell that creates a partially real effect (such as shadow conjuration or shadow evocation), the effect is 10% more real than normal. Thus, a creature created by shadow conjuration is 30% as strong as a real creature of the same kind, instead of the normal 20%.
+_Illusion_: Whenever you cast an illusion (shadow) spell that creates a partially real effect (such as [[shadow conjuration]] or [[shadow evocation]]), the effect is 10% more real than normal. Thus, a creature created by [[shadow conjuration]] is 30% as strong as a real creature of the same kind, instead of the normal 20%.
 
 _Necromancy_: Each undead creature you create with any evil spell gains a number of temporary hit points equal to your caster level. These temporary hit points last indefinitely, only disappearing when your creation takes damage. They cannot be regained once lost.
 
@@ -1954,7 +1956,7 @@ By collecting souls in this manner and using obscene rituals to torment and ensl
 
 ##### Class Skills
 
-The soul reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The soul reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1971,19 +1973,19 @@ The soul reaper's class skills (and the key ability for each skill) are [[Concen
 |2nd|+1|+0|+0|+3||4+1|2+1|—|—|—|—|—|—|—|—|
 |3rd|+1|+1|+1|+3||4+1|2+1|1+1|—|—|—|—|—|—|—|
 |4th|+2|+1|+1|+4||4+1|3+1|2+1|—|—|—|—|—|—|—|
-|5th|+2|+1|+1|+4|Ancestral [[Knowledge]] 1/day, bind spirit|4+1|3+1|2+1|1+1|—|—|—|—|—|—|
+|5th|+2|+1|+1|+4|Ancestral [[Compendium/Basics/Skills/Knowledge]] 1/day, bind spirit|4+1|3+1|2+1|1+1|—|—|—|—|—|—|
 |6th|+3|+2|+2|+5||4+1|3+1|3+1|2+1|—|—|—|—|—|—|
 |7th|+3|+2|+2|+5||4+1|4+1|3+1|2+1|1+1|—|—|—|—|—|
 |8th|+4|+2|+2|+6||4+1|4+1|3+1|3+1|2+1|—|—|—|—|—|
-|9th|+4|+3|+3|+6|Ancestral [[Knowledge]] 2/day|4+1|4+1|4+1|3+1|2+1|1+1|—|—|—|—|
+|9th|+4|+3|+3|+6|Ancestral [[Compendium/Basics/Skills/Knowledge]] 2/day|4+1|4+1|4+1|3+1|2+1|1+1|—|—|—|—|
 |10th|+5|+3|+3|+7|Bonus feat|4+1|4+1|4+1|3+1|3+1|2+1|—|—|—|—|
 |11th|+5|+3|+3|+7||4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|—|—|
 |12th|+6/+1|+4|+4|+8||4+1|4+1|4+1|4+1|3+1|3+1|2+1|—|—|—|
-|13th|+6/+1|+4|+4|+8|Ancestral [[Knowledge]] 3/day|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|—|
+|13th|+6/+1|+4|+4|+8|Ancestral [[Compendium/Basics/Skills/Knowledge]] 3/day|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|—|
 |14th|+7/+2|+4|+4|+9||4+1|4+1|4+1|4+1|4+1|3+1|3+1|2+1|—|—|
 |15th|+7/+2|+5|+5|+9|Spawn undead servant|4+1|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|
 |16th|+8/+3|+5|+5|+10||4+1|4+1|4+1|4+1|4+1|4+1|3+1|3+1|2+1|—|
-|17th|+8/+3|+5|+5|+10|Ancestral [[Knowledge]] 4/day|4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|
+|17th|+8/+3|+5|+5|+10|Ancestral [[Compendium/Basics/Skills/Knowledge]] 4/day|4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|
 |18th|+9/+4|+6|+6|+11||4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|3+1|2+1|
 |19th|+9/+4|+6|+6|+11||4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|3+1|
 |20th|+10/+5|+6|+6|+12|Bonus feat|4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|
@@ -2001,13 +2003,13 @@ Like a wizard, a soul reaper can cast only a certain number of arcane spells of 
 
 All soul reapers function as necromancer specialist wizards for the purpose of spellcasting. They must specialize in necromancy and choose prohibited schools as per the standard rules for specialist wizards.
 
-**Spellbooks**: A soul reaper must record her spells in thick books. Each morning, she pores over these tomes to prepare her spells for use later in the day. The soul reaper can prepare read magic from memory, but all other spells must appear in her spellbooks before she can prepare them. A soul reaper gains all 0-level wizard spells (except for those from prohibited schools) at 1st level. In addition, she gains three 1st-level spells and an additional number equal to her Intelligence bonus. Thereafter, each time the soul reaper achieves a new level, she gains two new spells of any level or levels that her new level allows him to cast.
+**Spellbooks**: A soul reaper must record her spells in thick books. Each morning, she pores over these tomes to prepare her spells for use later in the day. The soul reaper can prepare [[read magic]] from memory, but all other spells must appear in her spellbooks before she can prepare them. A soul reaper gains all 0-level wizard spells (except for those from prohibited schools) at 1st level. In addition, she gains three 1st-level spells and an additional number equal to her Intelligence bonus. Thereafter, each time the soul reaper achieves a new level, she gains two new spells of any level or levels that her new level allows him to cast.
 
 Like a wizard, a soul reaper may select the Spell Mastery feat.
 
-**Inquisitor of the Grave (Sp)**: At 1st level, the soul reaper learns to force information from the recently departed soul of a fresh corpse. Once per day, the soul reaper can use speak with dead as a spell-like ability, duplicating the effects of the speak with dead spell. The soul reaper must follow all the guidelines and restrictions associated with casting that spell.
+**Inquisitor of the Grave (Sp)**: At 1st level, the soul reaper learns to force information from the recently departed soul of a fresh corpse. Once per day, the soul reaper can use [[speak with dead]] as a spell-like ability, duplicating the effects of the [[speak with dead]] spell. The soul reaper must follow all the guidelines and restrictions associated with casting that spell.
 
-**Spiritual Vassal**: The soul reaper can compel obedience from a host of spirits that she has seized through a foul ceremony and combined into a single spiritual vassal. This ghostly apparition has little effect on the physical world, but besides acting as a familiar, it grants the reaper some of the [[Knowledge]] the souls used to create it held in life.
+**Spiritual Vassal**: The soul reaper can compel obedience from a host of spirits that she has seized through a foul ceremony and combined into a single spiritual vassal. This ghostly apparition has little effect on the physical world, but besides acting as a familiar, it grants the reaper some of the [[Compendium/Basics/Skills/Knowledge]] the souls used to create it held in life.
 
 A soul reaper dominates and controls the spirits that make up the vassal through a vile ritual that requires 100 gp worth of materials (primarily blood and bone taken from outsiders) and a humanoid creature slain via a ritual sacrifice. After killing her victim, the soul reaper can open a magical link to the afterlife, compel a number of minor spirits to enter the material world, and force them into her service. These spirits combine to form a single entity known as a spiritual vassal that obeys the soul reaper's every command - primarily because it faces terrible repercussions if it refuses to do so. As a free action, a soul reaper can induce wracking agony in her vassal, causing it to howl in pain. The pain immobilizes the vassal (no save) until the reaper wills the effect to end (also a free action). This pitiable creature might moan for an end to its horrid existence even as it moves to oppose the soul reaper's foes.
 
@@ -2015,7 +2017,7 @@ While the spiritual vassal serves the soul reaper, it is as loyal and trustworth
 
 _Spiritual Vassal (unbonded)_: CR -; Tiny undead; HD 1/2d12; hp 3; Init +1; Spd 10 ft., fly 30 ft. (perfect); AC 14 (+2 size, +1 Dex, +1 natural armor), touch 13, flat-footed 13; BAB +0, Grp -8; Atk +1 melee (1-1, slam); Full Atk +1 melee (1-1, slam); SA -; SQ undead traits; AL N: SV Fort +0, Ref +1, Will +3; Str 8, Dex 12, Con -, Int 10, Wis 12, Cha 10.
 
-A spiritual vassal looks like a small sphere of pale, glowing light. Those unfamiliar with soul reapers and their servants might mistake one for a will-o'-wisp. When in combat or forced to perform some other unpleasant task, spiritual vassals moan in inarticulate whispers of their pain and misery. Up close, shadowy faces - the spirits of the unfortunate souls bound into the vassal - occasionally appear and fade on the surface of the orb.
+A spiritual vassal looks like a small sphere of pale, glowing light. Those unfamiliar with soul reapers and their servants might mistake one for a [[Will-o-wisp|will-o'-wisp]]. When in combat or forced to perform some other unpleasant task, spiritual vassals moan in inarticulate whispers of their pain and misery. Up close, shadowy faces - the spirits of the unfortunate souls bound into the vassal - occasionally appear and fade on the surface of the orb.
 
 **Table: Spiritual Vassal Special Abilities**
 
@@ -2034,7 +2036,7 @@ A spiritual vassal looks like a small sphere of pale, glowing light. Those unfam
 
   
 
-**Ancestral [[Knowledge]] (Sp)**: The spiritual vassal can draw on its memories from life to provide the reaper with advice, skills, and abilities on a temporary basis. Starting at 5th level, the soul reaper can access her spiritual vassal's memories, gaining one of the abilities described below (reaper's choice) once per day. She gains one additional selection per day at 9th level, another at 13th level, and a fourth at 17th level. The soul reaper may mix and match the abilities as desired within her usage allotment. For example, a 17th-level soul reaper could use the memories of past lives ability four times, or memories of past lives twice and talents of the elders twice, or any combination of the three abilities that adds up to four uses. The reaper's spiritual vassal must be able to communicate with her for this ability to function.
+**Ancestral [[Compendium/Basics/Skills/Knowledge]] (Sp)**: The spiritual vassal can draw on its memories from life to provide the reaper with advice, skills, and abilities on a temporary basis. Starting at 5th level, the soul reaper can access her spiritual vassal's memories, gaining one of the abilities described below (reaper's choice) once per day. She gains one additional selection per day at 9th level, another at 13th level, and a fourth at 17th level. The soul reaper may mix and match the abilities as desired within her usage allotment. For example, a 17th-level soul reaper could use the memories of past lives ability four times, or memories of past lives twice and talents of the elders twice, or any combination of the three abilities that adds up to four uses. The reaper's spiritual vassal must be able to communicate with her for this ability to function.
 
 _Memories of Past Lives_: Drawing on her spiritual vassal's memories, the soul reaper gains a +5 competence bonus on checks made with a skill of her choice. This bonus lasts for 1 minute.
 
@@ -2066,7 +2068,7 @@ You can use your connection to the divine to inquire about mysteries beyond mort
 
 **Replaces**: This benefit replaces the bonus feat gained by a wizard at 5th, 10th, 15th, or 20th level.
 
-**Benefit**: You can spontaneously cast any spell you know from the divination school by sacrificing a prepared spell of equal or greater level. For example, if you suddenly have need of the 2nd-level spell locate object, you can sacrifice a prepared 2nd-level spell (such as mirror image) or any prepared spell of a higher level to cast it on the spot.
+**Benefit**: You can spontaneously cast any spell you know from the divination school by sacrificing a prepared spell of equal or greater level. For example, if you suddenly have need of the 2nd-level spell [[locate object]], you can sacrifice a prepared 2nd-level spell (such as [[mirror image]]) or any prepared spell of a higher level to cast it on the spot.
 
 #### Wilderness Companion
 
@@ -2092,15 +2094,14 @@ For example, Mialee is a 5th-level wizard with Intelligence 16. She selects this
 
 _3rd_ - DaylightM, displacementS, suggestion;
 
-_2nd_ - Blur, mirror imageM, scorching ray, Tasha's hideous laughterS;
+_2nd_ - [[Blur]], mirror imageM, [[scorching ray]], Tasha's hideous laughterS;
 
-_1st_ - Animate ropeS, hypnotism, magic missile, magic weaponM, sleep;
+_1st_ - Animate ropeS, [[hypnotism]], [[magic missile]], magic weaponM, sleep;
 
-_0_ - Acid splash, daze, read magic, resistance.
+_0_ - [[Acid splash]], [[daze]], [[read magic]], resistance.
 
 If Mialee casts daylight while underground, she marks that spell plus its environmentally opposite spell of the same level (in this case, displacement) off her list of prepared spells.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

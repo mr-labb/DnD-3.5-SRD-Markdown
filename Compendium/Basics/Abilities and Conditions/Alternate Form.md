@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Alternate Form]
+aliases:
+ - Alternate Form
 title: Compendium\Basics\Abilities and Conditions\
 tag: Abilities, Conditions
 ---
@@ -31,9 +32,7 @@ A creature with this special quality has the ability to assume one or more speci
 - Any gear worn or carried by the creature that can’t be worn or carried in its new form instead falls to the ground in its space. If the creature changes size, any gear it wears or carries that can be worn or carried in its new form changes size to match the new size. (Nonhumanoid-shaped creatures can’t wear armor designed for humanoid-shaped creatures, and viceversa.) Gear returns to normal size if dropped.
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

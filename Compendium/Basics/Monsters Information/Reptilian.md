@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Reptilian]
+aliases:
+ - Reptilian
 title: Compendium/Basics/Monsters Information/Reptilian
 tag: Monster, Reptilian
 ---
@@ -19,5 +20,4 @@ tag: Monster, Reptilian
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

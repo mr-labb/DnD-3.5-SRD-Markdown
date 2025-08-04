@@ -1,5 +1,6 @@
 ---
-aliases: [Deeper Darkness]
+aliases:
+ - Deeper Darkness
 title: Compendium/Basics/Spell/Deeper Darkness
 tags:
   - 35E_SRD
@@ -40,9 +41,13 @@ This spell functions like [[Darkness]], but the affected object emits supernatur
   
 - Objects **covered by light-proof material** will **block the effect** until uncovered.
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

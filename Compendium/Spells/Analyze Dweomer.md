@@ -1,5 +1,6 @@
 ---
-aliases: [Analyze Dweomer]
+aliases:
+ - Analyze Dweomer
 title: Compendium/Basics/Spell/Analyze Dweomer
 tags: 
   - 35E_SRD
@@ -39,9 +40,13 @@ An attended object may attempt a Will save to resist this effect if its holder s
 
 *Focus:* A tiny lens of ruby or sapphire set in a small golden loop. The gemstone must be worth at least 1,500 gp.
 
-Source : PHB P197
+**Source :** PHB P197
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Death Ward]
+aliases:
+ - Death Ward
 title: Compendium/Basics/Spell/Death Ward
 tags: [35E_SRD, Spell, Cleric, Druid, Paladin]
 Spell Name: Death Ward
@@ -29,13 +30,16 @@ Grants immunity to death spells and negative energy effects.
 *   **Saving Throw:** Will negates (harmless)
 *   **Spell Resistance:** Yes (harmless)
 
-<p>The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects.</p><p>This spell doesn't remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level.</p><p><i>Death ward</i> does not protect against other sorts of attacks even if those attacks might be lethal.</p>
+<p>The subject is immune to all death spells, magical death effects, [[Compendium/Spells/Energy Drain|energy drain]], and any negative energy effects.</p><p>This spell doesn't remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level.</p><p><i>Death ward</i> does not protect against other sorts of attacks even if those attacks might be lethal.</p>
 
-Source : PHB P217
-
----
+**Source :** PHB P217
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

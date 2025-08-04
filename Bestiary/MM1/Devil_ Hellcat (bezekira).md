@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Hellcat (bezekira)]
+aliases:
+ - Devil
+ - Hellcat (bezekira)
 title: Bestiary/MM1/Devil, Hellcat (bezekira)
 tags: [35E_SRD, Monster]
 Monster: Devil, Hellcat (bezekira)

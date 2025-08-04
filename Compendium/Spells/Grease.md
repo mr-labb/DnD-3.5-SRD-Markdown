@@ -1,39 +1,72 @@
 ---
-aliases: [Grease]
+aliases:
+ - Grease
 title: Compendium/Basics/Spell/Grease
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Bard]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Sorcerer  
+  - Wizard  
+  - Bard  
 Spell Name: Grease
 School: Conjuration
 Subschool: (Creation)
 Descriptor: 
-Level:
-  - Brd 1
-  - Sor/Wiz 1
+Level:  
+  - Brd 1  
+  - Sor/Wiz 1  
 Source: PHB
 ---
-
 
 ## Grease
 
 Makes 10-ft. square or one object slippery.
 
-*   Conjuration (Creation)
-*   **Level:** Brd 1, Sor/Wiz 1
-*   **Components:** V, S, M
-*   **Casting Time:** 1 standard action
-*   **Range:** Close (25 ft. + 5 ft./2 levels)
-*   **Effect:** One object or a 10-ft. square
-*   **Duration:** 1 round/level (D)
-*   **Saving Throw:** See text
-*   **Spell Resistance:** No
+### Spell Details
 
-<p>A <i>grease</i> spell covers a solid surface with a layer of slippery grease. Any creature in the area when the spell is cast must make a successful Reflex save or fall. This save is repeated on your turn each round that the creature remains within the area. A creature can walk within or through the area of grease at half normal speed with a DC 10 Balance check. Failure means it can't move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Balance skill for details).</p><p>The spell can also be used to create a greasy coating on an item. Material objects not in use are always affected by this spell, while an object wielded or employed by a creature receives a Reflex saving throw to avoid the effect. If the initial saving throw fails, the creature immediately drops the item. A saving throw must be made in each round that the creature attempts to pick up or use the <i>greased</i> item. A creature wearing <i>greased</i> armor or clothing gains a +10 circumstance bonus on Escape Artist checks and on grapple checks made to resist or escape a grapple or to escape a pin.</p><p><i>Material Component:</i> A bit of pork rind or butter.</p>
+- **School:** Conjuration (Creation)  
+- **Level:** Brd 1, Sor/Wiz 1  
+- **Components:** V, S, M  
+- **Casting Time:** 1 standard action  
+- **Range:** Close (25 ft. + 5 ft./2 levels)  
+- **Effect:** One object or a 10-ft. square  
+- **Duration:** 1 round/level (D)  
+- **Saving Throw:** See text  
+- **Spell Resistance:** No  
 
-Source : PHB P237
+### Description
+
+A *Grease* spell covers a solid surface with a layer of slippery grease.
+
+- Any creature in the area when cast must **succeed on a Reflex save or fall**
+- The save repeats each round the creature remains in the area
+- Walking through grease at **half speed** requires a **DC 10 Balance check**
+  - **Failure:** Cannot move and must make Reflex save to avoid falling
+  - **Failure by 5 or more:** Creature falls
+
+The spell may also **coat an item**:
+- **Unattended objects** are automatically affected
+- **Held or used objects** get a **Reflex save** to resist effect
+  - Failed save: Item is dropped
+  - New save required each round to pick up or use again
+
+Creatures wearing **greased armor or clothing** gain:
+- **+10 circumstance bonus** on Escape Artist checks
+- **+10 circumstance bonus** on grapple checks to **resist or escape** grapples or pins
+
+### Material Component
+
+A bit of **pork rind** or **butter**
+
+
+
+**Source :** PHB P237
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

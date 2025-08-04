@@ -1,5 +1,6 @@
 ---
-aliases: [Animate Rope]
+aliases:
+ - Animate Rope
 title: Compendium/Basics/Spell/Animate Rope
 tags: 
   - 35E_SRD
@@ -43,11 +44,15 @@ The rope itself and any knots tied in it are not magical.
 
 This spell grants a +2 bonus on any Use Rope checks you make when using the transmuted rope.
 
-The spell cannot animate objects carried or worn by a creature.
+The spell cannot [[animate objects]] carried or worn by a creature.
 
-Source : PHB P199
+**Source :** PHB P199
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

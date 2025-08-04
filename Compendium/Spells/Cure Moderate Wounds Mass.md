@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Cure Moderate Wounds]
+aliases:
+ - Mass Cure Moderate Wounds
 title: Compendium/Basics/Spell/Cure Moderate Wounds, Mass
 tags:
   - 35E_SRD
@@ -38,13 +39,17 @@ Cures 2d8 damage +1/level for many creatures.
 
 You channel positive energy to cure **2d8 points of damage +1 point per caster level** (maximum +30) in each selected creature.
 
-- Like other [[Cure]] spells, this spell **damages undead** instead of healing them.  
+- Like other Cure spells, this spell **damages undead** instead of healing them.  
 - Each affected undead may attempt a **Will save for half damage**.
 
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

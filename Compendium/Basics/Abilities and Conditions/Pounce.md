@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Pounce]
+aliases:
+ - Pounce
 title: Compendium\Basics\Abilities and Conditions\Pounce
 tag: Abilities
 ---
@@ -8,13 +9,11 @@ tag: Abilities
 ---
 ##### Pounce [[Special Abilities#Extraordinary Abilities (Ex)|(Ex)]]
 
-When a creature with this special attack makes a [[charge]], it can follow with a full attack—including [[rake]] attacks if the creature also has the rake ability.
+When a creature with this special attack makes a [[charge]], it can follow with a full attackâ€”including [[rake]] attacks if the creature also has the rake ability.
 
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

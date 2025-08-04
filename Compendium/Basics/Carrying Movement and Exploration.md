@@ -1,12 +1,12 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Carrying Movement and Exploration
 tag: Alignment
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # CARRYING, MOVEMENT, & EXPLORATION
 
@@ -228,18 +228,18 @@ See Table: Mounts and Vehicles for speeds for water vehicles.
 |Mount/Vehicle|Per Hour|Per Day|
 |---|---|---|
 |Mount (carrying load)|||
-|Light horse or light warhorse|6 miles|48 miles|
+|Light horse or [[Warhorse_Light|light warhorse]]|6 miles|48 miles|
 |Light horse (151–450 lb.)1|4 miles|32 miles|
-|Light warhorse (231–690 lb.)1|4 miles|32 miles|
-|Heavy horse or heavy warhorse|5 miles|40 miles|
+|[[Warhorse_Light|Light warhorse]] (231–690 lb.)1|4 miles|32 miles|
+|Heavy horse or [[Warhorse_Heavy|heavy warhorse]]|5 miles|40 miles|
 |Heavy horse (201–600 lb.)1|3-1/2 miles|28 miles|
-|Heavy warhorse (301–900 lb.)1|3-1/2 miles|28 miles|
-|Pony or warpony|4 miles|32 miles|
-|Pony (76–225 lb.)1|3 miles|24 miles|
+|[[Warhorse_Heavy|Heavy warhorse]] (301–900 lb.)1|3-1/2 miles|28 miles|
+|[[Pony]] or warpony|4 miles|32 miles|
+|[[Pony]] (76–225 lb.)1|3 miles|24 miles|
 |Warpony (101–300 lb.)1|3 miles|24 miles|
-|Donkey or mule|3 miles|24 miles|
+|Donkey or [[mule]]|3 miles|24 miles|
 |Donkey (51–150 lb.)1|2 miles|16 miles|
-|Mule (231–690 lb.)1|2 miles|16 miles|
+|[[Mule]] (231–690 lb.)1|2 miles|16 miles|
 |Dog, riding|4 miles|32 miles|
 |Dog, riding (101–300 lb.)1|3 miles|24 miles|
 |Cart or wagon|2 miles|16 miles|
@@ -346,8 +346,8 @@ Characters with darkvision (dwarves and half-orcs) can see lit areas normally as
 |Sunrod|30 ft.|60 ft.|6 hr.|
 |Torch|20 ft.|40 ft.|1 hr.|
 |Spell|Bright|Shadowy|Duration|
-|Continual flame|20 ft.|40 ft.|Permanent|
-|Dancing lights (torches)|20 ft. (each)|40 ft. (each)|1 min.|
+|[[Continual flame]]|20 ft.|40 ft.|Permanent|
+|[[Dancing lights]] (torches)|20 ft. (each)|40 ft. (each)|1 min.|
 |Daylight|60 ft.|120 ft.|30 min.|
 |Light|20 ft.|40 ft.|10 min.|
 1 _A candle does not provide bright illumination, only shadowy illumination._
@@ -502,11 +502,10 @@ A crowbar or portable ram improves a character’s chance of breaking open a doo
 |Burst chain bonds|26|
 |Break down iron door|28|
 |Condition|DC Adjustment1|
-|Hold portal|+5|
-|Arcane lock|+10|
+|[[Hold portal]]|+5|
+|[[Arcane lock]]|+10|
 |1 _If both apply, use the larger number._|   |
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Create Greater Undead]
+aliases:
+ - Create Greater Undead
 title: Compendium/Basics/Spell/Create Greater Undead
 tags:
   - 35E_SRD
@@ -41,15 +42,19 @@ This spell functions like [[create undead]], except that it allows you to create
 | **Caster Level**   | **Undead Created** |
 |--------------------|--------------------|
 | 15th or lower      | Shadow             |
-| 16th–17th          | Wraith             |
+| 16th–17th          | [[Wraith]]             |
 | 18th–19th          | Spectre            |
-| 20th or higher     | Devourer           |
+| 20th or higher     | [[Devourer]]           |
 
 ---
 
-**Source:** PHB P215
+**Source :** PHB P215
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

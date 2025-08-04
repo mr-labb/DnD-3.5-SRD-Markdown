@@ -1,5 +1,6 @@
 ---
-aliases: [Climb]
+aliases:
+ - Climb
 title: Compendium/Basics/skills/Climb
 tags: skill
 ---
@@ -18,7 +19,7 @@ The DC of the check depends on the conditions of the climb. Compare the task wit
 |Climb DC|Example Surface or Activity|
 |---|---|
 |0|A slope too steep to walk up, or a knotted rope with a wall to brace against.|
-|5|A rope with a wall to brace against, or a knotted rope, or an anchor chain, or a rope affected by the rope trick spell.|
+|5|A rope with a wall to brace against, or a knotted rope, or an anchor chain, or a rope affected by the [[rope trick]] spell.|
 |10|A surface with ledges to hold on to and stand on, such as a very rough wall or a ship's rigging.|
 |15|Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands.|
 |20|An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins, or a ship's hull.|
@@ -90,5 +91,4 @@ If you have 5 or more ranks in [[Use Rope]], you get a +2 bonus on Climb checks 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

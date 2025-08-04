@@ -1,7 +1,10 @@
 ---
-aliases: [Elephant]
+aliases:
+ - Elephant
 title: Bestiary/MM1/Elephant
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Elephant
 Size: Huge
 Type: Animal
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Elephant
+image: [[Elephant.PNG]]
 race: Elephant
 class: 
 level: 
@@ -27,60 +29,77 @@ size: Huge
 type: Animal
 subtype: 
 alignment: 
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "15 (-2 size, +7 natural), touch 8, flat-footed 15"
+ac: 15
 touch: 8
-flat_footed: 15
-hit_point:
-  - name: hp
-    desc: "104 ; 11d8+55"
-speed: 40 ft. (8 squares)
-
-abilities: [30, 10, 21, 2, 13, 7]
-saves:
-  - Fort: +12
-  - Ref: +7
-  - Will: +6
-damage_resist: 
-spell_resist: 
+flatfooted: 15
+AC_desc: -2 size, +7 natural
+hp: 104
+hit_dice: 11d8+55
 initiative: 0
+speed: 40 ft. (8 squares)
 space/reach: 15 ft./10 ft.
-cr: 7
+stats:
+  - 30
+  - 10
+  - 21
+  - 2
+  - 13
+  - 7
+saves:
+ - Fortitude : 12
+ - Reflex : 7
+ - Will : 6
+skillsaves:
+ - Listen: +12
+ - Spot: +10
 base_attack/grapple: +8/+26
-attack: Gore +16 melee (2d8+15)
-full_attack: Slam +16 melee (2d6+10) and 2 stamps +11 melee (2d6+5); or gore +16 melee (2d8+15)
-special_attacks: Trample 2d8+15
-
-special_qualities:
-  - name: 
-    desc: Low-light vision, scent
-
-skills:
-  - Listen: +12
-  - Spot: +10
-feats: [[Alertness]], [[Endurance]], [[Iron Will]], [[SkillFocus (Listen)]]
-weak: 
 environment: Warm plains
 organization: Solitary or herd (6-30)
 treasure: 
 advancement: 12-22 HD (Huge)
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 7
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Low-light vision, scent
+actions:
+  - name: Full Attack
+    desc: "Slam +16 melee (2d6+10) and 2 stamps +11 melee (2d6+5); or gore +16 melee (2d8+15)"
+  - name: Attack
+    desc: "Gore +16 melee (2d8+15)"
+  - name: special attacks
+    desc: "Trample 2d8+15"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Alertness, Endurance, Iron Will, SkillFocus (Listen)
+combat_gear:  
 ```
 
-## Description
 
-<p>Massive herbivores of tropical lands, elephants are unpredictable creatures but nevertheless are sometimes used as mounts or beasts of burden.</p>
-<p>This entry describes an African elephant. Indian elephants are slightly smaller and weaker (Strength 28), but more readily trained (Wisdom 15). These statistics can also represent prehistoric creatures such as mammoths and mastodons.</p>
-<p>Combat</p>
-<p>Elephants tend to charge at threatening creatures.</p>
-<p>
-            <b>Trample (Ex):</b> Reflex half DC 25. The save DC is Strength-based.</p>
+Massive herbivores of tropical lands, elephants are unpredictable creatures but nevertheless are sometimes used as mounts or beasts of burden.
+
+This entry describes an African elephant. Indian elephants are slightly smaller and weaker (Strength 28), but more readily trained (Wisdom 15). These statistics can also represent prehistoric creatures such as mammoths and mastodons.
+
+Combat
+
+Elephants tend to charge at threatening creatures.
+
+
+**Trample (Ex):** Reflex half DC 25. The save DC is Strength-based.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

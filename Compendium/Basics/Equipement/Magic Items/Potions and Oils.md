@@ -14,7 +14,7 @@ The person applying an oil is the effective caster, but the object is the target
 
 **Physical Description**: A typical potion or oil consists of 1 ounce of liquid held in a ceramic or glass vial fitted with a tight stopper. The stoppered container is usually no more than 1 inch wide and 2 inches high. The vial has AC 13, 1 hit point, hardness 1, and a break DC of 12. Vials hold 1 ounce of liquid.
 
-**Identifying Potions**: In addition to the standard methods of identification, PCs can sample from each container they find to attempt to determine the nature of the liquid inside. An experienced character learns to identify potions by memory—for example, the last time she tasted a liquid that reminded her of almonds, it turned out to be a potion of cure moderate wounds.
+**Identifying Potions**: In addition to the standard methods of identification, PCs can sample from each container they find to attempt to determine the nature of the liquid inside. An experienced character learns to identify potions by memory—for example, the last time she tasted a liquid that reminded her of almonds, it turned out to be a potion of [[cure moderate wounds]].
 
 **Activation**: Drinking a potion or applying an oil requires no special skill. The user merely removes the stopper and swallows the potion or smears on the oil. The following rules govern potion and oil use.
 
@@ -124,7 +124,4 @@ The caster level for a standard potion is the minimum caster level needed to cas
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

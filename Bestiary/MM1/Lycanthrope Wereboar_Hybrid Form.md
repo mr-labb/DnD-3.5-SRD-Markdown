@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Wereboar, Hybrid Form]
+aliases:
+ - Lycanthrope
+ - Wereboar
+ - Hybrid Form
 title: Bestiary/MM1/Lycanthrope, Wereboar, Hybrid Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Wereboar, Hybrid Form

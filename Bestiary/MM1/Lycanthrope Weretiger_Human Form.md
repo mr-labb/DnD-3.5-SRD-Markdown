@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Weretiger, Human Form]
+aliases:
+ - Lycanthrope
+ - Weretiger
+ - Human Form
 title: Bestiary/MM1/Lycanthrope, Weretiger, Human Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Weretiger, Human Form

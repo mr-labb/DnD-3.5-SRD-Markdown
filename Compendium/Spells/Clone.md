@@ -1,5 +1,6 @@
 ---
-aliases: [Clone]
+aliases:
+ - Clone
 title: Compendium/Basics/Spell/Clone
 tags:
   - 35E_SRD
@@ -42,9 +43,13 @@ A duplicate can be grown while the original still lives, or when the original so
 **Material Component:** The piece of flesh and various laboratory supplies (cost 1,000 gp)  
 **Focus:** Special laboratory equipment (cost 500 gp)
 
-Source : PHB P210
+**Source :** PHB P210
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

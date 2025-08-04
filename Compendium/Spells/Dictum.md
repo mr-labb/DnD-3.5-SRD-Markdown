@@ -1,5 +1,6 @@
 ---
-aliases: [Dictum]
+aliases:
+ - Dictum
 title: Compendium/Basics/Spell/Dictum
 tags:
   - 35E_SRD
@@ -61,9 +62,13 @@ If cast on your **home plane**, all **nonlawful extraplanar creatures** in the a
 Creatures with **HD greater than your caster level** are **unaffected**.
 
 
-**Source:** PHB P220
+**Source :** PHB P220
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

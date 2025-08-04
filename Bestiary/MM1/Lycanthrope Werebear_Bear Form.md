@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Werebear, Bear Form]
+aliases:
+ - Lycanthrope
+ - Werebear
+ - Bear Form
 title: Bestiary/MM1/Lycanthrope, Werebear, Bear Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Werebear, Bear Form

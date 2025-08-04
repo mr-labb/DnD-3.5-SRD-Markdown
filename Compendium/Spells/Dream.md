@@ -1,5 +1,6 @@
 ---
-aliases: [Dream]
+aliases:
+ - Dream
 title: Compendium/Basics/Spell/Dream
 tags:
   - 35E_SRD
@@ -64,9 +65,13 @@ You or a designated messenger sends a **phantasmal message** to a sleeping targe
 Dream delivers critical messages across vast distances, untouched by wards or terrain—but the vulnerability of the messenger makes timing and security paramount.
 
 
-**Source:** PHB P225
+**Source :** PHB P225
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

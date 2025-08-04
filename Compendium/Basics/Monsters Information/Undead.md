@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Undead]
+aliases:
+ - Undead
 title: Compendium/Basics/Monsters Information/Undead
 tag: Monster, Undead
 ---
@@ -33,7 +34,7 @@ _Traits_: An undead creature possesses the following traits (unless otherwise no
     
 - Immunity to poison, sleep effects, paralysis, stunning, disease, and death effects.
     
-- Not subject to critical hits, nonlethal damage, ability drain, or energy drain. Immune to damage to its physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
+- Not subject to critical hits, nonlethal damage, ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Immune to damage to its physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
     
 - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy (such as an inflict spell) can heal undead creatures. The fast healing special quality works regardless of the creature’s Intelligence score.
     
@@ -43,7 +44,7 @@ _Traits_: An undead creature possesses the following traits (unless otherwise no
     
 - Not at risk of death from massive damage, but when reduced to 0 hit points or less, it is immediately destroyed.
     
-- Not affected by raise dead and reincarnate spells or abilities. Resurrection and true resurrection can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
+- Not affected by [[raise dead]] and [[reincarnate]] spells or abilities. [[Resurrection]] and [[true resurrection]] can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
     
 - Proficient with its natural weapons, all simple weapons, and any weapons mentioned in its entry.
     
@@ -51,7 +52,6 @@ _Traits_: An undead creature possesses the following traits (unless otherwise no
     
 - Undead do not breathe, eat, or sleep.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

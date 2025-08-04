@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Cosmology and Plane Descriptions
 ---
 
@@ -18,7 +19,7 @@ The six Inner Planes surround the Material Plane. They are separate from the Mat
 
 The Outer Planes are arranged in a great wheel around the Material Plane. Each Outer Plane is coterminous to the planes on either side of it but separate from the other Outer Planes. The exception is the Concordant Domain of the Outlands, which is coterminous to every other Outer Plane and thus serves as a central hub for dealings between outsiders.
 
-The Outer Planes are coexistent with the Astral Plane. They are separate from the Ethereal Plane and the Plane of Shadow, so certain spells (ethereal jaunt, for example) aren’t available to a caster on the Outer Planes. Each Outer Planes is made up of related layers (see Layered Planes, below), and the most common access to an Outer Plane is through the top layer of each plane. The goodaligned planes, also called the celestial planes or the upper planes, are linked by the path of the River Oceanus. The evil-aligned planes, also called the infernal planes or the lower planes, are linked by the path of the River Styx.
+The Outer Planes are coexistent with the Astral Plane. They are separate from the Ethereal Plane and the Plane of Shadow, so certain spells ([[ethereal jaunt]], for example) aren’t available to a caster on the Outer Planes. Each Outer Planes is made up of related layers (see Layered Planes, below), and the most common access to an Outer Plane is through the top layer of each plane. The goodaligned planes, also called the celestial planes or the upper planes, are linked by the path of the River Oceanus. The evil-aligned planes, also called the infernal planes or the lower planes, are linked by the path of the River Styx.
 
 A large number of finite demiplanes connect all over the place. Individual conduits, freestanding portals, and vortices are also common.
 
@@ -26,9 +27,9 @@ A large number of finite demiplanes connect all over the place. Individual condu
 
 Infinities may be broken into smaller infinities, and planes into smaller, related planes. These layers are effectively separate planes of existence, and each layer can have its own planar traits. Layers are connected to each other through a variety of planar gates, natural vortices, paths, and shifting borders.
 
-Access to a layered plane from elsewhere usually happens on a specific layer: the first layer of the plane, which can be either the top layer or the bottom layer, depending on the specific plane. Most fixed access points (such as portals and natural vortices) reach this layer, which makes it the gateway for other layers of the plane. The plane shift spell also deposits the spellcaster on the first layer of the plane.
+Access to a layered plane from elsewhere usually happens on a specific layer: the first layer of the plane, which can be either the top layer or the bottom layer, depending on the specific plane. Most fixed access points (such as portals and natural vortices) reach this layer, which makes it the gateway for other layers of the plane. The [[plane shift]] spell also deposits the spellcaster on the first layer of the plane.
 
-All layers of a plane are connected to the Astral Plane, so travelers can reach specific layers directly through spells such as astral projection. Often the first layer is the one most hospitable to planar travelers
+All layers of a plane are connected to the Astral Plane, so travelers can reach specific layers directly through spells such as [[astral projection]]. Often the first layer is the one most hospitable to planar travelers
 
 ##### Random Planar Destinations
 
@@ -59,7 +60,7 @@ All layers of a plane are connected to the Astral Plane, so travelers can reach 
 |99|Negative Energy Plane|
 |100|Demiplane of your choice|
 
-Spells such as prismatic spray and banishment may send an individual to a random plane. To determine where a character winds up, roll on the table.<br><br>The table assumes that the character’s plane of origin is either the Material Plane, the Astral Plane, the Ethereal Plane, or the Plane of Shadow. If the character’s plane of origin is instead one of the planes mentioned on the table, then substitute the Material Plane for the plane of origin’s line on the table. For example, breaking a staff of power (page 245) on the Elemental Plane of Fire sends the wielder to the Material Plane if a 91 is rolled.<br><br>The layer and exact location of an individual’s arrival on the particular plane is up to you. Transportation to a random plane does not guarantee survival there, and individuals who risk such effects should be aware of the dangers.
+Spells such as [[prismatic spray]] and banishment may send an individual to a random plane. To determine where a character winds up, roll on the table.<br><br>The table assumes that the character’s plane of origin is either the Material Plane, the Astral Plane, the Ethereal Plane, or the Plane of Shadow. If the character’s plane of origin is instead one of the planes mentioned on the table, then substitute the Material Plane for the plane of origin’s line on the table. For example, breaking a staff of power (page 245) on the Elemental Plane of Fire sends the wielder to the Material Plane if a 91 is rolled.<br><br>The layer and exact location of an individual’s arrival on the particular plane is up to you. Transportation to a random plane does not guarantee survival there, and individuals who risk such effects should be aware of the dangers.
 
 #### RANDOM OUTER PLANE ENCOUNTERS
 
@@ -70,7 +71,7 @@ On this page are four alignment-based random encounter tables that you can use i
 |d%|Encounter|Average EL|
 |---|---|---|
 |01–10|1 marilith (demon)|17|
-|11–25|1 abyssal greater basilisk|15|
+|11–25|1 [[abyssal greater basilisk]]|15|
 |26–50|Demon troupe: 1 nalfeshnee, 1 hezrou, and 1d3 vrocks|15|
 |51–70|Demon troupe: 1 glabrezu, 1 succubus,and 1d3 vrocks|14|
 |71–90|1d3 hezrous (demon)|13|
@@ -83,7 +84,7 @@ On this page are four alignment-based random encounter tables that you can use i
 |d%|Encounter|Average EL|
 |---|---|---|
 |01–25|1d3 astral devas (angel)|16|
-|26–45|1 planetar (angel)|16|
+|26–45|1 [[Angel_Planetar|planetar]] (angel)|16|
 |46–60|1 hound archon hero|16|
 |61–65|1 marut (inevitable)|15|
 |66–85|1 trumpet archon|14|
@@ -96,13 +97,13 @@ On this page are four alignment-based random encounter tables that you can use i
 
 |d%|Encounter|Average EL|
 |---|---|---|
-|01–20|1 horned devil|16|
-|21–45|Devil troupe: 1 ice devil, 1d3 bone devils, and 2d4+3 bearded devils|15|
+|01–20|1 [[Devil_Horned|horned devil]]|16|
+|21–45|Devil troupe: 1 [[Devil_Ice|ice devil]], 1d3 bone devils, and 2d4+3 bearded devils|15|
 |46–70|1d3 ice devils|15|
 |71–80|2d4+3 hellwasp swarms|14|
 |81–85|1d4+2 formian myrmarchs|14|
 |86–95|1d4+2 bone devils|13|
-|96–100|1 night hag and 1 cauchemar (nightmare)|12|
+|96–100|1 [[night hag]] and 1 cauchemar ([[Compendium/Spells/Nightmare|nightmare]])|12|
 
 
 ###### Beatific Encounters
@@ -110,10 +111,10 @@ On this page are four alignment-based random encounter tables that you can use i
 |d%|Encounter|Average EL|
 |---|---|---|
 |01–15|1d3 astral devas (angel)|16|
-|16–30|1 planetar (angel)|16|
+|16–30|1 [[Angel_Planetar|planetar]] (angel)|16|
 |31–55|1d3 ghaeles (eladrin)|15|
 |56–65|1d3 leonals (guardinal)|14|
-|66–80|1 celestial charger (unicorn)|13|
+|66–80|1 celestial charger ([[unicorn]])|13|
 |81–90|1d4+2 avorals (guardinal)|13|
 |91–95|1 death slaad|13|
 |96–100|2 gray slaadi|12|
@@ -166,10 +167,10 @@ It has the following traits.
     
 - Mildly neutral-aligned.
     
-- Normal magic. Spells function normally on the Ethereal Plane, though they do not cross into the Material Plane. It is possible for a caster on the Ethereal Plane to use a fireball spell against an enemy on the Ethereal Plane, but the same fireball wouldn’t affect anyone on the corresponding part of the Material Plane. A bystander on the Material Plane can walk through an ethereal battlefield without feeling more than the hair on the back of his neck standing up.
+- Normal magic. Spells function normally on the Ethereal Plane, though they do not cross into the Material Plane. It is possible for a caster on the Ethereal Plane to use a [[fireball]] spell against an enemy on the Ethereal Plane, but the same [[fireball]] wouldn’t affect anyone on the corresponding part of the Material Plane. A bystander on the Material Plane can walk through an ethereal battlefield without feeling more than the hair on the back of his neck standing up.
     
 
-The only exceptions are spells and spell-like abilities that have the force descriptor, such as magic missile and wall of force, and abjuration spells that affect ethereal beings. Spellcasters on the Material Plane must have some way to detect foes on the Ethereal Plane before targeting them with force-based spells, of course. While it’s possible to hit ethereal enemies with a magic missile spell cast on the Material Plane, the reverse isn’t possible. No magical attacks cross from the Ethereal Plane to the Material Plane, including force attacks.
+The only exceptions are spells and spell-like abilities that have the force descriptor, such as [[magic missile]] and [[wall of force]], and abjuration spells that affect ethereal beings. Spellcasters on the Material Plane must have some way to detect foes on the Ethereal Plane before targeting them with force-based spells, of course. While it’s possible to hit ethereal enemies with a [[magic missile]] spell cast on the Material Plane, the reverse isn’t possible. No magical attacks cross from the Ethereal Plane to the Material Plane, including force attacks.
 
 ###### Example Ethereal Site: Misty Cemetery
 
@@ -184,9 +185,9 @@ To draw a map of the Misty Cemetery, scatter small crypts across the landscape b
 |d%|Encounter|Average EL|
 |---|---|---|
 |01–80|Roll on relevant Material Plane table*|—|
-|81–82|1 devourer|11|
-|83|1 couatl|10|
-|84–86|1 night hag and 1 nightmare|10|
+|81–82|1 [[devourer]]|11|
+|83|1 [[couatl]]|10|
+|84–86|1 [[night hag]] and 1 nightmare|10|
 |87|10th-level drow wizard NPC|10|
 |88–90|1d4 xills|9|
 |91–93|1d3 ghosts, 5th-level human fighters|9|
@@ -204,18 +205,18 @@ The Plane of Shadow is a world of black and white; color itself has been bleache
 
 The sky on the Plane of Shadow is a black vault with neither sun nor stars. Landmarks from the Material Plane are recognizable on the Plane of Shadow, but they are twisted, warped things—diminished reflections of what can be found on the Material Plane. Despite the lack of light sources, various plants, animals, and humanoids call the Plane of Shadow home.
 
-The Plane of Shadow is magically morphic, and parts continually flow onto other planes. As a result, creating a precise map of the plane is next to impossible, despite the presence of landmarks. If a traveler visits a mountain range during one use of a shadow walk spell, the mountain range may still be there the next time, but the individual mountains may have moved about. Precision is a lost cause on the Plane of Shadow.
+The Plane of Shadow is magically morphic, and parts continually flow onto other planes. As a result, creating a precise map of the plane is next to impossible, despite the presence of landmarks. If a traveler visits a mountain range during one use of a [[shadow walk]] spell, the mountain range may still be there the next time, but the individual mountains may have moved about. Precision is a lost cause on the Plane of Shadow.
 
 The Plane of Shadow has the following traits.
 
-- Magically morphic. Spells such as shadow conjuration and shadow evocation modify the base material of the Plane of Shadow. The utility and power of these spells within the Plane of Shadow make them particularly useful for explorers and natives alike.
+- Magically morphic. Spells such as [[shadow conjuration]] and [[shadow evocation]] modify the base material of the Plane of Shadow. The utility and power of these spells within the Plane of Shadow make them particularly useful for explorers and natives alike.
     
 - Mildly neutral-aligned.
     
 - Enhanced magic. Spells with the shadow descriptor are enhanced on the Plane of Shadow. Such spells are cast as though they were prepared with the [[Maximize Spell]] feat, though they don’t require the higher spell slots.
     
 
-Furthermore, specific spells become more powerful on the Plane of Shadow. Shadow conjuration and shadow evocation spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). Greater shadow conjuration and greater shadow evocation are 70% as powerful (not 60%), and a shades spell conjures at 90% of the power of the original (not 80%).
+Furthermore, specific spells become more powerful on the Plane of Shadow. [[Shadow conjuration]] and [[shadow evocation]] spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). [[Shadow Conjuration Greater|Greater shadow conjuration]] and [[Shadow Evocation Greater|greater shadow evocation]] are 70% as powerful (not 60%), and a shades spell conjures at 90% of the power of the original (not 80%).
 
 - Impeded magic. Spells that use or generate light or fire may fizzle when cast on the Plane of Shadow. A spellcaster attempting a spell with the light or fire descriptor must succeed on a [[Spellcraft]] check (DC 20 + the level of the spell). Spells that produce light are less effective in general, because all light sources have their ranges halved on the Plane of Shadow.
     
@@ -241,13 +242,13 @@ To draw a map for encounters in a dark city, start by drawing a normal cityscape
 |01–10|1 nightwing (nightshade)|14|
 |11–20|1 lich, 11th-level human wizard|13|
 |21–40|1d4+2 spectres|11|
-|41–60|1 dread wraith|11|
+|41–60|1 [[Wraith_Dread|dread wraith]]|11|
 |61–80|1d3 greater shadows|10|
 |81–100|1d6+3 shadow mastiffs|10|
 
 ##### The Astral Plane
 
-The Astral Plane is the space between the planes. When a character moves through an interplanar portal or projects her spirit to a different plane of existence, she travels through the Astral Plane. Even spells that allow instantaneous movement across a plane, such as _dimension door_, briefly touch the Astral Plane.
+The Astral Plane is the space between the planes. When a character moves through an interplanar portal or projects her spirit to a different plane of existence, she travels through the Astral Plane. Even spells that allow instantaneous movement across a plane, such as _[[dimension door]]_, briefly touch the Astral Plane.
 
 The Astral Plane is a great, endless sphere of clear silvery sky, both above and below. Large tube-shaped clouds slowly coil into the distance, some appearing like thunderheads and others looking like immobile tornadoes of gray wind. Erratic whirlpools of color flicker in midair like spinning coins. Occasional bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
 
@@ -270,18 +271,18 @@ The characters are surrounded by a silver-gray haze that stretches endlessly in 
 
 If characters explore this part of the Astral Plane, they’ll discover more color pools that lead elsewhere. It takes 1d4×10 hours to find a color pool that leads to a particular plane. But the PCs aren’t alone in the serene haze of the Astral Plane. Githyanki pirates cruise the color pools, looking for well-heeled travelers from other planes. A typical githyanki pirate ship is a longship (described on page 132 of the Player’s Handbook) that flies under its own power at a speed of 90 feet. The pirate captain (githyanki Ftr11 or Ftr6/Rog5) leads his crew into battle, with a war-wizard (githyanki Wiz9) or mercenary cleric (tiefling Clr9) providing support to the rank-andfile pirates. (Githyanki are never clerics themselves, so they must hire mercenary clerics because natural healing doesn’t work on the Astral Plane.)
 
-The githyanki use the enhanced magic of the Astral Plane to good effect, taking full attacks, then using their dimension door spell-like ability as a free action to confound their enemies.
+The githyanki use the enhanced magic of the Astral Plane to good effect, taking full attacks, then using their [[dimension door]] spell-like ability as a free action to confound their enemies.
 
 ###### Astral Plane Random Encounters
 
 |d%|Encounter|Average EL|
 |---|---|---|
-|01–15|1 astral deva (angel)|14|
+|01–15|1 [[Angel_Astral Deva]] (angel)|14|
 |16–25|1 young adult red dragon|13|
 |26–40|10th-level human cleric NPC and 12 10th-level goblin rogue NPC|12|
-|41–50|1 devourer|11|
+|41–50|1 [[devourer]]|11|
 |51–65|1d4 efreet|11|
-|66–75|1 cauchemar (nightmare)|11|
+|66–75|1 cauchemar ([[Compendium/Spells/Nightmare|nightmare]])|11|
 |76–90|1d3 mind flayers|10|
 |91–100|1d3 noble djinn (genie)|8|
 
@@ -306,7 +307,7 @@ The Elemental Plane of Air has the following traits.
 
 ###### Example Plane of Air Site: Cloud Island
 
-What appears to be a white cumulus cloud is actually as solid as earth, if somewhat difficult to move across (treat as a shallow bog; see page 88). Creatures with a fly speed can force themselves through the cloud island (effectively giving them a burrow speed of 10 feet). Some 2d4 pillars of fog 10 feet across drift across the landscape (they provide concealment as the obscuring mist spell, moving 10 feet in a random direction at initiative count 0). The cloud island is about 1/2 mile wide and 1d10×5 feet thick at any given point.
+What appears to be a white cumulus cloud is actually as solid as earth, if somewhat difficult to move across (treat as a shallow bog; see page 88). Creatures with a fly speed can force themselves through the cloud island (effectively giving them a burrow speed of 10 feet). Some 2d4 pillars of fog 10 feet across drift across the landscape (they provide concealment as the [[obscuring mist]] spell, moving 10 feet in a random direction at initiative count 0). The cloud island is about 1/2 mile wide and 1d10×5 feet thick at any given point.
 
 Floating in serene contemplation in the center of the cloud island is a noble djinn (. If characters capture her (by defeating her without killing her or driving her away), she will grant three wishes collectively to the party. She is eager to talk to visitors from the Material Plane, where she spent more than a century trapped by an evil wizard. If characters can improve her attitude to friendly (it starts out indifferent), she’ll offer the characters a bargain. She will grant three wishes to the party if the characters will first avenge her imprisonment by capturing the evil Material Plane conjurer and returning him to this cloud island, where the djinn will arrange for “long-term detention.”
 
@@ -370,12 +371,12 @@ The Elemental Plane of Fire has the following traits.
     
 - Enhanced magic. Spells and spell-like abilities with the fire descriptor are both maximized and enlarged (as if the [[Maximize Spell]] and [[Enlarge Spell]] had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized or enlarged are unaffected by this benefit.
     
-- Impeded magic. Spells and spell-like abilities that use or create water (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded.
+- Impeded magic. Spells and spell-like abilities that use or [[create water]] (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded.
     
 
 ###### Example Plane of Fire Site: City of Brass
 
-The City of Brass is populated by powerful efreet and is considered by many efreet to be their home and their capital. Efreet may be found elsewhere on the Elemental Plane of Fire, but even farflung settlements owe fealty and allegiance to the grand sultan who rules the City of Brass from his burning palace. The grand sultan is said to be an efreeti of singular power and prowess, and is advised by all manner of elemental nobles. His direct servants, both in the city and on the Material Plane, are six lords of considerable power.
+The City of Brass is populated by powerful efreet and is considered by many efreet to be their home and their capital. Efreet may be found elsewhere on the Elemental Plane of Fire, but even farflung settlements owe fealty and allegiance to the grand sultan who rules the City of Brass from his burning palace. The grand sultan is said to be an [[Genie_Efreeti|efreeti]] of singular power and prowess, and is advised by all manner of elemental nobles. His direct servants, both in the city and on the Material Plane, are six lords of considerable power.
 
 The city is cradled in a brass hemisphere 40 miles across, floating above a plate of cracked obsidian at the heart of the Elemental Plane of Fire. Stairs of burning basalt and rivers of flame stream up from the surface below to the well-armed gates of the city. The city walls may be breached by flying creatures, but the efreet take a dim view of interlopers who refuse to present themselves at one of the city’s gates.
 
@@ -410,7 +411,7 @@ The Elemental Plane of Water has the following traits.
     
 - Water-dominant.
     
-- Enhanced magic. Spells and spell-like abilities that use or create water are both extended and enlarged (as if the [[Extend Spell]] and [[Enlarge Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
+- Enhanced magic. Spells and spell-like abilities that use or [[create water]] are both extended and enlarged (as if the [[Extend Spell]] and [[Enlarge Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
     
 - Impeded magic. Spells and spell-like abilities with the fire descriptor (including spells of the Fire domain) are impeded.
     
@@ -419,11 +420,11 @@ The Elemental Plane of Water has the following traits.
 
 A spherical tangle of kelp and seaweed a mile across, the sargasso doldrum is home to many dangerous predators that feed on the herbivorous fish that eat the seaweed.
 
-Characters who explore the sargasso doldrum find it tough going. Even if they have a swim speed, it takes 2 squares of movement to struggle through each square in the web of kelp. Only those with a freedom of movement or pass without trace spell can move normally through the area. Line of sight is limited to 30 feet, and creatures more than 20 feet away have concealment.
+Characters who explore the sargasso doldrum find it tough going. Even if they have a swim speed, it takes 2 squares of movement to struggle through each square in the web of kelp. Only those with a [[freedom of movement]] or [[pass without trace]] spell can move normally through the area. Line of sight is limited to 30 feet, and creatures more than 20 feet away have concealment.
 
 The sargasso doldrum is infested with dire sharks, who attack in great hunting schools without regard to their own safety. More sinister foes such as aboleths and black dragons study interlopers as they fight the sharks, deciding how best to hunt them if they stay among the seaweed.
 
-A ruined war galley sits in the center of the sargasso doldrum. The ship, protected by a neutral alignment, maximized forbiddance spell, holds the treasure trove of a powerful water naga wizard. The aboleths and black dragons don’t know what’s in the ship’s hold; they would just hire neutral creatures to extract the riches if they found out what they could gain.
+A ruined war galley sits in the center of the sargasso doldrum. The ship, protected by a neutral alignment, maximized [[forbiddance]] spell, holds the treasure trove of a powerful water naga wizard. The aboleths and black dragons don’t know what’s in the ship’s hold; they would just hire neutral creatures to extract the riches if they found out what they could gain.
 
 To draw an encounter map for the doldrums, include some irregular clusters of adjacent squares roughly 15 feet across. These squares, representing particularly dense clots of sargasso, function as heavy undergrowth (see page 87).
 
@@ -518,7 +519,7 @@ Ysgard has the following traits.
 - Infinite size. Ysgard goes on forever, but its well-known realms have boundaries within the plane as a whole.
 - Divinely morphic. Specific powerful beings (such as the deities Kord and Olidammara) can alter Ysgard with a thought. Ordinary creatures find Ysgard as easy to alter as the Material Plane is— they can be affected by spells and physical effort normally. But deities can change vast areas, creating great realms for themselves.
 - No elemental traits. No one element dominates on Ysgard; all are in balance, as on the Material Plane. However, parts of the second layer, Muspelheim, are treated as if they possessed the fire-dominant trait.
-- Minor positive-dominant. Ysgard possesses a riotous explosion of life in all its forms. All individuals on a positive-dominant plane gain fast healing 2 and may even regrow lost limbs in time. Additionally, those slain in the never-ending conflicts on Ysgard’s fields of battle rise each morning as if true resurrection had been cast on them, fully healed and ready to fight anew. Only those who suffer mortal wounds on Ysgard’s battlefields get the true resurrection effect; dead characters brought to Ysgard don’t spontaneously revive.
+- Minor positive-dominant. Ysgard possesses a riotous explosion of life in all its forms. All individuals on a positive-dominant plane gain fast healing 2 and may even regrow lost limbs in time. Additionally, those slain in the never-ending conflicts on Ysgard’s fields of battle rise each morning as if [[true resurrection]] had been cast on them, fully healed and ready to fight anew. Only those who suffer mortal wounds on Ysgard’s battlefields get the [[true resurrection]] effect; dead characters brought to Ysgard don’t spontaneously revive.
 - Mildly chaos-aligned. Lawful creatures on Ysgard take a –2 penalty on all Charisma-based checks.
 
 **Random Encounters**: Use the Beatific Encounters table for random encounters on Ysgard.
@@ -535,7 +536,7 @@ Almost any kind of creature can be found on the battlefield. A phalanx of dwarve
 
 Major battles happen only one day in three, on average. Festivals are common on the other days, featuring a variety of sideshows, midway booths, and merchants surrounding the main event, which is always a test of martial prowess. Sword duels, jousts on exotic steeds, wrestling matches, archery tourneys, and even grand tugs-of-war are common on the Plain of Ida, with many spectators and participants traveling from Himinborg. The prizes are often substantial, but the competition is fierce. The festivals attract fairgoers from across the Great Wheel, so they always offer diversions and intrigues for the less athletically minded.
 
-With a guaranteed true resurrection if they fall, many characters
+With a guaranteed [[true resurrection]] if they fall, many characters
 
 will find battles on the Plain of Ida too tempting to pass up. Defeat still has its price, however, because victorious armies often loot the bodies of the fallen. Some characters might lose but not technically die (being turned to stone, banished from the plane entirely, or taken prisoner).
 
@@ -667,9 +668,9 @@ The 66th layer of the Abyss is home to Lolth, the Spider Queen.
 
 The plane folds in upon itself so that it resembles a great web. A dizzying array of web pathways interconnect with fractal complexity. Each strand is strung with portals onto the planes where Lolth is worshiped. Lolth’s palace is said to be a mobile iron stronghold shaped like a spider, perpetually crawling across her planar web.
 
-To draw an encounter map for the Demonweb Pits, design a crisscrossing network of 20-foot-wide walkways suspended magically in vast cloud of solid fog (as the spell). The fog stays 1d4×10 feet away from the pathways, so characters can sometimes glimpse other parts of the web that are above, below, or to the side of the path they’re walking on.
+To draw an encounter map for the Demonweb Pits, design a crisscrossing network of 20-foot-wide walkways suspended magically in vast cloud of [[solid fog]] (as the spell). The fog stays 1d4×10 feet away from the pathways, so characters can sometimes glimpse other parts of the web that are above, below, or to the side of the path they’re walking on.
 
-The web twists and turns in on itself, but it always appears perfectly level, even when it corkscrews upward or downward. It’s possible to make four right turns and wind up underneath the point where you started, without encountering a slope or stairs. Characters who fall—or are bull rushed—off a walkway fall at only 60 feet per round (as the feather fall spell), and they take no damage when they land on another walkway (which might be miles below where they started).
+The web twists and turns in on itself, but it always appears perfectly level, even when it corkscrews upward or downward. It’s possible to make four right turns and wind up underneath the point where you started, without encountering a slope or stairs. Characters who fall—or are bull rushed—off a walkway fall at only 60 feet per round (as the [[feather fall]] spell), and they take no damage when they land on another walkway (which might be miles below where they started).
 
 ##### Tarterian Depths of Carceri
 
@@ -709,7 +710,7 @@ Hades has the following traits.
 - Strongly evil-aligned.
 - _Entrapping_. This is a special trait unique to Hades (although Elysium has a similar entrapping trait). A nonoutsider in Hades experiences increasing apathy and despair while there. Colors become grayer and less vivid, sounds duller, and even the demeanor of companions seems to be more hateful. At the conclusion of every week spent in Hades, any nonoutsider must succeed on a Will saving throw (DC 10 + the number of consecutive weeks in Hades). Failure indicates that the individual has fallen entirely under the control of the plane, becoming a petitioner of Hades.
     
-    Travelers entrapped by the inherent evil of Hades cannot leave the plane of their own volition and have no desire to do so. Memories of any previous life fade into nothingness, and it takes a wish or miracle spell to return such characters to normal.
+    Travelers entrapped by the inherent evil of Hades cannot leave the plane of their own volition and have no desire to do so. Memories of any previous life fade into nothingness, and it takes a wish or [[miracle]] spell to return such characters to normal.
     
 
 **Random Encounters**: Alternate between the Abyssal Encounters table and the Hellish Encounters table for random encounters in Hades.
@@ -778,7 +779,7 @@ This brutish, unimaginative city on Avernus covers dozens of square miles and fe
 
 Because Avernus is the likeliest beachhead for any massed demonic attack, fortifications are always being added to the Bronze Citadel. Work gangs of lesser devils constantly expand the city. The construction is so pervasive that bone scaffolding is as likely to be supporting a given wall as not.
 
-To create an encounter map for the Bronze Citadel, start with the battlefield elements described in the Plains Terrain section (see page 91). Then add walls, towers and gatehouses described in the Urban Features section (page 99), and augment both with magical features such as flaming surfaces (which deal damage as a wall of fire spell), self-firing ballistas, and spikes that grow out of the walls (a trap triggered by the proximity of enemy troops).
+To create an encounter map for the Bronze Citadel, start with the battlefield elements described in the Plains Terrain section (see page 91). Then add walls, towers and gatehouses described in the Urban Features section (page 99), and augment both with magical features such as flaming surfaces (which deal damage as a [[wall of fire]] spell), self-firing ballistas, and spikes that grow out of the walls (a trap triggered by the proximity of enemy troops).
 
 Any kind of devil can be found here. Even a fight with low-level devils will quickly escalate, because the devil armies are disciplined enough to train their troops to report to their commanders that they’re under attack. Unless they employ stealth, characters will work their way up the food chain, eventually facing horned devils, ice devils, and pit fiends sent to find out what the commotion is.
 
@@ -803,7 +804,7 @@ The cubes of this layer are riddled with pockets and hollows. Surface pits lead 
 
 Broken scraps of a myriad of devices are everywhere. Great ships that have burst asunder, toppled siege towers, enormous weapons, steam-driven carriages, flying devices of every description, and contraptions with even more obscure sources of power and purpose can be found within these cubes. Most of the refuse is inoperative, petrified to stonelike immobility by the “preservative” quality of the layer.
 
-Scavenging for intact weapons is an occupation for many a team of salvagers and opportunists, because many quality weapons and engines of war are scattered through the rubble on Thuldanin. But wise salvagers don’t spend too long on Thuldanin, because creatures can be petrified just as objects can be. Any given object or creature has a 1% cumulative chance per 30 days spent on Thuldanin of spontaneously petrifying into stone. Objects or creatures petrified by the natural qualities of Thuldanin cannot be returned to their previous state, except by such high-level magic as a wish or miracle spell.
+Scavenging for intact weapons is an occupation for many a team of salvagers and opportunists, because many quality weapons and engines of war are scattered through the rubble on Thuldanin. But wise salvagers don’t spend too long on Thuldanin, because creatures can be petrified just as objects can be. Any given object or creature has a 1% cumulative chance per 30 days spent on Thuldanin of spontaneously petrifying into stone. Objects or creatures petrified by the natural qualities of Thuldanin cannot be returned to their previous state, except by such high-level magic as a wish or [[miracle]] spell.
 
 To make encounter maps for the war-cubes, simply create expansive dungeon terrain: large rooms, wide hallways, tall ceilings, and so forth. Then fill much of it with junk (light rubble or dense rubble). Add large structures such as catapults, war galleys, and strange clockwork devices. Finally, add a few statues—unfortunate ex-adventurers who lingered too long looking for treasure.
 
@@ -923,7 +924,7 @@ Elysium has the following traits.
 - Divinely morphic. Elysium is easily altered by deities. Other creatures find that their spells and physical efforts work normally here.
 - Minor positive-dominant.
 - Strongly good-aligned.
-- _Entrapping_. This is a trait unique to Elysium (although Hades has a similar entrapping trait). A nonoutsider on Elysium experiences increasing joy and satisfaction while there. Colors become brighter and more vivid than on the Material Plane, sounds more melodious and soft, and the nature of others seems more pleasant and understanding. At the conclusion of every week spent on Elysium, any nonoutsider must make a Will save (DC 10 + the number of consecutive weeks on Elysium). Failure indicates that the individual has fallen under the control of the plane, cannot leave the plane of his or her own volition, and has no desire to do so. Memories of any previous life fade into nothingness, and it takes a wish or miracle spell to return such characters to normal.
+- _Entrapping_. This is a trait unique to Elysium (although Hades has a similar entrapping trait). A nonoutsider on Elysium experiences increasing joy and satisfaction while there. Colors become brighter and more vivid than on the Material Plane, sounds more melodious and soft, and the nature of others seems more pleasant and understanding. At the conclusion of every week spent on Elysium, any nonoutsider must make a Will save (DC 10 + the number of consecutive weeks on Elysium). Failure indicates that the individual has fallen under the control of the plane, cannot leave the plane of his or her own volition, and has no desire to do so. Memories of any previous life fade into nothingness, and it takes a wish or [[miracle]] spell to return such characters to normal.
 
 **Random Encounters**: Alternate between the Heavenly Encounters table and the Beatific Encounters table (page 167) for random encounters in Elysium.
 
@@ -1044,7 +1045,4 @@ To draw an encounter map for Sigil, start with a normal cityscape and add as muc
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

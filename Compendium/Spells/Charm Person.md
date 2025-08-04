@@ -1,5 +1,6 @@
 ---
-aliases: [Charm Person]
+aliases:
+ - Charm Person
 title: Compendium/Basics/Spell/Charm Person
 tags: 
   - 35E_SRD
@@ -40,9 +41,13 @@ This spell makes a humanoid creature regard you as a trusted friend and ally (as
 - **Any threat or damage** from you or your allies **breaks the charm immediately**.
 - You must be able to **speak the creature’s language** or use clear pantomime to communicate.
 
-Source : PHB P209
+**Source :** PHB P209
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

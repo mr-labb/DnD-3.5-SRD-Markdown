@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Adept]
+aliases:
+ - Adept
 title: Compendium/Basics/Classe/Adept
 tag: Class, Adept
 ---
@@ -11,11 +12,15 @@ tag: Class, Adept
 
 
 
+Some tribal societies or less sophisticated regions don't have the resources to train wizards and clerics. Reflecting a lesser [[Compendium/Basics/Skills/Knowledge]] of magic yet an intriguing combination of arcane and divine skills, the adept serves these cultures as both wise woman (or holy man) and mystical defender.
+
+Adepts can be found in isolated human, elf, dwarf, gnome, and halfling communities but are most prevalent among more bestial humanoid and giant species such as orcs, goblins, gnolls, bugbears, and ogres.
+
 **Hit Die**: d6.
 
 ###### Class Skills
 
-The adept's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Knowledge]] (all skills taken individually) (Int), [[Profession]] (Wis), [[Spellcraft]] (Int), and [[Survival]] (Wis).
+The adept's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (all skills taken individually) (Int), [[Profession]] (Wis), [[Spellcraft]] (Int), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -70,17 +75,17 @@ Each adept has a particular holy symbol (as a divine focus) depending on the ade
 
 Adepts choose their spells from the following list.
 
-**0 Level**: Create water, cure minor wounds, detect magic, ghost sound, guidance, light, mending, purify food and drink, read magic, touch of fatigue.
+**0 Level**: [[Create water]], [[cure minor wounds]], [[detect magic]], [[ghost sound]], [[guidance]], light, [[mending]], [[purify food and drink]], [[read magic]], [[touch of fatigue]].
 
-**1st Level**: Bless, burning hands, cause fear, command, comprehend languages, cure light wounds, detect chaos, detect evil, detect good, detect law, endure elements, obscuring mist, protection from chaos, protection from evil, protection from good, protection from law, sleep.
+**1st Level**: [[Bless]], [[burning hands]], [[cause fear]], [[command]], [[comprehend languages]], [[cure light wounds]], [[detect chaos]], [[detect evil]], [[detect good]], [[detect law]], [[endure elements]], [[obscuring mist]], [[protection from chaos]], [[protection from evil]], [[protection from good]], [[protection from law]], sleep.
 
-**2nd Level**: Aid, animal trance, bear's endurance, bull's strength, cat's grace, cure moderate wounds, darkness, delay poison, invisibility, mirror image, resist energy, scorching ray, see invisibility, web.
+**2nd Level**: [[Aid]], [[animal trance]], [[Bears Endurance|bear's endurance]], [[Bulls Strength|bull's strength]], [[Cats Grace|cat's grace]], [[cure moderate wounds]], [[darkness]], [[delay poison]], [[Compendium/Spells/Invisibility|invisibility]], [[mirror image]], [[resist energy]], [[scorching ray]], see [[Compendium/Spells/Invisibility|invisibility]], [[web]].
 
-**3rd Level**: Animate dead, bestow curse, contagion, continual flame, cure serious wounds, daylight, deeper darkness, lightning bolt, neutralize poison, remove curse, remove disease, tongues.
+**3rd Level**: [[Animate dead]], [[bestow curse]], [[contagion]], [[continual flame]], [[cure serious wounds]], [[daylight]], [[deeper darkness]], [[lightning bolt]], [[neutralize poison]], [[remove curse]], [[remove disease]], [[tongues]].
 
-**4th Level**: Cure critical wounds, minor creation, polymorph, restoration, stoneskin, wall of fire.
+**4th Level**: [[Cure critical wounds]], [[minor creation]], [[Compendium/Spells/Polymorph|polymorph]], restoration, [[stoneskin]], [[wall of fire]].
 
-**5th Level**: Baleful polymorph, break enchantment, commune, heal, major creation, raise dead, true seeing, wall of stone.
+**5th Level**: Baleful [[Compendium/Spells/Polymorph|polymorph]], [[break enchantment]], [[commune]], [[heal]], [[major creation]], [[raise dead]], [[true seeing]], [[wall of stone]].
 
 ##### RELIGIOUS ADEPT
 
@@ -94,19 +99,18 @@ The adept class is most appropriate for savage humanoids and tiny villages - pla
 
 Urban adepts choose their spells from the following list.
 
-**0 Level**: Create water, cure minor wounds, detect magic, detect poison, guidance, light, mending, purify food and drink, read magic, resistance.
+**0 Level**: [[Create water]], [[cure minor wounds]], [[detect magic]], [[detect poison]], [[guidance]], light, [[mending]], [[purify food and drink]], [[read magic]], resistance.
 
-**1st Level**: Bless, charm person, command, comprehend languages, cure light wounds, detect chaos, detect evil, detect good, detect law, divine favor, endure elements, identify, obscuring mist, protection from chaos, protection from evil, protection from good, protection from law.
+**1st Level**: [[Bless]], [[charm person]], [[command]], [[comprehend languages]], [[cure light wounds]], [[detect chaos]], [[detect evil]], [[detect good]], [[detect law]], [[divine favor]], [[endure elements]], [[identify]], [[obscuring mist]], [[protection from chaos]], [[protection from evil]], [[protection from good]], [[protection from law]].
 
-**2nd Level**: Aid, bear's endurance, bull's strength, cat's grace, cure moderate wounds, darkness, delay poison, enthrall, fox's cunning, locate object, owl's wisdom, resist energy, see invisibility, whispering wind.
+**2nd Level**: [[Aid]], [[Bears Endurance|bear's endurance]], [[Bulls Strength|bull's strength]], [[Cats Grace|cat's grace]], [[cure moderate wounds]], [[darkness]], [[delay poison]], [[enthrall]], [[Foxs Cunning|fox's cunning]], [[locate object]], [[Owls Wisdom|owl's wisdom]], [[resist energy]], see [[Compendium/Spells/Invisibility|invisibility]], [[whispering wind]].
 
-**3rd Level**: Animate dead, bestow curse, clairaudience/clairvoyance, contagion, continual flame, cure serious wounds, daylight, deeper darkness, neutralize poison, remove curse, remove disease, tongues.
+**3rd Level**: [[Animate dead]], [[bestow curse]], [[Clairaudience_Clairvoyance|clairaudience/clairvoyance]], [[contagion]], [[continual flame]], [[cure serious wounds]], [[daylight]], [[deeper darkness]], [[neutralize poison]], [[remove curse]], [[remove disease]], [[tongues]].
 
-**4th Level**: Cure critical wounds, legend lore, minor creation, restoration, scrying, stoneskin.
+**4th Level**: [[Cure critical wounds]], [[legend lore]], [[minor creation]], restoration, [[scrying]], [[stoneskin]].
 
-**5th Level**: Break enchantment, commune, dream, heal, major creation, nightmare, raise dead, true seeing.
+**5th Level**: [[Break enchantment]], [[commune]], [[dream]], heal, [[major creation]], [[Compendium/Bestiary/MM1/Nightmare|nightmare]], [[raise dead]], [[true seeing]].
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

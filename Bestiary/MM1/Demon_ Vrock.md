@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Vrock]
+aliases:
+ - Demon
+ - Vrock
 title: Bestiary/MM1/Demon, Vrock
 tags: [35E_SRD, Monster]
 Monster: Demon, Vrock

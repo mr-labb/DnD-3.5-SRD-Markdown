@@ -1,5 +1,6 @@
 ---
-aliases: [Cloudkill]
+aliases:
+ - Cloudkill
 title: Compendium/Basics/Spell/Cloudkill
 tags:
   - 35E_SRD
@@ -17,7 +18,7 @@ Source: PHB
 
 ## Cloudkill
 
-Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
+Kills 3 HD or less; 4â€“6 HD save or die, 6+ HD take Con damage.
 
 * **School:** Conjuration (Creation)  
 * **Level:** Sor/Wiz 5  
@@ -29,7 +30,7 @@ Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
 * **Saving Throw:** Fortitude partial; see text  
 * **Spell Resistance:** No
 
-This spell generates a bank of poisonous yellow-green fog, similar to *fog cloud*.
+This spell generates a bank of poisonous yellow-green fog, similar to *[[fog cloud]]*.
 
 - Automatically kills any living creature with **3 or fewer HD** (**no save**).
 - Living creatures with **4 to 6 HD** are slain **unless** they succeed on a **Fortitude save**.
@@ -44,9 +45,13 @@ This spell generates a bank of poisonous yellow-green fog, similar to *fog cloud
 - **Heavier than air**: sinks to lower terrain, including dens or sinkholes.
 - Cannot **penetrate liquids** and **cannot be cast underwater**.
 
-Source : PHB P210
+**Source :** PHB P210
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

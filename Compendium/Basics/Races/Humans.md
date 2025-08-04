@@ -19,7 +19,7 @@ Most humans are the descendants of pioneers, conquerors, traders, travelers, ref
 
 **Religion**: Unlike members of the other common races, humans do not have a chief racial deity. Pelor, the sun god, is the most commonly worshiped deity in human lands, but he can claim nothing like the central place that the dwarves give Moradin or the elves give Corellon Larethian in their respective pantheons. Some humans are the most ardent and zealous adherents of a given religion, while others are the most impious people around.
 
-**Language**: Humans speak Common. They typically learn other languages as well, including obscure ones, and they are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elven musical expressions, Dwarven military phrases, and so on.
+**Language**: Humans speak Common. They typically learn other languages as well, including obscure ones, and they are fond of sprinkling their speech with words borrowed from other [[tongues]]: Orc curses, Elven musical expressions, Dwarven military phrases, and so on.
 
 **Names**: Human names vary greatly. Without a unifying deity to give them a touchstone for their culture, and with such a fast breeding cycle, humans mutate socially at a fast rate. Human culture, therefore, is more diverse than other cultures, and no human names are truly typical. Some human parents give their children dwarven or elven names (pronounced more or less correctly).
 
@@ -41,5 +41,4 @@ Most humans are the descendants of pioneers, conquerors, traders, travelers, ref
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

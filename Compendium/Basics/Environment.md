@@ -1,12 +1,12 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Environment
 tag: Environment
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
@@ -170,7 +170,7 @@ Stuck Doors: Dungeons are often damp, and sometimes doors get stuck, particularl
 
 Barred Doors: When characters try to bash down a barred door, it’s the quality of the bar that matters, not the material the door is made of. It takes a DC 25 Strength check to break through a door with a wooden bar, and a DC 30 Strength check if the bar is made of iron. Characters can attack the door and destroy it instead, leaving the bar hanging in the now-open doorway.
 
-Magic Seals: In addition to magic traps spells such as [[arcane lock]] can discourage passage through a door. A door with an arcane lock spell on it is considered locked even if it doesn’t have a physical lock. It takes a [[knock]] spell, a [[dispel magic]] spell, or a successful Strength check to get through such a door.
+Magic Seals: In addition to magic traps spells such as [[arcane lock]] can discourage passage through a door. A door with an [[arcane lock]] spell on it is considered locked even if it doesn’t have a physical lock. It takes a [[knock]] spell, a [[dispel magic]] spell, or a successful Strength check to get through such a door.
 
 Hinges: Most doors have hinges. Obviously, sliding doors do not. (They usually have tracks or grooves instead, allowing them to slide easily to one side.)
 
@@ -296,7 +296,7 @@ Altars: Temples-particularly to dark gods-often exist underground. Usually takin
 
 ###### Cave-Ins and Collapses (CR 8)
 
-Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon explorers face the danger of being crushed by tons of falling rock, even if they survive they may be buried beneath a pile of rubble or cut off from the only known exit. A cave-in buries anyone in the middle of the collapsing area, and then sliding debris damages anyone in the periphery of the collapse. A typical corridor subject to a cave-in might have a bury zone with a 15-foot radius and a 10-foot-radius slide zone extending beyond the bury zone. A weakened ceiling can be spotted with a DC 20 [[Knowledge]] (architecture and engineering) or DC 20 [[Craft]] (stonemasonry) check. Remember that Craft checks can be made untrained as Intelligence checks. A dwarf can make such a check if he simply passes within 10 feet of a weakened ceiling.
+Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon explorers face the danger of being crushed by tons of falling rock, even if they survive they may be buried beneath a pile of rubble or cut off from the only known exit. A cave-in buries anyone in the middle of the collapsing area, and then sliding debris damages anyone in the periphery of the collapse. A typical corridor subject to a cave-in might have a bury zone with a 15-foot radius and a 10-foot-radius slide zone extending beyond the bury zone. A weakened ceiling can be spotted with a DC 20 [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) or DC 20 [[Craft]] (stonemasonry) check. Remember that Craft checks can be made untrained as Intelligence checks. A dwarf can make such a check if he simply passes within 10 feet of a weakened ceiling.
 
 A weakened ceiling may collapse when subjected to a major impact or concussion. A character can cause a cave-in by destroying half the pillars holding the ceiling up.
 
@@ -345,7 +345,7 @@ There are many ways to get lost in the wilderness. Following an obvious road, tr
 |Mountain, map|8|Mountain, no map|12|
 |Moor or hill, no map|10|Forest|15|
 
-A character with at least 5 ranks in [[Knowledge]] (geography) or Knowledge (local) pertaining to the area being traveled through gains a +2 bonus on this check.
+A character with at least 5 ranks in [[Compendium/Basics/Skills/Knowledge]] (geography) or Knowledge (local) pertaining to the area being traveled through gains a +2 bonus on this check.
 
 Check once per hour (or portion of an hour) spent in local or overland movement to see if travelers have become lost. In the case of a party moving together, only the character leading the way makes the check.
 
@@ -407,7 +407,7 @@ The leading edge of a fire (the downwind side) can advance faster than a human c
 
 Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
 
-**Heat Damage**: Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saving throws. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a heat metal spell.
+**Heat Damage**: Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saving throws. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a [[heat metal]] spell.
 
 **Catching on Fire**: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter (see Catching on Fire).
 
@@ -680,7 +680,7 @@ Land-based creatures can have considerable difficulty when fighting in water. Wa
 
 **Ranged Attacks Underwater**: Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range.
 
-**Attacks from Land**: Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who have freedom of movement effects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents have freedom of movement effects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
+**Attacks from Land**: Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who have [[freedom of movement]] effects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents have [[freedom of movement]] effects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
 
 **Fire**: Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a [[Spellcraft]] check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise.
 
@@ -691,13 +691,13 @@ The surface of a body of water blocks line of effect for any fire spell. If the 
 ||Attack/Damage|   |||
 |---|---|---|---|---|
 |Condition|Slashing or Bludgeoning|Tail|Movement|Off Balance?4|
-|Freedom of movement|normal/normal|normal/normal|normal|No|
+|[[Freedom of movement]]|normal/normal|normal/normal|normal|No|
 |Has a swim speed|–2/half|normal|normal|No|
 |Successful Swim check|–2/half1|–2/half|quarter or half2|No|
 |Firm footing3|–2/half|–2/half|half|No|
 |None of the above|–2/half|–2/half|normal|Yes|
 
-1 _A creature without a freedom of movement effects or a swim speed makes [[grapple]] checks underwater at a –2 penalty, but deals damage normally when [[grappling]]._
+1 _A creature without a [[freedom of movement]] effects or a swim speed makes [[grapple]] checks underwater at a –2 penalty, but deals damage normally when [[grappling]]._
 2 _A successful Swim check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action._
 3 _Creatures have firm footing when walking along the bottom, braced against a ship’s hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down—at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium._
 4 _Creatures flailing about in the water (usually because they failed their Swim checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it._
@@ -784,7 +784,7 @@ Table: Siege Engines
 
 Catapult, Heavy: A heavy catapult is a massive engine capable of throwing rocks or heavy objects with great force. Because the catapult throws its payload in a high arc, it can hit squares out of its line of sight. To fire a heavy catapult, the crew chief makes a special check against DC 15 using only his base attack bonus, Intelligence modifier, range increment penalty, and the appropriate modifiers from the lower section of Table: Siege Engines . If the check succeeds, the catapult stone hits the square the catapult was aimed at, dealing the indicated damage to any object or character in the square. Characters who succeed on a DC 15 Reflex save take half damage. Once a catapult stone hits a square, subsequent shots hit the same square unless the catapult is reaimed or the wind changes direction or speed.
 
-If a catapult stone misses, roll 1d8 to determine where it lands. This determines the misdirection of the throw, with 1 being back toward the catapult and 2 through 8 counting clockwise around the target square. Then, count 3 squares away from the target square for every range increment of the attack.
+If a catapult stone misses, roll 1d8 to determine where it lands. This determines the [[misdirection]] of the throw, with 1 being back toward the catapult and 2 through 8 counting clockwise around the target square. Then, count 3 squares away from the target square for every range increment of the attack.
 
 Loading a catapult requires a series of full-round actions. It takes a DC 15 Strength check to winch the throwing arm down; most catapults have wheels to allow up to two crew members to use the [[aid another]] action, assisting the main winch operator. A DC 15 [[Profession]] (siege engineer) check latches the arm into place, and then another DC 15 Profession (siege engineer) check loads the catapult ammunition. It takes four full-round actions to reaim a heavy catapult (multiple crew members can perform these full-round actions in the same round, so it would take a crew of four only 1 round to reaim the catapult).
 
@@ -1040,7 +1040,7 @@ In conditions of severe cold or exposure (below 0° F), an unprotected character
 
 A character who takes any nonlethal damage from cold or exposure is beset by frostbite or hypothermia (treat her as [[fatigued]]). These penalties end when the character recovers the nonlethal damage she took from the cold and exposure.
 
-Extreme cold (below –20° F) deals 1d6 points of lethal damage per minute (no save). In addition, a character must make a Fortitude save (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. Those wearing metal armor or coming into contact with very cold metal are affected as if by a chill metal spell.
+Extreme cold (below –20° F) deals 1d6 points of lethal damage per minute (no save). In addition, a character must make a Fortitude save (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. Those wearing metal armor or coming into contact with very cold metal are affected as if by a [[chill metal]] spell.
 
 ###### Ice Effects
 
@@ -1109,7 +1109,7 @@ For each additional increment an object falls, it deals an additional 1d6 points
 
 ##### HEAT DANGERS
 
-Heat deals nonlethal damage that cannot be recovered until the character gets cooled off (reaches shade, survives until nightfall, gets doused in water, is targeted by endure elements, and so forth). Once rendered [[unconscious]] through the accumulation of nonlethal damage, the character begins to take lethal damage at the same rate.
+Heat deals nonlethal damage that cannot be recovered until the character gets cooled off (reaches shade, survives until nightfall, gets doused in water, is targeted by [[endure elements]], and so forth). Once rendered [[unconscious]] through the accumulation of nonlethal damage, the character begins to take lethal damage at the same rate.
 
 A character in very hot conditions (above 90° F) must make a Fortitude saving throw each hour (DC 15, +1 for each previous check) or take 1d4 points of nonlethal damage. Characters wearing heavy clothing or armor of any sort take a –4 penalty on their saves. A character with the [[Survival]] skill may receive a bonus on this saving throw and may be able to apply this bonus to other characters as well (see the skill description). Characters reduced to unconsciousness begin taking lethal damage (1d4 points per hour).
 
@@ -1185,7 +1185,4 @@ It is possible to drown in substances other than water, such as sand, quicksand,
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

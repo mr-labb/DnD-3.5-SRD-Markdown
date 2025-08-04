@@ -1,5 +1,6 @@
 ---
-aliases: [Create Undead]
+aliases:
+ - Create Undead
 title: Compendium/Basics/Spell/Create Undead
 tags:
   - 35E_SRD
@@ -41,10 +42,10 @@ A more potent spell than [[animate dead]], this spell allows you to create stron
 
 | **Caster Level**    | **Undead Created** |
 |---------------------|--------------------|
-| 11th or lower       | Ghoul              |
-| 12th–14th           | Ghast              |
-| 15th–17th           | Mummy              |
-| 18th or higher      | Mohrg              |
+| 11th or lower       | [[Ghoul]]              |
+| 12th–14th           | [[Ghoul_Ghast|Ghast]]              |
+| 15th–17th           | [[Mummy]]              |
+| 18th or higher      | [[Mohrg]]              |
 
 You may choose to create a less powerful undead than your level allows.
 
@@ -60,9 +61,13 @@ You may choose to create a less powerful undead than your level allows.
 
 ---
 
-**Source:** PHB P215
+**Source :** PHB P215
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

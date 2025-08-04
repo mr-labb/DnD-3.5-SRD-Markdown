@@ -370,7 +370,7 @@ adjustment increases by +1, and its Intelligence increases by +1. The
 mount's spell resistance equals the paladin's class level + 5.
 
 ### *Remove Disease* (Sp)
-The epic paladin can use *remove disease* one
+The epic paladin can use *[[remove disease]]* one
 additional time per week for every three levels higher than 18th.
 
 ### Bonus Feats
@@ -387,16 +387,16 @@ Spell, Widen Aura of Courage.
 
   --------------- -------------------------
   Paladin Level   Special
-  21st            *Remove disease* 6/week
+  21st            *[[Remove disease]]* 6/week
   22nd            ---
   23rd            Bonus feat
-  24th            *Remove disease* 7/week
+  24th            *[[Remove disease]]* 7/week
   25th            Smite evil 6/day
   26th            Bonus feat
-  27th            *Remove disease* 8/week
+  27th            *[[Remove disease]]* 8/week
   28th            ---
   29th            Bonus feat
-  30th            *Remove disease* 9/week
+  30th            *[[Remove disease]]* 9/week
   --------------- -------------------------
 
   : Table: The Epic Paladin
@@ -870,5 +870,8 @@ on).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

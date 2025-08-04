@@ -1,5 +1,6 @@
 ---
-aliases: [Decipher Script]
+aliases:
+ - Decipher Script
 title: Compendium/Basics/skills/Decipher Script
 tags: skill
 ---
@@ -38,5 +39,4 @@ If you have 5 or more ranks in Decipher Script, you get a
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

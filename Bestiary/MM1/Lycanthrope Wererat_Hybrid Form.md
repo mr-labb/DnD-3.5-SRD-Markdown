@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Wererat, Hybrid Form]
+aliases:
+ - Lycanthrope
+ - Wererat
+ - Hybrid Form
 title: Bestiary/MM1/Lycanthrope, Wererat, Hybrid Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Wererat, Hybrid Form

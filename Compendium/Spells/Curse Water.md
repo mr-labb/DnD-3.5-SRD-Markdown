@@ -1,5 +1,6 @@
 ---
-aliases: [Curse Water]
+aliases:
+ - Curse Water
 title: Compendium/Basics/Spell/Curse Water
 tags:
   - 35E_SRD
@@ -41,9 +42,13 @@ This spell imbues a flask (1 pint) of water with negative energy, turning it int
 - **5 pounds of powdered silver** (worth 25 gp)
 
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

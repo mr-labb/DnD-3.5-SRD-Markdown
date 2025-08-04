@@ -1,5 +1,6 @@
 ---
-aliases: [Spirited Charge]
+aliases:
+ - Spirited Charge
 title: Spirited Charge
 tags: Feat, General_Feat
 ---
@@ -16,5 +17,4 @@ bonus feats.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

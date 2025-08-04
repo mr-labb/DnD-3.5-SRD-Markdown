@@ -1,5 +1,7 @@
 ---
-aliases: [Inevitable, Zelekhut]
+aliases:
+ - Inevitable
+ - Zelekhut
 title: Bestiary/MM1/Inevitable, Zelekhut
 tags: [35E_SRD, Monster]
 Monster: Inevitable, Zelekhut

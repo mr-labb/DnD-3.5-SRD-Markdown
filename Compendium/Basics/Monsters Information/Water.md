@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Water]
+aliases:
+ - Water
 title: Compendium/Basics/Monsters Information/Water
 tag: Monster, Water
 ---
@@ -19,5 +20,4 @@ tag: Monster, Water
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

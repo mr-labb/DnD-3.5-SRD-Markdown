@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Bull's Strength]
+aliases:
+ - Mass Bull's Strength
 title: Compendium/Basics/Spell/Bull's Strength, Mass
 tags: 
   - 35E_SRD
@@ -33,13 +34,17 @@ As [[Bulls Strength|Bull's Strength]], affects one subject/level.
 *   **Saving Throw:** Will negates (harmless)
 *   **Spell Resistance:** Yes (harmless)
 
-This spell functions like *Bull's Strength*, granting each targeted creature a **+4 enhancement bonus to Strength** for the duration. It affects up to **one creature per caster level**, as long as no two targets are more than **30 ft. apart** at the time of casting.
+This spell functions like *[[Bulls Strength|Bull's Strength]]*, granting each targeted creature a **+4 enhancement bonus to Strength** for the duration. It affects up to **one creature per caster level**, as long as no two targets are more than **30 ft. apart** at the time of casting.
 
-*Material Component:* Same as *Bull's Strength* — a few hairs or a pinch of dung from a bull.
+*Material Component:* Same as *Bull's Strength* â€” a few hairs or a pinch of dung from a bull.
 
-Source : PHB P207
+**Source :** PHB P207
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

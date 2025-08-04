@@ -1,7 +1,10 @@
 ---
-aliases: [Troll]
+aliases:
+ - Troll
 title: Bestiary/MM1/Troll
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Troll
 Size: Large
 Type: Giant
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Troll
+image: [[Troll.PNG]]
 race: Troll
 class: 
 level: 
@@ -27,71 +29,94 @@ size: Large
 type: Giant
 subtype: 
 alignment: Usually chaotic evil
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "16 (-1 size, +2 Dex, +5 natural), touch 11, flat-footed 14"
+ac: 16
 touch: 11
-flat_footed: 14
-hit_point:
-  - name: hp
-    desc: "63 ; 6d8+36"
-speed: 30 ft. (6 squares)
-
-abilities: [23, 14, 23, 6, 9, 6]
-saves:
-  - Fort: +11
-  - Ref: +4
-  - Will: +3
-damage_resist: 
-spell_resist: 
+flatfooted: 14
+AC_desc: -1 size, +2 Dex, +5 natural
+hp: 63
+hit_dice: 6d8+36
 initiative: 2
+speed: 30 ft. (6 squares)
 space/reach: 10 ft./10 ft.
-cr: 5
+stats:
+  - 23
+  - 14
+  - 23
+  - 6
+  - 9
+  - 6
+saves:
+ - Fortitude : 11
+ - Reflex : 4
+ - Will : 3
+skillsaves:
+ - Listen: +5
+ - Spot: +6
 base_attack/grapple: +4/+14
-attack: Claw +9 melee (1d6+6)
-full_attack: 2 claws +9 melee (1d6+6) and bite +4 melee (1d6+3)
-special_attacks: Rend 2d6+9
-
-special_qualities:
-  - name: 
-    desc: Darkvision 90 ft., low-light vision, regeneration 5 (fire or acid), scent
-
-skills:
-  - Listen: +5
-  - Spot: +6
-feats: [[Alertness]], [[Iron Will]], [[Track]]
-weak: 
 environment: Cold mountains (Scrag: Cold aquatic)
 organization: Solitary or gang (2-4)
 treasure: Standard
 advancement: By character class
 level_adjustment: +5
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 5
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Darkvision 90 ft., low-light vision, regeneration 5 (fire or acid), scent
+actions:
+  - name: Full Attack
+    desc: "2 claws +9 melee (1d6+6) and bite +4 melee (1d6+3)"
+  - name: Attack
+    desc: "Claw +9 melee (1d6+6)"
+  - name: special attacks
+    desc: "Rend 2d6+9"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Alertness, Iron Will, Track
+combat_gear:  
 ```
 
-## Description
 
-<p>Trolls walk upright but hunched forward with sagging shoulders. Their gait is uneven, and when they run, their arms dangle and drag along the ground. For all this seeming awkwardness, trolls are very agile.</p>
-<p>A typical adult troll stands 9 feet tall and weighs 500 pounds. Females are slightly larger than males. A troll's rubbery hide is moss green, mottled green and gray, or putrid gray. The hair is usually greenish black or iron gray.</p>
-<p>Trolls speak Giant.</p>
-<p>COMBAT</p>
-<p>Trolls have no fear of death: They launch themselves into combat without hesitation, flailing wildly at the closest opponent. Even when confronted with fire, they try to get around the flames and attack.</p>
-<p>
-            <b>Rend (Ex):</b> If a troll hits with both claw attacks, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 2d6+9 points of damage.</p>
-<p>
-            <b>Regeneration (Ex):</b> Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.</p>
-<p>
-            <b>SCRAG</b>
-          </p>
-<p>These cousins of the troll have the aquatic subtype. They dwell in any body of water in any climate. They have a base land speed of 20 feet and a swim speed of 40 feet and are found only in aquatic environments. They regenerate only if mostly immersed in water.</p>
-<p>
-            <b>TROLLS AS CHARACTERS</b>
-          </p>
-<p>Troll characters possess the following racial traits.</p>
+Trolls walk upright but hunched forward with sagging shoulders. Their gait is uneven, and when they run, their arms dangle and drag along the ground. For all this seeming awkwardness, trolls are very agile.
+
+A typical adult troll stands 9 feet tall and weighs 500 pounds. Females are slightly larger than males. A troll's rubbery hide is moss green, mottled green and gray, or putrid gray. The hair is usually greenish black or iron gray.
+
+Trolls speak Giant.
+
+COMBAT
+
+Trolls have no fear of death: They launch themselves into combat without hesitation, flailing wildly at the closest opponent. Even when confronted with fire, they try to get around the flames and attack.
+
+
+**Rend (Ex):** If a troll hits with both claw attacks, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 2d6+9 points of damage.
+
+
+**Regeneration (Ex):** Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
+
+
+**SCRAG**
+
+
+These cousins of the troll have the aquatic subtype. They dwell in any body of water in any climate. They have a base land speed of 20 feet and a swim speed of 40 feet and are found only in aquatic environments. They regenerate only if mostly immersed in water.
+
+
+**TROLLS AS CHARACTERS**
+
+
+Troll characters possess the following racial traits.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

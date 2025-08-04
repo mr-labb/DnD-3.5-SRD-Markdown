@@ -1,12 +1,12 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Treasure
 tag: Treasure
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
@@ -263,10 +263,6 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 | 89–95  | Musical instrument, masterwork (100 gp)         |
 | 96–100 | Thieves’ tools, masterwork (50 gp)              |
 
-
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

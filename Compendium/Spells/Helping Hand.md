@@ -1,38 +1,68 @@
 ---
-aliases: [Helping Hand]
+aliases:
+ - Helping Hand
 title: Compendium/Basics/Spell/Helping Hand
-tags: [35E_SRD, Spell, Cleric]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Cleric  
 Spell Name: Helping Hand
 School: Evocation
 Subschool: 
 Descriptor: 
-Level:
-  - Clr 3
+Level:  
+  - Clr 3  
 Source: PHB
 ---
-
 
 ## Helping Hand
 
 Ghostly hand leads subject to you.
 
-*   Evocation
-*   **Level:** Clr 3
-*   **Components:** V, S, DF
-*   **Casting Time:** 1 standard action
-*   **Range:** 5 miles
-*   **Effect:** Ghostly hand
-*   **Duration:** 1 hour/level
-*   **Saving Throw:** None
-*   **Spell Resistance:** No
+### Spell Details
 
-<p>You create the ghostly image of a hand, which you can send to find a creature within 5 miles. The hand then beckons to that creature and leads it to you if the creature is willing to follow.</p><p>When the spell is cast, the hand appears in front of you. You then specify a person (or any creature) by physical description, which can include race, gender, and appearance but not ambiguous factors such as level, alignment, or class. When the description is complete, the hand streaks off in search of a subject that fits the description. The amount of time it takes to find the subject depends on how far away she is.</p><table> <tr decoration="underline"> <td> <b>Distance</b> </td> <td> <b>Time to Locate</b> </td> </tr> <tr> <td> 100 ft. or less </td> <td> 1 round </td> </tr> <tr> <td> 1,000 ft. </td> <td> 1 minute </td> </tr> <tr> <td> 1 mile </td> <td> 10 minutes </td> </tr> <tr> <td> 2 miles </td> <td> 1 hour </td> </tr> <tr> <td> 3 miles </td> <td> 2 hours </td> </tr> <tr> <td> 4 miles </td> <td> 3 hours </td> </tr> <tr> <td> 5 miles </td> <td> 4 hours </td> </tr> </table><p>Once the hand locates the subject, it beckons the creature to follow it. If the subject does so, the hand points in your direction, indicating the most direct feasible route. The hand hovers 10 feet in front of the subject, moving before it at a speed of as much as 240 feet per round. Once the hand leads the subject back to you, it disappears.</p><p>The subject is not compelled to follow the hand or act in any particular way toward you. If the subject chooses not to follow, the hand continues to beckon for the duration of the spell, then disappears. If the spell expires while the subject is en route to you, the hand disappears; the subject must then rely on her own devices to locate you.</p><p>If more than one subject in a 5-mile radius meets the description, the hand locates the closest creature. If that creature refuses to follow the hand, the hand does not seek out a second subject.</p><p>If, at the end of 4 hours of searching, the hand has found no subject that matches the description within 5 miles, it returns to you, displays an outstretched palm (indicating that no such creature was found), and disappears.</p><p>The ghostly hand has no physical form. It is invisible to anyone except you and a potential subject. It cannot engage in combat or execute any other task aside from locating a subject and leading it back to you. The hand can't pass through solid objects but can ooze through small cracks and slits. The hand cannot travel more than 5 miles from the spot it appeared when you cast the spell.</p>
+- **School:** Evocation  
+- **Level:** Clr 3  
+- **Components:** V, S, DF  
+- **Casting Time:** 1 standard action  
+- **Range:** 5 miles  
+- **Effect:** Ghostly hand  
+- **Duration:** 1 hour/level  
+- **Saving Throw:** None  
+- **Spell Resistance:** No  
 
-Source : PHB P239
+### Description
+
+You create the ghostly image of a hand, which you can send to find a creature within 5 miles. The hand then beckons to that creature and leads it to you if the creature is willing to follow.
+
+When cast, the hand appears before you. You specify a creature by **physical description**, such as race, gender, and appearance. Ambiguous criteria such as class, level, or alignment cannot be used. The hand then searches for a subject matching the description.
+
+#### Time to Locate by Distance:
+
+| **Distance**     | **Time to Locate** |
+|------------------|--------------------|
+| 100 ft. or less  | 1 round            |
+| 1,000 ft.        | 1 minute           |
+| 1 mile           | 10 minutes         |
+| 2 miles          | 1 hour             |
+| 3 miles          | 2 hours            |
+| 4 miles          | 3 hours            |
+| 5 miles          | 4 hours            |
+
+Once the hand finds the subject, it beckons them forward and leads them to you by hovering 10 ft. ahead at up to **240 ft./round**. If the subject chooses not to follow, the hand continues beckoning until the spell ends. If the spell expires while the subject is en route, the hand vanishes and the subject must find their own way.
+
+If multiple subjects within range match the description, the hand chooses the **closest**. If refused, it will not search again. If none match the description within 5 miles after 4 hours, the hand returns, displays an **open palm**, and disappears.
+
+The hand is **invisible** to all but you and the designated subject. It has no physical form, cannot perform tasks or engage in combat, and cannot travel beyond its 5-mile range. It can ooze through small cracks but cannot pass through solid objects.
+
+
+**Source :** PHB P239
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

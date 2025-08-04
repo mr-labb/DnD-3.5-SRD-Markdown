@@ -1,5 +1,6 @@
 ---
-aliases: [Bless Water]
+aliases:
+ - Bless Water
 title: Compendium/Basics/Spell/Bless Water
 tags: 
   - 35E_SRD
@@ -34,9 +35,13 @@ This transmutation imbues a flask (1 pint) of water with positive energy, turnin
 
 *Material Component:* 5 pounds of powdered silver (worth 25 gp).
 
-Source : PHB P205
+**Source :** PHB P205
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

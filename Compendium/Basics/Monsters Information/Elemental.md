@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Elemental]
+aliases:
+ - Elemental
 title: Compendium/Basics/Monsters Information/Elemental
 tag: Monster, Elemental
 ---
@@ -30,7 +31,7 @@ _Traits_: An elemental possesses the following traits (unless otherwise noted in
     
 - Not subject to critical hits or flanking.
     
-- Unlike most other living creatures, an elemental does not have a dual nature—its soul and body form one unit. When an elemental is slain, no soul is set loose. Spells that restore souls to their bodies, such as raise dead, reincarnate, and resurrection, don’t work on an elemental. It takes a different magical effect, such as limited wish, wish, miracle, or true resurrection, to restore it to life.
+- Unlike most other living creatures, an elemental does not have a dual nature—its soul and body form one unit. When an elemental is slain, no soul is set loose. Spells that restore souls to their bodies, such as [[raise dead]], [[reincarnate]], and [[resurrection]], don’t work on an elemental. It takes a different magical effect, such as [[limited wish]], [[wish]], [[miracle]], or [[true resurrection]], to restore it to life.
     
 - Proficient with natural weapons only, unless generally humanoid in form, in which case proficient with all simple weapons and any weapons mentioned in its entry.
     
@@ -38,7 +39,6 @@ _Traits_: An elemental possesses the following traits (unless otherwise noted in
     
 - Elementals do not eat, sleep, or breathe.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

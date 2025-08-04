@@ -1,5 +1,6 @@
 ---
-aliases: [Improved Familiar]
+aliases:
+ - Improved Familiar
 title: Improved Familiar
 tags: Feat, General_Feat
 ---
@@ -17,11 +18,11 @@ Benefit: When choosing a familiar, the creatures listed below are also available
 |   |   |   |
 |---|---|---|
 |Familiar|Alignment|Arcane Spellcaster Level|
-|Shocker lizard|Neutral|5th|
-|Stirge|Neutral|5th|
-|Formian worker|Lawful Neutral|7th|
+|[[Shocker lizard]]|Neutral|5th|
+|[[Stirge]]|Neutral|5th|
+|[[Formian worker]]|Lawful Neutral|7th|
 |Imp|Lawful Evil|7th|
-|Pseudodragon|Neutral Good|7th|
+|[[Pseudodragon]]|Neutral Good|7th|
 |Quasit|Chaotic Evil|7th|
 
 
@@ -37,17 +38,16 @@ The list in the table above presents only a few possible improved familiars. Alm
 |Air elemental, Small|Air|5th|
 |Earth elemental, Small|Earth|5th|
 |Fire elemental, Small|Fire|5th|
-|Shocker lizard|Electricity|5th|
+|[[Shocker lizard]]|Electricity|5th|
 |Water elemental, Small|Water|5th|
 |Homunculus3|Undead|7th|
-|Ice mephit|Cold|7th|
+|[[Mephit_Ice|Ice mephit]]|Cold|7th|
 
 
 1 Or other celestial animal from the standard familiar list.
 2 Or other fiendish animal from the standard familiar list.
-3 The master must first create the homunculus, substituting ichor or another  <br>part of the master’s body for blood if necessary
+3 The master must first create the [[homunculus]], substituting ichor or another  <br>part of the master’s body for blood if necessary
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

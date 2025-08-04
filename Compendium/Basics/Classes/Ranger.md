@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Ranger]
+aliases:
+ - Ranger
 title: Compendium/Basics/Classe/Ranger
 tag: Class, Ranger
 ---
@@ -9,7 +10,8 @@ tag: Class, Ranger
 
 ### RANGER
 
-
+<br><br>The forests are home to fierce and cunning creatures, such as bloodthirsty owlbears and malicious displacer beasts. But more cunning and powerful than these monsters is the ranger, a skilled hunter and stalker. He knows the woods as if they were his home (as indeed they are), and he knows his prey in deadly detail.<br><br>A ranger often accepts the role of protector, aiding those who live in or travel through the woods. In addition, a ranger carries grudges against certain types of creatures and looks for opportunities to find and destroy them. He may adventure for all the reasons that a fighter does.<br><br>A ranger can use a variety of weapons and is quite capable in combat. His skills allow him to survive in the wilderness, to find his prey, and to avoid detection. He also has special [[Compendium/Basics/Skills/Knowledge]] about certain types of creatures, which makes it easier for him to find and defeat such foes. Finally, an experienced ranger has such a tie to nature that he can actually draw upon natural power to cast divine spells, much as a druid does.<br><br>Rangers can be of any alignment. Most are good, and such rangers usually function as protectors of the wild areas. In this role, a ranger seeks out and destroys or drives off evil creatures that threaten the wilderness. Good rangers also protect those who travel through the wilderness, serving sometimes as guides and sometimes as unseen guardians. Most rangers are also chaotic, preferring to follow the ebb and flow of nature or of their own hearts instead of rigid rules. Evil rangers, though rare, are much to be feared. They revel in nature's thoughtless cruelty and seek to emulate her most fearsome predators. They gain divine spells just as good rangers do, for nature herself is indifferent to good and evil.<br><br>Though a ranger gains his divine spells from the power of nature, he like anyone else may worship a chosen deity. Ehlonna (goddess of the woodlands) and Obad-Hai (god of nature) are the most common deities revered by, though some prefer more martial deities.<br><br>Some rangers gained their training as part of special military teams, but most learned their skills from solitary masters who accepted them as students and assistants. The rangers of a particular master may count themselves as cohorts, or they may be rivals for the status of best student and thus the rightful heir to their master's fame.<br><br>Elves often choose the ranger's path. They are at home in the woods, and they have the grace to move stealthily. Half-elves who feel their elf parents' connection to the woods are also likely to adopt this class. Humans are often rangers as well, being adaptable enough to learn their way around the woods even if it doesn't come naturally to them. Half-orcs may find the life of a ranger more comfortable than life among cruel and taunting humans (or orcs). Gnome rangers are more common than gnome fighters, but still they tend to remain in their own lands rather than adventure among "the big people." Dwarf rangers are rare, but they can be quite effective. Instead of living in the surface wilderness, they are at home in the endless caverns beneath the earth. Here they hunt down and destroy the enemies of dwarvenkind with the relentless precision for which dwarves are known. Dwarf rangers are often known as cavers. Halfling rangers are highly respected for their ability to help communities of halflings prosper as they pursue their nomadic lifestyle. Among the savage humanoids, only gnolls are commonly rangers, using their skills to slyly stalk their prey.<br><br>Rangers get along well with druids and to some extent with barbarians. They are known to bicker with paladins, mostly because they often share goals but differ in style, tactics, approach, philosophy, and esthetics. Since rangers don't often look to other people for support or friendship, they find it easy to tolerate people who are quite different from themselves, such as bookish wizards and preachy clerics. They just don't care enough to get upset about others' differences.<br><br>The ranger's best role is that of a scout and secondary combatant. Without the heavy armor of the fighter or the staying power of the barbarian, the ranger should focus on opportunistic and ranged attacks. Most rangers user their animal companions as sentries, scouts, or to assist them in melee combat.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any.
 
@@ -17,7 +19,7 @@ tag: Class, Ranger
 
 ###### Class Skills
 
-The ranger's class skills (and the key ability for each skill) are [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (dungeoneering) (Int), [[Knowledge]] (geography) (Int), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Profession]] (Wis), [[Ride]] (Dex), [[Search]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and [[Use Rope]] (Dex).
+The ranger's class skills (and the key ability for each skill) are [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int), [[Compendium/Basics/Skills/Knowledge]] (geography) (Int), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Profession]] (Wis), [[Ride]] (Dex), [[Search]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and [[Use Rope]] (Dex).
 
 **Skill Points at 1st Level**: (6 + Int modifier) x 4.
 
@@ -94,7 +96,7 @@ The benefits of the ranger's chosen style apply only when he wears light or no a
 
 **Endurance**: A ranger gains [[Endurance]] as a bonus feat at 3rd level.
 
-**Animal Companion (Ex)**: At 4th level, a ranger gains an animal companion selected from the following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures may be added to the ranger's list of options: crocodile, porpoise, Medium shark, and squid. This animal is a loyal companion that accompanies the ranger on his adventures as appropriate for its kind.
+**Animal Companion (Ex)**: At 4th level, a ranger gains an animal companion selected from the following list: [[badger]], [[camel]], dire rat, dog, riding dog, eagle, [[hawk]], horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures may be added to the ranger's list of options: [[Crocodile|[[crocodi]]le]], [[porpoise]], [[Shark_Medium|Medium shark]], and [[squid]]. This animal is a loyal companion that accompanies the ranger on his adventures as appropriate for its kind.
 
 This ability functions like the druid ability of the same name, except that the ranger's effective druid level is one-half his ranger level. A ranger may select from the alternative lists of animal companions just as a druid can, though again his effective druid level is half his ranger level. Like a druid, a ranger cannot select an alternative animal if the choice would reduce his effective druid level below 1st.
 
@@ -150,7 +152,7 @@ Rangers learn to track and hunt creatures of a certain type when choosing a favo
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: At 1st level, you do not select a favored enemy from Table: [[#Ranger Favored Enemies]]. At 5th, 10th, 15th, and 20th level, you can choose favored enemies as normal.
 
@@ -344,7 +346,7 @@ Rangers of the Fangshields use their skills to patrol the wildlands, as well as 
 
 ##### Requirements
 
-To take a Fangshields ranger substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Knowledge]] (religion), and be about to take his 2nd, 4th, or 5th level of ranger.
+To take a Fangshields ranger substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 2nd, 4th, or 5th level of ranger.
 
 ##### Class Skills
 
@@ -364,7 +366,7 @@ A Fangshields ranger need not meet any of the normal prerequisites for these bon
 
 **Animal Companion (Ex)**: A Fangshields ranger uses the normal ranger animal companion rules, but because he is beastlike himself, he has a stronger bond with the animal. The ranger's effective druid level is treated as one-half his ranger level +2.
 
-**Lion and the Unicorn (Ex)**: At 5th level, a Fangshields ranger chooses an affinity for Nobanion or Lurue, even if he already has a patron deity (this doesn't cause a religious conflict). If he chooses Nobanion, he gets a +1 sacred bonus to AC during the day; if he chooses Lurue, he gets a +1 sacred bonus to AC during the night. He gets the benefit of this ability whether or not he is outside or knows the time of day. This ability doesn't apply on a plane other than the Material Plane.
+**Lion and the [[Unicorn]] (Ex)**: At 5th level, a Fangshields ranger chooses an affinity for Nobanion or Lurue, even if he already has a patron deity (this doesn't cause a religious conflict). If he chooses Nobanion, he gets a +1 sacred bonus to AC during the day; if he chooses Lurue, he gets a +1 sacred bonus to AC during the night. He gets the benefit of this ability whether or not he is outside or knows the time of day. This ability doesn't apply on a plane other than the Material Plane.
 
 This benefit replaces the second favored enemy class feature gained by a standard ranger at 5th level.
 
@@ -376,7 +378,7 @@ This benefit replaces the second favored enemy class feature gained by a standar
 |---|---|---|---|---|---|---|
 |2nd|+2|+3|+3|+0|Combat style|—|
 |4th|+4|+4|+4|+1|Animal companion|Same as ranger|
-|5th|+5|+4|+4|+1|Lion and the Unicorn|Same as ranger|
+|5th|+5|+4|+4|+1|Lion and the [[Unicorn]]|Same as ranger|
 
   
 
@@ -384,7 +386,7 @@ This benefit replaces the second favored enemy class feature gained by a standar
 
 Instead of selecting a type of creature against which to apply a bonus on certain skills and damage rolls, the ranger selects a specific natural environment and gains bonuses when in that environment.
 
-At 1st level, a ranger may select a natural environment from among those given on Table: Ranger Favored Environments. Due to the ranger's experience in that environment, he gains a +2 bonus on [[Hide]], [[Listen]], [[Move Silently]], [[Spot]], and [[Survival]] checks when using these skills in that environment. He also gains the same bonus on [[Knowledge]] (nature) checks made in association with that environment (or on [[Knowledge]] (dungeoneering) checks made in association with underground environments, if the ranger has selected underground as a favored environment).
+At 1st level, a ranger may select a natural environment from among those given on Table: Ranger Favored Environments. Due to the ranger's experience in that environment, he gains a +2 bonus on [[Hide]], [[Listen]], [[Move Silently]], [[Spot]], and [[Survival]] checks when using these skills in that environment. He also gains the same bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) checks made in association with that environment (or on [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) checks made in association with underground environments, if the ranger has selected underground as a favored environment).
 
 At 5th level and every five levels thereafter (at 10th, 15th, and 20th level), the ranger may select an additional favored environment from those given on the table and gains an identical bonus on the appropriate skill checks in that environment. In addition, at each such interval, the bonuses in any one favored environment (including the one just selected, if so desired) increase by 2. For example, a 5th-level ranger has two favored environments. In one he has a +4 bonus on the appropriate skill checks, and in the other he has a +2 bonus. At 10th level, he has three favored environments, and he gains an additional +2 bonus, which he can allocate to any of his three favored environments. Thus, his bonuses could be either +4, +4, and +2 or +6,+2, and +2.
 
@@ -419,15 +421,15 @@ A clever villain has many contingencies in place, so that if a plan goes awry, h
 
 **Benefit**: As an immediate action, you can enter a catatonic state in which you appear to be dead. While feigning death, you cannot see or feel anything, but you retain the ability to smell, hear, and otherwise follow what is going on around you.
 
-While under the effect of this ability, you are immune to all mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, ability drain, negative levels, and death effects. Attempts to resuscitate you, such as raise dead or reincarnation, automatically fail, though resurrection and true resurrection immediately end your feign death ability.
+While under the effect of this ability, you are immune to all mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, ability drain, negative levels, and death effects. Attempts to resuscitate you, such as [[raise dead]] or reincarnation, automatically fail, though resurrection and [[true resurrection]] immediately end your feign death ability.
 
-Spells and other effects that assess your current condition, such as status and deathwatch, indicate that you are dead. However, a character who succeeds on a Heal check (DC 15 + 1/2 your level + your Con modifier) can discern that you are actually alive.
+Spells and other effects that assess your current condition, such as status and [[deathwatch]], indicate that you are dead. However, a character who succeeds on a Heal check (DC 15 + 1/2 your level + your Con modifier) can discern that you are actually alive.
 
 You can remain in the catatonic state indefinitely, though you still require food, water, and air. Emerging from feigned death is a standard action.
 
 #### Gnome Ranger
 
-Hampered to some extent by her size, the gnome ranger learns to play off her other strengths. By embracing her connection to burrowing animals, the gnome ranger can attract an animal companion that can support her in combat. Against her favored enemies, she favors tactics of stealth more than interaction, and she truly shines when she chooses the traditional foes of her race as favored enemies. Her magic likewise draws on her racial abilities, allowing her to cast illusions unavailable to most rangers. The combination of these abilities makes the gnome ranger a fearsome ambusher who fights with the ferocity of the badger.
+Hampered to some extent by her size, the gnome ranger learns to play off her other strengths. By embracing her connection to burrowing animals, the gnome ranger can attract an animal companion that can support her in combat. Against her favored enemies, she favors tactics of stealth more than interaction, and she truly shines when she chooses the traditional foes of her race as favored enemies. Her magic likewise draws on her racial abilities, allowing her to cast illusions unavailable to most rangers. The combination of these abilities makes the gnome ranger a fearsome ambusher who fights with the ferocity of the [[badger]].
 
 **Hit Die**: d8.
 
@@ -463,13 +465,13 @@ If the ranger chooses humanoids or outsiders as a favored enemy, she must also c
 
 This benefit replaces the standard ranger's 1st-level favored enemy class feature.
 
-**Burrowing Animal Companion (Ex)**: If a gnome ranger takes the 4th-level racial substitution level and chooses a badger, dire badger, or wolverine as her animal companion (or any other mammalian animal with a burrowing speed), her effective druid level equals 1/2 her ranger level +3, instead of 1/2 her ranger level. (If she chooses a dire badger or a wolverine, her effective druid level is still reduced by 3, per the [[druid#Alternative Animal Companions|Alternative Animal Companions]] table.) In addition, she can use her racial speak with animals ability to speak with her animal companion at will.
+**Burrowing Animal Companion (Ex)**: If a gnome ranger takes the 4th-level racial substitution level and chooses a [[badger]], [[Badger_Dire|dire badger]], or wolverine as her animal companion (or any other mammalian animal with a burrowing speed), her effective druid level equals 1/2 her ranger level +3, instead of 1/2 her ranger level. (If she chooses a [[Badger_Dire|dire badger]] or a wolverine, her effective druid level is still reduced by 3, per the [[druid#Alternative Animal Companions|Alternative Animal Companions]] table.) In addition, she can use her racial [[speak with animals]] ability to speak with her animal companion at will.
 
 This benefit replaces the standard ranger's ability to share spells with her animal companion.
 
-**Gnome Ranger Spells**: A gnome ranger who takes the 8th-level racial substitution level adds blur, invisibility, and misdirection to the list of 2nd-level ranger spells she can prepare and cast. These spells replace barkskin, snare, and wind wall on the ranger spell list.
+**Gnome Ranger Spells**: A gnome ranger who takes the 8th-level racial substitution level adds [[blur]], invisibility, and misdirection to the list of 2nd-level ranger spells she can prepare and cast. These spells replace [[barkskin]], snare, and [[wind wall]] on the ranger spell list.
 
-Although she cannot cast them yet, she also adds greater invisibility and phantasmal killer to her list of 4th-level ranger spells. These spells replace commune with nature and tree stride on the ranger spell list.
+Although she cannot cast them yet, she also adds [[Invisibility Greater|greater invisibility]] and [[phantasmal killer]] to her list of 4th-level ranger spells. These spells replace [[commune with nature]] and [[tree stride]] on the ranger spell list.
 
 #### Golarion Ranger
 
@@ -505,9 +507,9 @@ An 8th-level ranger with Urban Tracking can cut the time required per Gather Inf
 
 This benefit replaces the Track feat normally gained as a bonus feat by a standard 1st-level ranger.
 
-**Street Magic**: At 4th level, a half-elf ranger adds the following spells to her class spell list: 1st - comprehend languages, detect secret doors, message; 2nd - detect thoughts, tongues; 3rd - phantom steed; 4th - dimension door.
+**Street Magic**: At 4th level, a half-elf ranger adds the following spells to her class spell list: 1st - [[comprehend languages]], [[detect secret doors]], message; 2nd - [[detect thoughts]], [[tongues]]; 3rd - [[phantom steed]]; 4th - [[dimension door]].
 
-A ranger who selects this substitution feature loses the following spells from her class spell list: 1st - detect animals or plants, detect snares and pits, entangle, summon nature's ally I; 2nd - snare, speak with plants, summon nature's ally II; 3rd - command plants, diminish plants, plant growth, summon nature's ally II, tree shape; 4th - commune with nature, summon nature's ally IV, tree stride.
+A ranger who selects this substitution feature loses the following spells from her class spell list: 1st - [[detect animals or plants]], [[detect snares and pits]], entangle, [[Summon Natures Ally I|summon nature's ally I]]; 2nd - snare, [[speak with plants]], [[Summon Natures Ally II|summon nature's ally II]]; 3rd - [[command plants]], [[diminish plants]], [[plant growth]], [[Summon Natures Ally II|summon nature's ally II]], [[tree shape]]; 4th - [[commune with nature]], [[Summon Natures Ally IV|summon nature's ally IV]], [[tree stride]].
 
 **Skill Mastery (Ex)**: At 13th level, a half-elf ranger becomes so certain in the use of certain skills that she can use them reliably even under adverse conditions. Upon gaining this ability, she selects a number of skills equal to 3 + her Intelligence modifier. When making a skill check with one of these skills, she may take 10 even if stress and distractions would normally prevent her from doing so.
 
@@ -579,7 +581,7 @@ This substitution feature replaces but is otherwise identical to the standard ra
 
 This substitution feature replaces the standard ranger's animal companion class feature.
 
-**Kobold Ranger Spells**: A kobold ranger who takes the 4th-level racial substitution level replaces certain spells on her ranger spell list with kobold alternatives. For 1st-level ranger spells, steal size replaces entangle. A kobold ranger also exchanges the 2nd-level ranger spells speak with plants and spike growth for local tremor and soften earth and stone. She replaces the 3rd-level ranger spells command plants, diminish plants, plant growth, and tree shape with meld into stone, spike stones, stone shape, and stoneskin. Stone tell replaces the 4th-level ranger spell tree stride.
+**Kobold Ranger Spells**: A kobold ranger who takes the 4th-level racial substitution level replaces certain spells on her ranger spell list with kobold alternatives. For 1st-level ranger spells, steal size replaces entangle. A kobold ranger also exchanges the 2nd-level ranger spells [[speak with plants]] and [[spike growth]] for local tremor and [[soften earth and stone]]. She replaces the 3rd-level ranger spells [[command plants]], [[diminish plants]], [[plant growth]], and [[tree shape]] with [[meld into stone]], [[spike stones]], [[stone shape]], and [[stoneskin]]. [[Stone tell]] replaces the 4th-level ranger spell [[tree stride]].
 
 **Subterranean Stride (Ex)**: A kobold ranger who takes the 7th-level racial substitution level can move across dense rubble or natural stone floors at her normal speed, ignoring any effects related to terrain (DMG 60). However, a rock surface that is enchanted or magically manipulated to impede motion still affects her.
 
@@ -671,7 +673,7 @@ The mystic ranger gains Endurance and his combat style abilities later than the 
 
 **Weapon and Armor Proficiency**: A mystic ranger is proficient with all simple weapons, martial ranged weapons, and light armor. A mystic ranger is not proficient with martial melee weapons or shields.
 
-**Spell List**: The mystic ranger casts 1st-through 4th-level spells from the ranger spell list. His 0-level spell list consists of create water, cure minor wounds, flare, guidance, know direction, light, mending, purify food and drink, resistance, and virtue. His 5th-level list consists of awaken, baleful polymorph, cure critical wounds, control winds, summon nature's ally V, and wall of thorns.
+**Spell List**: The mystic ranger casts 1st-through 4th-level spells from the ranger spell list. His 0-level spell list consists of [[create water]], [[cure minor wounds]], [[flare]], guidance, [[know direction]], light, [[mending]], [[purify food and drink]], resistance, and [[virtue]]. His 5th-level list consists of [[awaken]], [[baleful polymorph]], [[cure critical wounds]], [[control winds]], [[Summon Natures Ally V|summon nature's ally V]], and [[wall of thorns]].
 
 #### Natural Born Ranger
 
@@ -697,7 +699,7 @@ These elven rangers gain a particular affinity for the terrain of their homeland
 
 The others laughed and played their pranks, but you always took life more seriously. Life was dangerous, dirty, and hard, and as your innate magic developed you discovered more sensible uses than practical jokes.
 
-These gnome rangers retain their ability to cast speak with animals but lose their other spell-like abilities in order to cast create water, detect poison and purify food and drink once per day. Caster level 1st; save DC 10 + gnome's Charisma modifier + spell level.
+These gnome rangers retain their ability to cast [[speak with animals]] but lose their other spell-like abilities in order to cast [[create water]], [[detect poison]] and [[purify food and drink]] once per day. Caster level 1st; save DC 10 + gnome's Charisma modifier + spell level.
 
 ##### Half-Elf Ranger
 
@@ -747,7 +749,7 @@ To take a ranger planar substitution level, a character must be about to take he
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -757,7 +759,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Ranger planar substitution levels have the class skills of the standard ranger class plus [[Knowledge]] (the planes) (Int).
+Ranger planar substitution levels have the class skills of the standard ranger class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
@@ -783,15 +785,15 @@ Unlike a typical animal companion, the planar animal companion is a magical beas
 
 To gain a celestial companion, a ranger must have a nonevil alignment. To gain a fiendish companion, a ranger must have a nongood alignment. If the ranger's alignment changes to one that is ineligible for the companion, the companion either turns on the ranger or leaves at its earliest convenience, depending on its natural tendencies.
 
-**Portal Intuition (Ex)**: At 8th level, a planar ranger becomes an expert at tracking quarry across planes and through various portals and breaches. When examining a portal, the ranger may attempt to determine to which plane the portal leads. To do this, he must succeed on both a DC 20 Survival check and a DC 20 [[Knowledge]] (the planes) check.
+**Portal Intuition (Ex)**: At 8th level, a planar ranger becomes an expert at tracking quarry across planes and through various portals and breaches. When examining a portal, the ranger may attempt to determine to which plane the portal leads. To do this, he must succeed on both a DC 20 Survival check and a DC 20 [[Compendium/Basics/Skills/Knowledge]] (the planes) check.
 
 The ranger can also use this ability to determine whether or not a planar breach occurred within 20 feet of a particular spot within the last 24 hours. To do this, he must succeed on a DC 20 Search check. If the ranger determines that a breach did occur in the area, he may then use this ability to ascertain where it led.
 
 This benefit replaces the swift tracker class feature gained by a standard ranger at 8th level.
 
-**Planar Tracking (Sp)**: Once per day, a ranger who chooses this substitution benefit can use plane shift as a spell-like ability (with a caster level equal to his class level) in order to follow his quarry. He must be tracking a favored enemy, and he must be at the spot where the creature traveled from one plane to another.
+**Planar Tracking (Sp)**: Once per day, a ranger who chooses this substitution benefit can use [[plane shift]] as a spell-like ability (with a caster level equal to his class level) in order to follow his quarry. He must be tracking a favored enemy, and he must be at the spot where the creature traveled from one plane to another.
 
-Unlike with the plane shift spell, the ranger has no chance of deviation from the intended destination. He and anyone he brings with him arrives in the exact spot that his quarry did. Spells that prevent planar travel (such as dimensional lock) affect this ability as they would any casting of plane shift.
+Unlike with the [[plane shift]] spell, the ranger has no chance of deviation from the intended destination. He and anyone he brings with him arrives in the exact spot that his quarry did. Spells that prevent planar travel (such as [[dimensional lock]]) affect this ability as they would any casting of [[plane shift]].
 
 The ranger does not automatically pick up his quarry's trail when he arrives on the new plane. He must use his Track feat to find the creature's tracks and pick up the hunt. But he has the advantage of knowing that his target definitely passed that way.
 
@@ -803,9 +805,9 @@ The planewalker ranger roams the multiverse instead of the wilderness, learning 
 
 ##### Class Skills
 
-Eliminate [[Knowledge]] (nature) and [[Knowledge]] (dungeoneering) from the ranger's class skill list.
+Eliminate [[Compendium/Basics/Skills/Knowledge]] (nature) and [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) from the ranger's class skill list.
 
-Add [[Knowledge]] (the planes) and [[Speak Language]] (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
+Add [[Compendium/Basics/Skills/Knowledge]] (the planes) and [[Speak Language]] (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
 
 ##### Class Features
 
@@ -837,7 +839,7 @@ A few urban rangers, devoted to a particular organization, guild, or church, pre
 
 **Replaces**: If you select this class feature, you do not gain favored enemy or any later improvements to that class feature.
 
-**Benefit**: At 1st level, the ranger chooses one particular organization that he has studied in depth. This could be a guild, a noble house, a church, or any similar specifically defined entity. (See Politics and Power for definitions and samples of these groups.) Due to his [[Knowledge]] of how the organization operates, he gains a +2 bonus on Bluff, Intimidate, Gather Information, [[Knowledge]] (local), and Sense Motive checks made against, or pertaining to, members of that organization. Likewise, due to his heightened awareness around these individuals, he gains a +2 bonus to Armor Class against members of this group.
+**Benefit**: At 1st level, the ranger chooses one particular organization that he has studied in depth. This could be a guild, a noble house, a church, or any similar specifically defined entity. (See Politics and Power for definitions and samples of these groups.) Due to his [[Compendium/Basics/Skills/Knowledge]] of how the organization operates, he gains a +2 bonus on Bluff, Intimidate, Gather Information, [[Compendium/Basics/Skills/Knowledge]] (local), and Sense Motive checks made against, or pertaining to, members of that organization. Likewise, due to his heightened awareness around these individuals, he gains a +2 bonus to Armor Class against members of this group.
 
 At 5th level and every five levels thereafter (10th, 15th, and 20th level), the ranger may select an additional rival organization. In addition, at each such interval, the bonus against any one rival organization (including the one just selected, if so desired) increases by 2.
 
@@ -849,11 +851,11 @@ Rangers of the Knights of the Shadow Sword patrol Myth Drannor and attempt to ri
 
 ##### Requirements
 
-To take a Shadow Sword substitution level, a character must have Shaundakul as his patron, be a member of the Knights of the Shadow Sword, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 6th, or 8th level of ranger.
+To take a Shadow Sword substitution level, a character must have Shaundakul as his patron, be a member of the Knights of the Shadow Sword, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 6th, or 8th level of ranger.
 
 ##### Class Skills
 
-Shadow Sword substitution levels have the class skills of the standard ranger class plus [[Knowledge]] (history).
+Shadow Sword substitution levels have the class skills of the standard ranger class plus [[Compendium/Basics/Skills/Knowledge]] (history).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
@@ -941,11 +943,11 @@ Rangers of the Order of the Shooting Star (see Knights of the Mystic Fire) serve
 
 ##### Requirements
 
-To take a Shooting Star substitution level, a character must have Mystra as her patron deity, be a member of the Order of the Shooting Star, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 8th level of ranger.
+To take a Shooting Star substitution level, a character must have Mystra as her patron deity, be a member of the Order of the Shooting Star, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 8th level of ranger.
 
 ##### Class Skills
 
-Shooting Star substitution levels have the class skills of the standard ranger class plus [[Knowledge]] (arcana) and Spellcraft.
+Shooting Star substitution levels have the class skills of the standard ranger class plus [[Compendium/Basics/Skills/Knowledge]] (arcana) and Spellcraft.
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
@@ -965,7 +967,7 @@ Shooting Star substitution levels have the class skills of the standard ranger c
 
 All of the following are features of the Shooting Star ranger substitution levels.
 
-**Weavespeak (Sp)**: Because the members of this order need to report their findings over long distances, starting at 3rd level a Shooting Star develops the power to use the Weave itself to transmit short messages. Once per day the character can transmit a message of twenty-five words or less to the nearest cleric, paladin, or ranger of Mystra (the Shooting Star can't choose the recipient). This ability only functions where the Weave is active, and it cannot jump planar boundaries; the ranger knows if either condition would prevent the message from reaching its target. It is otherwise the equivalent of a sending spell.
+**Weavespeak (Sp)**: Because the members of this order need to report their findings over long distances, starting at 3rd level a Shooting Star develops the power to use the Weave itself to transmit short messages. Once per day the character can transmit a message of twenty-five words or less to the nearest cleric, paladin, or ranger of Mystra (the Shooting Star can't choose the recipient). This ability only functions where the Weave is active, and it cannot jump planar boundaries; the ranger knows if either condition would prevent the message from reaching its target. It is otherwise the equivalent of a [[sending]] spell.
 
 This benefit replaces the Endurance bonus feat gained by a standard ranger at 3rd level.
 
@@ -975,7 +977,7 @@ This benefit replaces the animal companion class feature gained by a standard ra
 
 **Improved Spellcasting (Ex)**: When casting ranger spells, a Shooting Star can treat her caster level as equal to one-half her ranger level +2. If she also has arcane spellcasting ability from another class, she can add her caster level from that class to this value to determine her caster level.
 
-**Expanded Spell List**: At 8th level, a Shooting Star adds see invisibility (2nd level) and word of recall (4th level) to her ranger spell list.
+**Expanded Spell List**: At 8th level, a Shooting Star adds [[see invisibility]] (2nd level) and [[word of recall]] (4th level) to her ranger spell list.
 
 This replaces the standard ranger's swift tracker class feature.
 
@@ -996,7 +998,7 @@ Note that she need not swap out all these skills. A skilled city-dweller may pic
 |Skill Replaced|Skill Gained|
 |---|---|
 |[[Handle Animal]]|[[Gather Information]]|
-|[[Knowledge]] (nature)|[[Knowledge]] (local)|
+|[[Compendium/Basics/Skills/Knowledge]] (nature)|[[Compendium/Basics/Skills/Knowledge]] (local)|
 |[[Survival]]|[[Sense Motive]]|
 |[[Ride]]|[[Tumble]]|
 
@@ -1020,17 +1022,17 @@ Many masters of stealth share the signature talent to avoid explosive blasts of 
 
 **Level**: 2nd (monk or rogue), 5th (scout), or 9th (ranger).
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain evasion. (If you would later gain improved evasion as a special ability, you gain evasion instead.)
 
 **Benefit**: You gain the supernatural ability to reflect magical attacks back on their caster. If an enemy misses with a spell or spell-like ability aimed at you, you can use an immediate action to redirect the effect back at its originator. The spell or ability attacks the original caster (who makes a new attack roll using the same modifier as the original attack). If it hits, the caster is subject to the normal effect of the spell or ability.
 
-For example, if a 3rd-level wizard missed you with a scorching ray, you could use an immediate action to redirect the ray back to the wizard. The wizard would immediately make a new ranged attack roll (using the same modifier) against his own touch AC; if the attack succeeds, the scorching ray deals its normal damage to the wizard.
+For example, if a 3rd-level wizard missed you with a [[scorching ray]], you could use an immediate action to redirect the ray back to the wizard. The wizard would immediately make a new ranged attack roll (using the same modifier) against his own touch AC; if the attack succeeds, the [[scorching ray]] deals its normal damage to the wizard.
 
 This effect applies only to spells and spell-like abilities that require an attack roll. Other spells and spell-like abilities that affect a target aren't subject to this reflection.
 
-If a single spell or ability misses you more than once at the same time (such as scorching ray cast by a high-level caster), you can redirect each portion of the spell that missed. Using the example above, if you were missed by two of the three rays from an 11th-level wizard's scorching ray spell, you could redirect only those two rays (but not the one that hit).
+If a single spell or ability misses you more than once at the same time (such as [[scorching ray]] cast by a high-level caster), you can redirect each portion of the spell that missed. Using the example above, if you were missed by two of the three rays from an 11th-level wizard's [[scorching ray]] spell, you could redirect only those two rays (but not the one that hit).
 
 You can use this ability a number of times per day equal to 1 + your Dex modifier (minimum 1/day).
 
@@ -1042,7 +1044,7 @@ You learn to speak with the spirits of the wild places. Although this ability do
 
 **Replaces**: This benefit replaces the wild empathy class feature.
 
-**Benefit**: You can use speak with animals and speak with plants, as the spells (caster level equals your ranger level). You can use any combination of these effects up to three times per day. These are spell-like abilities with caster level equal to your character level.
+**Benefit**: You can use [[speak with animals]] and [[speak with plants]], as the spells (caster level equals your ranger level). You can use any combination of these effects up to three times per day. These are spell-like abilities with caster level equal to your character level.
 
 #### Spiritual Guide
 
@@ -1054,7 +1056,7 @@ You are befriended by a spiritual guide that speaks to you and aids you as long 
 
 **Benefit**: You gain a spiritual guide. As long as you remain in natural surroundings (including underground caverns), this guide is a constant companion. Once you enter any civilized area larger than a hamlet, however, your spiritual guide leaves your side, returning only when you return to the wilds.
 
-Although it cannot protect you from harm, your spiritual guide can warn you of impending danger. As long as your spiritual guide is with you, you gain a divine bonus equal to one-quarter your ranger level (rounded down) on Handle Animal, [[Knowledge]] (nature), Listen, Search, Spot, and Survival checks. In addition, you can use commune with nature, as the spell, once per day as a full round action (as a spell-like ability with caster level equals your ranger level). You can also prepare and cast this spell normally from your ranger spell list.
+Although it cannot protect you from harm, your spiritual guide can warn you of impending danger. As long as your spiritual guide is with you, you gain a divine bonus equal to one-quarter your ranger level (rounded down) on Handle Animal, [[Compendium/Basics/Skills/Knowledge]] (nature), Listen, Search, Spot, and Survival checks. In addition, you can use [[commune with nature]], as the spell, once per day as a full round action (as a spell-like ability with caster level equals your ranger level). You can also prepare and cast this spell normally from your ranger spell list.
 
 
 #### Trap Expert
@@ -1085,15 +1087,15 @@ Her urban companion has total hit points equal to 3/4 her own hit points, rather
 
 The urban companion gains the ability to speak with other animals of its kind when she has an effective master level of 1st, rather than 7th.
 
-When she reaches an effective master level of 7th, she can speak with animals of her companion's kind, as per speak with animals. This is a supernatural ability that functions constantly, and it requires only a free action to reactivate if somehow dispelled.
+When she reaches an effective master level of 7th, she can [[speak with animals]] of her companion's kind, as per [[speak with animals]]. This is a supernatural ability that functions constantly, and it requires only a free action to reactivate if somehow dispelled.
 
 #### Urban Ranger
 
-The urban ranger stalks the treacherous streets of the city, relying on his [[Knowledge]] of alleyways and underworld contacts to keep him alive.
+The urban ranger stalks the treacherous streets of the city, relying on his [[Compendium/Basics/Skills/Knowledge]] of alleyways and underworld contacts to keep him alive.
 
 ##### Class Skills
 
-Eliminate [[Knowledge]] (nature), [[Knowledge]] (dungeoneering), and [[Survival]] from the ranger's class skill list. Add [[Gather Information]], [[Knowledge]] (local), and [[Sense Motive]] to the class skill list.
+Eliminate [[Compendium/Basics/Skills/Knowledge]] (nature), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering), and [[Survival]] from the ranger's class skill list. Add [[Gather Information]], [[Compendium/Basics/Skills/Knowledge]] (local), and [[Sense Motive]] to the class skill list.
 
 ##### Class Features
 
@@ -1107,7 +1109,7 @@ The urban ranger has all the standard [[ranger]] class features, except as noted
 
 **Favored Enemy**: At the game master's discretion, an urban ranger may select an organization instead of a creature type as his favored enemy. For example, a character might select a particular thieves' guild, merchant house, or even the city guard. The favored enemy bonuses would apply to all members of the chosen organization, regardless of their creature type or subtype.
 
-**Spellcasting**: The urban ranger's spell list is different from the standard ranger list. The following spells are eliminated from the urban ranger's spell list: animal messenger, charm animal, detect animals or plants, speak with animals, bear's endurance, hold animal, snare, speak with plants, command plants, diminish plants, plant growth, reduce animal, tree shape, water walk, commune with nature, and tree stride.
+**Spellcasting**: The urban ranger's spell list is different from the standard ranger list. The following spells are eliminated from the urban ranger's spell list: [[animal messenger]], [[charm animal]], [[detect animals or plants]], [[speak with animals]], [[Bears Endurance|bear's endurance]], [[hold animal]], snare, [[speak with plants]], [[command plants]], [[diminish plants]], [[plant growth]], [[reduce animal]], [[tree shape]], [[water walk]], [[commune with nature]], and [[tree stride]].
 
 In exchange, the urban ranger adds the following spells to his class spell list:
 
@@ -1158,7 +1160,7 @@ If you fail a Gather Information check, you can retry after 1 hour of questionin
 
 **Normal**: A character without this feat can use [[Gather Information]] to find out information about a particular individual, but each check takes 1d4+1 hours and doesn't allow effective trailing.
 
-**Special**: A character with 5 ranks in [[Knowledge]] (local) gains a +2 bonus on the [[Gather Information]] check to use this feat.
+**Special**: A character with 5 ranks in [[Compendium/Basics/Skills/Knowledge]] (local) gains a +2 bonus on the [[Gather Information]] check to use this feat.
 
 You can cut the time between Gather Information checks in half (to 30 minutes per check rather than 1 hour), but you take a -5 penalty on the check.
 
@@ -1206,9 +1208,9 @@ The variant ranger gains all the normal class features of the ranger, with the f
 
 **Nature's Blessing (Su)**: At 11th level and higher, the ranger can use a standard action to add a +4 bonus to his Constitution, Dexterity, or Wisdom score. This ability may be used once per day, and its effect lasts for 1 minute per class level.
 
-**Healing Touch (Sp)**: Once per day, a ranger of 13th level or higher can use either neutralize poison or remove disease, as a caster whose level is equal to one-half the ranger's class level.
+**Healing Touch (Sp)**: Once per day, a ranger of 13th level or higher can use either [[neutralize poison]] or [[remove disease]], as a caster whose level is equal to one-half the ranger's class level.
 
-**Freedom of Movement (Sp)**: A ranger of 16th level or higher can use freedom of movement on himself once per day, as a caster whose level is equal to one-half the ranger's class level.
+**[[Freedom of Movement]] (Sp)**: A ranger of 16th level or higher can use freedom of movement on himself once per day, as a caster whose level is equal to one-half the ranger's class level.
 
 
 
@@ -1266,7 +1268,7 @@ The wild defender loses the base ranger's favored enemy, bonus feats, combat sty
 
 At 5th level and every five levels thereafter, the wild defender may smite enemies one additional time per day, as indicated on the Table: The Wild Defender. A character with levels in both wild defender and paladin adds his levels in both classes to determine how many times per day he may smite evil as well as the amount of extra damage he deals.
 
-**Natural Lore (Ex)**: The wild defender has a +2 bonus on [[Knowledge]] (nature) and Survival checks.
+**Natural Lore (Ex)**: The wild defender has a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) and Survival checks.
 
 **Trackless Step (Ex)**: At 3rd level, the wild defender leaves no trail in natural surroundings and cannot be tracked. He may choose to leave a trail if so desired.
 
@@ -1276,5 +1278,4 @@ At 5th level and every five levels thereafter, the wild defender may smite enemi
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Cure Critical Wounds]
+aliases:
+ - Mass Cure Critical Wounds
 title: Compendium/Basics/Spell/Cure Critical Wounds, Mass
 tags:
   - 35E_SRD
@@ -37,13 +38,17 @@ Cures 4d8 damage +1/level for many creatures.
 
 You channel positive energy to cure **4d8 points of damage +1 point per caster level** (maximum +40) in each selected creature.
 
-- Like other [[Cure]] spells, this spell **damages undead** in its area rather than healing.
+- Like other Cure spells, this spell **damages undead** in its area rather than healing.
 - Each affected undead creature may attempt a **Will save for half damage**.
 
 
-**Source:** PHB P215
+**Source :** PHB P215
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

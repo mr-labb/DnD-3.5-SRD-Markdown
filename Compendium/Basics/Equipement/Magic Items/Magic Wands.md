@@ -108,5 +108,4 @@ All wands are simply storage devices for spells and thus have no special descrip
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

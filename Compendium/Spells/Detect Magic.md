@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Magic]
+aliases:
+ - Detect Magic
 title: Compendium/Basics/Spell/Detect Magic
 tags:
   - 35E_SRD
@@ -79,9 +80,13 @@ Each round, you may turn to scan a new area. The spell can penetrate barriers, b
 *Detect Magic* can be made permanent with a [[Permanency]] spell.
 
 
-**Source:** PHB P219
+**Source :** PHB P219
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

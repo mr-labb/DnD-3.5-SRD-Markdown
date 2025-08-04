@@ -1,5 +1,6 @@
 ---
-aliases: [Contact Other Plane]
+aliases:
+ - Contact Other Plane
 title: Compendium/Basics/Spell/Contact Other Plane
 tags:
   - 35E_SRD
@@ -54,9 +55,13 @@ You send your mind to another plane (Elemental or Outer) to consult with extrapl
 - Contact may be **blocked by deific forces** or planar interference.
 - Random results are influenced by **entity personalities** and can be misleading.
 
-Source : PHB P212
+**Source :** PHB P212
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

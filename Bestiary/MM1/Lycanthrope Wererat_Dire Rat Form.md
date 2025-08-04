@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Wererat, Dire Rat Form]
+aliases:
+ - Lycanthrope
+ - Wererat
+ - Dire Rat Form
 title: Bestiary/MM1/Lycanthrope, Wererat, Dire Rat Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Wererat, Dire Rat Form

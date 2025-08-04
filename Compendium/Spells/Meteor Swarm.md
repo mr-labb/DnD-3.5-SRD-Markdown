@@ -1,38 +1,67 @@
 ---
-aliases: [Meteor Swarm]
+aliases:
+ - Meteor Swarm
 title: Compendium/Basics/Spell/Meteor Swarm
-tags: [35E_SRD, Spell, Sorcerer, Wizard]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Sorcerer  
+  - Wizard  
 Spell Name: Meteor Swarm
 School: Evocation
 Subschool: 
 Descriptor: [Fire]
-Level:
-  - Sor/Wiz 9
+Level:  
+  - Sor/Wiz 9  
 Source: PHB
 ---
-
 
 ## Meteor Swarm
 
 Four exploding spheres each deal 6d6 fire damage.
 
-*   Evocation [Fire]
-*   **Level:** Sor/Wiz 9
-*   **Components:** V, S
-*   **Casting Time:** 1 standard action
-*   **Range:** Long (400 ft. + 40 ft./level)
-*   **Effect:** Four 40-ft.-radius spreads; see text
-*   **Duration:** Instantaneous
-*   **Saving Throw:** None or Reflex half; see text
-*   **Spell Resistance:** Yes
+### Spell Details
 
-<p><i>Meteor swarm</i> is a very powerful and spectacular spell that is similar to <i>fireball</i> in many aspects. When you cast it, four 2- foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks.</p><p>If you aim a sphere at a specific creature, you may make a ranged touch attack to strike the target with the meteor. Any creature struck by one of these spheres takes 2d6 points of bludgeoning damage (no save) and receives no saving throw against the sphere's fire damage (see below). If a targeted sphere misses its target, it simply explodes at the nearest corner of the target's space. You may aim more than one meteor at the same target.</p><p>Once a sphere reaches its destination, it explodes in a 40-foot-radius spread, dealing 6d6 points of fire damage to each creature in the area. If a creature is within the area of more than one sphere, it must save separately against each. (Fire resistance applies to each sphere's damage individually.)</p>
+- **School**: Evocation [Fire]  
+- **Level**: Sor/Wiz 9  
+- **Components**: V, S  
+- **Casting Time**: 1 standard action  
+- **Range**: Long (400 ft. + 40 ft./level)  
+- **Effect**: Four 40-ft.-radius spreads; see text  
+- **Duration**: Instantaneous  
+- **Saving Throw**: None or Reflex half; see text  
+- **Spell Resistance**: Yes  
 
-Source : PHB P253
+### Description
+
+*Meteor Swarm* is a powerful and spectacular spell similar to [[Fireball]].  
+- You create **four 2-ft.-diameter spheres** that spring from your hand and streak to targets, leaving fiery trails  
+- You may aim them at selected spots or attempt to strike specific creatures
+
+If aimed at a creature:
+- Make a **ranged touch attack** to hit  
+- On hit:  
+  - Deals **2d6 bludgeoning damage** (no save)  
+  - Also deals **6d6 fire damage** with **no saving throw**  
+- On miss:  
+  - Explodes at nearest corner of targetâ€™s space  
+- You may aim **multiple meteors** at one target
+
+On reaching destination:
+- Each sphere **explodes in a 40-ft. radius spread**  
+- Creatures in the area take **6d6 fire damage**  
+- **Separate saves** must be made if affected by multiple spheres  
+- **Fire resistance** applies individually to each explosion
 
 ---
 
+**Source :** PHB P253
+
 ---
 
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

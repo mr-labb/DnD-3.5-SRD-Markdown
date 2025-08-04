@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Snares and Pits]
+aliases:
+ - Detect Snares and Pits
 title: Compendium/Basics/Spell/Detect Snares and Pits
 tags:
   - 35E_SRD
@@ -56,9 +57,13 @@ You may change direction each round to examine a new area. The spell penetrates 
 - 3 feet of wood or dirt
 
 
-**Source:** PHB P220
+**Source :** PHB P220
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

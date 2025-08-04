@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Fighter]
+aliases:
+ - Fighter
 title: Compendium/Basics/Classe/Fighter
 tag: Class, Fighter
 ---
@@ -9,7 +10,8 @@ tag: Class, Fighter
 
 ### FIGHTER
 
-
+<br><br>The questing knight, the conquering overlord, the king's champion, the elite foot soldier, the hardened mercenary, and the bandit king - all are fighters. Fighters can be stalwart defenders of those in need, cruel marauders, or gutsy adventurers. Some are among the land's best souls, willing to face death for the greater good. Others are among the worst, with no qualms about killing for private gain, or even for sport. Fighters who are not actively adventuring may be soldiers, guards, bodyguards, champions, or criminal enforcers. An adventuring fighter might call himself a warrior, a mercenary, a thug, or simply an adventurer.<br><br>Most fighters see adventures, raids, and dangerous missions as their job. Some have patrons who pay them regularly. Others prefer to live like prospectors, taking great risks in hopes of the big haul. Some fighters are more civic-minded and use their combat skills to protect endangered people who cannot defend themselves. Whatever their initial motivations, however, fighters often wind up living for the thrill of combat and adventure.<br><br>Of all classes, fighters have the best all-around fighting capabilities (hence the name). Fighters are familiar with all the standard weapons and armors. In addition to general fighting prowess, each fighter develops particular specialties of his own. A given fighter may be especially capable with certain weapons, another might be trained to execute specific fancy maneuvers. As fighters gain experience, they get more opportunities to develop their fighting skills. Thanks to their focus on combat maneuvers, they can master the most difficult ones relatively quickly.<br><br>Fighters may be of any alignment. Good fighters are often crusading types who seek out and fight evil. Lawful fighters may be champions who protect the land and its people. Chaotic fighters may be wandering mercenaries. Evil fighters tend to be bullies and petty villains who simply take what they want by brute force.<br><br>Fighters often worship Heironeous (god of valor), Kord (god of strength), St. Cuthbert (god of retribution), Hextor (god of tyranny), or Erythnul (god of slaughter). A fighter may style himself as a crusader in the service of his god, or he may just want someone to pray to before putting his life on the line yet another time.<br><br>Fighters come to their profession in many ways. Most have had formal training in a noble's army or at least in the local militia. Some have trained in formal academies. Others are self-taught - unpolished but well tested. A fighter may have taken up the sword as a way to escape the limits of life on the farm, or he may be following a proud family tradition. Fighters share no special identity. They do not see themselves as a group or brotherhood. Those who hail from a particular academy, mercenary company, or lord's regiment, however, share a certain camaraderie.<br><br>Human fighters are usually veterans of some military service, typically from more mundane parents. Dwarf fighters are commonly former members of the well-trained strike teams that protect the underground dwarven kingdoms. They are typically members of warrior families that can trace their lineages back for millennia, and they may have rivalries or alliances with other dwarf fighters of a different lineage. Elf fighters are typically skilled with the longsword. They are proud of their ability at swordplay and eager to demonstrate or test it.<br><br>Half-orc fighters are often selftaught outcasts who have achieved enough skill to earn recognition and something akin to respect. Gnome and halfling fighters usually stay in their own communities as part of the area militia rather than adventuring. Half-elves are rarely fighters, but they may take up swordplay in honor of the elven tradition.<br><br>Among the brutal humanoids, few can manage the discipline it takes to be a true fighter. The militaristic hobgoblins, however, produce quite a number of strong and skilled fighters.<br><br>The fighter excels in a straight fight, but he relies on others for magical support, healing, and scouting. On a team, it is his job to man the front lines, protect the other party members, and bring the tough opponents down. Fighters might not understand the arcane ways of wizards or share the faith of clerics, but they recognize the value of teamwork.<br><br>In most adventuring parties, the fighter serves as a melee combatant, charging into the fray while his comrades support him with spells, ranged attacks, and other effects. Fighters who favor ranged combat can prove very deadly, though without other melee support, they can find themselves in front-line combat more often than they might prefer.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any.
 
@@ -102,7 +104,7 @@ Rare is the fighter who hasn't envied the wizard's bag of magical tricks. Althou
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You lose proficiency with medium armor and heavy armor.
 
@@ -156,7 +158,7 @@ Commanders are soldiers trained in recognizing and using other's abilities in ba
 
 ##### Class Skills
 
-The commander's class skills (and the key ability for each skill) are [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Intimidate]] (Cha), [[Knowledge]] (architecture and engineering) (Int), Profession (siege engineer) (Wis), [[Ride]] (Dex), Sense Motive (Cha), and [[Spot]] (Wis).
+The commander's class skills (and the key ability for each skill) are [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), Profession (siege engineer) (Wis), [[Ride]] (Dex), Sense Motive (Cha), and [[Spot]] (Wis).
 
 ##### Class Features
 
@@ -221,7 +223,7 @@ The Darksong Knights are elite soldiers of Eilistraee who further her many cause
 
 ##### Requirements
 
-To take a Darksong Knight substitution level, a character must have Eilistraee as her patron deity, be a member of the Darksong Knights, have 1 rank in [[Knowledge]] (religion), and be about to take her 2nd, 6th, or 8th level of fighter.
+To take a Darksong Knight substitution level, a character must have Eilistraee as her patron deity, be a member of the Darksong Knights, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 2nd, 6th, or 8th level of fighter.
 
 ##### Class Skills
 
@@ -293,7 +295,7 @@ In addition, as you attain higher levels, your husk grants you increasing resist
 
 Your dragonscale husk is treated as medium armor for the purpose of determining your speed and whether you can use class features or other special abilities. It allows a maximum Dexterity bonus to Armor Class of +2 and has an armor check penalty of -4. You can sleep in your husk without penalty. You cannot wear any other armor while your husk is present.
 
-Your husk isn't treated as armor for the purpose of being affected by spells or other abilities. You can't grant it an enhancement bonus with magic vestment, nor can you imbue it with special properties, as you could a normal suit of armor.
+Your husk isn't treated as armor for the purpose of being affected by spells or other abilities. You can't grant it an enhancement bonus with [[magic vestment]], nor can you imbue it with special properties, as you could a normal suit of armor.
 
 You can't take off your dragonscale husk, but you can choose to shed it. Doing this requires 10 minutes of concentration and results in your sloughing off a pile of scales that crumble to dust if handled.
 
@@ -343,7 +345,7 @@ To take a dwarf fighter substitution level, a character must be a dwarf about to
 
 ##### Class Skills
 
-Dwarf fighter substitution levels have the class skills of the standard fighter class plus [[Knowledge]] (dungeoneering) (Int).
+Dwarf fighter substitution levels have the class skills of the standard fighter class plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -427,7 +429,7 @@ _Dazzling Display_: By making a flamboyant display of her weapon, the exoticist 
 
 _Exotic Attack_: The exoticist not only learns to wield strange weapons, but to wield them strangely, and this unusual technique is more difficult to counter. The exoticist gains a +2 bonus to opposed trip attempts she initiates using her exotic weapon and opposed disarm rolls.
 
-_Strange Strike_: The exoticist learns to fully exploit her [[Knowledge]] of exotic fighting styles. She gains a +1 competence bonus to all attack rolls if her opponent is not proficient with the weapon the exoticist wields.
+_Strange Strike_: The exoticist learns to fully exploit her [[Compendium/Basics/Skills/Knowledge]] of exotic fighting styles. She gains a +1 competence bonus to all attack rolls if her opponent is not proficient with the weapon the exoticist wields.
 
 #### Fencer
 
@@ -467,9 +469,9 @@ The armor you wear protects you in more ways than in just avoiding harm.
 
 Numerous martial academies around the Inner Sea region teach weapon skill, tactics, diplomacy, and other tools useful for war. Fighters who attend these schools may choose the above option, which replaces the bonus feat gained upon taking the first level of fighter.
 
-**Class Skills**: A fighter trained at a famous war college or fighting school gains the following class skills (in addition to the normal fighter class skills): [[Diplomacy]] (Cha), Gather Information (Cha), [[Knowledge]] (architecture and engineering) (Int), [[Knowledge]] (geography) (Int), [[Knowledge]] (nobility and royalty) (Int), [[Sense Motive]] (Wis).
+**Class Skills**: A fighter trained at a famous war college or fighting school gains the following class skills (in addition to the normal fighter class skills): [[Diplomacy]] (Cha), Gather Information (Cha), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), [[Compendium/Basics/Skills/Knowledge]] (geography) (Int), [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) (Int), [[Sense Motive]] (Wis).
 
-**Skill Points at 1st Level**: (4 + Int modifier) × 4.
+**Skill Points at 1st Level**: (4 + Int modifier) Ã— 4.
 
 **Skill Points at Each Additional Level**: 4 + Int modifier.
 
@@ -555,9 +557,9 @@ Janissaries are usually lawful and most often neutral, but their order accepts a
 
 Janissaries worship the deities of those they serve and often recognize their mortal lords as divine inhabitants of the Material Plane. The indoctrination of devshirme overcomes any racial differences between a janissary and its master. A human janissary could serve a half-orc without question and vice versa.
 
-Learned and skilled in arts beyond those martial, janissaries know more of the world than most other fighters and speak of such things as architecture and historical events - often doing so in strange tongues.
+Learned and skilled in arts beyond those martial, janissaries know more of the world than most other fighters and speak of such things as architecture and historical events - often doing so in strange [[tongues]].
 
-Feats appropriate to janissaries include Blind-Fight, Combat Expertise, Improved Disarm, Improved Sunder (janissaries often sunder weapons and shields or attempt to disarm their foes with their first attacks), and some of the new feats from Heroes of Battle (such as Veteran [[Knowledge]]). Pious good-aligned janissaries sometimes take exalted feats, especially Vow of Chastity and Vow of Obedience. In addition, janissaries have developed certain methods for which they have become famous, as modeled by the feat Combat Engineer.
+Feats appropriate to janissaries include Blind-Fight, Combat Expertise, Improved Disarm, Improved Sunder (janissaries often sunder weapons and shields or attempt to disarm their foes with their first attacks), and some of the new feats from Heroes of Battle (such as Veteran [[Compendium/Basics/Skills/Knowledge]]). Pious good-aligned janissaries sometimes take exalted feats, especially Vow of Chastity and Vow of Obedience. In addition, janissaries have developed certain methods for which they have become famous, as modeled by the feat Combat Engineer.
 
 Fiercely loyal, janissaries possess a single-mindedness in combat rightly feared by their opponents. They tend to forgo heavy armor for greater stealth and speed, while preferring heavy blades like the greatsword.
 
@@ -565,7 +567,7 @@ The janissary is a variant fighter. Unless otherwise noted, a janissary advances
 
 ##### Class Skills
 
-A janissary gains Speak Language and two [[Knowledge]] skills (of his choice) as class skills, but Handle Animal, Intimidate, and Swim become cross-class skills for him.
+A janissary gains Speak Language and two [[Compendium/Basics/Skills/Knowledge]] skills (of his choice) as class skills, but Handle Animal, Intimidate, and Swim become cross-class skills for him.
 
 #### Kensai
 
@@ -687,7 +689,7 @@ To take a fighter planar substitution level, a character must be about to take h
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -697,7 +699,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Fighter planar substitution levels have the class skills of the standard fighter class plus [[Knowledge]] (the planes).
+Fighter planar substitution levels have the class skills of the standard fighter class plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -721,11 +723,11 @@ This benefit replaces the bonus feat gained by a standard fighter at 4th level.
 
 **Align Puissance (Su)**: Once per day, for a number of rounds equal to his fighter class level, a planar fighter of 8th level or higher can use a standard action to align himself so that any weapon he wields is aligned good, evil, lawful, or chaotic, as he chooses. A weapon that is aligned can overcome the damage reduction of certain creatures, usually outsiders of the opposite alignment.
 
-This ability has no effect on a weapon that already has an alignment, such as a holy sword. It affects all other weapons wielded by the fighter, but not his unarmed strikes or natural weapons. The ability comes from the fighter, not the weapon, so if he subsequently gives away or loses the weapon, it does not remain aligned. Likewise, while the fighter is under the effect of this ability, any weapon he picks up acts as if aligned in the manner he activated.
+This ability has no effect on a weapon that already has an alignment, such as a [[holy sword]]. It affects all other weapons wielded by the fighter, but not his unarmed strikes or natural weapons. The ability comes from the fighter, not the weapon, so if he subsequently gives away or loses the weapon, it does not remain aligned. Likewise, while the fighter is under the effect of this ability, any weapon he picks up acts as if aligned in the manner he activated.
 
 This benefit replaces the bonus feat gained by a standard fighter at 8th level.
 
-**Aura of Stability (Su)**: As a standard action, a planar fighter of 12th level or higher can activate a [[dimensional anchor]] effect on himself with a duration of a number of rounds equal to his class level. In addition, anyone with whom he is grappling is likewise affected by the dimensional anchor ability while they are grappling. Spell resistance applies, and the caster level of the ability equals the fighter's class level.
+**Aura of Stability (Su)**: As a standard action, a planar fighter of 12th level or higher can activate a [[dimensional anchor]] effect on himself with a duration of a number of rounds equal to his class level. In addition, anyone with whom he is grappling is likewise affected by the [[dimensional anchor]] ability while they are grappling. Spell resistance applies, and the caster level of the ability equals the fighter's class level.
 
 This benefit replaces the bonus feat gained by a standard fighter at 12th level.
 
@@ -897,17 +899,17 @@ All of the following are class features of the thane.
 
 **Bonus Feats**: The thane gain bonus feats as normal fighters do. In addition to normal fighter bonus feats, the thane may also select Aura of Bravery, Improved Aid Another, and Stalwart as a fighter bonus feat.
 
-**Thane's Vow**: At 1st level, a thane devotes himself to a single lord or master. This lord does not have to be an actual ruler, merely any other character the thane determines as being worthy to serve and who accepts the thane's service. A thane cannot voluntarily change who his lord is for any reason once he has pledged himself to that lord. If the thane's lord is killed, the thane must exact revenge against his master's killers or die in the attempt, and should be treated as if under the effects of geas/quest until this mission is fulfilled (this quest cannot be ended prematurely by a remove curse spell). A lordless thane suffers a -4 penalty on all Charisma-based skill checks until he fulfills his vow. After a thane has avenged his previous lord's death, he is free to devote himself to a new lord and must do so to eliminate the penalty on Charisma-based skill checks.
+**Thane's Vow**: At 1st level, a thane devotes himself to a single lord or master. This lord does not have to be an actual ruler, merely any other character the thane determines as being worthy to serve and who accepts the thane's service. A thane cannot voluntarily change who his lord is for any reason once he has pledged himself to that lord. If the thane's lord is killed, the thane must exact revenge against his master's killers or die in the attempt, and should be treated as if under the effects of [[Geas_Quest|geas/quest]] until this mission is fulfilled (this quest cannot be ended prematurely by a [[remove curse]] spell). A lordless thane suffers a -4 penalty on all Charisma-based skill checks until he fulfills his vow. After a thane has avenged his previous lord's death, he is free to devote himself to a new lord and must do so to eliminate the penalty on Charisma-based skill checks.
 
 #### Thug
 
-The thug is a street fighter, a survivor who learns to mix brute force with a bit of craftiness. He has most of the fighter's strengths, along with some additional skills to help keep him alive on the mean streets. Despite the name, not all thugs are mere hooligans - many are crafty veterans who use their [[Knowledge]] of the streets to gain an advantage against their opponents.
+The thug is a street fighter, a survivor who learns to mix brute force with a bit of craftiness. He has most of the fighter's strengths, along with some additional skills to help keep him alive on the mean streets. Despite the name, not all thugs are mere hooligans - many are crafty veterans who use their [[Compendium/Basics/Skills/Knowledge]] of the streets to gain an advantage against their opponents.
 
 Most thugs are nonlawful, though sometimes gangs of thugs with a lawful streak band together.
 
 ##### Class Skills
 
-Add the following skills to the fighter's class skill list: [[Bluff]], [[Gather Information]], [[Knowledge]] (local), and [[Sleight of Hand]]. The thug gains skill points per level equal to 4 + Int modifier (and has this number x 4 at 1st level).
+Add the following skills to the fighter's class skill list: [[Bluff]], [[Gather Information]], [[Compendium/Basics/Skills/Knowledge]] (local), and [[Sleight of Hand]]. The thug gains skill points per level equal to 4 + Int modifier (and has this number x 4 at 1st level).
 
 ##### Class Features
 
@@ -919,7 +921,7 @@ The thug has all the standard fighter class features, except as noted below.
 
 #### Warforged Fighter
 
-To many, the words "warforged" and "fighter" seem almost synonymous. Built to serve as soldiers, warforged are indeed singularly suited to the pursuit of the combat arts. The warforged fighter who gives up some of that class's range of options, however, gains a stability in combat and a greater command of his construct body.
+To many, the words "warforged" and "fighter" seem almost synonymous. Built to serve as soldiers, warforged are indeed singularly suited to the pursuit of the combat arts. The warforged fighter who gives up some of that class's range of options, however, gains a stability in combat and a [[Command Greater|greater command]] of his construct body.
 
 **Hit Die**: d12.
 
@@ -971,9 +973,9 @@ You possess a link with the elemental power of air, allowing you to move with th
 
 At 2nd level, you gain electricity resistance 5. This increases to electricity resistance 10 at 12th level and electricity resistance 20 at 20th level.
 
-Starting at 6th level, you gain the ability to cast feather fall as a spell-like ability three times per day. Caster level equals your fighter level. In addition, you deal electricity damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of electricity damage at 6th level, +2d6 electricity damage at 12th level, and +3d6 electricity damage at 20th level.
+Starting at 6th level, you gain the ability to cast [[feather fall]] as a spell-like ability three times per day. Caster level equals your fighter level. In addition, you deal electricity damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of electricity damage at 6th level, +2d6 electricity damage at 12th level, and +3d6 electricity damage at 20th level.
 
-Starting at 12th level, you may cast freedom of movement as a spell-like ability once per day. Caster level equals your fighter level. At 20th level, you may cast freedom of movement three times per day instead.
+Starting at 12th level, you may cast [[freedom of movement]] as a spell-like ability once per day. Caster level equals your fighter level. At 20th level, you may cast [[freedom of movement]] three times per day instead.
 
 #### Warrior of Earth
 
@@ -987,9 +989,9 @@ Your connection to the elemental power of earth grants you the erosive abilities
 
 At 2nd level, you gain acid resistance 5. This increases to acid resistance 10 at 12th level and acid resistance 20 at 20th level.
 
-Starting at 6th level, you gain the ability to cast magic stone as a spell-like ability three times per day. Caster level equals half your fighter level. In addition, you deal acid damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of acid damage at 6th level, +2d6 acid damage at 12th level, and +3d6 acid damage at 20th level.
+Starting at 6th level, you gain the ability to cast [[magic stone]] as a spell-like ability three times per day. Caster level equals half your fighter level. In addition, you deal acid damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of acid damage at 6th level, +2d6 acid damage at 12th level, and +3d6 acid damage at 20th level.
 
-Starting at 12th level, you may cast stone shape as a spell-like ability three times per day. Caster level equals your fighter level. At 20th level, you may cast stone shape at will instead.
+Starting at 12th level, you may cast [[stone shape]] as a spell-like ability three times per day. Caster level equals your fighter level. At 20th level, you may cast [[stone shape]] at will instead.
 
 #### Warrior of Fire
 
@@ -1003,9 +1005,9 @@ Burning with the passion of elemental fire, you gain the destructive and intimid
 
 At 2nd level, you gain fire resistance 5. This increases to fire resistance 10 at 12th level and fire resistance 20 at 20th level.
 
-Starling at 6th level, you gain the ability to cast burning hands as a spell-like ability three times per day. Caster level equals your fighter level. In addition, you deal fire damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of fire damage at 6th level, +2d6 fire damage at 12th level, and +3d6 fire damage at 20th level.
+Starling at 6th level, you gain the ability to cast [[burning hands]] as a spell-like ability three times per day. Caster level equals your fighter level. In addition, you deal fire damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of fire damage at 6th level, +2d6 fire damage at 12th level, and +3d6 fire damage at 20th level.
 
-Starting at 12th level, you may cast fire shield (fire only) as a spell-like ability once per day. Caster level equals your fighter level. At 20th level, you may cast fire shield three times per day instead.
+Starting at 12th level, you may cast [[fire shield]] (fire only) as a spell-like ability once per day. Caster level equals your fighter level. At 20th level, you may cast [[fire shield]] three times per day instead.
 
 #### Warrior of Water
 
@@ -1019,9 +1021,9 @@ Your connection to the element of water grants you the ability to breathe as a f
 
 At 2nd level, you gain cold resistance 5. This increases to cold resistance 10 at 12th level and cold resistance 20 at 20th level.
 
-Starting at 6th level, you gain the ability to cast obscuring mist as a spell-like ability three times per day. Caster level equals your fighter level. In addition, you deal cold damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of cold damage at 6th level, +2d6 cold damage at 12th level, and +3d6 cold damage at 20th level.
+Starting at 6th level, you gain the ability to cast [[obscuring mist]] as a spell-like ability three times per day. Caster level equals your fighter level. In addition, you deal cold damage on a successful critical hit made with an unarmed strike or melee weapon. You deal +1d6 points of cold damage at 6th level, +2d6 cold damage at 12th level, and +3d6 cold damage at 20th level.
 
-Starting at 12th level, you may cast water breathing as a spell-like ability three times per day. Caster level equals your fighter level. At 20th level, you may cast water breathing at will instead.
+Starting at 12th level, you may cast [[water breathing]] as a spell-like ability three times per day. Caster level equals your fighter level. At 20th level, you may cast [[water breathing]] at will instead.
 
 #### Zhentarim Soldier
 
@@ -1031,7 +1033,7 @@ The Zhentarim work across Faerun to bring other realms under their influence and
 
 ##### Requirements
 
-To take a Zhentarim Soldier substitution level, a character must be a member of the Zhentarim, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 5th, or 9th level of fighter.
+To take a Zhentarim Soldier substitution level, a character must be a member of the Zhentarim, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 5th, or 9th level of fighter.
 
 ##### Class Skills
 
@@ -1061,5 +1063,4 @@ All the following are features of the Zhentarim Soldier substitution levels.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

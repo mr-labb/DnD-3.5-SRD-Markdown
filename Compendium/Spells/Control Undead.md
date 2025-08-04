@@ -1,5 +1,6 @@
 ---
-aliases: [Control Undead]
+aliases:
+ - Control Undead
 title: Compendium/Basics/Spell/Control Undead
 tags:
   - 35E_SRD
@@ -29,7 +30,7 @@ Undead don't attack you while under your command.
 * **Saving Throw:** Will negates  
 * **Spell Resistance:** Yes
 
-This spell allows you to command undead creatures temporarily. You issue verbal commands they understand regardless of language barriers. If speech is impossible, they still refrain from attacking you.
+This spell allows you to [[command undead]] creatures temporarily. You issue verbal commands they understand regardless of language barriers. If speech is impossible, they still refrain from attacking you.
 
 - At the end of the spell, the affected undead revert to their original behavior.
 - **Intelligent undead** retain the memory of having been controlled.
@@ -37,9 +38,13 @@ This spell allows you to command undead creatures temporarily. You issue verbal 
 **Material Component:**  
 A small piece of bone and a small piece of raw meat.
 
-Source : PHB P214
+**Source :** PHB P214
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

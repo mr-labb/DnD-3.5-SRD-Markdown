@@ -1,5 +1,6 @@
 ---
-aliases: [Daze]
+aliases:
+ - Daze
 title: Compendium/Basics/Spell/Daze
 tags:
   - 35E_SRD
@@ -45,9 +46,13 @@ This enchantment clouds the mind of a humanoid creature with **4 or fewer Hit Di
 - A pinch of **wool** or a **similar substance**
 
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

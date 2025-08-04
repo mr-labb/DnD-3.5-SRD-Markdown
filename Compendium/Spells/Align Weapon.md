@@ -1,5 +1,6 @@
 ---
-aliases: [Align Weapon]
+aliases:
+ - Align Weapon
 title: Compendium/Basics/Spell/Align Weapon
 tags: 
   - 35E_SRD
@@ -34,9 +35,13 @@ You can't cast this spell on a natural weapon, such as an unarmed strike.
 
 When you make a weapon good, evil, lawful, or chaotic, *align weapon* is a good, evil, lawful, or chaotic spell, respectively.
 
-Source : PHB P197
+**Source :** PHB P197
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

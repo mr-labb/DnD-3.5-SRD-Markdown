@@ -1,5 +1,8 @@
 ---
-aliases: [Dragon, Black, Very young]
+aliases:
+ - Dragon
+ - Black
+ - Very young
 title: Bestiary/MM1/Dragon, Black, Very young
 tags: [35E_SRD, Monster]
 Monster: Dragon, Black, Very young

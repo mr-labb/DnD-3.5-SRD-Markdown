@@ -1,5 +1,7 @@
 ---
-aliases: [Dwarf, 1st-Level Warrior]
+aliases:
+ - Dwarf
+ - 1st-Level Warrior
 title: Bestiary/MM1/Dwarf, 1st-Level Warrior
 tags: [35E_SRD, Monster]
 Monster: Dwarf, 1st-Level Warrior

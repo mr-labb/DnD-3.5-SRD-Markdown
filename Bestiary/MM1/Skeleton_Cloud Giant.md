@@ -1,7 +1,10 @@
 ---
-aliases: [Skeleton, Cloud Giant]
+aliases:
+ - Cloud Giant Skeleton
 title: Bestiary/MM1/Skeleton, Cloud Giant
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Skeleton, Cloud Giant
 Size: Huge
 Type: Undead
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Skeleton, Cloud Giant
+image: [[Skeleton, Cloud Giant.PNG]]
 race: Skeleton, Cloud Giant
 class: 
 level: 
@@ -27,61 +29,78 @@ size: Huge
 type: Undead
 subtype: 
 alignment: Always neutral evil
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "13 (-2 size, +2 Dex, +3 natural), touch 10, flat-footed 11"
+ac: 13
 touch: 10
-flat_footed: 11
-hit_point:
-  - name: hp
-    desc: "110 ; 17d12"
-speed: 50 ft. (10 squares)
-
-abilities: [35, 15, -, -, 10, 1]
-saves:
-  - Fort: +5
-  - Ref: +7
-  - Will: +10
-damage_resist: 5/bludgeoning
-spell_resist: 
+flatfooted: 11
+AC_desc: -2 size, +2 Dex, +3 natural
+hp: 110
+hit_dice: 17d12
 initiative: 6
+speed: 50 ft. (10 squares)
 space/reach: 15 ft./15 ft.
-cr: 7
+stats:
+  - 35
+  - 15
+  - 0
+  - 0
+  - 10
+  - 1
+saves:
+ - Fortitude : 5
+ - Reflex : 7
+ - Will : 10
+skillsaves:
+ - Aucun
 base_attack/grapple: +8/+28
-attack: Gargantuan morningstar +18 melee (4d6+18) or claw +18 melee (1d8+12) or rock +8 ranged (2d8+12)
-full_attack: Gargantuan morningstar +18/+13 melee (4d6+18) or 2 claws +18 melee (1d8+12) or rock +8 ranged (2d8+12)
-special_attacks: -
-
-special_qualities:
-  - name: 
-    desc: Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, oversize weapon, undead traits
-
-skills:
-  - Aucun
-feats: [[Improved Initiative]]
-weak: 
 environment: Temperate mountains
 organization: Any
 treasure: None
 advancement: -
 level_adjustment: -
-immune: to cold
+damage_vulnerabilities: ""
+damage_resistances: 5/bludgeoning
+spell_resist: 
+senses: 
+damage_immunities: "to cold"
+condition_immunities: ""
+languages: ""
+cr: 7
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, oversize weapon, undead traits
+actions:
+  - name: Full Attack
+    desc: "Gargantuan morningstar +18/+13 melee (4d6+18) or 2 claws +18 melee (1d8+12) or rock +8 ranged (2d8+12)"
+  - name: Attack
+    desc: "Gargantuan morningstar +18 melee (4d6+18) or claw +18 melee (1d8+12) or rock +8 ranged (2d8+12)"
+  - name: special attacks
+    desc: "-"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Improved Initiative
+combat_gear:  
 ```
 
-## Description
 
-<p>Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.</p>
-<p>A skeleton is seldom garbed in anything more than the rotting remnants of any clothing or armor it was wearing when slain. A skeleton does only what it is ordered to do. It can draw no conclusions of its own and takes no initiative. Because of this limitation, its instructions must always be simple. A skeleton attacks until destroyed.</p>
-<p>
-            <b>Special Qualities:</b> A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.</p>
-<p>
-            <i>Immunity to Cold (Ex):</i> Skeletons are not affected by cold.</p>
-<p>
-            <i>Damage Reduction 5/Bludgeoning:</i> Skeletons lack flesh or internal organs.</p>
+Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.
+
+A skeleton is seldom garbed in anything more than the rotting remnants of any clothing or armor it was wearing when slain. A skeleton does only what it is ordered to do. It can draw no conclusions of its own and takes no initiative. Because of this limitation, its instructions must always be simple. A skeleton attacks until destroyed.
+
+
+**Special Qualities:** A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.
+
+
+*Immunity to Cold (Ex):* Skeletons are not affected by cold.
+
+
+*Damage Reduction 5/Bludgeoning:* Skeletons lack flesh or internal organs.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

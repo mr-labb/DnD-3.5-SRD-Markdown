@@ -1,5 +1,6 @@
 ---
-aliases: [Disguise Self]
+aliases:
+ - Disguise Self
 title: Compendium/Basics/Spell/Disguise Self
 tags:
   - 35E_SRD
@@ -46,9 +47,13 @@ You alter your appearance, including clothing, armor, weapons, and equipment.
 - You gain a **+10 bonus on Disguise checks** while using this spell  
 
 
-**Source:** PHB P222
+**Source :** PHB P222
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

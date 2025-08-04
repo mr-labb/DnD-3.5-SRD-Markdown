@@ -1,5 +1,6 @@
 ---
-aliases: [Rapid Reload]
+aliases:
+ - Rapid Reload
 title: Rapid Reload
 tags: Feat, General_Feat
 ---
@@ -33,5 +34,4 @@ Source :
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

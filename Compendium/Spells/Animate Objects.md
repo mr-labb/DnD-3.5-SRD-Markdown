@@ -1,5 +1,6 @@
 ---
-aliases: [Animate Objects]
+aliases:
+ - Animate Objects
 title: Compendium/Basics/Spell/Animate Objects
 tags: 
   - 35E_SRD
@@ -37,11 +38,15 @@ An animated object can be of any nonmagical material. You may animate one Small 
 
 This spell cannot animate objects carried or worn by a creature.
 
-*Animate objects* can be made permanent with a *permanency* spell.
+*Animate objects* can be made permanent with a *[[permanency]]* spell.
 
-Source : PHB P199
+**Source :** PHB P199
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

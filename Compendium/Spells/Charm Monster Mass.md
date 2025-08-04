@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Charm Monster]
+aliases:
+ - Mass Charm Monster
 title: Compendium/Basics/Spell/Charm Monster, Mass
 tags: 
   - 35E_SRD
@@ -31,14 +32,18 @@ As [[Charm Monster]], but all within 30 ft.
 *   **Saving Throw:** Will negates
 *   **Spell Resistance:** Yes
 
-This spell functions like *Charm Monster*, but can affect multiple creatures simultaneously. The total number of Hit Dice affected may not exceed **twice your caster level**, though you may always affect **at least one creature**, regardless of its HD.
+This spell functions like *[[Charm Monster]]*, but can affect multiple creatures simultaneously. The total number of Hit Dice affected may not exceed **twice your caster level**, though you may always affect **at least one creature**, regardless of its HD.
 
 - All targets must be within **30 ft.** of each other.
 - If the number of potential targets exceeds the HD limit, you select them **one at a time** until reaching the threshold.
 
-Source : PHB P209
+**Source :** PHB P209
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Command Undead]
+aliases:
+ - Command Undead
 title: Compendium/Basics/Spell/Command Undead
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ This spell allows you some degree of control over an undead creature.
 
 **Material Component:** A shred of raw meat and a splinter of bone.
 
-Source : PHB P211
+**Source :** PHB P211
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,12 +1,12 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Monsters Information
 tag: Monster
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
@@ -155,7 +155,4 @@ Some creatures may have particular powers that are manifested at a higher or low
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

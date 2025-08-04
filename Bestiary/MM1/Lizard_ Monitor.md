@@ -1,5 +1,7 @@
 ---
-aliases: [Lizard, Monitor]
+aliases:
+ - Lizard
+ - Monitor
 title: Bestiary/MM1/Lizard, Monitor
 tags: [35E_SRD, Monster]
 Monster: Lizard, Monitor

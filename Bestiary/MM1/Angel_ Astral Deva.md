@@ -1,5 +1,7 @@
 ---
-aliases: [Angel, Astral Deva]
+aliases:
+ - Angel
+ - Astral Deva
 title: Bestiary/MM1/Angel, Astral Deva
 tags: [35E_SRD, Monster]
 Monster: Angel, Astral Deva

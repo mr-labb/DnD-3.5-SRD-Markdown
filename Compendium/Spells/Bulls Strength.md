@@ -1,5 +1,6 @@
 ---
-aliases: [Bull's Strength]
+aliases:
+ - Bull's Strength
 title: Compendium/Basics/Spell/Bull's Strength
 tags: 
   - 35E_SRD
@@ -40,9 +41,13 @@ The subject becomes stronger. The spell grants a +4 enhancement bonus to Strengt
 
 _Arcane Material Component:_ A few hairs, or a pinch of dung, from a bull.
 
-Source : PHB P207
+**Source :** PHB P207
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

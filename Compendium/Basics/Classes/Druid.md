@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Druid]
+aliases:
+ - Druid
 title: Compendium/Basics/Classe/Druid
 tag: Class, Druid
 ---
@@ -9,7 +10,8 @@ tag: Class, Druid
 
 ### DRUID
 
-
+<br><br>The fury of a storm, the gentle strength of the morning sun, the cunning of the fox, the power of the bear - all these and more are at the druid's command. The druid however, claims no mastery over nature. That claim, she says, is the empty boast of a city dweller. The druid gains her power not by ruling nature but by being at one with it. To trespassers in a druid's sacred grove, and to those who feel her wrath, the distinction is overly fine.<br><br>Druids adventure to gain [[Compendium/Basics/Skills/Knowledge]] (especially about animals and plants unfamiliar to them) and power. Sometimes, their superiors call on their services. Druids may also bring their power to bear against those who threaten what they love, which more often includes ancient stands of trees or trackless mountains than people. While druids accept that which is horrific or cruel in nature, they hate that which is unnatural, including aberrations (such as beholders and carrion crawlers) and undead (such as zombies and vampires). Druids sometimes lead raids against such creatures, especially when they encroach on the druids' territory.<br><br>Druids cast divine spells much the same way clerics do, though most get their spells from the power of nature rather than from deities. Their spells are oriented toward nature and animals. In addition to spells, druids gain an increasing array of magical powers, including the ability to take the shapes of animals, as they advance in level.<br><br>The armor of a druid are restricted by traditional oaths to the items noted in Weapon and Armor proficiency (below),All other armor is prohibited. Though a druid could learn to wear full plate, putting it on would violate her oath and suppress her druidic powers. Druids avoid carrying much worked metal with them because it interferes with the pure and primal nature that they attempt to embody.<br><br>Druids, in keeping with nature's ultimate indifference, must maintain at least some measure of dispassion. As such, they must be neutral on at least one alignment axis (chaotic-lawful or good-evil), if not both. Just as nature encompasses such dichotomies as life and death, beauty and horror, and peace and violence, so two druids can manifest different or even opposite alignments (neutral good and neutral evil, for instance) and still be part of the druidic tradition.<br><br>A druid reveres nature above all. She gains her magical power either from the force of nature itself or from a nature deity. The typical druid pursues a mystic spirituality of transcendent union with nature rather than devoting herself to a divine entity. Still, some druids revere or at least respect either Obad-Hai (god of nature) or Ehlonna (goddess of the woodlands).<br><br>Though their organization is invisible to most outsiders, who consider druids to be loners, druids are actually part of a society that spans the land, ignoring political borders. A prospective druid is inducted into this society through secret rituals, including tests that not all survive. Only after achieving some level of competence is the druid allowed to strike out on her own.<br><br>All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any highranking members of the society or participated in druidic gatherings. All druids recognize each other as brothers and sisters. Like true creatures of the wilderness, however, druids sometimes compete with or even prey on each other.<br><br>A druid may be expected to perform services for higher-ranking druids, though proper payment is tendered for such assignments. Likewise, a lower-ranking druid may appeal for aid from her higher-ranking comrades in exchange for a fair price in coin or service.<br><br>Druids may live in small towns, but they always spend a good portion of their time in wild areas. Even large cities surrounded by cultivated land as far as the eye can see often have druid groves nearby - small, wild refuges where druids live and which they protect fiercely. Near coastal cities, such refuges may be nearby islands, where the druids can find the isolation they need.<br><br>Elves and gnomes have an affinity for natural lands and often become druids. Humans and halfelves also frequently adopt this path, and druids are particularly common among savage humans. Dwarves, halflings, and half-orcs are rarely druids.<br><br>Few from among the brutal humanoids are inducted into druidic society, though gnolls have a fair contingent of evil druids among them. Gnoll druids are accepted, though perhaps not welcomed, by druids of other races.<br><br>The druid shares with rangers and many barbarians a reverence for nature and a familiarity with natural lands. She doesn't much understand the urban mannerism typical of a rogue, and she finds arcane magic disruptive and slightly distasteful. The typical druid also dislikes the paladin's devotion to abstract ideals instead of "the real world." Druids, however, are nothing if not accepting of diversity, and they take little offense at other characters, even those very different from them.<br><br>The druid enjoys extraordinary versatility. Though she lacks the sheer healing power of the cleric, she makes up for it with additional offensive power, thanks to her spell selection and wild shape ability. A druid back up by another secondary healer (such as a paladin) can prove extremely valuable to a group of adventurers. Her animal companion also provides valuable melee combat support.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil.
 
@@ -17,7 +19,7 @@ tag: Class, Druid
 
 ###### Class Skills
 
-The druid's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[Spellcraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The druid's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[Spellcraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -57,7 +59,7 @@ All of the following are class features of the druid.
 
 **Weapon and Armor Proficiency**: Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape (see below).
 
-Druids are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A druid may also wear wooden armor that has been altered by the ironwood spell so that it functions as though it were steel. See the [[ironwood]] spell description.) Druids are proficient with shields (except tower shields) but must use only wooden ones.
+Druids are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A druid may also wear wooden armor that has been altered by the [[ironwood]] spell so that it functions as though it were steel. See the [[ironwood]] spell description.) Druids are proficient with shields (except tower shields) but must use only wooden ones.
 
 A druid who wears prohibited armor or carries a prohibited shield is unable to cast druid spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
 
@@ -77,13 +79,13 @@ A druid prepares and casts spells the way a cleric does, though she cannot lose 
 
 A druid also knows Druidic, a secret language known only to druids, which she learns upon becoming a 1st-level druid. Druidic is a free language for a druid; that is, she knows it in addition to her regular allotment of languages and it doesn't take up a language slot. Druids are forbidden to teach this language to nondruids. Druidic has its own alphabet.
 
-**Animal Companion (Ex)**: A druid may begin play with an animal companion selected from the following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures are also available: crocodile, porpoise, Medium shark, and squid. This animal is a loyal companion that accompanies the druid on her adventures as appropriate for its kind.
+**Animal Companion (Ex)**: A druid may begin play with an animal companion selected from the following list: [[badger]], [[camel]], dire rat, dog, riding dog, eagle, [[hawk]], horse (light or heavy), owl, [[pony]], snake (Small or Medium viper), or [[wolf]]. If the campaign takes place wholly or partly in an aquatic environment, the following creatures are also available: [[crocodile]], [[porpoise]], [[Shark_Medium|Medium shark]], and [[squid]]. This animal is a loyal companion that accompanies the druid on her adventures as appropriate for its kind.
 
 A 1st-level druid's companion is completely typical for its kind except as noted below. As a druid advances in level, the animal's power increases as shown on the table. If a druid releases her companion from service, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer. This ceremony can also replace an animal companion that has perished.
 
 A druid of 4th level or higher may select from alternative lists of animals (see below). Should she select an animal companion from one of these alternative lists, the creature gains abilities as if the character's druid level were lower than it actually is. Subtract the value indicated in the appropriate list header from the character's druid level and compare the result with the druid level entry on the table to determine the animal companion's powers. (If this adjustment would reduce the druid's effective level to 0 or lower, she can't have that animal as a companion.)
 
-**Nature Sense (Ex)**: A druid gains a +2 bonus on [[Knowledge]] (nature) and Survival checks.
+**Nature Sense (Ex)**: A druid gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) and Survival checks.
 
 **Wild Empathy (Ex)**: A druid can improve the attitude of an animal. This ability functions just like a [[Diplomacy]] check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
@@ -121,7 +123,7 @@ At 18th level, a druid becomes able to assume elemental form twice per day, and 
 
 ###### Ex-Druids
 
-A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the atonement spell description).
+A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the [[atonement]] spell description).
 
 ##### THE DRUID'S ANIMAL COMPANION
 
@@ -167,39 +169,39 @@ A druid of sufficiently high level can select her animal companion from one of t
 
 |4th Level or Higher (Level -3)|   |
 |---|---|
-|Ape (animal)|Dire weasel|
-|Bear, black (animal)|Leopard (animal)|
+|[[Ape]] (animal)|Dire weasel|
+|Bear, black (animal)|[[Leopard]] (animal)|
 |Bison (animal)|Lizard, monitor (animal)|
 |Boar (animal)|Shark, Large1 (animal)|
-|Cheetah (animal)|Snake, constrictor (animal)|
-|Crocodile (animal)1|Snake, Large viper (animal)|
-|Dire badger|Wolverine (animal)|
-|Dire bat||
+|[[Cheetah]] (animal)|Snake, [[Snake_Constrictor|constrictor]] (animal)|
+|[[Crocodile]] (animal)1|Snake, Large viper (animal)|
+|[[Badger_Dire|Dire badger]]|[[Wolverine]] (animal)|
+|[[Bat Dire|Dire bat]]||
 
 |7th Level or Higher (Level -6)|   |
 |---|---|
 |Bear, brown (animal)|Dire wolf|
 |Dire wolverine|Elasmosaurus1 (dinosaur)|
-|Crocodile, giant (animal)|Lion (animal)|
-|Deinonychus (dinosaur)|Rhinoceros (animal)|
+|[[Crocodile]], giant (animal)|[[Lion]] (animal)|
+|[[Dinosaur_Deinonychus|Deinonychus]] (dinosaur)|[[Rhinoceros]] (animal)|
 |Dire ape|Snake, Huge viper (animal)|
-|Dire boar|Tiger (animal)|
+|[[Boar Dire|Dire boar]]|[[Tiger]] (animal)|
 
 |10th Level or Higher (Level -9)|   |
 |---|---|
 |Bear, polar (animal)|Shark, Huge1 (animal)|
-|Dire lion|Snake, giant constrictor (animal)|
-|Megaraptor (dinosaur)|Whale, orca1 (animal)|
+|Dire lion|Snake, [[Snake_Giant Constrictor|giant constrictor]] (animal)|
+|Megaraptor (dinosaur)|[[Whale_Baleen|Whale]], orca1 (animal)|
 
 |13th Level or Higher (Level -12)|   |
 |---|---|
-|Dire bear|Octopus, giant1 (animal)|
-|Elephant (animal)||
+|[[Bear Dire|Dire bear]]|Octopus, giant1 (animal)|
+|[[Elephant]] (animal)||
 
 |16th Level or Higher (Level -15)|   |
 |---|---|
 |Dire shark1|Triceratops (dinosaur)|
-|Dire tiger|Tyrannosaurus (dinosaur)|
+|Dire tiger|[[Dinosaur_Tyrannosaurus|Tyrannosaurus]] (dinosaur)|
 |Squid, giant1 (animal)||
 
 1 _Available only in an aquatic environment._
@@ -225,12 +227,12 @@ The list below is a compilation of all animals eligible to be chosen as animal c
 |Caribou|Chordevoc3|Climbdog|
 |Compsognathus, dinosaur|Dog|Dog, riding|
 |Donkey|Eagle|Eel1|
-|Elk|Flying squirrel|Hawk|
+|Elk|Flying squirrel|[[Hawk]]|
 |Horned lizard|Horse, light|Horse, heavy|
-|Hyena|Jackal|Kank|
+|[[Hyena]]|Jackal|Kank|
 |Kes'trekel|Moose|Owl|
-|Pony|Porpoise1|Rat, dire|
-|Raven|Rhamphorhyncus, dinosaur|Sea lion1|
+|[[Pony]]|Porpoise1|Rat, dire|
+|[[Raven]]|Rhamphorhyncus, dinosaur|Sea lion1|
 |Seahorse, giant1|Seal1|Serval|
 |Shark, Medium1|Snake, Small sea1|Snake, Medium sea1|
 |Snake, Tiny viper|Snake, Small viper|Snake, Medium viper|
@@ -241,26 +243,26 @@ The list below is a compilation of all animals eligible to be chosen as animal c
 |4th Level or Higher (Level -3)|   |
 |---|---|
 |Ape|Axebeak|Badger, dire|
-|Bat, dire|Bear, black|Bison|
+|Bat, dire|Bear, black|[[Bison]]|
 |Boar|Brante|Brixashulty4|
-|Cheetah|Chordevoc4|Dekayi2|
+|[[Cheetah]]|Chordevoc4|Dekayi2|
 |Dimetrodon, dinosaur|Eel, dire1|Erdlu|
-|Fleshraker, dinosaur|Hawk, dire5|Jackal, dire|
-|Jagendar2|Jhakar|Leopard|
+|Fleshraker, dinosaur|[[Hawk]], dire5|Jackal, dire|
+|Jagendar2|Jhakar|[[Leopard]]|
 |Lizard, monitor|Pteranodon, dinosaur|Rat, horrid|
 |Sailsnake|Seskaran|Shark, Large1|
 |Snake, constrictor|Snake, Large sea1|Snake, Large viper|
-|Toad, dire|Weasel, dire|Wolverine|
+|Toad, dire|Weasel, dire|[[Wolverine]]|
 
 |7th Level or Higher (Level -6)|   |
 |---|---|
 |Ape, dire|Ankylosaurus, cave|Baazrag, boneclaw|
 |Badger, horrid|Barracuda, dire1|Bat, horrid|
-|Bear, brown|Boar, dire|Crocodile, giant|
-|Crodlu|Cryptoclidus, dinosaur|Deinonychus, dinosaur|
-|Eagle, dire|Elasmosaurus, dinosaur1|Hawk, dire6|
-|Lion|Megaloceros|Protoceratops, dinosaur|
-|Pterrax|Razorwing|Rhinoceros|
+|Bear, brown|Boar, dire|[[Crocodile]], giant|
+|Crodlu|Cryptoclidus, dinosaur|[[Dinosaur_Deinonychus|Deinonychus]], dinosaur|
+|Eagle, dire|[[Dinosaur_Elasmosaurus|Elasmosaurus]], dinosaur1|[[Hawk]], dire6|
+|[[Lion]]|Megaloceros|Protoceratops, dinosaur|
+|Pterrax|Razorwing|[[Rhinoceros]]|
 |Snake, Huge sea1|Snake, Huge viper|Terror bird|
 |Tiger|Weasel, horrid|Wolf, dire|
 |Wolverine, dire|||
@@ -271,17 +273,17 @@ The list below is a compilation of all animals eligible to be chosen as animal c
 |Bloodstriker, dinosaur|Boar, horrid|Cilops|
 |Crodlu, heavy|Eagle, legendary|Glyptodon|
 |Hippopotamus|Horse, dire|Horse, horrid|
-|Inix|Lion, dire|Megaraptor, dinosaur|
+|Inix|Lion, dire|[[Dinosaur_Megaraptor|Megaraptor]], dinosaur|
 |Pachycephalosaurus, dinosaur|Puma, dire|Shark, Huge1|
-|Snake, dire|Snake, giant constrictor|Tiger, saber-toothed|
-|Tortoise, dire|Triceratops, cave|Tyrannosaurus, cave|
-|Vulture, dire|Whale, orca1|Wolf, horrid|
+|Snake, dire|Snake, [[Snake_Giant Constrictor|giant constrictor]]|Tiger, saber-toothed|
+|Tortoise, dire|Triceratops, cave|[[Dinosaur_Tyrannosaurus|Tyrannosaurus]], cave|
+|Vulture, dire|[[Whale_Baleen|Whale]], orca1|Wolf, horrid|
 |Wolverine, horrid|||
 
 |13th Level or Higher (Level -12)|   |
 |---|---|
 |Ankylosaurus, dinosaur|Ape, legendary|Bear, dire|
-|Diprotodon|Elephant|Elgonn2|
+|Diprotodon|[[Elephant]]|Elgonn2|
 |Elk, dire|Fhorge|Ichthyosaur, dinosaur1|
 |Lion, horrid|Lizard, giant banded|Octopus, giant1|
 |Parasaurolophus, dinosaur|||
@@ -292,10 +294,10 @@ The list below is a compilation of all animals eligible to be chosen as animal c
 |Elephant, dire|Elk, horrid|Hippopotamus, dire|
 |Indricothere|Mammoth, woolly|Mastyrial|
 |Mastodon|Mastodon, grizzly|Megatherium|
-|Quetzalcoatlus, dinosaur|Rhinoceros, dire|Roc|
+|Quetzalcoatlus, dinosaur|Rhinoceros, dire|[[Roc]]|
 |Shark, dire1|Snake, legendary|Squid, giant1|
 |Stegosaurus, dinosaur|Tiger, dire|Triceratops, dinosaur|
-|Tyrannosaurus, dinosaur|Zeuglodon1||
+|[[Dinosaur_Tyrannosaurus|Tyrannosaurus]], dinosaur|Zeuglodon1||
 
 |19th Level or Higher (Level -18)|   |
 |---|---|
@@ -356,7 +358,7 @@ Unless otherwise noted in an aspect's description, a druid who assumes an aspect
 
 **Aquatic**: The druid grows gills, enabling her to breathe underwater (while retaining her ability to breathe air). Webbing between her fingers and her toes grants her a swim speed of 40 feet (or 30 feet if wearing medium or heavy armor or carrying a medium or heavy load) and a +8 bonus on her [[Swim]] checks.
 
-**Elemental Air**: The druids body becomes gaseous (as the [[gaseous form]] spell, except that she can fly at a speed of 100 feet with perfect maneuverability and doesn't lose her supernatural abilities while in this form). While in this form, the druid has immunity to [[poison]], sleep, [[paralysis]], and [[stunning]], as well as any other immunities provided by the gaseous form spell. The druid cannot cast spells while this aspect is in effect. She can't combine this aspect with any other aspect except for [[#agility]] and [[endurance]]. Prerequisite: Druid level 16th.
+**Elemental Air**: The druids body becomes gaseous (as the [[gaseous form]] spell, except that she can fly at a speed of 100 feet with perfect maneuverability and doesn't lose her supernatural abilities while in this form). While in this form, the druid has immunity to [[poison]], sleep, [[paralysis]], and [[stunning]], as well as any other immunities provided by the [[Compendium/Spells/Gaseous Form|gaseous form]] spell. The druid cannot cast spells while this aspect is in effect. She can't combine this aspect with any other aspect except for [[#agility]] and [[endurance]]. Prerequisite: Druid level 16th.
 
 **Elemental Earth**: The druid's body becomes stony and rocklike. While in this form, the druid has immunity to[[poison]], sleep, [[paralysis]], and [[stunning]]. She gains a slam attack that deals bludgeoning damage equal to a morningstar of the druid's size (1d8 for Medium druids, 1d6 for Small druids). Her natural armor bonus becomes +8 (replacing any other natural armor bonus the druid has, though enhancement bonuses to natural armor still apply normally). She also gains [[damage reduction]] 10/magic. The druid cannot cast spells while this aspect is in effect. She can't combine this aspect with any other aspect except for [[endurance]] and [[vigor]]. Prerequisite: Druid level 16th.
 
@@ -472,7 +474,7 @@ The druid is the second-place offender of dead levels. For a class to have speci
 
 With this option, each druid may choose a single domain from the following list: [[Air]], [[Animal]], [[Earth]], [[Fire]], [[Plant]], [[Sun]], and [[Water]]. The druid gains a bonus spell of each spell level, which may be used only to prepare a domain spell of that level (or of a lower level, if affected by a metamagic feat). The druid also gains the domain's granted power, except as noted below.
 
-Druids who select the [[Animal]] domain or the [[Plant]] domain gain [[Skill Focus]] ([[Knowledge]] [nature]), since [[Knowledge]] (nature) is already a class skill for druids.
+Druids who select the [[Animal]] domain or the [[Plant]] domain gain [[Skill Focus]] ([[Compendium/Basics/Skills/Knowledge]] [nature]), since [[Compendium/Basics/Skills/Knowledge]] (nature) is already a class skill for druids.
 
 A druid who chooses the [[Sun]] domain gains the ability to [[turn undead]] 1/day as a cleric of her level, and cannot perform a greater turning.
 
@@ -540,7 +542,7 @@ Every druid reveres nature, but some pay more respect to the fundamental buildin
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (the planes) 1 rank, Speak Language (Auran, Terran, Ignan, or Aquan).
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (the planes) 1 rank, Speak Language (Auran, Terran, Ignan, or Aquan).
 
 **Replaces**: You do not gain an animal companion, nor do you gain wild empathy.
 
@@ -562,7 +564,7 @@ Druids of the Fangshields are the healers and nurturers of the group, acting on 
 
 ##### Requirements
 
-To take a Fangshields druid substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Knowledge]] (religion), and be about to take her 4th, 5th, or 7th level of druid.
+To take a Fangshields druid substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 4th, 5th, or 7th level of druid.
 
 ##### Class Skills
 
@@ -584,17 +586,17 @@ Fangshields druid substitution levels have the class skills of the standard drui
 
 All of the following are features of the Fangshields druid substitution levels.
 
-**Spontaneous Curing (Su)**: At 4th level, a Fangshields druid can spontaneously convert prepared druid spells of 1st level or higher into cure light wounds spells, just as a cleric can. Unlike a cleric, she cannot convert her prepared spells into any cure spell, just cure light wounds, nor can she apply metamagic feats to these spontaneously cast spells.
+**Spontaneous Curing (Su)**: At 4th level, a Fangshields druid can spontaneously convert prepared druid spells of 1st level or higher into [[cure light wounds]] spells, just as a cleric can. Unlike a cleric, she cannot convert her prepared spells into any cure spell, just [[cure light wounds]], nor can she apply metamagic feats to these spontaneously cast spells.
 
 This benefit replaces the resist nature's lure class ability gained by a standard druid at 4th level.
 
-**Wild Shape (Hands) (Su)**: At 5th level, a Fangshields druid can use her wild shape ability to create simple dexterous hands if she doesn't have them already. For example, a giant eagle, lammasu, or unicorn could use wild shape to change her feet, paws, or hooves into hands that work as well as human hands. These hands lose any natural attacks they previously possessed, but otherwise still function like their original shape (a unicorn could walk or run at normal speed on her hoof-hands, for example). She can make this change whenever she uses her wild shape, even when she assumes another form. For example, a unicorn druid could take the form of a wolf with functional paw-hands.
+**Wild Shape (Hands) (Su)**: At 5th level, a Fangshields druid can use her wild shape ability to create simple dexterous hands if she doesn't have them already. For example, a giant eagle, [[lammasu]], or [[unicorn]] could use wild shape to change her feet, paws, or hooves into hands that work as well as human hands. These hands lose any natural attacks they previously possessed, but otherwise still function like their original shape (a [[unicorn]] could walk or run at normal speed on her hoof-hands, for example). She can make this change whenever she uses her wild shape, even when she assumes another form. For example, a [[unicorn]] druid could take the form of a wolf with functional paw-hands.
 
 This benefit is in addition to the standard druid's wild shape ability.
 
-**Wild Shape (Humanoid) (Su)**: At 7th level, a Fangshields druid can use her wild shape ability to assume a Medium humanoid form. The humanoid form can resemble a human, dwarf, elf, or other Medium humanoid as the druid desires and has the appropriate racial traits for that race (according to the polymorph spell). This ability is typically used by a druid to interact with humanoid settlements without drawing too much attention to herself. However, the humanoid form retains some of a Fangshields druid's original monstrous appearance, much like how a lycanthrope in hybrid form has humanoid and animal features, resulting in a -4 penalty on Disguise checks made to pass as a humanoid. The hybrid form can speak as well as a true humanoid, though the change of form does not give the druid [[Knowledge]] of that form's language (a druid in the form of an elf wouldn't automatically know how to speak Elven, but could use her elf-mouth to speak any languages she did know).
+**Wild Shape (Humanoid) (Su)**: At 7th level, a Fangshields druid can use her wild shape ability to assume a Medium humanoid form. The humanoid form can resemble a human, dwarf, elf, or other Medium humanoid as the druid desires and has the appropriate racial traits for that race (according to the [[Compendium/Spells/Polymorph|polymorph]] spell). This ability is typically used by a druid to interact with humanoid settlements without drawing too much attention to herself. However, the humanoid form retains some of a Fangshields druid's original monstrous appearance, much like how a lycanthrope in hybrid form has humanoid and animal features, resulting in a -4 penalty on Disguise checks made to pass as a humanoid. The hybrid form can speak as well as a true humanoid, though the change of form does not give the druid [[Compendium/Basics/Skills/Knowledge]] of that form's language (a druid in the form of an elf wouldn't automatically know how to speak Elven, but could use her elf-mouth to speak any languages she did know).
 
-For example, a giant eagle could wild shape into a humanlike humanoid, but she would resemble an eagle-human hybrid (much like an avoral guardinal); a treant taking the form of an elf hybrid would look like a tall elf with barklike skin and leaves in her hair (much like a dryad).
+For example, a giant eagle could wild shape into a humanlike humanoid, but she would resemble an eagle-human hybrid (much like an [[avoral]] guardinal); a [[treant]] taking the form of an elf hybrid would look like a tall elf with barklike skin and leaves in her hair (much like a [[dryad]]).
 
 This benefit replaces the third use of wild shape per day gained by a standard druid at 8th level. From this point forward, a Fangshields druid has one less daily use of wild shape than normal.
 
@@ -606,7 +608,7 @@ Those allied with nature are perhaps the hardest to distemper, but even druids c
 
 **Replaces**: If you select this class feature, you do not gain trackless step, wild shape, or woodland stride.
 
-**Benefit**: You gain the effects of a continuous speak with animals spell, but you may only use it to speak with your animal companion. In addition, for the purpose of determining your animal companion's bonus Hit Dice, natural armor adjustment, Strength and Dexterity adjustment, bonus tricks, and special abilities, you are treated as a druid two levels higher than you actually are. This does not allow you to gain a more powerful alternative animal companion at an earlier level.
+**Benefit**: You gain the effects of a continuous [[speak with animals]] spell, but you may only use it to speak with your animal companion. In addition, for the purpose of determining your animal companion's bonus Hit Dice, natural armor adjustment, Strength and Dexterity adjustment, bonus tricks, and special abilities, you are treated as a druid two levels higher than you actually are. This does not allow you to gain a more powerful alternative animal companion at an earlier level.
 
 #### Go to Ground
 
@@ -624,7 +626,7 @@ Just as most druids and scouts have an almost supernatural ability to avoid bein
 
 Due to the constant spread of civilization during the Age of Enthronement, many druids took to the mountains for solace. These druids adapted to the rocky terrain and have gained the above ability. This ability replaces woodland stride.
 
-**Mountain Stride (Ex)**: A druid with this ability can move through rocky terrain at her normal speed and without taking damage or suffering any other impairment. Magically manipulated terrain, such as spike stones, affects her normally.
+**Mountain Stride (Ex)**: A druid with this ability can move through rocky terrain at her normal speed and without taking damage or suffering any other impairment. Magically manipulated terrain, such as [[spike stones]], affects her normally.
 
 #### Goliath Druid
 
@@ -660,7 +662,7 @@ All the following are features of the goliath druid's racial substitution levels
 
 When casting a summon nature's ally spell to summon a creature with the earth subtype, the goliath druid may treat the spell as if it were the next higher-level version of that spell. This benefit allows her to summon a single more powerful creature than she might otherwise be able to summon, or more of the same type of creature that she could normally summon.
 
-For example, a goliath druid who casts summon nature's ally I could summon a single Small earth elemental (as if she had cast summon nature's ally II). When casting summon nature's ally V, the druid could summon one Huge earth elemental, one average xorn, 1d3 Large earth elementals, or 1d4+1 Medium earth elementals or minor xorns (as if she had cast summon monster VI). A goliath druid with this ability who casts summon nature's ally IX can summon two elder earth elementals (instead of one).
+For example, a goliath druid who casts [[Summon Natures Ally I|summon nature's ally I]] could summon a single Small earth elemental (as if she had cast [[Summon Natures Ally II|summon nature's ally II]]). When casting [[Summon Natures Ally V|summon nature's ally V]], the druid could summon one Huge earth elemental, one [[Xorn_Average|average xorn]], 1d3 Large earth elementals, or 1d4+1 Medium earth elementals or minor xorns (as if she had cast [[summon monster VI]]). A goliath druid with this ability who casts [[Summon Natures Ally IX|summon nature's ally IX]] can summon two elder earth elementals (instead of one).
 
 A goliath druid who selects this substitution level permanently gives up her ability to summon creatures that have the air, fire, or water subtype.
 
@@ -748,25 +750,25 @@ All the following are features of the halfling druid's racial substitution level
 
 **Spontaneous Casting**: Halfling druids often use their animal companions as mounts, and they have developed a method of enhancing their animal companions' mobility and defenses by channeling their own spell energy.
 
-A halfling druid can channel stored spell energy into specific spells that he hasn't prepared ahead of time. He can "lose" a prepared spell to cast any spell from the following list of the same level or lower, but he may only target himself or his animal companion with the spell (if it has a target). For example, a halfling druid who has prepared call lightning (a 3rd-level spell) may lose call lightning to cast protection from energy, spider climb, or jump, but may only target himself or his animal companion with the spell. (A halfling druid's ability to share spells with his animal companion works normally with these spells.)
+A halfling druid can channel stored spell energy into specific spells that he hasn't prepared ahead of time. He can "lose" a prepared spell to cast any spell from the following list of the same level or lower, but he may only target himself or his animal companion with the spell (if it has a target). For example, a halfling druid who has prepared [[call lightning]] (a 3rd-level spell) may lose [[call lightning]] to cast [[protection from energy]], [[spider climb]], or jump, but may only target himself or his animal companion with the spell. (A halfling druid's ability to share spells with his animal companion works normally with these spells.)
 
 _1st_: jump
 
 _2nd_: spider climb
 
-_3rd_: protection from energy
+_3rd_: [[protection from energy]]
 
-_4th_: freedom of movement
+_4th_: [[freedom of movement]]
 
-_5th_: tree stride
+_5th_: [[tree stride]]
 
-_6th_: summon nature's ally VI
+_6th_: [[Summon Natures Ally VI|summon nature's ally VI]]
 
-_7th_: summon nature's ally VII
+_7th_: [[Summon Natures Ally VII|summon nature's ally VII]]
 
-_8th_: summon nature's ally VIII
+_8th_: [[Summon Natures Ally VIII|summon nature's ally VIII]]
 
-_9th_: summon nature's ally IX
+_9th_: [[Summon Natures Ally IX|summon nature's ally IX]]
 
 This substitution feature replaces the standard druid's ability of spontaneous casting.
 
@@ -828,7 +830,7 @@ Metal masters stay close to sources of metal, and many can be found wandering ca
 
 ##### Class Skills
 
-The metal master's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (architecture and engineering) (Int), [[Knowledge]] (dungeoneering) (Int), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The metal master's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -851,7 +853,7 @@ The metal master's class skills (and the key ability for each skill) are [[Conce
 |8th|+6/+1|+6|+2|+2|Damage reduction 2/bludgeoning|6|4|3|3|2|—|—|—|—|—|
 |9th|+6/+1|+6|+3|+3||6|4|4|3|2|1|—|—|—|—|
 |10th|+7/+2|+7|+3|+3|Damage reduction 3/bludgeoning|6|4|4|3|3|2|—|—|—|—|
-|11th|+8/+3|+7|+3|+3|Major Creation 1/day|6|5|4|4|3|2|1|—|—|—|
+|11th|+8/+3|+7|+3|+3|[[Major Creation]] 1/day|6|5|4|4|3|2|1|—|—|—|
 |12th|+9/+4|+8|+4|+4|Damage reduction 4/bludgeoning|6|5|4|4|3|3|2|—|—|—|
 |13th|+9/+4|+8|+4|+4||6|5|5|4|4|3|2|1|—|—|
 |14th|+10/+5|+9|+4|+4|Damage reduction 5/bludgeoning|6|5|5|4|4|3|3|2|—|—|
@@ -859,7 +861,7 @@ The metal master's class skills (and the key ability for each skill) are [[Conce
 |16th|+12/+7/+2|+10|+5|+5|Damage reduction 5/cold iron, silver, or adamantine|6|5|5|5|4|4|3|3|2|—|
 |17th|+12/+7/+2|+10|+5|+5||6|5|5|5|5|4|4|3|2|1|
 |18th|+13/+8/+3|+11|+6|+6|Damage reduction 5/silver or adamantine|6|5|5|5|5|4|4|3|3|2|
-|19th|+14/+9/+4|+11|+6|+6|Iron body 1/day|6|5|5|5|5|5|4|4|3|3|
+|19th|+14/+9/+4|+11|+6|+6|[[Iron body]] 1/day|6|5|5|5|5|5|4|4|3|3|
 |20th|+15/+10/+5|+12|+6|+6|Damage reduction 5/adamantine|6|5|5|5|5|5|4|4|4|4|
 
 ##### Class Features
@@ -870,7 +872,7 @@ All of the following are class features of the metal master.
 
 **Spells**: This class feature is the same as the druid class feature of the same name described in the Player's Handbook. A metal master follows the same spell progression as the druid.
 
-**Spontaneous Casting**: A metal master can channel stored spell energy into druid spells that she hasn't prepared ahead of time. She can "lose" a prepared spell in order to cast one of these spells so long as it is of the same level or lower: chill metal, heat metal, rusting grasp, ironwood, transmute metal to wood, repel metal or stone.
+**Spontaneous Casting**: A metal master can channel stored spell energy into druid spells that she hasn't prepared ahead of time. She can "lose" a prepared spell in order to cast one of these spells so long as it is of the same level or lower: [[chill metal]], [[heat metal]], [[rusting grasp]], [[ironwood]], [[transmute metal to wood]], [[repel metal or stone]].
 
 **Chaotic, Evil, Good, and Lawful Spells**: This class feature is the same as the druid class feature of the same name described in the Player's Handbook.
 
@@ -878,17 +880,17 @@ All of the following are class features of the metal master.
 
 A metal master also knows Terran, the language of earth creatures, which she learns upon becoming a 1st-level metal master. Terran is a free language for a metal master; that is, she knows it in addition to her regular allotment of languages, and it doesn't lake up a language slot.
 
-**Mine Sense (Ex)**: At 1st level, the metal master gains a +2 bonus on [[Knowledge]] (dungeoneering) and [[Knowledge]] (architecture and engineering) checks.
+**Mine Sense (Ex)**: At 1st level, the metal master gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) and [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) checks.
 
 **Metal Sense (Ex)**: At 3rd level, the metal master gains a +2 bonus on Craft (armorsmithing), Craft (blacksmithing), and Craft (weaponsmithing) checks.
 
 **Damage Reduction (Su)**: As a metal master forges a destiny and grows in power, her body makes a supernatural connection to the qualities of the metals in the earth. At 6th level, the metal master gains damage reduction 1/bludgeoning, her body becoming inured to all strikes but the blows that fall like hammers on anvils. This damage reduction improves as shown in the metal master advancement chart until at 16th level, the metal master loses her bludgeoning damage reduction and gains damage reduction 5/cold iron, silver, or adamantine. At this point, the metal master suffers less damage from all blows except those made from the metals that are the true blood and bones of the earth. At 18th level, this damage reduction improves as shown in the metal master advancement chart, until at 20th level, the metal master has damage reduction 5/adamantine, reducing the damage of attacks from all but the hardest metal.
 
-**Major Creation (Sp)**: At 11th level, the metal master can cast major creation as a caster of a level equal to her metal master level once per day. The metal master can only create objects made of metal with this spell.
+**[[Major Creation]] (Sp)**: At 11th level, the metal master can cast [[major creation]] as a caster of a level equal to her metal master level once per day. The metal master can only create objects made of metal with this spell.
 
 **Timeless Body (Ex)**: After attaining 15th level, a metal master no longer takes ability score penalties for aging (see Table: [[Aging Effects]]) and cannot be magically aged. Any penalties she may have already incurred, however, remain in place. Bonuses still accrue, and the metal master still dies of old age when her time is up.
 
-**Iron Body (Sp)**: At 19th level, the metal master can cast iron body as a caster of a level equal to her metal master level once per day.
+**[[Iron Body]] (Sp)**: At 19th level, the metal master can cast [[iron body]] as a caster of a level equal to her metal master level once per day.
 
 #### Phynxkin Companion
 
@@ -908,7 +910,7 @@ When your effective druid level for determining your animal companion's abilitie
 
 #### Planar Druid
 
-The forces of nature, both subtle and grand, are manifestations of a deeper reality, where cosmic spheres revolve about each other in an awesome celestial dance. That dance generates the energy behind the fury of a storm, the brilliant sun, and even the vitality of life. The druid who understands the ecological connections between the seen and unseen is more capable, more [[Knowledge]]able, and more tuned into the events that move in all realms of existence.
+The forces of nature, both subtle and grand, are manifestations of a deeper reality, where cosmic spheres revolve about each other in an awesome celestial dance. That dance generates the energy behind the fury of a storm, the brilliant sun, and even the vitality of life. The druid who understands the ecological connections between the seen and unseen is more capable, more [[Compendium/Basics/Skills/Knowledge]]able, and more tuned into the events that move in all realms of existence.
 
 **Hit Die**: d8.
 
@@ -918,7 +920,7 @@ To take a druid planar substitution level, a character must be about to take his
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -928,7 +930,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Druid planar substitution levels have the class skills of the standard druid class plus [[Knowledge]] (the planes) (Int).
+Druid planar substitution levels have the class skills of the standard druid class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -954,7 +956,7 @@ This benefit replaces the resist nature's lure class feature gained by a standar
 
 This benefit replaces the immunity to venom class feature gained by a standard druid at 9th level.
 
-**Counter Summoning (Su)**: Some druids who walk the planes come to believe that excessive summoning of extraplanar creatures constitutes an abuse of the planes themselves, and they learn to deal with this problem at the source. A planar druid of 13th level or higher can ready a standard action to counter a summon monster spell or any spell-like ability that summons an extraplanar creature. This ability functions exactly as a counterspell using dispel magic, except that the druid need not cast a spell to make the attempt. The druid must make a caster level check against a DC of 11 + the opponent's caster level (if the opponent does not have a caster level for its summoning ability, use its Hit Dice instead). Success indicates that the spell or spell-like ability is countered.
+**Counter Summoning (Su)**: Some druids who walk the planes come to believe that excessive summoning of extraplanar creatures constitutes an abuse of the planes themselves, and they learn to deal with this problem at the source. A planar druid of 13th level or higher can ready a standard action to counter a summon monster spell or any spell-like ability that summons an extraplanar creature. This ability functions exactly as a counterspell using [[dispel magic]], except that the druid need not cast a spell to make the attempt. The druid must make a caster level check against a DC of 11 + the opponent's caster level (if the opponent does not have a caster level for its summoning ability, use its Hit Dice instead). Success indicates that the spell or spell-like ability is countered.
 
 This benefit replaces the a thousand faces class feature gained by a standard druid at 13th level.
 
@@ -974,7 +976,7 @@ A plant companion improves in much the same manner as an animal companion, using
 ||
 |**AC** 13; touch 10, flat-footed 13  <br>(+3 natural)|
 |**hp** 9(1 HD)|
-|**Immune** mind-affecting effects, poison, sleep, paralysis, polymorph, stunning, critical hits, sneak attacks|
+|**Immune** mind-affecting effects, poison, sleep, paralysis, [[Compendium/Spells/Polymorph|polymorph]], stunning, critical hits, sneak attacks|
 |**Fort** +4, **Ref** +0, **Will** +0|
 ||
 |**Spd** 30 ft. (6 squares)|
@@ -999,7 +1001,7 @@ Abilities marked with an asterisk may be taken more than once. Their bonuses or 
 
 **Blindsight (Ex)**: Your plant companion gains blindsight with a range of 30 feet. Your plant companion gains this ability after 2 levels.
 
-**Blunting Mold (Ex)**: Your plant companion develops a thick, cloying fungus along its length that automatically coats any slashing or piercing weapon that damages it. This mold causes the weapon to deal half damage on all aftacks until its wielder spends 1 standard action wiping it off. Your plant companion gains this ability after 3 levels.
+**Blunting Mold (Ex)**: Your plant companion develops a thick, cloying [[fungus]] along its length that automatically coats any slashing or piercing weapon that damages it. This mold causes the weapon to deal half damage on all aftacks until its wielder spends 1 standard action wiping it off. Your plant companion gains this ability after 3 levels.
 
 **Bonus Feat (Ex)**: Your plant companion gains a bonus feat. It must meet all of the feat's prerequisites. Your plant companion gains this ability after 1 level.
 
@@ -1051,7 +1053,7 @@ You are a child of the underworld. While other druids dwell in lush forests and 
 
 **Benefit**: At 1st level, you gain vermin empathy. This ability functions just like wild empathy (PH 35) except that you can improve the attitude of vermin instead of animals, even though vermin are usually nonintelligent.
 
-At 2nd level, you gain the ability to move over stone, rock, and earthen debris at your full speed without taking damage or suffering any other impairment. This ability functions only with natural surfaces. Magically altered surfaces, such as those created by soften earth and stone or spike stones, affect you normally.
+At 2nd level, you gain the ability to move over stone, rock, and earthen debris at your full speed without taking damage or suffering any other impairment. This ability functions only with natural surfaces. Magically altered surfaces, such as those created by [[soften earth and stone]] or [[spike stones]], affect you normally.
 
 At 4th level, you gain resistance to the powers of creatures most abhorrent to nature. You gain a +4 bonus on saving throws against the spell-like abilities of aberrations.
 
@@ -1099,7 +1101,7 @@ While in ferocious slayer form, you gain a primary bite attack that deals 1d8 po
 
 At 10th level, you gain Improved Critical (bite) and Improved Critical (claw) as bonus feats whenever you are in ferocious slayer form.
 
-_Forest Avenger Form_: At 12th level, you can take the form of a massive plantlike creature, similar to a shambling mound or a treant. (Druids not native to forest terrains typically rename this form to fit their environment.)
+_Forest Avenger Form_: At 12th level, you can take the form of a massive plantlike creature, similar to a [[shambling mound]] or a [[treant]]. (Druids not native to forest terrains typically rename this form to fit their environment.)
 
 While in forest avenger form, you gain a pair of primary slam attacks that deal 1d8 points of damage each. Your size increases by one category (to a maximum of Colossal) and you have the reach of a tall creature of your size (5 feet for Medium, 10 feet for Large). You gain a +12 enhancement bonus to Strength and a +4 enhancement bonus on Fortitude and Will saves, and your natural armor bonus improves by 12. Your base land speed becomes 20 feet.
 
@@ -1205,11 +1207,11 @@ _Manifested Spirit (Su)_: With his lycanthrope heritage strengthened by the pres
 
 #### Sidhe Scholar
 
-Civilized nations have often long forgotten the ancient druidic traditions. These "civilized" people might have even intentionally done away with the tradition and its strange, oft-misunderstood, pagan rites. Those who later pursue this lost [[Knowledge]] rely more upon crumbling written accounts rather than the wild's natural calling. Scholars of these ancient ways who show enough promise become embraced and "adopted" by trickster fey, learning the old ways anew. Capricious and cruel as only the fey can be, these new druids might eventually discover why the druids of old were put to the sword. The sidhe (pronounced "shee") scholar is an erudite hero who has lost touch with the more mundane tasks of a traditional druid (such as normal care of flora and fauna) in exchange for sylvan power that might prove itself best left to the immortals that refined it. The fey who usually take these druids under their wings are not your average "fairies." They are not dryads or nixies, grigs or brownies. Instead, the fey who train sidhe scholars are the refined, aristocratic faeries of the Seelie and Unseelie courts. As sleek and dangerous as hunting cats, these fey are incomprehensible beings to whom a human's life holds as much significance as a mayfly's. The faeries of the courts regard humans who wish to learn from and worship them with amusement, approving of their reverent attitudes as appropriate behavior from such inferior beings. As such, they do aid their supplicants readily, but expect much praise and appreciation for their pains.
+Civilized nations have often long forgotten the ancient druidic traditions. These "civilized" people might have even intentionally done away with the tradition and its strange, oft-misunderstood, pagan rites. Those who later pursue this lost [[Compendium/Basics/Skills/Knowledge]] rely more upon crumbling written accounts rather than the wild's natural calling. Scholars of these ancient ways who show enough promise become embraced and "adopted" by trickster fey, learning the old ways anew. Capricious and cruel as only the fey can be, these new druids might eventually discover why the druids of old were put to the sword. The sidhe (pronounced "shee") scholar is an erudite hero who has lost touch with the more mundane tasks of a traditional druid (such as normal care of flora and fauna) in exchange for sylvan power that might prove itself best left to the immortals that refined it. The fey who usually take these druids under their wings are not your average "fairies." They are not dryads or nixies, grigs or brownies. Instead, the fey who train sidhe scholars are the refined, aristocratic faeries of the Seelie and Unseelie courts. As sleek and dangerous as hunting cats, these fey are incomprehensible beings to whom a human's life holds as much significance as a mayfly's. The faeries of the courts regard humans who wish to learn from and worship them with amusement, approving of their reverent attitudes as appropriate behavior from such inferior beings. As such, they do aid their supplicants readily, but expect much praise and appreciation for their pains.
 
 The sidhe scholar is a more educated character than the archetypical druid. She actually has more in common with wizards than any other character class. A sidhe scholar is not a wizard, though. Despite erudite tendencies, the sidhe scholar is still a divine supplicant: she gains her magical powers through hard work and study, but she cannot cast her spells or perform her other magical abilities based upon her own inner arcane spark like a wizard or even a sorcerer. Instead, like other druids, she must draw upon the powers of nature and the wild lands. In settings with themes of urbanization and turning away from the natural world, the traditions of the original druidic ways are likely lost and must be rediscovered. Hence, the sidhe scholar calls not upon the deities of nature or the raw energy of the wilds themselves, but upon the only beings who remember the old ways well enough to instruct her - the fey.
 
-Like the druid, the sidhe scholar values Wisdom as her most important ability score; bonus spells, spell DCs, and Will save are all extremely important to this magic-oriented variant. Intelligence and Charisma share secondary importance. Ranks in different [[Knowledge]] skills and Diplomacy serve her well. Pursuing the forgotten rites of the old druids might be viewed as foolish at best and dangerous at worst, making it important to assuage the fears and superstitions of concerned locals. Dealings with the fey themselves also tend to go much smoother with a high Charisma.
+Like the druid, the sidhe scholar values Wisdom as her most important ability score; bonus spells, spell DCs, and Will save are all extremely important to this magic-oriented variant. Intelligence and Charisma share secondary importance. Ranks in different [[Compendium/Basics/Skills/Knowledge]] skills and Diplomacy serve her well. Pursuing the forgotten rites of the old druids might be viewed as foolish at best and dangerous at worst, making it important to assuage the fears and superstitions of concerned locals. Dealings with the fey themselves also tend to go much smoother with a high Charisma.
 
 The sidhe scholar is a variant druid. Unless otherwise noted, a sidhe scholar advances in the same manner as a druid (same base attack bonus, saving throw bonuses, skill points, and so on). When a character elects to take a level of druid or sidhe scholar, she may not later take levels in the other class. This prevents the character from gaining the benefits of a 1st-level druid twice.
 
@@ -1217,7 +1219,7 @@ The sidhe scholar is a variant druid. Unless otherwise noted, a sidhe scholar ad
 
 ##### Class Skills
 
-In addition to the class skills of the standard druid, the sidhe scholar also has [[Knowledge]] (arcana) as a class skill.
+In addition to the class skills of the standard druid, the sidhe scholar also has [[Compendium/Basics/Skills/Knowledge]] (arcana) as a class skill.
 
 **Table: The Sidhe Scholar**
 
@@ -1251,11 +1253,11 @@ All of the following are class features of the sidhe scholar.
 
 **Weapon and Armor Proficiency**: The sidhe scholar is only proficient with simple weapons, light armor, and shields (except tower shields), regardless of material composition. The sidhe scholar embraces more of the civilized world than the typical druid, but as a whole spends less time in martial pursuits.
 
-**Intelligentsia (Ex)**: At 1st level, the sidhe scholar gains Skill Focus ([[Knowledge]] [nature]) as a bonus feat. The sidhe scholar spends a lot of time in research, and so has a larger [[Knowledge]] base than most druids.
+**Intelligentsia (Ex)**: At 1st level, the sidhe scholar gains Skill Focus ([[Compendium/Basics/Skills/Knowledge]] [nature]) as a bonus feat. The sidhe scholar spends a lot of time in research, and so has a larger [[Compendium/Basics/Skills/Knowledge]] base than most druids.
 
 **Wild One (Ex)**: The sidhe scholar's animal companion is a little more powerful than a standard druid's companion. Thanks to the favor of the fey, the sidhe scholar's animal companion has a bit of sylvan blood in it. The companion is exceptionally fit, sleek, and graceful. The animal companion begins with +1 hit point per Hit Die, +2 Dexterity, and +2 Charisma. Unfortunately, this wild blood makes the animal especially suspicious of humanoids. The animal always has an initial attitude of "unfriendly" around humanoids who aren't its master (to whom it is as loyal as any other animal companion), but other druids or rangers can increase the animal companion's attitude to "neutral" using the wild empathy ability. In addition, the animal refuses to enter a humanoid settlement larger than a thorp. The animal does not leave the druid completely, however, and lurks on the outskirts of the settlement until the druid rejoins it in the wilds.
 
-**Blessing of the Fey (Su)**: At 2nd level, the fey first bestow their gifts upon their willing supplicant, granting a +2 bonus on [[Knowledge]] (arcana) and Survival checks.
+**Blessing of the Fey (Su)**: At 2nd level, the fey first bestow their gifts upon their willing supplicant, granting a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (arcana) and Survival checks.
 
 **Sylvan Gifts (Su)**: Beginning at 4th level, the fey visit the sidhe scholar every night in her dreams, imparting her with magical secrets. The sidhe scholar gains bonus spells as if her Wisdom score were 2 higher than it really is. This does not affect the DCs of her spells.
 
@@ -1282,7 +1284,7 @@ Note that she need not swap out all these skills. A skilled city-dweller may pic
 |Skill Replaced|Skill Gained|
 |---|---|
 |[[Handle Animal]]|[[Gather Information]]|
-|[[Knowledge]] (nature)|[[Knowledge]] (local)|
+|[[Compendium/Basics/Skills/Knowledge]] (nature)|[[Compendium/Basics/Skills/Knowledge]] (local)|
 |[[Survival]]|[[Sense Motive]]|
 |[[Ride]]|[[Tumble]]|
 
@@ -1312,7 +1314,7 @@ By selecting the spontaneous rejuvenation alternative class feature, you can pro
 
 **Benefit**: You can transform the stored energy of a spell you have prepared to invigorate you and your allies.
 
-To use spontaneous rejuvenation, you must spend a standard action and sacrifice a prepared spell. All allies within 30 feet of you (including yourself) gain fast healing for 3 rounds. The fast healing amount is equal to the spell's level. For example, if you sacrifice remove disease, a 3rdlevel spell, each ally gains fast healing 3 for 3 rounds.
+To use spontaneous rejuvenation, you must spend a standard action and sacrifice a prepared spell. All allies within 30 feet of you (including yourself) gain fast healing for 3 rounds. The fast healing amount is equal to the spell's level. For example, if you sacrifice [[remove disease]], a 3rdlevel spell, each ally gains fast healing 3 for 3 rounds.
 
 The fast healing granted by this class feature doesn't stack with itself or with fast healing from other sources.
 
@@ -1358,21 +1360,21 @@ All of the following are class features of the storm druid. A storm druid retain
 
 _1st_ - obscuring mist;
 
-_2nd_ - gust of wind;
+_2nd_ - [[gust of wind]];
 
 _3rd_ - call lightning;
 
-_4th_ - air walk;
+_4th_ - [[air walk]];
 
 _5th_ - call lightning storm;
 
-_6th_ - chain lightning;
+_6th_ - [[chain lightning]];
 
-_7th_ - control weather;
+_7th_ - [[control weather]];
 
 _8th_ - whirlwind;
 
-_9th_ - storm of vengeance.
+_9th_ - [[storm of vengeance]].
 
 **Deafness Immunity (Su)**: At 1st level, the storm druid becomes totally immune to deafness, magical or otherwise.
 
@@ -1448,7 +1450,7 @@ At 16th level, the totem druid gains the ability to apply her planar template to
 
 **Natural Spell**: At 2nd level the totem druid gains Natural Spell as a bonus feat.
 
-**Totem Speech (Ex)**: Starting at 8th level, the totem druid can speak any language she knows while in animal form and she can speak with her totem animals as with the speak with animals spell.
+**Totem Speech (Ex)**: Starting at 8th level, the totem druid can speak any language she knows while in animal form and she can speak with her totem animals as with the [[speak with animals]] spell.
 
 #### Urban Companion
 
@@ -1468,7 +1470,7 @@ Her urban companion has total hit points equal to 3/4 her own hit points, rather
 
 The urban companion gains the ability to speak with other animals of its kind when she has an effective master level of 1st, rather than 7th.
 
-When she reaches an effective master level of 7th, she can speak with animals of her companion's kind, as per speak with animals. This is a supernatural ability that functions constantly, and it requires only a free action to reactivate if somehow dispelled.
+When she reaches an effective master level of 7th, she can [[speak with animals]] of her companion's kind, as per [[speak with animals]]. This is a supernatural ability that functions constantly, and it requires only a free action to reactivate if somehow dispelled.
 
 #### Urban Sense
 
@@ -1480,7 +1482,7 @@ Druids native to the sprawling city master a widely differing range of skills th
 
 **Replaces**: If you select this class feature, you do not gain nature sense.
 
-**Benefit**: She gains a +2 bonus on [[Knowledge]] (local) checks and Sense Motive checks.
+**Benefit**: She gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (local) checks and Sense Motive checks.
 
 #### Voice of the City
 
@@ -1546,7 +1548,7 @@ Few subterranean inhabitants choose the druidic path, but those who do recognize
 
 #### Wild Reaper
 
-Autumn is a time for harvest. The fruits of summer fall from the vine and collect to rot, bearing the seeds and becoming the food for the next generation. This is where death interjects in the cycle of life, making killing a means of rebirth. Wild reapers ac[[Knowledge]] this aspect of nature and love it for the vital force it is. With a dispassionate eye, the wild reaper sees the autumn of all creatures, and when a creature's harvest time comes, a wild reaper is ready with scythe and spell.
+Autumn is a time for harvest. The fruits of summer fall from the vine and collect to rot, bearing the seeds and becoming the food for the next generation. This is where death interjects in the cycle of life, making killing a means of rebirth. Wild reapers ac[[Compendium/Basics/Skills/Knowledge]] this aspect of nature and love it for the vital force it is. With a dispassionate eye, the wild reaper sees the autumn of all creatures, and when a creature's harvest time comes, a wild reaper is ready with scythe and spell.
 
 Wild reapers walk beside death. To them, dying is a healthy and necessary part of life. Yet wild reapers know death has its time and place in the natural cycle, like autumn has its place in the order of the seasons. Harvesting life too early prevents the birth of the next generation and diminishes the strength and wisdom the elderly pass on.
 
@@ -1558,7 +1560,7 @@ Wild reapers tend to stay in places where the evidence of death and the changes 
 
 ##### Class Skills
 
-The wild reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The wild reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1596,7 +1598,7 @@ The wild reaper's class skills (and the key ability for each skill) are [[Concen
 
 All of the following are class features of the wild reaper.
 
-**Weapon and Armor Proficiency**: Wild reapers are proficient with the following weapons: club, battleaxe, dagger, dart, kama, nunchaku, quarterstaff, scythe, sickle, sling, and throwing axe. They are also proficient with all natural attacks (unarmed strike, claw, bite, and so forth), regardless of the forms they assume (see Wild Shape, below). Wild reapers are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A wild reaper may also wear wooden armor that has been altered by the ironwood spell so that it functions as though it were steel. See the ironwood spell description.) Wild reapers are proficient with shields (except tower shields) but must use only wooden ones.
+**Weapon and Armor Proficiency**: Wild reapers are proficient with the following weapons: club, battleaxe, dagger, dart, kama, nunchaku, quarterstaff, scythe, sickle, sling, and throwing axe. They are also proficient with all natural attacks (unarmed strike, claw, bite, and so forth), regardless of the forms they assume (see Wild Shape, below). Wild reapers are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A wild reaper may also wear wooden armor that has been altered by the [[ironwood]] spell so that it functions as though it were steel. See the [[ironwood]] spell description.) Wild reapers are proficient with shields (except tower shields) but must use only wooden ones.
 
 A wild reaper who wears metal armor or carries a metal shield is unable to cast druid spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
 
@@ -1612,11 +1614,11 @@ A wild reaper who wears metal armor or carries a metal shield is unable to cast 
 
 **Woodland Stride (Ex)**: This class feature is the same as the druid class feature of the same name described in the Player's Handbook.
 
-**Spontaneous Casting**: Starting at 3rd level, a wild reaper can channel stored spell energy into summoning spells that she hasn't prepared ahead of time. She can "lose" a prepared spell in order to cast any summon nature's ally spell of the same level or lower. In addition, the wild reaper can substitute a prepared spell with soften earth and stone, warp wood, diminish plants, poison, blight, rusting grasp, transmute rock to mud, antilife shell, or finger of death so long as the spell chosen from this list is of equal or lower level than the spell being substituted.
+**Spontaneous Casting**: Starting at 3rd level, a wild reaper can channel stored spell energy into summoning spells that she hasn't prepared ahead of time. She can "lose" a prepared spell in order to cast any summon nature's ally spell of the same level or lower. In addition, the wild reaper can substitute a prepared spell with [[soften earth and stone]], [[warp wood]], [[diminish plants]], poison, [[blight]], [[rusting grasp]], [[transmute rock to mud]], [[antilife shell]], or [[finger of death]] so long as the spell chosen from this list is of equal or lower level than the spell being substituted.
 
 **Resist Nature's Lure (Ex)**: This class feature is the same as the druid class feature of the same name described in the Player's Handbook.
 
-**Wild Shape (Su)**: At 5th level, a wild reaper gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all carnivorous or omnivorous animals that feed on carrion. This ability functions like the polymorph spell, except as noted here. The effect lasts for 1 hour per wild reaper level, or until she changes back. Changing form (to animal or back) is a standard action and doesn't provoke an attack of opportunity. The form chosen must be that of an animal the wild reaper is familiar with.
+**Wild Shape (Su)**: At 5th level, a wild reaper gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all carnivorous or omnivorous animals that feed on carrion. This ability functions like the [[Compendium/Spells/Polymorph|polymorph]] spell, except as noted here. The effect lasts for 1 hour per wild reaper level, or until she changes back. Changing form (to animal or back) is a standard action and doesn't provoke an attack of opportunity. The form chosen must be that of an animal the wild reaper is familiar with.
 
 A wild reaper loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form.
 
@@ -1648,7 +1650,7 @@ Wind walkers are free spirits that tend to roam, allowing the concerns of more s
 
 ##### Class Skills
 
-The wind walker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The wind walker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1662,16 +1664,16 @@ The wind walker's class skills (and the key ability for each skill) are [[Concen
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |0|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
 |1st|+0|+0|+2|+2|Aerial companion, aerial empathy, zephyr spellcasting|3|1|—|—|—|—|—|—|—|—|
-|2nd|+1|+0|+3|+3|Feather fall 1/day|4|2|—|—|—|—|—|—|—|—|
-|3rd|+2|+1|+3|+3|Whispering wind 1/day|4|2|1|—|—|—|—|—|—|—|
+|2nd|+1|+0|+3|+3|[[Feather fall]] 1/day|4|2|—|—|—|—|—|—|—|—|
+|3rd|+2|+1|+3|+3|[[Whispering wind]] 1/day|4|2|1|—|—|—|—|—|—|—|
 |4th|+3|+1|+4|+4|Air mastery|5|3|2|—|—|—|—|—|—|—|
-|5th|+3|+1|+4|+4|Feather fall 2/day|5|3|2|1|—|—|—|—|—|—|
+|5th|+3|+1|+4|+4|[[Feather fall]] 2/day|5|3|2|1|—|—|—|—|—|—|
 |6th|+4|+2|+5|+5|Friend of the winds|5|3|3|2|—|—|—|—|—|—|
-|7th|+5|+2|+5|+5|Fly 1/day, whispering wind 2/day|6|4|3|2|1|—|—|—|—|—|
-|8th|+6/+1|+2|+6|+6|Feather fall 3/day|6|4|3|3|2|—|—|—|—|—|
+|7th|+5|+2|+5|+5|Fly 1/day, [[whispering wind]] 2/day|6|4|3|2|1|—|—|—|—|—|
+|8th|+6/+1|+2|+6|+6|[[Feather fall]] 3/day|6|4|3|3|2|—|—|—|—|—|
 |9th|+6/+1|+3|+6|+6|Air spell immunity|6|4|4|3|2|1|—|—|—|—|
 |10th|+7/+2|+3|+7|+7|Fly 2/day|6|4|4|3|3|2|—|—|—|—|
-|11th|+8/+3|+3|+7|+7|Whispering wind 3/day|6|5|4|4|3|2|1|—|—|—|
+|11th|+8/+3|+3|+7|+7|[[Whispering wind]] 3/day|6|5|4|4|3|2|1|—|—|—|
 |12th|+9/+4|+4|+8|+8|Air domain (granted power)|6|5|4|4|3|3|2|—|—|—|
 |13th|+9/+4|+4|+8|+8|Fly 3/day|6|5|5|4|4|3|2|1|—|—|
 |14th|+10/+5|+4|+9|+9|Air domain (spells)|6|5+1|5+1|4+1|4+1|3+1|3+1|2+1|—|—|
@@ -1687,7 +1689,7 @@ The wind walker's class skills (and the key ability for each skill) are [[Concen
 
 All of the following are class features of the wind walker.
 
-**Weapon and Armor Proficiency**: Wind walkers are proficient with the following weapons: club, dagger, dart, javelin, quarterstaff, scimitar, shortbow, composite shortbow, sling, and spear. They are also proficient with all natural attacks (unarmed strike, slam, and so forth), regardless of the forms they assume (see Elemental Shape, below). Wind walkers are proficient with light armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A wind walker may also wear wooden armor that has been altered by the ironwood spell so that it functions as though it were steel.) Wind walkers are proficient with shields (except tower shields) but must use only wooden ones.
+**Weapon and Armor Proficiency**: Wind walkers are proficient with the following weapons: club, dagger, dart, javelin, quarterstaff, scimitar, shortbow, composite shortbow, sling, and spear. They are also proficient with all natural attacks (unarmed strike, slam, and so forth), regardless of the forms they assume (see Elemental Shape, below). Wind walkers are proficient with light armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A wind walker may also wear wooden armor that has been altered by the [[ironwood]] spell so that it functions as though it were steel.) Wind walkers are proficient with shields (except tower shields) but must use only wooden ones.
 
 A wind walker who wears metal armor or carries a metal shield is unable to cast druid spells or use any of his supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
 
@@ -1701,13 +1703,13 @@ A wind walker who wears metal armor or carries a metal shield is unable to cast 
 
 A wind walker also knows Auran, the language of air creatures, which he learns upon becoming a 1st-level wind walker. Auran is a free language for a wind walker; that is, he knows it in addition to his regular allotment of languages, and it doesn't take up a language slot.
 
-**Aerial Companion (Ex)**: A wind walker may begin play with a flying animal companion selected from the following list: eagle, hawk, or owl. This animal is a loyal companion that accompanies the wind walker on his adventures as appropriate for its species.
+**Aerial Companion (Ex)**: A wind walker may begin play with a flying animal companion selected from the following list: eagle, [[hawk]], or owl. This animal is a loyal companion that accompanies the wind walker on his adventures as appropriate for its species.
 
 A 1st-level wind walker's aerial companion is completely typical for its kind except as noted in the [[#The Druid's Animal Companion]] section. As a wind walker advances in level, the animal's power increases as shown on the table.
 
 If a wind walker releases his companion from service, he may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer. This ceremony can also replace an aerial companion that has perished.
 
-Like a druid's ability to select an alternative animal companion, a wind walker may instead select an alternative aerial companion at higher levels. The wind walker applies the indicated adjustment to his wind walker level (in parentheses) for purposes of determining the companion's characteristics and special abilities. A wind walker of 4th level or higher may instead select a dire bat or hippogriff (level -3). A 7th-level wind walker may choose a giant eagle, giant owl, or juvenile arrowhawk (level -6). A 10th-level wind walker may choose a griffon or adult arrowhawk (level -9). At 13th level, the wind walker may choose a dragonne (level -12). A 16th-level wind walker may choose an elder arrowhawk (level -15).
+Like a druid's ability to select an alternative animal companion, a wind walker may instead select an alternative aerial companion at higher levels. The wind walker applies the indicated adjustment to his wind walker level (in parentheses) for purposes of determining the companion's characteristics and special abilities. A wind walker of 4th level or higher may instead select a dire bat or hippogriff (level -3). A 7th-level wind walker may choose a giant eagle, giant owl, or juvenile arrowhawk (level -6). A 10th-level wind walker may choose a [[griffon]] or adult arrowhawk (level -9). At 13th level, the wind walker may choose a dragonne (level -12). A 16th-level wind walker may choose an elder arrowhawk (level -15).
 
 **Aerial Empathy (Ex)**: A wind walker can use body language, vocalizations, and demeanor to improve the attitude of a magical beast or animal with the air subtype or ability to fly. This ability functions just like a [[Diplomacy]] check made to improve the attitude of a person. The wind walker rolls 1d20 and adds his wind walker level and Charisma modifier to the roll to determine the aerial empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals and magical beasts are usually unfriendly.
 
@@ -1717,21 +1719,21 @@ To use aerial empathy, the wind walker and target creature must be able to study
 
 **Air Mastery (Ex)**: Airborne creatures take a -1 penalty to attack and damage rolls against a wind walker of 4th level or higher.
 
-**Feather Fall (Sp)**: After attaining 2nd level, the wind walker can cast feather fall as a caster of a level equal to his wind walker level. The wind walker gains additional uses of this ability as shown in the wind walker level advancement table.
+**[[Feather Fall]] (Sp)**: After attaining 2nd level, the wind walker can cast [[feather fall]] as a caster of a level equal to his wind walker level. The wind walker gains additional uses of this ability as shown in the wind walker level advancement table.
 
-**Whispering Wind (Sp)**: After attaining 3rd level, the wind walker can cast whispering wind as a caster of a level equal to his wind walker level. The wind walker gains additional uses of this ability as shown in the wind walker level advancement table.
+**[[Whispering Wind]] (Sp)**: After attaining 3rd level, the wind walker can cast [[whispering wind]] as a caster of a level equal to his wind walker level. The wind walker gains additional uses of this ability as shown in the wind walker level advancement table.
 
 **Friend of the Winds (Su)**: At 6th-level, a wind walker counts as two size categories larger when determining the effects severe wind have on him. See Table: [[Wind Effects]].
 
 **Fly (Sp)**: After attaining 7th level, the wind walker can cast fly as a caster of a level equal to his wind walker level. The wind walker gains additional uses of this ability as shown in the wind walker level advancement table.
 
-**Air Spell Immunity (Su)**: At 9th level, a wind walker is immune to spells with the air descriptor, as though the spell failed to penetrate spell resistance. The wind walker may suppress this immunity for a specific effect he wishes to benefit from, such as the wind walk spell, using a standard action. Reactivating the ability is also a standard action.
+**Air Spell Immunity (Su)**: At 9th level, a wind walker is immune to spells with the air descriptor, as though the spell failed to penetrate spell resistance. The wind walker may suppress this immunity for a specific effect he wishes to benefit from, such as the [[wind walk]] spell, using a standard action. Reactivating the ability is also a standard action.
 
 **Air Domain**: A 12th-level wind walker receives the granted powers of the [[Air domain]]. At 14th-level, the wind walker gains access to the domain spells of the Air domain just like a cleric; he may prepare and cast the domain spell listed for each level once a day so long as he is of a level high enough to cast spells of that level. A wind walker cannot use the spontaneous spellcasting ability with these spells.
 
 **Timeless Body (Ex)**: After attaining 15th level, a wind walker no longer takes ability score penalties for aging (see Table: [[Aging Effects]]) and cannot be magically aged. Any penalties he may have already incurred, however, remain in place. Bonuses still accrue, and the wind walker still dies of old age when his time is up.
 
-**Elemental Shape (Su)**: At 16th level, a wind walker can take the form of a Small, Medium, or Large air elemental once per day. This ability functions like the polymorph spell, except as noted here. The effect lasts for 1 hour per wind walker level, or until he changes back. Changing form (to elemental or back) is a standard action and doesn't provoke an attack of opportunity. The new form's Hit Dice can't exceed the character's wind walker level. The wind walker gains all the elemental's extraordinary, supernatural, and spell-like abilities. He also gains the elemental's feats for as long as he maintains the elemental shape, but he retains his own creature type (humanoid, in most cases).
+**Elemental Shape (Su)**: At 16th level, a wind walker can take the form of a Small, Medium, or Large air elemental once per day. This ability functions like the [[Compendium/Spells/Polymorph|polymorph]] spell, except as noted here. The effect lasts for 1 hour per wind walker level, or until he changes back. Changing form (to elemental or back) is a standard action and doesn't provoke an attack of opportunity. The new form's Hit Dice can't exceed the character's wind walker level. The wind walker gains all the elemental's extraordinary, supernatural, and spell-like abilities. He also gains the elemental's feats for as long as he maintains the elemental shape, but he retains his own creature type (humanoid, in most cases).
 
 At 18th level, a wind walker becomes able to assume elemental form twice per day, and at 20th level he can do so three times per day. At 20th level, a druid may use this elemental shape ability to change into a Huge elemental.
 
@@ -1749,7 +1751,7 @@ Winter wardens can be found in any cold locale, and many follow the winter seaso
 
 ##### Class Skills
 
-The winter warden's class skills (and the key ability for each skill) are Balance (Dex), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Knowledge]] (geography) (Int), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The winter warden's class skills (and the key ability for each skill) are Balance (Dex), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (geography) (Int), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -1763,7 +1765,7 @@ The winter warden's class skills (and the key ability for each skill) are Balanc
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |0|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
 |1st|+0|+2|+0|+2|Animal companion, cold casting, nature sense, wild empathy|3|1|—|—|—|—|—|—|—|—|
-|2nd|+1|+3|+0|+3|Ray of frost|4|2|—|—|—|—|—|—|—|—|
+|2nd|+1|+3|+0|+3|[[Ray of frost]]|4|2|—|—|—|—|—|—|—|—|
 |3rd|+2|+3|+1|+3|Drift stride|4|2|1|—|—|—|—|—|—|—|
 |4th|+3|+4|+1|+4|Trackless step|5|3|2|—|—|—|—|—|—|—|
 |5th|+3|+4|+1|+4|Ice stride|5|3|2|1|—|—|—|—|—|—|
@@ -1774,14 +1776,14 @@ The winter warden's class skills (and the key ability for each skill) are Balanc
 |10th|+7/+2|+7|+3|+7|Wild shape (Large)|6|4|4|3|3|2|—|—|—|—|
 |11th|+8/+3|+7|+3|+7|Wild shape (4/day)|6|5|4|4|3|2|1|—|—|—|
 |12th|+9/+4|+8|+4|+8|Resistance to cold 10|6|5|4|4|3|3|2|—|—|—|
-|13th|+9/+4|+8|+4|+8|Wall of ice 1/day|6|5|5|4|4|3|2|1|—|—|
+|13th|+9/+4|+8|+4|+8|[[Wall of ice]] 1/day|6|5|5|4|4|3|2|1|—|—|
 |14th|+10/+5|+9|+4|+9|Wild shape (5/day)|6|5|5|4|4|3|3|2|—|—|
 |15th|+11/+6/+1|+9|+5|+9|Resistance to cold 20|6|5|5|5|4|4|3|2|1|—|
 |16th|+12/+7/+2|+10|+5|+10|Wild shape (Huge)|6|5|5|5|4|4|3|3|2|—|
-|17th|+12/+7/+2|+10|+5|+10|Otiluke's freezing sphere 1/day|6|5|5|5|5|4|4|3|2|1|
+|17th|+12/+7/+2|+10|+5|+10|Otiluke's [[freezing sphere]] 1/day|6|5|5|5|5|4|4|3|2|1|
 |18th|+13/+8/+3|+11|+6|+11|Immunity to cold|6|5|5|5|5|4|4|3|3|2|
 |19th|+14/+9/+4|+11|+6|+11|Wild shape (6/day)|6|5|5|5|5|5|4|4|3|3|
-|20th|+15/+10/+5|+12|+6|+12|Polar ray 1/day|6|5|5|5|5|5|4|4|4|4|
+|20th|+15/+10/+5|+12|+6|+12|[[Polar ray]] 1/day|6|5|5|5|5|5|4|4|4|4|
 
 ##### Class Features
 
@@ -1803,15 +1805,15 @@ All of the following are class features of the winter warden.
 
 **Wild Empathy (Ex)**: This class feature is the same as the druid class feature of the same name described in the Player's Handbook except that the winter warden does not suffer the usual penalty when using this ability on a magical beast of the cold subtype.
 
-**Ray of Frost (Sp)**: At 2nd level, ray of frost is added to the winter warden's spell list as a 0-level spell. He can prepare and cast the spell as part of his normal allotment of druid spells.
+**[[Ray of Frost]] (Sp)**: At 2nd level, [[ray of frost]] is added to the winter warden's spell list as a 0-level spell. He can prepare and cast the spell as part of his normal allotment of druid spells.
 
-**Drift Stride (Su)**: Starting at 3rd level, a winter warden can move across the top of snow and not step into it or be impeded in his progress over a snowy area, similar to the effects of a water walk spell. Snow enchanted or magically manipulated to impede movement still affects the winter warden.
+**Drift Stride (Su)**: Starting at 3rd level, a winter warden can move across the top of snow and not step into it or be impeded in his progress over a snowy area, similar to the effects of a [[water walk]] spell. Snow enchanted or magically manipulated to impede movement still affects the winter warden.
 
 **Trackless Step (Ex)**: This class feature is the same as the druid class feature of the same name described in the Player's Handbook.
 
-**Ice Stride (Su)**: Starting at 5th level, a winter warden can move across ice and not step onto it or be impeded in his progress over an icy area, similar to the effects of a water walk spell. He does not take two squares of movement to enter an icy area, and Balance. Tumble, or Climb DCs in the area are not increased for him. This ability does not protect the winter warden from the cold of the ice or the negative effects due to long contact. Ice enchanted or magically manipulated to impede movement still affects the winter warden.
+**Ice Stride (Su)**: Starting at 5th level, a winter warden can move across ice and not step onto it or be impeded in his progress over an icy area, similar to the effects of a [[water walk]] spell. He does not take two squares of movement to enter an icy area, and Balance. Tumble, or Climb DCs in the area are not increased for him. This ability does not protect the winter warden from the cold of the ice or the negative effects due to long contact. Ice enchanted or magically manipulated to impede movement still affects the winter warden.
 
-**Wild Shape (Su)**: At 6th level, a winter warden gains the ability to turn himself into any Small or Medium animal and back again once per day. His options for new forms include any creature of the animal type. This ability functions like the polymorph spell, except as noted here. The effect lasts for 1 hour per winter warden level, or until he changes back. Changing form (to animal or back) is a standard action and doesn't provoke an attack of opportunity. The form chosen must be that of an animal the winter warden is familiar with, usually a creature that exists in arctic climes.
+**Wild Shape (Su)**: At 6th level, a winter warden gains the ability to turn himself into any Small or Medium animal and back again once per day. His options for new forms include any creature of the animal type. This ability functions like the [[Compendium/Spells/Polymorph|polymorph]] spell, except as noted here. The effect lasts for 1 hour per winter warden level, or until he changes back. Changing form (to animal or back) is a standard action and doesn't provoke an attack of opportunity. The form chosen must be that of an animal the winter warden is familiar with, usually a creature that exists in arctic climes.
 
 A winter warden loses his ability to speak while in animal form because he is limited to the sounds that an untrained animal can make, but he can communicate normally with other animals of the same general grouping as his new form.
 
@@ -1819,15 +1821,14 @@ A winter warden can use this ability more times per day as noted on the winter w
 
 **Resistance to Cold (Ex)**: Starting at 9th level, a winter warden gains resistance to cold 5. This resistance increases as the winter warden gains levels, as shown on the winter warden advancement chart.
 
-**Wall of Ice (Sp)**: After 13th level, the winter warden can cast wall of ice as a caster of a level equal to his winter warden level once per day.
+**[[Wall of Ice]] (Sp)**: After 13th level, the winter warden can cast [[wall of ice]] as a caster of a level equal to his winter warden level once per day.
 
-**Otiluke's Freezing Sphere (Sp)**: After 17th level, the winter warden can cast Otiluke's freezing sphere as a caster of a level equal to his winter warden level once per day.
+**Otiluke's [[Freezing Sphere]] (Sp)**: After 17th level, the winter warden can cast Otiluke's [[freezing sphere]] as a caster of a level equal to his winter warden level once per day.
 
 **Immunity to Cold (Ex)**: Starting at 18th level, a winter warden is immune to cold damage.
 
-**Polar Ray (Sp)**: At 20th level, the winter warden can cast polar ray as a caster of a level equal to his winter warden level once per day.
+**[[Polar Ray]] (Sp)**: At 20th level, the winter warden can cast [[polar ray]] as a caster of a level equal to his winter warden level once per day.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Forge Ring]
+aliases:
+ - Forge Ring
 title: Forge Ring
 tags: Feat, Item_Creation_Feat
 ---
@@ -26,5 +27,4 @@ Source :
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

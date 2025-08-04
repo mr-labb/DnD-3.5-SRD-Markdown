@@ -1,5 +1,6 @@
 ---
-aliases: [Discern Lies]
+aliases:
+ - Discern Lies
 title: Compendium/Basics/Spell/Discern Lies
 tags:
   - 35E_SRD
@@ -40,9 +41,13 @@ Each round, you focus on one subject within range. You detect if the creature **
 - It does **not detect accidental falsehoods or evasive phrasing**  
 - You may switch targets **each round**, provided the new subject is within range
 
-**Source:** PHB P221
+**Source :** PHB P221
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

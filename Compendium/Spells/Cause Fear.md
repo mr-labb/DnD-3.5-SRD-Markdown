@@ -1,5 +1,6 @@
 ---
-aliases: [Cause Fear]
+aliases:
+ - Cause Fear
 title: Compendium/Basics/Spell/Cause Fear
 tags: 
   - 35E_SRD
@@ -37,11 +38,15 @@ One creature of 5 HD or less flees for 1d4 rounds.
 The targeted creature becomes **frightened** for 1d4 rounds. If it succeeds on a **Will save**, it is instead **shaken for 1 round**.
 
 - Creatures with **6 or more Hit Dice** are immune to this effect.
-- *Cause Fear* **counters and dispels** *remove fear*.
+- *Cause Fear* **counters and dispels** *[[remove fear]]*.
 
-Source : PHB P208
+**Source :** PHB P208
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

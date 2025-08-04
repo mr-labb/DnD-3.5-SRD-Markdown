@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Races]
+aliases:
+ - Races
 title: Compendium/Basics/Races
 ---
 
@@ -40,7 +41,7 @@ A character's favored class doesn't count against him or her when determining ex
 
 ##### Race And Languages
 
-In a big city, visitors can hear all manner of languages being spoken. Dwarves haggle over gems in Dwarven, elf sages engage in learned debates in Elven, and preachers call out prayers in Celestial. The language heard most, however, is Common, a tongue shared by all who take part in the culture at large. With all these languages in use, it is easy for people to learn other languages, and adventurers often speak several tongues.
+In a big city, visitors can hear all manner of languages being spoken. Dwarves haggle over gems in Dwarven, elf sages engage in learned debates in Elven, and preachers call out prayers in Celestial. The language heard most, however, is Common, a tongue shared by all who take part in the culture at large. With all these languages in use, it is easy for people to learn other languages, and adventurers often speak several [[tongues]].
 
 All characters know how to speak Common. A dwarf, elf, gnome, half-elf, half-orc, or halfling also speaks a racial language, as appropriate. A character who has an Intelligence bonus at 1st level speaks other languages as well, one extra language per point of Intelligence bonus as a starting character. Select your character's bonus languages (if any) from the list found in his or her race's description later in this chapter.
 
@@ -87,9 +88,8 @@ A number of the minor races, particularly nonhumanoids, begin play with some num
 
 **Racial Saving Throw Bonuses**: The character begins with the base Fortitude, Reflex, and Will saving throw bonuses listed. He adds the saving throw bonuses for his class levels to his racial saves to determine his total saving throw bonuses, which are then modified by the appropriate ability scores, magic items, and other conditions that modify saving throws.
 
-**Racial Skills**: Depending on the creature type of the character's race, he begins with a number of racial skill points. These skill points may be spent on any skills the character likes. The character gains quadruple skill points for the first Hit Die of his race - or, in other words, the number of skill points a character gains for his racial Hit Dice equals (racial skill point allowance per Hit Die + Intelligence modifier, minimum 1) × (racial Hit Dice + 3).
+**Racial Skills**: Depending on the creature type of the character's race, he begins with a number of racial skill points. These skill points may be spent on any skills the character likes. The character gains quadruple skill points for the first Hit Die of his race - or, in other words, the number of skill points a character gains for his racial Hit Dice equals (racial skill point allowance per Hit Die + Intelligence modifier, minimum 1) Ã— (racial Hit Dice + 3).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

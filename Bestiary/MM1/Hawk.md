@@ -1,25 +1,27 @@
 ---
-aliases: [Hawk]
+aliases:
+ - Hawk
 title: Bestiary/MM1/Hawk
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Hawk
 Size: Tiny
 Type: Animal
 Subtype: 
-CR: 0.3
+CR: 0
 Environnent: Temperate forests
 Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Hawk
+image: [[Hawk.PNG]]
 race: Hawk
 class: 
 level: 
@@ -27,59 +29,75 @@ size: Tiny
 type: Animal
 subtype: 
 alignment: 
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "17 (+2 size, +3 Dex, +2 natural), touch 15, flat-footed 14"
+ac: 17
 touch: 15
-flat_footed: 14
-hit_point:
-  - name: hp
-    desc: "4 ; 1d8"
-speed: 10 ft. (2 squares), fly 60 ft. (average)
-
-abilities: [6, 17, 10, 2, 14, 6]
-saves:
-  - Fort: +2
-  - Ref: +5
-  - Will: +2
-damage_resist: 
-spell_resist: 
+flatfooted: 14
+AC_desc: +2 size, +3 Dex, +2 natural
+hp: 4
+hit_dice: 1d8
 initiative: 3
+speed: 10 ft. (2 squares), fly 60 ft. (average)
 space/reach: 2-1/2 ft./0 ft.
-CR: 0.3
+stats:
+  - 6
+  - 17
+  - 10
+  - 2
+  - 14
+  - 6
+saves:
+ - Fortitude : 2
+ - Reflex : 5
+ - Will : 2
+skillsaves:
+ - Listen: +2
+ - Spot: +14
 base_attack/grapple: +0/-10
-attack: Talons +5 melee (1d4-2)
-full_attack: Talons +5 melee (1d4-2)
-special_attacks: -
-
-special_qualities:
-  - name: 
-    desc: Low-light vision
-
-skills:
-  - Listen: +2
-  - Spot: +14
-feats: [[Weapon Finesse]]
-weak: 
 environment: Temperate forests
 organization: Solitary or pair
 treasure: 
 advancement: -
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 0
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Low-light vision
+actions:
+  - name: Full Attack
+    desc: "Talons +5 melee (1d4-2)"
+  - name: Attack
+    desc: "Talons +5 melee (1d4-2)"
+  - name: special attacks
+    desc: "-"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Weapon Finesse
+combat_gear:  
 ```
 
-## Description
 
-<p>These creatures are similar to eagles but slightly smaller: 1 to 2 feet long, with wingspans of 6 feet or less.</p>
-<p>Combat</p>
-<p>Hawks combine both talons into a single attack.</p>
-<p>
-            <b>Skills:</b> Hawks have a +8 racial bonus on Spot checks.</p>
+These creatures are similar to eagles but slightly smaller: 1 to 2 feet long, with wingspans of 6 feet or less.
+
+Combat
+
+Hawks combine both talons into a single attack.
+
+
+**Skills:** Hawks have a +8 racial bonus on Spot checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

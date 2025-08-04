@@ -1,5 +1,7 @@
 ---
-aliases: [Archon, Hound]
+aliases:
+ - Archon
+ - Hound
 title: Bestiary/MM1/Archon, Hound
 tags: [35E_SRD, Monster]
 Monster: Archon, Hound

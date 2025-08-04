@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Barbed (hamatula)]
+aliases:
+ - Devil
+ - Barbed (hamatula)
 title: Bestiary/MM1/Devil, Barbed (hamatula)
 tags: [35E_SRD, Monster]
 Monster: Devil, Barbed (hamatula)

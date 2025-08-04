@@ -2,7 +2,7 @@
 
 Inevitables are constructs whose sole aim is to enforce the natural laws of the universe. 
 
-Each type of inevitable is designed to find and punish a particular kind of transgression, hunting down a person or group that has violated a fundamental principle. When an inevitable is created, it receives its first mission, then finds the transgressors and metes out appropriate punishment. The sentence is usually death, although some inevitables insist on compensation to the wronged party instead, using *geas* and *mark of justice* to ensure compliance. From its first step, an inevitable focuses totally on its target. It continues its efforts no matter how cold the trail or hopeless the task. Inevitables are single-minded in pursuit of their quarry, but they are under orders to leave innocents alone. Accomplices to their prey are fair game, however, which sometimes creates conflicts within their programming. 
+Each type of inevitable is designed to find and punish a particular kind of transgression, hunting down a person or group that has violated a fundamental principle. When an inevitable is created, it receives its first mission, then finds the transgressors and metes out appropriate punishment. The sentence is usually death, although some inevitables insist on compensation to the wronged party instead, using *geas* and *[[mark of justice]]* to ensure compliance. From its first step, an inevitable focuses totally on its target. It continues its efforts no matter how cold the trail or hopeless the task. Inevitables are single-minded in pursuit of their quarry, but they are under orders to leave innocents alone. Accomplices to their prey are fair game, however, which sometimes creates conflicts within their programming. 
 
 Inevitables gladly sacrifice themselves to complete a mission, but they aren't suicidal. Faced with impending defeat, they are likely to withdraw and seek a way to even the odds. They are determined but patient foes. They ally with others if that helps accomplish their mission, but they have a hard time keeping allies for long. 
 
@@ -23,5 +23,8 @@ An inevitable heals a certain amount of damage each round (specified in each var
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

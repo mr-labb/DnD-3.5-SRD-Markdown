@@ -1,5 +1,6 @@
 ---
-aliases: [Greater Dispel Magic]
+aliases:
+ - Greater Dispel Magic
 title: Compendium/Basics/Spell/Dispel Magic, Greater
 tags:
   - 35E_SRD
@@ -23,7 +24,7 @@ Source: PHB
 
 ## Greater Dispel Magic
 
-As Dispel Magic, but +20 on check.
+As [[Dispel Magic]], but +20 on check.
 
 ### Spell Details
 
@@ -42,7 +43,7 @@ As Dispel Magic, but +20 on check.
 This spell functions like [[Dispel Magic]], with improved potency:
 
 - Maximum caster level bonus on your **dispel check** is increased to **+20** (instead of +10)
-- Can affect all targets and areas in the same manner as the standard dispel magic:
+- Can affect all targets and areas in the same manner as the standard [[dispel magic]]:
   - Targeted dispel  
   - Area dispel  
   - Counterspell
@@ -52,9 +53,13 @@ This spell functions like [[Dispel Magic]], with improved potency:
 - May dispel effects that can be removed by [[Remove Curse]], **even if** those effects cannot be dispelled by regular [[Dispel Magic]]
 
 
-**Source:** PHB P223
+**Source :** PHB P223
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

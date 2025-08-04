@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Monk]
+aliases:
+ - Monk
 title: Compendium/Basics/Classe/Monk
 tag: Class, Monk
 ---
@@ -9,7 +10,8 @@ tag: Class, Monk
 
 ### MONK
 
-
+<br><br>Dotted across the landscape are monasteries - small, walled cloisters inhabited by monks who pursue personal perfection through action as well as contemplation. They train themselves to be versatile warriors skilled at fighting without weapons or armor. The inhabitants of monasteries headed by good masters serve as protectors of the people. Ready for battle even when barefoot and dressed in peasant clothes, monks can travel unnoticed among the populace, catching bandits, warlords, and corrupt nobles unawares. In contrast, the residents of monasteries headed by evil masters rule the surrounding lands through fear, as an evil warlord and his entourage might. Evil monks make ideal spies, infiltrators, and assassins.<br><br>The individual monk is unlikely to care passionately about championing commoners or amassing wealth. She cares primarily for the perfection of her art and, thereby, her personal perfection. Her goal is to achieve a state that is beyond the mortal realm.<br><br>A monk approaches an adventure as if it were a personal test. While not prone to showing off, monks are willing to try their skills against whatever obstacles confront them. They are not greedy for material wealth, but they eagerly seek that which can help them perfect their art.<br><br>The key feature of the monk is her ability to fight unarmed and unarmored. Thanks to her rigorous training, she can strike as hard as if she were armed and strike faster than a warrior with a sword.<br><br>Though a monk casts no spells, she has a magic of her own. She channels a subtle energy, called ki, which allows her to perform amazing feats. The monk's best-known feat is her ability to stun an opponent with an unarmed blow. A monk also has a preternatural awareness that allows her to dodge an attack even if she is not consciously aware of it.<br><br>As the monk gains experience and power, her mundane and kioriented abilities grow, giving her more and more power over herself and, sometimes, over others.<br><br>A monk's training requires strict discipline. Only those who are lawful at heart are capable of undertaking it.<br><br>A monk's training is her spiritual path. She is innerdirected and capable of a private, mystic connection to the spiritual world, so she needs neither clerics nor gods. Certain lawful gods, however, may appeal to monks, who may meditate on the gods' likenesses and attempt to emulate their deeds. The three most likely candidates for a monk's devotion are Heironeous (god of valor), St. Cuthbert (god of retribution), and Hextor (god of tyranny).<br><br>A monk typically trains in a monastery. Most monks were children when they joined the monastery, sent to live there when their parents died, when there wasn't enough food to support them, or in return for some kindness that the monastery had performed for the family. Life in the monastery is so focused that by the time a monk sets off on her own, she feels little connection to her former family or village.<br><br>In larger cities, master monks have set up monk schools to teach their arts to those who are interested and worthy. The monks who study at these academies often see their rural cousins from the monasteries as backward.<br><br>A monk may feel a deep connection to her monastery or school, to the monk who taught her, to the lineage into which she was trained, or to all of these. Some monks, however, have no sense of connection other than to their own path of personal development. Monks recognize each other as a select group set apart from the rest of the populace. They may feel kinship, but they also love to compete with each other to see whose ki is strongest.<br><br>Monasteries are found primarily among humans, who have incorporated them into their ever-evolving culture. Thus, many monks are humans, and many are half-orcs and half-elves who live among humans. Elves are capable of single-minded, long-term devotion to an interest, art, or discipline, and some of them leave the forests to become monks. The monk tradition is alien to dwarf and gnome culture, and halflings typically have too mobile a lifestyle to commit themselves to a monastery, so dwarves, gnomes, and halflings very rarely become monks.<br><br>The savage humanoids do not have the stable social structure that allows monk training, but the occasional orphaned or abandoned child from some humanoid tribe winds up in a civilized monastery or is adopted by a wandering master. The evil subterranean elves known as the drow have a small but successful monk tradition.<br><br>Monks sometimes seem distant because they often have neither motivation nor skills in common with members of other classes. Monks do, however, work well with the support of others, and they usually prove themselves reliable companions. Role: The monk functions best as an opportunistic combatant, using her speed to get into and out of combat quickly rather than engaging in prolonged melees. She also makes an excellent scout, particularly if she focuses her skill selection on stealth.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any lawful.
 
@@ -17,7 +19,7 @@ tag: Class, Monk
 
 ###### Class Skills
 
-The monk's class skills (and the key ability for each skill) are [[Balance]] (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Escape Artist]] (Dex), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (arcana) (Int), [[Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), [[Spot]] (Wis), [[Swim]] (Str), and [[Tumble]] (Dex).
+The monk's class skills (and the key ability for each skill) are [[Balance]] (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Escape Artist]] (Dex), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), [[Spot]] (Wis), [[Swim]] (Str), and [[Tumble]] (Dex).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -108,7 +110,7 @@ A monk also deals more damage with her unarmed strikes than a normal person woul
 
 **Diamond Body (Su)**: At 11th level, a monk gains immunity to poisons of all kinds.
 
-**Abundant Step (Su)**: At 12th level or higher, a monk can slip magically between spaces, as if using the spell dimension door, once per day. Her caster level for this effect is one-half her monk level (rounded down).
+**Abundant Step (Su)**: At 12th level or higher, a monk can slip magically between spaces, as if using the spell [[dimension door]], once per day. Her caster level for this effect is one-half her monk level (rounded down).
 
 **Diamond Soul (Ex)**: At 13th level, a monk gains spell resistance equal to her current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk's spell resistance.
 
@@ -118,7 +120,7 @@ A monk also deals more damage with her unarmed strikes than a normal person woul
 
 **Tongue of the Sun and Moon (Ex)**: A monk of 17th level or higher can speak with any living creature.
 
-**Empty Body (Su)**: At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spell etherealness. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level.
+**Empty Body (Su)**: At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spell [[Compendium/Spells/Etherealness|etherealness]]. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level.
 
 **Perfect Self**: At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk's creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/magic, which allows her to ignore the first 10 points of damage from any attack made by a nonmagical weapon or by any natural attack made by a creature that doesn't have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type.
 
@@ -152,7 +154,7 @@ This alternate class feature replaces the standard monk's slow fall class featur
 
 #### Bane of the Clockwork
 
-Due to your [[Knowledge]] of all things constructed from metal and coils, you are intimately aware of a construct's flaws.
+Due to your [[Compendium/Basics/Skills/Knowledge]] of all things constructed from metal and coils, you are intimately aware of a construct's flaws.
 
 **Level**: 3rd.
 
@@ -168,7 +170,7 @@ These kind and enduring monks dedicated to Ilmater are focused on defending the 
 
 ##### Requirements
 
-To take a Broken One substitution level, a character must have Ilmater as her patron deity, be a member of the Broken Ones, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 6th, or 7th level of monk.
+To take a Broken One substitution level, a character must have Ilmater as her patron deity, be a member of the Broken Ones, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 6th, or 7th level of monk.
 
 ##### Class Skills
 
@@ -184,7 +186,7 @@ Broken One substitution levels have the class skills of the standard monk class 
 |---|---|---|---|---|---|---|---|---|---|
 |3rd|+2|+3|+3|+3|Lay on hands|+0/+0|1d6|+0|+10 ft.|
 |6th|+4|+5|+5|+5|Tenacious tracker, slow fall 30 ft.|+3/+3|1d8|+1|+20 ft.|
-|7th|+5|+5|+5|+5|Locate creature|+4/+4|1d8|+1|+20 ft.|
+|7th|+5|+5|+5|+5|[[Locate creature]]|+4/+4|1d8|+1|+20 ft.|
 
 ##### Class Features
 
@@ -200,7 +202,7 @@ Furthermore, whenever she physically touches the flesh of one who has been injur
 
 This benefit replaces the bonus feat gained by a standard monk at 6th level.
 
-**Locate Creature (Sp)**: Starting at 7th level, a Broken One can use locate creature once per day, but only when attempting to find a creature that has Loviatar as a patron deity. Her caster level is equal to her class level.
+**[[Locate Creature]] (Sp)**: Starting at 7th level, a Broken One can use [[locate creature]] once per day, but only when attempting to find a creature that has Loviatar as a patron deity. Her caster level is equal to her class level.
 
 This benefit replaces the wholeness of body class feature gained by a standard monk at 7th level.
 
@@ -280,7 +282,7 @@ The Monks of the Dark Moon are sorcerer-monks who have dedicated their bodies, m
 
 ##### Requirements
 
-To take a Dark Moon Disciple substitution level, a character must be a member of the Monks of the Dark Moon sect, have Shar as her patron deity, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 7th, or 12th level of monk.
+To take a Dark Moon Disciple substitution level, a character must be a member of the Monks of the Dark Moon sect, have Shar as her patron deity, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 7th, or 12th level of monk.
 
 ##### Class Skills
 
@@ -300,7 +302,7 @@ This benefit replaces the still mind class feature that the standard monk gains 
 
 This benefit replaces the wholeness of body class feature that the standard monk gains at 7th level.
 
-**Walk the Shadows (Su)**: At 12th level, a Dark Moon Disciple can jump from shadow to shadow. This ability works like the dimension door spell, except that the Dark Moon Disciple can leave and arrive only in areas of shadowy illumination. The caster level equals the character's monk level, and Dark Moon Disciple substitution levels count as monk levels for this purpose. This ability is usable once per day.
+**Walk the Shadows (Su)**: At 12th level, a Dark Moon Disciple can jump from shadow to shadow. This ability works like the [[dimension door]] spell, except that the Dark Moon Disciple can leave and arrive only in areas of shadowy illumination. The caster level equals the character's monk level, and Dark Moon Disciple substitution levels count as monk levels for this purpose. This ability is usable once per day.
 
 This benefit replaces the abundant step class feature that a standard monk gains at 12th level.
 
@@ -350,9 +352,9 @@ A clever villain has many contingencies in place, so that if a plan goes awry, h
 
 **Benefit**: As an immediate action, you can enter a catatonic state in which you appear to be dead. While feigning death, you cannot see or feel anything, but you retain the ability to smell, hear, and otherwise follow what is going on around you.
 
-While under the effect of this ability, you are immune to all mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, ability drain, negative levels, and death effects. Attempts to resuscitate you, such as raise dead or reincarnation, automatically fail, though resurrection and true resurrection immediately end your feign death ability.
+While under the effect of this ability, you are immune to all mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, ability drain, negative levels, and death effects. Attempts to resuscitate you, such as [[raise dead]] or reincarnation, automatically fail, though resurrection and [[true resurrection]] immediately end your feign death ability.
 
-Spells and other effects that assess your current condition, such as status and deathwatch, indicate that you are dead. However, a character who succeeds on a Heal check (DC 15 + 1/2 your level + your Con modifier) can discern that you are actually alive.
+Spells and other effects that assess your current condition, such as status and [[deathwatch]], indicate that you are dead. However, a character who succeeds on a Heal check (DC 15 + 1/2 your level + your Con modifier) can discern that you are actually alive.
 
 You can remain in the catatonic state indefinitely, though you still require food, water, and air. Emerging from feigned death is a standard action.
 
@@ -372,7 +374,7 @@ Born Siddhartha Guatama in the 6th century BCE, Buddha founded a philosophy on F
 
 Part teacher and part ascetic, a Buddhist monk wanders from villages to serene mountaintops searching for the path of wisdom. Even after attaining enlightenment, some monks still adventure. Known as bodhisattvas in the Buddhist tradition, they attained enlightenment but refused Nirvana so as to teach others how to seek the way. Such teachers are greatly revered.
 
-A Buddhist monk adventures to seek [[Knowledge]] and attain enlightenment. In addition, he adventures to teach others about the path of enlightenment and the inevitable suffering that desire causes. Because the Buddhist monk uses an exalted feat, a monk must be lawful good to take this fighting style.
+A Buddhist monk adventures to seek [[Compendium/Basics/Skills/Knowledge]] and attain enlightenment. In addition, he adventures to teach others about the path of enlightenment and the inevitable suffering that desire causes. Because the Buddhist monk uses an exalted feat, a monk must be lawful good to take this fighting style.
 
 |   |   |
 |---|---|
@@ -413,7 +415,7 @@ The Denying Stance seeks to neutralize the opponent's maneuvers, thwarting him a
 
 Founded in 1209 by St. Francis of Assisi, the Franciscans (also known as Grey Friars) practiced charity and led lives as mendicants - that is, they practiced begging as a lifestyle.
 
-Friars maintained an ascetic life organized around vows of poverty, humility, and chastity. The Church expected them to forgo material possessions, live in faith and obedience, and eschew the roles of husbands and fathers in exchange for serving God. Friars differed from monks in the application of their vows to their faith. Whereas monks maintained an ascetic life in monastic seclusion, friars kept no permanent abode. Rather, they begged for a living and performed charity in all acts while traveling the countryside. Peasants recognized the Franciscan Friars as teachers and healers. Living alongside the poor earned them first-hand [[Knowledge]] of the hardships of poverty, which in turn earned them respect among both peasant and noble alike.
+Friars maintained an ascetic life organized around vows of poverty, humility, and chastity. The Church expected them to forgo material possessions, live in faith and obedience, and eschew the roles of husbands and fathers in exchange for serving God. Friars differed from monks in the application of their vows to their faith. Whereas monks maintained an ascetic life in monastic seclusion, friars kept no permanent abode. Rather, they begged for a living and performed charity in all acts while traveling the countryside. Peasants recognized the Franciscan Friars as teachers and healers. Living alongside the poor earned them first-hand [[Compendium/Basics/Skills/Knowledge]] of the hardships of poverty, which in turn earned them respect among both peasant and noble alike.
 
 Franciscan friars emphasize humility and charity as wandering teachers. They adventure to help the poor and bring relief to those who suffer. Because the Franciscan friar uses an exalted feat, a monk must be lawful good to take this fighting style.
 
@@ -423,7 +425,7 @@ Franciscan friars emphasize humility and charity as wandering teachers. They adv
 |1st-Level Feat:|[[Self-Sufficient]].|
 |2nd-Level Feat:|[[Vow of Chastity]].|
 |6th-Level Feat:|[[Diehard]].|
-|6th-Level Bonus Ability:|Your work with the poor and the suffering has taught you many secrets of healing. You gain the ability to cast cure light wounds, purify food and drink, and remove disease once each per day as a spell-like ability (caster level equals half your monk level).|
+|6th-Level Bonus Ability:|Your work with the poor and the suffering has taught you many secrets of healing. You gain the ability to cast [[cure light wounds]], [[purify food and drink]], and [[remove disease]] once each per day as a spell-like ability (caster level equals half your monk level).|
 |Prerequisites:|Heal 4 ranks, Survival 4 ranks.|
 
 ##### HAND AND FOOT
@@ -471,7 +473,7 @@ A Knight Hospitaller adventures to protect others or some sacred and honored sit
 
 ##### KYOKUSHINKAI KARATE
 
-Kyokushinkai karate, or the "School of Ultimate Truth," is an aggressive Japanese form of martial arts characterized by its highly offensive nature and emphasis on intense conditioning. Kyokushinkai practitioners perform a variety of brutal body hardening exercises during training to callus their bodies in preparation for martial combat. Stylistically, monks who practice kyokushinkai distinguish themselves from other linear martial arts forms in their use of circular movements when executing strikes.
+Kyokushinkai karate, or the "School of Ultimate Truth," is an aggressive Japanese form of martial arts characterized by its highly offensive nature and emphasis on intense conditioning. Kyokushinkai practitioners perform a variety of brutal body [[hardening]] exercises during training to callus their bodies in preparation for martial combat. Stylistically, monks who practice kyokushinkai distinguish themselves from other linear martial arts forms in their use of circular movements when executing strikes.
 
 In combat, a student of kyokushinkai engages the enemy purposefully, without hesitation. She makes few extemporaneous movements. The monk launches into an unyielding maelstrom of vicious kicks and punches, seeking to knockout or incapacitate her opponent as quickly as possible.
 
@@ -501,7 +503,7 @@ The smallest metrical unit in poetry is called the "syllable." There are two kin
 
 ##### OVERWHELMING ATTACK
 
-A monk trained in the Overwhelming Attack style always presses the advantage, preferring all-out offense over any form of defense. Some monks trained in other styles accuse them of unnecessary brutality, but it's hard to argue with the results. The Overwhelming Attack style is popular among the larger and stronger races, including half-orcs and even the occasional stone giant. It tends to be a very showy style, with many intimidating flourishes mixed in with devastating strikes. Monks who practice this style tend to be enemies of monks of the [[#Denying Stance]], thanks to an old enmity between the two styles.
+A monk trained in the Overwhelming Attack style always presses the advantage, preferring all-out offense over any form of defense. Some monks trained in other styles accuse them of unnecessary brutality, but it's hard to argue with the results. The Overwhelming Attack style is popular among the larger and stronger races, including half-orcs and even the occasional [[Giant_Stone|stone giant]]. It tends to be a very showy style, with many intimidating flourishes mixed in with devastating strikes. Monks who practice this style tend to be enemies of monks of the [[#Denying Stance]], thanks to an old enmity between the two styles.
 
 |   |   |
 |---|---|
@@ -598,7 +600,7 @@ Sacred enforcers of the goddess of death and magic frequently utilize the latter
 |2nd-Level Feat:|[[Skill Focus]] (Use Magic Device).|
 |6th-Level Feat:|[[Blind-Fight]].|
 |6th-Level Bonus Ability:|You gain a bonus on Use Magic Device checks equal to one-half your monk level.|
-|Prerequisites:|Use Magic Device 4 ranks, [[Knowledge]] (religion) 9 ranks.|
+|Prerequisites:|Use Magic Device 4 ranks, [[Compendium/Basics/Skills/Knowledge]] (religion) 9 ranks.|
 
 ##### SACRED PATH OF YONDALLA
 
@@ -625,12 +627,12 @@ A Shinto monk adventures to maintain the balance and nature of the kami. He hope
 
 |   |   |
 |---|---|
-|1st-Level Skill Bonus:|[[Knowledge]] (nature).|
+|1st-Level Skill Bonus:|[[Compendium/Basics/Skills/Knowledge]] (nature).|
 |1st-Level Feat:|[[Animal Affinity]].|
 |2nd-Level Feat:|[[Vow of Purity]].|
 |6th-Level Feat:|[[Nymphs Kiss|Nymph's Kiss]].|
 |6th-Level Bonus Ability:|Because of your great devotion to nature you gain an animal companion. Your effective druid level equals 1/3 your monk level. Levels in multiple classes that provide animal companions stack.|
-|Prerequisites:|Handle Animal 4 ranks, [[Knowledge]] (nature) 4 ranks.|
+|Prerequisites:|Handle Animal 4 ranks, [[Compendium/Basics/Skills/Knowledge]] (nature) 4 ranks.|
 
 ##### SLEEPING TIGER
 
@@ -779,7 +781,7 @@ Halfling monks of the Hin Fist are trained to use a foe's size against it. Their
 
 ##### Requirements
 
-To take a Hin Disciple substitution level, a character must be a halfling member of the Hin Fist order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of monk.
+To take a Hin Disciple substitution level, a character must be a halfling member of the Hin Fist order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of monk.
 
 ##### Class Skills
 
@@ -851,7 +853,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 #### Illuminated Monk
 
-Some monks find focus in meditation, cloistering themselves away to hone their intellects as well as their physiques and wits. Illuminated monks often serve as archive-keepers in libraries and teachers in schools and universities. Just as the sun personifies reason and wisdom, the illuminated monk studies all varieties of lore and passes on his [[Knowledge]] to others.
+Some monks find focus in meditation, cloistering themselves away to hone their intellects as well as their physiques and wits. Illuminated monks often serve as archive-keepers in libraries and teachers in schools and universities. Just as the sun personifies reason and wisdom, the illuminated monk studies all varieties of lore and passes on his [[Compendium/Basics/Skills/Knowledge]] to others.
 
 **Hit Die**: d6.
 
@@ -889,7 +891,7 @@ This substitution feature replaces the standard monk's bonus feat gained at 6th 
 
 #### Invisible Fist
 
-Monks who follow the Path of the Invisible Fist learn to harness their ki to conceal themselves from detection. With further training, these monks learn to blink between the Material Plane and the Ethereal Plane. To gain this versatility, they sacrifice their ability to escape unscathed from area effects.
+Monks who follow the Path of the Invisible Fist learn to harness their ki to conceal themselves from detection. With further training, these monks learn to [[blink]] between the Material Plane and the Ethereal Plane. To gain this versatility, they sacrifice their ability to escape unscathed from area effects.
 
 **Class**: Monk.
 
@@ -899,7 +901,7 @@ Monks who follow the Path of the Invisible Fist learn to harness their ki to con
 
 **Benefit**: As an immediate action, you can become invisible for 1 round. You must wait 3 rounds before you can use this ability again.
 
-At 9th level, as an immediate action, you can use blink, as the spell, for a number of rounds equal to your Wisdom modifier (minimum 1 round). You must wait 3 rounds before you can use this ability again.
+At 9th level, as an immediate action, you can use [[blink]], as the spell, for a number of rounds equal to your Wisdom modifier (minimum 1 round). You must wait 3 rounds before you can use this ability again.
 
 Invisible fist is a supernatural ability.
 
@@ -915,7 +917,7 @@ To take a kalashtar monk substitution level, a character must be a kalashtar abo
 
 ##### Class Skills
 
-Kalashtar monk substitution levels have the class skills of the standard monk class plus Autohypnosis and [[Knowledge]] (psionics).
+Kalashtar monk substitution levels have the class skills of the standard monk class plus Autohypnosis and [[Compendium/Basics/Skills/Knowledge]] (psionics).
 
 **Skill Points at Each Level**: 4 + Int modifier (or four times this number as a beginning character).
 
@@ -951,7 +953,7 @@ Some monks train as soldiers rather than as ascetic mystic warriors. These marti
 
 This variant simply swaps one or more of a class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
-**Lose**: -1 skill point per level (and -4 skill points at 1st level); no [[Knowledge]] skills as class skills.
+**Lose**: -1 skill point per level (and -4 skill points at 1st level); no [[Compendium/Basics/Skills/Knowledge]] skills as class skills.
 
 **Gain**: Fighter bonus feat list to choose monk bonus feats (at 1st, 2nd, and 6th level); Intimidate is class skill.
 
@@ -967,7 +969,7 @@ The Disciples of the Phoenix are unusual lawful good Kossuthan monks. They are e
 
 ##### Requirements
 
-To take a Phoenix Disciple substitution level, a character must be lawful good, have Kossuth as his patron deity, be a member of the Disciples of the Phoenix order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 3rd, or 12th level of monk.
+To take a Phoenix Disciple substitution level, a character must be lawful good, have Kossuth as his patron deity, be a member of the Disciples of the Phoenix order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 3rd, or 12th level of monk.
 
 ##### Class Skills
 
@@ -1027,7 +1029,7 @@ To take a monk planar substitution level, a character must be about to take her 
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1037,7 +1039,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Monk planar substitution levels have the class skills of the standard monk class plus [[Knowledge]] (the planes) (Int).
+Monk planar substitution levels have the class skills of the standard monk class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -1159,7 +1161,7 @@ The traditional monk seeks balance in body, mind, and soul, and through this equ
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the monk bonus feat normally acquired at 1st level.
 
@@ -1225,17 +1227,17 @@ Many masters of stealth share the signature talent to avoid explosive blasts of 
 
 **Level**: 2nd (monk or rogue), 5th (scout), or 9th (ranger).
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain evasion. (If you would later gain improved evasion as a special ability, you gain evasion instead.)
 
 **Benefit**: You gain the supernatural ability to reflect magical attacks back on their caster. If an enemy misses with a spell or spell-like ability aimed at you, you can use an immediate action to redirect the effect back at its originator. The spell or ability attacks the original caster (who makes a new attack roll using the same modifier as the original attack). If it hits, the caster is subject to the normal effect of the spell or ability.
 
-For example, if a 3rd-level wizard missed you with a scorching ray, you could use an immediate action to redirect the ray back to the wizard. The wizard would immediately make a new ranged attack roll (using the same modifier) against his own touch AC; if the attack succeeds, the scorching ray deals its normal damage to the wizard.
+For example, if a 3rd-level wizard missed you with a [[scorching ray]], you could use an immediate action to redirect the ray back to the wizard. The wizard would immediately make a new ranged attack roll (using the same modifier) against his own touch AC; if the attack succeeds, the [[scorching ray]] deals its normal damage to the wizard.
 
 This effect applies only to spells and spell-like abilities that require an attack roll. Other spells and spell-like abilities that affect a target aren't subject to this reflection.
 
-If a single spell or ability misses you more than once at the same time (such as scorching ray cast by a high-level caster), you can redirect each portion of the spell that missed. Using the example above, if you were missed by two of the three rays from an 11th-level wizard's scorching ray spell, you could redirect only those two rays (but not the one that hit).
+If a single spell or ability misses you more than once at the same time (such as [[scorching ray]] cast by a high-level caster), you can redirect each portion of the spell that missed. Using the example above, if you were missed by two of the three rays from an 11th-level wizard's [[scorching ray]] spell, you could redirect only those two rays (but not the one that hit).
 
 You can use this ability a number of times per day equal to 1 + your Dex modifier (minimum 1/day).
 
@@ -1277,7 +1279,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 **Lose**: Bonus feats at 2nd and 6th level, still mind.
 
-**Gain**: Detect chaos (as paladin's detect evil ability), uncanny dodge (as barbarian), improved uncanny dodge (as barbarian).
+**Gain**: [[Detect chaos]] (as paladin's [[detect evil]] ability), uncanny dodge (as barbarian), improved uncanny dodge (as barbarian).
 
 #### Wall Walker
 
@@ -1343,7 +1345,7 @@ The wild monk is a variant monk. Unless otherwise noted, a wild monk advances in
 
 ##### Class Skills
 
-The wild monk's class skills (and the key ability for each skill) are Balance (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), Move Silently (Dex), [[Profession]] (Wis), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and Tumble (Dex).
+The wild monk's class skills (and the key ability for each skill) are Balance (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), Move Silently (Dex), [[Profession]] (Wis), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and Tumble (Dex).
 
   
 
@@ -1384,5 +1386,4 @@ If a character has levels in both wild monk and druid, the wild shape abilities 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

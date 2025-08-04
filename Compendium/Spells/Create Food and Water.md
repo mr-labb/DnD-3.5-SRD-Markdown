@@ -1,5 +1,6 @@
 ---
-aliases: [Create Food and Water]
+aliases:
+ - Create Food and Water
 title: Compendium/Basics/Spell/Create Food and Water
 tags:
   - 35E_SRD
@@ -32,16 +33,20 @@ Feeds three humans (or one horse)/level.
 
 ### Description
 
-The food that this spell creates is simple fare of your choice — highly nourishing, if rather bland.  
+The food that this spell creates is simple fare of your choice â€” highly nourishing, if rather bland.  
 - Food created decays and becomes inedible within 24 hours.  
 - It can be kept fresh for another 24 hours by casting [[Purify Food and Drink]] on it.  
 - The water created is like clean rainwater and does not spoil.
 
 ---
 
-**Source:** PHB P214
+**Source :** PHB P214
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

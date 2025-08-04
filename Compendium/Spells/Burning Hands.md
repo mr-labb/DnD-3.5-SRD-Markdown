@@ -1,5 +1,6 @@
 ---
-aliases: [Burning Hands]
+aliases:
+ - Burning Hands
 title: Compendium/Basics/Spell/Burning Hands
 tags: 
   - 35E_SRD
@@ -32,9 +33,13 @@ Source: PHB
 
 A cone of searing flame shoots from your fingertips. Each creature in the area takes **1d4 points of fire damage per caster level** (maximum **5d4**). Flammable materials ignite if touched by the flame. Burning items can be extinguished with a **full-round action**.
 
-Source : PHB P207
+**Source :** PHB P207
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

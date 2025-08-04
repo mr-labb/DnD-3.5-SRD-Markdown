@@ -1,7 +1,8 @@
 ---
 lang: en
 title: v3.5SRD/Psionics/ Classes/ Psychic Slayer
-aliases: [Slayer]
+aliases:
+ - Slayer
 tags: 
   - 35E_SRD
   - Classes
@@ -26,7 +27,7 @@ To qualify to become a slayer, a character must fulfill all the following criter
 
 ##### Skill
 
-[[Knowledge]] (dungeoneering) 4 ranks.
+[[Compendium/Basics/Skills/Knowledge]] (dungeoneering) 4 ranks.
 
 ##### Feat
 
@@ -38,7 +39,7 @@ Must have a power point reserve of at least 1 power point.
 
 #### Class Skills
 
-The slayer’s class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Knowledge]] (dungeoneering) (Int), [[Listen]] (Wis), [[Psicraft]] (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), and [[Survival]] (Wis).
+The slayer’s class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int), [[Listen]] (Wis), [[Psicraft]] (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), and [[Survival]] (Wis).
 
 ##### Skill Points at Each Level
 
@@ -97,7 +98,7 @@ At 3rd level, a slayer becomes especially skilled at resisting mental attacks. S
 
 After reaching 6th level, a slayer is protected from all devices, powers, and spells that reveal location. This ability protects against information gathering by clairsentience powers or effects that reveal location.
 
-The ability even foils bend reality, limited wish, miracle, reality revision, and wish when they are used to gain information about the slayer’s location (however, metafaculty can pierce this protective barrier). In the case of remote viewing or scrying that scans an area a slayer is in, the effect works, but the slayer simply isn’t detected. Remote viewing or scrying attempts that are targeted specifically at a slayer do not work. This ability is active as long as the slayer is psionically focused.
+The ability even foils bend reality, [[limited wish]], [[miracle]], reality revision, and wish when they are used to gain information about the slayer’s location (however, metafaculty can pierce this protective barrier). In the case of remote viewing or scrying that scans an area a slayer is in, the effect works, but the slayer simply isn’t detected. Remote viewing or scrying attempts that are targeted specifically at a slayer do not work. This ability is active as long as the slayer is psionically focused.
 
 ##### Breach Power Resistance (Su)
 
@@ -105,7 +106,7 @@ A slayer of 8th level or higher can enhance her weapon with psionic might. Each 
 
 ##### Cerebral Immunity (Su)
 
-On reaching 9th level, a slayer gains protection from all devices, powers, and spells that influence the mind. This ability shields her against almost all mind-affecting powers and effects (though the slayer can selectively allow powers or spells to affect her). The ability even foils bend reality, limited wish, miracle, reality revision, and wish when they are used to mentally influence a slayer. This ability is active as long as the slayer is psionically focused.
+On reaching 9th level, a slayer gains protection from all devices, powers, and spells that influence the mind. This ability shields her against almost all mind-affecting powers and effects (though the slayer can selectively allow powers or spells to affect her). The ability even foils bend reality, [[limited wish]], [[miracle]], reality revision, and wish when they are used to mentally influence a slayer. This ability is active as long as the slayer is psionically focused.
 
 ##### Blast Feedback (Su)
 
@@ -114,5 +115,8 @@ At 10th level, if a slayer makes her saving throw when attacked with mind blast,
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

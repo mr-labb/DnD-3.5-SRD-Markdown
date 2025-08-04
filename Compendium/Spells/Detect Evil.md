@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Evil]
+aliases:
+ - Detect Evil
 title: Compendium/Basics/Spell/Detect Evil
 tags:
   - 35E_SRD
@@ -70,9 +71,13 @@ After the source of an evil aura is destroyed or dispelled, a lingering aura may
 - Each round, you may scan a new direction  
 - The spell is blocked by 1 ft. of stone, 1 in. of metal, a thin sheet of lead, or 3 ft. of wood/dirt
 
-**Source:** PHB P218
+**Source :** PHB P218
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

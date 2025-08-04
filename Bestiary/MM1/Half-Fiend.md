@@ -48,15 +48,15 @@ Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or 
 
 |HD|Abilities|
 |---|---|
-|1-2|Darkness 3/day|
-|3-4|Desecrate|
-|5-6|Unholy blight|
+|1-2|[[Darkness]] 3/day|
+|3-4|[[Desecrate]]|
+|5-6|[[Unholy blight]]|
 |7-8|Poison 3/day|
-|9-10|Contagion|
-|11-12|Blasphemy|
-|13-14|Unholy aura 3/day, unhallow|
-|15-16|Horrid wilting|
-|17-18|Summon monster IX (fiends only)|
+|9-10|[[Contagion]]|
+|11-12|[[Blasphemy]]|
+|13-14|[[Unholy aura]] 3/day, [[unhallow]]|
+|15-16|[[Horrid wilting]]|
+|17-18|[[Summon monster IX]] (fiends only)|
 |19-20|Destruction|
 
 #### Special Qualities
@@ -93,5 +93,8 @@ Always evil (any).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

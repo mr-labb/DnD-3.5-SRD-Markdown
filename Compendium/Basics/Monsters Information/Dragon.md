@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Dragon]
+aliases:
+ - Dragon
 title: Compendium/Basics/Monsters Information/Dragon
 tag: Monster, Dragon
 ---
@@ -34,7 +35,6 @@ _Traits_: A dragon possesses the following traits (unless otherwise noted in the
     
 - Dragons eat, sleep, and breathe.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

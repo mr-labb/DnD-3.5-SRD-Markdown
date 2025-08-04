@@ -1,5 +1,6 @@
 ---
-aliases: [Escape Artist]
+aliases:
+ - Escape Artist
 title: Compendium/Basics/skills/Escape Artist
 tags: skill
 ---
@@ -28,7 +29,7 @@ that you're only grappling).
   ------------------------------------------------------------------------------------------------ ---------------------------------
   Restraint                                                                                        Escape Artist DC
   Ropes Binder's                                                                                   Use Rope check at +10
-  Net, *animate rope* spell, *command plants* spell, *control plants* spell, or *entangle* spell   20
+  Net, *[[animate rope]]* spell, *[[command plants]]* spell, *[[control plants]]* spell, or *entangle* spell   20
   Snare spell                                                                                      23
   Manacles                                                                                         30
   Tight space                                                                                      30
@@ -39,7 +40,7 @@ that you're only grappling).
 ### Action
 Making an Escape Artist check to escape from rope bindings,
 manacles, or other restraints (except a grappler) requires 1 minute of
-work. Escaping from a net or an *animate rope, command plants, control
+work. Escaping from a net or an *[[animate rope]], [[command plants]], control
 plants,* or *entangle* spell is a full-round action. Escaping from a
 grapple or pin is a standard action. Squeezing through a tight space
 takes at least 1 minute, maybe longer, depending on how long the space
@@ -64,5 +65,4 @@ Artist checks when escaping from rope bonds.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

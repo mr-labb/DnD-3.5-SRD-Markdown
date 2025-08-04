@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Undead]
+aliases:
+ - Detect Undead
 title: Compendium/Basics/Spell/Detect Undead
 tags:
   - 35E_SRD
@@ -77,9 +78,13 @@ You can turn to examine a new area each round. Detection is blocked by:
 A bit of earth from a grave.
 
 
-**Source:** PHB P220
+**Source :** PHB P220
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

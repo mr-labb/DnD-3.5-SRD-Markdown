@@ -7,8 +7,7 @@ tags:
   - Epic
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # EPIC SPELLS
 
@@ -115,7 +114,7 @@ progression.
 A character must have an available epic spell slot
 to prepare or cast an epic spell, just as he or she needs a normal spell
 slot for a nonepic spell. A character doesn't gain epic spell slots by
-virtue of his or her level and class, however. A character gets one epic
+[[virtue]] of his or her level and class, however. A character gets one epic
 spell slot for every 10 ranks he or she has in the relevant Knowledge
 skill.
 
@@ -158,9 +157,9 @@ determinations.
 ### Saving Throw for an Epic Spell
 DC = 20 + key ability modifier.
 
-## Dispelling,Epic Spells,and Antimagic Field
+## Dispelling,Epic Spells,and [[Antimagic Field]]
 
-A lucky nonepic spellcaster casting *greater dispel magic* might be able
+A lucky nonepic spellcaster casting *[[Dispel Magic Greater|greater dispel magic]]* might be able
 to dispel an epic spell. The game mechanics do not change, and epic
 spells do not occupy any privileged position allowing them to resist
 being dispelled other than their presumably high caster level. Likewise,
@@ -169,9 +168,9 @@ spells use the same game mechanic: The check to dispel is 1d20 + a
 specified number (usually dispeller's level), and the DC is 11 + the
 spellcaster's level.
 
-*Antimagic field* does not automatically suppress epic spells as it does
+*[[Antimagic field]]* does not automatically suppress epic spells as it does
 standard spells. Instead, each time an epic spell is subject to an
-*antimagic field,*make a dispel check as a 20th-level caster (1d20 +
+*[[antimagic field]],*make a dispel check as a 20th-level caster (1d20 +
 20). The epic spell has a DC of 11 + the epic spell's spellcaster level.
 If the suppression check is successful, the epic spell is suppressed
 like any other spell. If the dispel check is unsuccessful, the epic
@@ -223,7 +222,7 @@ Reflex half
 Yes
 -   ### To Develop
 450,000 gp; 9 days; 18,000 XP. Seeds: *energy* (DC
-    19), *animate dead* (DC 23). Factors: set undead type to skeleton
+    19), *[[animate dead]]* (DC 23). Factors: set undead type to skeleton
     (--12 DC), 1-action casting time (+20 DC).
 
 When this spell is cast, enemies within range are dealt 10d6 points of
@@ -256,7 +255,7 @@ Reflex half
 Yes
 -   ### To Develop
 702,000 gp; 15 days; 28,080 XP. Seeds: *energy* (DC
-    19), *animate dead* (DC 23). Factors: increase damage to 30d6 (+40
+    19), *[[animate dead]]* (DC 23). Factors: increase damage to 30d6 (+40
     DC), set undead type to wight (--4 DC).
 
 When this spell is cast, enemies within range are dealt 30d6 points of
@@ -341,9 +340,9 @@ hide his or her treasures. Upon completion, the vault initially measures
 only 5 feet on a side, but it gradually increases to its proper size
 over the following 4d4 days. The vault is attuned to the character,
 allowing him or her alone entrance and egress in a manner similar to a
-*dimension door* spell. When the character desires the vault to hide
+*[[dimension door]]* spell. When the character desires the vault to hide
 itself, he or she gives it a simple command. To summon the vault, the
-character may cast a *sending* spell or arrange some other manner to
+character may cast a *[[sending]]* spell or arrange some other manner to
 contact it.
 
 *XP Cost:* 20,000 XP.
@@ -476,7 +475,7 @@ Fort negates
 Yes
 -   ### To Develop
 738,000 gp; 15 days; 29,520 XP. Seeds: *slay* (DC
-    25), *animate dead* (DC 23), *delude* (DC 14). Factors: change
+    25), *[[animate dead]]* (DC 23), *delude* (DC 14). Factors: change
     undead type to ghoul (--10 DC), apply to all five senses (+8 DC),
     1-action casting time (+20 DC).
 
@@ -780,7 +779,7 @@ to resist taking that particular action, but if it succeeds, it still
 remains the character's thrall despite its minor mutiny. Once a subject
 makes a successful saving throw to resist a specific order, it makes all
 future saving throws to resist taking that specific action without a
-penalty. *Protection from evil* or a similar spell can prevent the
+penalty. *[[Protection from evil]]* or a similar spell can prevent the
 character from exercising control or using the telepathic link while the
 subject is so protected, but it does not prevent the establishment of
 *enslave* or dispel it.
@@ -844,7 +843,7 @@ Yes (harmless)
     14). Factor: +16 additional armor bonus (+32 DC).
 
 An invisible but tangible field of force surrounds the subject of *epic
-mage armor,* providing a +20 armor bonus to Armor Class. Unlike mundane
+[[mage armor]],* providing a +20 armor bonus to Armor Class. Unlike mundane
 armor, *epic mage armor* entails no armor check penalty, arcane spell
 failure chance, or speed reduction. Because *epic mage armor* is made of
 force, incorporeal creatures can't bypass it the way they do normal
@@ -938,17 +937,17 @@ Yes
 -   ### To Develop
 1,350,000 gp; 27 days; 54,000 XP. Seed: *ward* (DC
     14). Factors: specific protections *entangle* (+0 DC), *hold
-    monster* (+8 DC), *hold person* (+4 DC), *imprisonment* (+16 DC),
+    monster* (+8 DC), *[[hold person]]* (+4 DC), *[[imprisonment]]* (+16 DC),
     paralysis (ad hoc +6 DC), petrification (ad hoc +6 DC), *sleep* (+0
-    DC), *slow* (+4 DC), stunning (ad hoc +6 DC), *temporal stasis* (+16
+    DC), *slow* (+4 DC), stunning (ad hoc +6 DC), *[[temporal stasis]]* (+16
     DC), and *web* (+4 DC); permanent 5 DC). Mitigating factors: ten
     additional casters contributing 9th-level spell slots (--170 DC),
     burn 10,000 XP (--100 DC).
 
 The subject becomes permanently immune to the following specific spells,
-effects, and spell-like abilities: *entangle,* *hold,*
-*imprisonment,*paralysis, petrification, *sleep,* *slow,*stunning,
-*temporal stasis,*and *web.*This is a ritual spell requiring ten other
+effects, and spell-like abilities: *[[entangle]],* *hold,*
+*[[imprisonment]],*paralysis, petrification, *sleep,* *slow,*stunning,
+*[[temporal stasis]],*and *web.*This is a ritual spell requiring ten other
 spellcasters, each of whom must contribute an unused 9th-level spell
 slot to the casting.
 
@@ -1258,7 +1257,7 @@ alignment, base attack bonus, base save bonuses, extraordinary
 abilities, spells, and spell-like abilities, but not supernatural
 abilities. They assume the physical characteristics of frogs, including
 natural size and Strength, Dexterity, and Constitution scores. (Use the
-statistics for the toad.) All the creatures' equipment drops to the
+statistics for the [[toad]].) All the creatures' equipment drops to the
 ground upon transformation.
 
 ## Momento Mori
@@ -1314,7 +1313,7 @@ None
 -   ### Spell Resistance
 No
 -   ### To Develop
-315,000 gp; 7 days; 12,600 XP. Seed: *animate dead*
+315,000 gp; 7 days; 12,600 XP. Seed: *[[animate dead]]*
     (DC 23). Factors: 1-action casting time (+20 DC). Mitigating
     factors: burn 400 XP (--4 DC), expensive material component (ad hoc
     --4 DC).
@@ -1352,7 +1351,7 @@ curse, not a natural disease. A character attempting to cast any
 conjuration (healing) spell on a creature afflicted with mummy rot must
 succeed on a DC 20 caster level check, or the spell has no effect on the
 afflicted character. To eliminate mummy rot, the curse must first be
-broken with *break enchantment* or *remove curse* (requiring a DC 20
+broken with *[[break enchantment]]* or *[[remove curse]]* (requiring a DC 20
 caster level check for either spell), after which a caster level check
 is no longer necessary to cast healing spells on the victim, and the
 mummy rot can be magically cured as any normal disease.
@@ -1402,7 +1401,7 @@ round. The target immediately begins to suffocate.
 
 *XP Cost:* 1,000 XP.
 
-## Origin of Species: Achaierai
+## Origin of Species: [[Achaierai]]
 
 -   Conjuration (Creation, Healing)
 -   ### Spellcraft DC
@@ -1434,11 +1433,11 @@ No
     (--150 DC), ten additional casters contributing 1st-level spell
     slots (--10 DC).
 
-This spell creates a new creature: an achaierai. When first created, the
-achaierai is Medium, but it grows to Large size in 1d4 days. A created
-achaierai does not possess the treasure, culture, or specific knowledge
-of a normal achaierai. If released to be among its own kind, it quickly
-picks up achaierai traits and alignment.
+This spell creates a new creature: an [[achaierai]]. When first created, the
+[[achaierai]] is Medium, but it grows to Large size in 1d4 days. A created
+[[achaierai]] does not possess the treasure, culture, or specific knowledge
+of a normal [[achaierai]]. If released to be among its own kind, it quickly
+picks up [[achaierai]] traits and alignment.
 
 *XP Cost:* 10,000 XP.
 
@@ -1491,7 +1490,7 @@ Yes
 936,000 gp; 19 days; 37,440 XP. Seed: afflict (DC
     19). Factors: additional target type (plants) (+10 DC). change
     target to area (+10 DC), change 20-ft. radius to 1,000-ft. radius
-    (+200 DC), disease effects (as per contagion spell) (ad hoc +21 DC).
+    (+200 DC), disease effects (as per [[contagion]] spell) (ad hoc +21 DC).
     Mitigating factors: casting time increased by 9 minutes (--18 DC),
     two additional casters contributing epic spell slots (--38 DC), burn
     10,000 XP (--100 DC).
@@ -1699,7 +1698,7 @@ ends, the target resumes control of its body, fully aware of all events
 that occurred, having been a helpless witness trapped inside its own
 body. The target knows the name and general nature of its possessor if
 it succeeds at an additional Will saving throw. A character cannot
-control undead or incorporeal creatures with *soul dominion.*
+[[control undead]] or incorporeal creatures with *soul dominion.*
 
 ## Soul Scry
 
@@ -1728,7 +1727,7 @@ No
 
 When a character casts this spell, he or she is temporarily able to tap
 the consciousness of another sentient creature with whom the character
-is familiar (by meeting, observing, or successfully scrying the
+is familiar (by meeting, observing, or successfully [[scrying]] the
 subject), experiencing everything he or she does with all five senses.
 The target receives a Will save, and if successful, prevents the
 character from making the telepathic connection. Whether the saving
@@ -1836,7 +1835,7 @@ No
     19). Factors: additional +30 to dispel check (+30 DC), 1-action
     casting time (+20 DC). Mitigating factor: 10d6 backlash (--10 DC).
 
-As *greater dispel magic*, except that the maximum bonus on the dispel
+As *[[Dispel Magic Greater|greater dispel magic]]*, except that the maximum bonus on the dispel
 check is +40, and the character takes 10d6 points of backlash damage.
 
 ## Time Duplicate
@@ -1958,14 +1957,14 @@ No
     (ad hoc +19 DC).
 
 This spell creates a tsunami of grass, shrubs, and trees that overgrows
-the area like a tidal wave. The plant growth creeps and curls across
+the area like a tidal wave. The [[plant growth]] creeps and curls across
 every-thing in the area, ensnaring it and coiling around it as if it had
 been growing there for a century or more. Creatures in the area must
 make a Reflex saving throw to avoid the fast-moving growth, which
 otherwise deals 10d6 points of damage from the crushing press. Buildings
 are engulfed and they likewise take 10d6 points of damage. Those
 destroyed by the damage have their foundations uprooted and walls
-crumbled. The plant growth remains for 24 hours, after which it
+crumbled. The [[plant growth]] remains for 24 hours, after which it
 vanishes.
 
 ## Verdigris Tsunami
@@ -2000,14 +1999,14 @@ No
     DC).
 
 This spell creates a tsunami of grass, shrubs, and trees that overgrows
-the area like a tidal wave. The plant growth creeps and curls across
+the area like a tidal wave. The [[plant growth]] creeps and curls across
 every-thing in the area, ensnaring it and coiling around it as if it had
 been growing there for a century or more. Creatures in the area must
 make a Reflex saving throw to avoid the fast-moving growth, which
 otherwise deals 40d6 points of damage from the crushing press. Buildings
 are engulfed and they likewise take 40d6 points of damage. Those
 destroyed by the damage have their foundations uprooted and walls
-crumbled. The plant growth is permanent. This is a ritual spell
+crumbled. The [[plant growth]] is permanent. This is a ritual spell
 requiring fourteen other spellcasters, each of whom must contribute an
 unused 6th-level spell slot to the casting.
 
@@ -2047,7 +2046,7 @@ starting point when creating customized versions of the spells.
   Seed           Base Spellcraft DC   Seed        Base Spellcraft DC
   Afflict        14                   Energy      19
   Animate        25                   Foresee     17
-  Animate dead   23                   Fortify     17
+  [[Animate dead]]   23                   Fortify     17
   Armor          14                   Heal\*      25
   Banish         27                   Life\*      27
   Compel         19                   Reflect     27
@@ -2258,8 +2257,8 @@ Note: Mitigating factors are always applied after all epic spell factors
 backlash damage. For spells with durations longer than instantaneous,
 the backlash damage is per round. If backlash damage kills a caster, no
 spell or method exists that will return life to the caster's body
-without costing the caster a level---not even *wish, true resurrection,
-miracle,* or epic spells that return life to the deceased. Spells that
+without costing the caster a level---not even *[[wish]], [[true resurrection]],
+[[miracle]],* or epic spells that return life to the deceased. Spells that
 normally penalize the recipient one level when they return him or her to
 life penalize a caster killed by backlash two levels.
 
@@ -2394,7 +2393,7 @@ Die granted to an animated object of a given size, increase the
 Spellcraft DC by +2. To animate attended objects (objects carried or
 worn by another creature), increase the Spellcraft DC by +10.
 
-### Seed:Animate Dead
+### Seed:[[Animate Dead]]
 
 -   Necromancy \[Evil\]
 -   ### Spellcraft DC
@@ -2420,7 +2419,7 @@ caster, or they can remain in an area and attack any creature (or a
 specific type of creature) entering the place. The undead remain
 animated until they are destroyed. (A destroyed undead can't be animated
 again.) Intelligent undead can follow more sophisticated commands. The
-*animate dead* seed allows a character to create 20 HD of undead. For
+*[[animate dead]]* seed allows a character to create 20 HD of undead. For
 each additional 1 HD of undead created, increase the Spellcraft DC by
 +1. The undead created remain under the caster's control indefinitely. A
 caster can naturally control 1 HD per caster level of undead creatures
@@ -2445,7 +2444,7 @@ similar undead as a basis for comparison.
   ---------- ------------------------ --------- ------------------------
   Undead     Spellcraft DC Modifier   Undead    Spellcraft DC Modifier
   Skeleton   --12                     Wraith    --2
-  Zombie     --12                     Mummy     +0
+  [[Zombie]]     --12                     Mummy     +0
   Ghoul      --10                     Spectre   +2
   Shadow     --8                      Morhg     +4
   Ghast      --6                      Vampire   +6
@@ -2576,7 +2575,7 @@ regardless of the actions of the subject, increase the Spellcraft DC by
 subject so that it appears to be about 2 feet away from its true
 location; this increases the Spellcraft DC by +2. The subject benefits
 from a 50% miss chance as if it had total concealment. However, unlike
-actual total concealment, this displacement effect does not prevent
+actual total concealment, this [[displacement]] effect does not prevent
 enemies from targeting him or her normally. The *conceal* seed can also
 be used to block divination spells, spell-like effects, and epic spells
 developed using the *reveal* seed; this increases the Spellcraft DC by
@@ -2647,7 +2646,7 @@ None
 -   ### Spell Resistance
 No
 
-This seed forges a telepathic bond with a particular creature with which
+This seed forges a [[telepathic bond]] with a particular creature with which
 the caster is familiar (or one that the caster can currently see
 directly or through magical means) and can converse back and forth. The
 subject recognizes the caster if it knows him or her. It can answer in
@@ -2738,7 +2737,7 @@ behind only a trace of fine dust. Up to a 10-foot cube of nonliving
 matter is affected, so a spell using the *destroy* seed destroys only
 part of any very large object or structure targeted. The *destroy* seed
 affects even magical matter, energy fields, and force effects that are
-normally only affected by the *disintegrate* spell. Such effects are
+normally only affected by the *[[disintegrate]]* spell. Such effects are
 automatically destroyed. Epic spells using the *ward* seed may also be
 destroyed, though the caster must succeed at an opposed caster level
 check against the other spellcaster to bring down a *ward* spell.
@@ -3035,7 +3034,7 @@ vigor to any deceased creature. The condition of the remains is not a
 factor. So long as some small portion of the creature's body still
 exists, it can be returned to life, but the portion receiving the spell
 must have been part of the creature's body at the time of death. (The
-remains of a creature hit by a *disintegrate* spell count as a small
+remains of a creature hit by a *[[disintegrate]]* spell count as a small
 portion of its body.) The creature can have been dead for no longer than
 two hundred years. For each additional ten years, increase the
 Spellcraft DC by +1. The creature is immediately restored to full hit
@@ -3144,14 +3143,14 @@ sensor, multiply the Spellcraft DC by x10.
 The *reveal* seed has a base Spellcraft DC of 25 if used to pierce
 illusions and see things as they really are. The caster can see through
 normal and magical darkness, notice secret doors hidden by magic, see
-the exact locations of creatures or objects under *blur* or
-*displacement* effects, see invisible creatures or objects normally, see
+the exact locations of creatures or objects under *[[blur]]* or
+*[[displacement]]* effects, see invisible creatures or objects normally, see
 through illusions, see onto the Ethereal Plane (but not into
 extradimensional spaces), and see the true form of polymorphed, changed,
 or transmuted things. The range of such sight is 120 feet.
 
 The *reveal* seed can also be used to develop spells that will do any
-one of the following: duplicate the *read magic* spell, comprehend the
+one of the following: duplicate the *[[read magic]]* spell, comprehend the
 written and verbal language of another, or speak in the written or
 verbal language of another. To both comprehend and speak a language,
 increase the Spellcraft DC by +4.
@@ -3275,7 +3274,7 @@ Transformations involving nonmagical, inanimate substances with hardness
 are more difficult; for each 2 points of hardness, increase the
 Spellcraft DC by +1.
 
-To transform a creature into an incorporeal or gaseous form, increase
+To transform a creature into an incorporeal or [[Compendium/Spells/Gaseous Form|gaseous form]], increase
 the Spellcraft DC by +10. Conversely, to overcome the natural immunity
 of a gaseous or incorporeal creature to transformation, increase the
 Spellcraft DC by +10.
@@ -3366,7 +3365,7 @@ create spell effects and leave them to take effect when he or she
 reenters normal time. Because of the branching nature of time, epic
 spells used to transport a subject into a faster time stream cannot be
 made permanent, nor can the duration of 5 rounds be extended. More
-simply, the seed can *haste* or *slow* a subject for 20 rounds by
+simply, the seed can *[[haste]]* or *slow* a subject for 20 rounds by
 transporting it to the appropriate time stream. This decreases the
 Spellcraft DC by --4.
 
@@ -3433,7 +3432,7 @@ effects from magic items. However, any type of spell can be cast through
 or out of the ward. The caster can leave and return to the protected
 area without penalty (unless the spell specifically targets a creature
 and does not provide a radius effect). The ward could be brought down by
-a targeted *dispel magic* spell. Epic spells using the *dispel* seed may
+a targeted *[[dispel magic]]* spell. Epic spells using the *dispel* seed may
 bring down a ward if the enemy spellcaster succeeds at a caster level
 check. The ward may also be brought down with a targeted epic spell
 using the *destroy* seed if the enemy spellcaster succeeds at a caster
@@ -3481,7 +3480,7 @@ to their Knowledge (psionics) skill divided by 10 (round down).
   Afflict            14                 Metacreativity   
   Foresee            17                 Armor            14
   Reveal             19                 Conjure          21
-  Conceal            17                 Animate dead     23
+  Conceal            17                 [[Animate dead]]     23
                                         Animate          25
                                         Life             55
   ------------------ ------------------ ---------------- ------------------
@@ -3548,5 +3547,8 @@ adding another 180 feet of radius to the demiplane each time.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

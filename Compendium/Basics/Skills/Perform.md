@@ -1,5 +1,6 @@
 ---
-aliases: [Perform]
+aliases:
+ - Perform
 title: Compendium/Basics/skills/Perform
 tags: skill
 ---
@@ -58,7 +59,7 @@ inspire courage in his allies, or to use his countersong or his
 *fascinate* ability. A bard needs 6 ranks in a Perform skill to inspire
 competence, 9 ranks to use his *suggestion* ability, 12 ranks to inspire
 greatness, 15 ranks to use his *song of freedom* ability, 18 ranks to
-inspire heroics, and 21 ranks to use his *mass suggestion* ability. See
+inspire heroics, and 21 ranks to use his *[[Suggestion Mass|mass suggestion]]* ability. See
 Bardic Music in the bard class description.
 
 In addition to using the Perform skill, you can entertain people with
@@ -67,5 +68,4 @@ illusions).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

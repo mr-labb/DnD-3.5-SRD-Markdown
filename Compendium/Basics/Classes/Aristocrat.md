@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Aristocrat]
+aliases:
+ - Aristocrat
 title: Compendium/Basics/Classe/Aristocrat
 tag: Class, Aristocrat
 ---
@@ -9,14 +10,19 @@ tag: Class, Aristocrat
 
 ### ARISTOCRAT
 
+|   |
+|---|
+||
 
+Aristocrats are usually educated, wealthy individuals who were born into high position. Aristocrats are the wealthy or politically influential people in the world. They are given the freedom to train in the fields of their choice, for the most part, and often travel widely. With access to all the best goods and opportunities, many aristocrats become formidable individuals. Some even go on adventures with fighters, wizards, and members of other classes, although usually such activities are nothing more than a lark.
 
+The aristocrat might work as a PC class, since it has an impressive selection of skills and respectable combat training. Being an aristocrat, however, isn't so much a choice as a position you're born into. An aristocrat cannot be a multiclass character unless his or her first level is in the aristocrat class. Mostly, you should reserve the aristocrat class for rulers, their families, and their courtiers.
 
 **Hit Die**: d8.
 
 ###### Class Skills
 
-The aristocrat's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Bluff]] (Cha), [[Diplomacy]] (Cha), [[Disguise]] (Cha), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Handle Animal]] (Cha), [[Intimidate]] (Cha), [[Knowledge]] (all skills taken individually) (Int), [[Listen]] (Wis), [[Perform]] (Cha), [[Ride]] (Dex), [[Sense Motive]] (Wis), [[Speak Language]], [[Spot]] (Wis), [[Swim]] (Str), and [[Survival]] (Wis).
+The aristocrat's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Bluff]] (Cha), [[Diplomacy]] (Cha), [[Disguise]] (Cha), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Handle Animal]] (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (all skills taken individually) (Int), [[Listen]] (Wis), [[Perform]] (Cha), [[Ride]] (Dex), [[Sense Motive]] (Wis), [[Speak Language]], [[Spot]] (Wis), [[Swim]] (Str), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -55,5 +61,4 @@ The following is a class feature of the aristocrat NPC class.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

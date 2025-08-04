@@ -1,5 +1,6 @@
 ---
-aliases: [Control Water]
+aliases:
+ - Control Water
 title: Compendium/Basics/Spell/Control Water
 tags:
   - 35E_SRD
@@ -56,9 +57,13 @@ You may **reduce one horizontal dimension by half and double the other**, custom
 **Arcane Material Component:**  
 - A **drop of water** (for *Raise Water*) or a **pinch of dust** (for *Lower Water*)
 
-Source : PHB P214
+**Source :** PHB P214
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

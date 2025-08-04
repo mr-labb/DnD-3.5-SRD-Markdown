@@ -65,7 +65,7 @@ A psionic item, unless otherwise noted, takes damage as a normal item of the sam
 
 #### Repairing Items
 
-Some psionic items (especially psionic weapons and shields) may take damage over the course of an adventure. It costs no more to repair a psionic item with the Craft skill than it does to repair its nonpsionic counterpart. The *make whole* spell can repair a damaged---but not completely broken--- psionic item.
+Some psionic items (especially psionic weapons and shields) may take damage over the course of an adventure. It costs no more to repair a psionic item with the Craft skill than it does to repair its nonpsionic counterpart. The *[[make whole]]* spell can repair a damaged---but not completely broken--- psionic item.
 
 ### Intelligent Items
 
@@ -266,7 +266,7 @@ A suit of armor with this capability allows the wearer to ignore any damage deal
 Faint psychoportation; ML 4th; Craft Psionic Arms and Armor, *catfall;* Price +4,000 gp.
 
 ### Linked
-This kind of armor or shield allows the wearer to form a telepathic bond with other wearers of linked armor or shields within 10 miles. This ability is otherwise similar to the *mindlink* power.
+This kind of armor or shield allows the wearer to form a [[telepathic bond]] with other wearers of linked armor or shields within 10 miles. This ability is otherwise similar to the *mindlink* power.
 
 Moderate telepathy; ML 6th; Craft Psionic Arms and Armor, *mindlink;* Price +6,000 gp.
 
@@ -704,7 +704,7 @@ This psicrown has 450 power points. It is made from pure transparent crystal. It
 -   *Remote viewing*
 -   *True seeing, psionic*
 
-Moderate clairsentience; ML 9th; Craft Psicrown, *aura sight, clairtangent hand, clairvoyant sense, psionic darkvision, psionic true seeing, remote viewing;* Price 51,469 gp.
+Moderate clairsentience; ML 9th; Craft Psicrown, *aura sight, clairtangent hand, clairvoyant sense, psionic darkvision, psionic [[true seeing]], remote viewing;* Price 51,469 gp.
 
 ### Dominator
 This psicrown has 450 power points. It is made from gray iron and is shaped into an intricately fluted crown. It allows use of the following powers.
@@ -724,7 +724,7 @@ This psicrown has 400 power points. It is made from silk, usually dyed emerald g
 -   *Freedom of movement, psionic*
 -   *Wall walker*
 
-Moderate psychoportation; ML 8th; Craft Psicrown, *catfall, hustle, psionic fly, psionic freedom of movement, wall walker;* Price 28,500 gp.
+Moderate psychoportation; ML 8th; Craft Psicrown, *catfall, hustle, psionic fly, psionic [[freedom of movement]], wall walker;* Price 28,500 gp.
 
 ### Fiery Ruin
 This psicrown has 750 power points. It is made from reddish iron and is shaped into a twisted circlet studded with reddish crystals. It allows use of the following powers.
@@ -763,7 +763,7 @@ This psicrown has 750 power points. It is made from silk, usually dyed emerald g
 -   *Teleport, greater psionic*
 -   *Teleport, psionic*
 
-Strong psychoportation; ML 15th; Craft Psicrown, *astral traveler, psionic dimension door, psionic greater teleport, psionic teleport;* Price 80,156 gp.
+Strong psychoportation; ML 15th; Craft Psicrown, *astral traveler, psionic dimension door, psionic [[Teleport Greater|greater teleport]], psionic teleport;* Price 80,156 gp.
 
 #### Psionic Tattoos
 
@@ -989,11 +989,11 @@ A *crystal anchor* has AC 7, 15 hit points, a hardness of 8, and a break DC of 2
 
 *Body Crystal Anchor:* Those who manifest psychometabolism powers are affected as described above.
 
-Faint psychometabolism; ML 5th; Craft Universal Item, *brain lock, psionic contingency*, any psychometabolism power; Price 24,000 gp; Weight 3 lb.
+Faint psychometabolism; ML 5th; Craft Universal Item, *brain lock, psionic [[contingency]]*, any psychometabolism power; Price 24,000 gp; Weight 3 lb.
 
 *Comprehension Crystal Anchor:* Those who manifest clairsentience powers are affected as described above.
 
-Faint clairsentience; ML 5th; Craft Universal Item, *brain lock, psionic contingency*, any clairsentience power; Price 24,000 gp; Weight 3 lb.
+Faint clairsentience; ML 5th; Craft Universal Item, *brain lock, psionic [[contingency]]*, any clairsentience power; Price 24,000 gp; Weight 3 lb.
 
 *Creation Crystal Anchor:* Those who manifest metacreativity powers are affected as described above.
 
@@ -1465,5 +1465,8 @@ Mundane crystal properly forged has 25 hit points per inch of thickness and a ha
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

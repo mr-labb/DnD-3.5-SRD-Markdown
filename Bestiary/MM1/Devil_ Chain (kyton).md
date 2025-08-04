@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Chain (kyton)]
+aliases:
+ - Devil
+ - Chain (kyton)
 title: Bestiary/MM1/Devil, Chain (kyton)
 tags: [35E_SRD, Monster]
 Monster: Devil, Chain (kyton)

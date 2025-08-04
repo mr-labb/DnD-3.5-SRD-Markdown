@@ -1,5 +1,6 @@
 ---
-aliases: [Command]
+aliases:
+ - Command
 title: Compendium/Basics/Spell/Command
 tags:
   - 35E_SRD
@@ -38,9 +39,13 @@ You give the subject a single command, which it obeys to the best of its ability
 
 If the subject cannot carry out your command on its next turn, the spell automatically fails.
 
-Source : PHB P211
+**Source :** PHB P211
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,8 @@
 ---
-aliases: [Dragon, Black, Wyrmling]
+aliases:
+ - Dragon
+ - Black
+ - Wyrmling
 title: Bestiary/MM1/Dragon, Black, Wyrmling
 tags: [35E_SRD, Monster]
 Monster: Dragon, Black, Wyrmling

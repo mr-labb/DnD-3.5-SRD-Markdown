@@ -1,5 +1,6 @@
 ---
-aliases: [Confusion]
+aliases:
+ - Confusion
 title: Compendium/Basics/Spell/Confusion
 tags:
   - 35E_SRD
@@ -50,9 +51,13 @@ This spell causes the targets to become [[confused]], rendering them unable to d
 **Arcane Material Component:**  
 A set of three nut shells.
 
-Source : PHB P212
+**Source :** PHB P212
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

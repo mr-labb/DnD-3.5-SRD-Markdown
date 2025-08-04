@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Hill Giant Dire Wereboar, Giant Form]
+aliases:
+ - Lycanthrope
+ - Hill Giant Dire Wereboar
+ - Giant Form
 title: Bestiary/MM1/Lycanthrope, Hill Giant Dire Wereboar, Giant Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Hill Giant Dire Wereboar, Giant Form

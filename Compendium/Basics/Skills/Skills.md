@@ -1,5 +1,6 @@
 ---
-aliases: [Skills]
+aliases:
+ - Skills
 title: Compendium/Basic Rules and Legal/Skills
 tags: skill
 ---
@@ -172,5 +173,4 @@ The skill name line is followed by a general description of what using the skill
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

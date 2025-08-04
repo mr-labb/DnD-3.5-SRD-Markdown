@@ -1,5 +1,7 @@
 ---
-aliases: [Dog, Riding]
+aliases:
+ - Dog
+ - Riding
 title: Bestiary/MM1/Dog, Riding
 tags: [35E_SRD, Monster]
 Monster: Dog, Riding

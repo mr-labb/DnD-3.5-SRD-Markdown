@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Erinyes]
+aliases:
+ - Devil
+ - Erinyes
 title: Bestiary/MM1/Devil, Erinyes
 tags: [35E_SRD, Monster]
 Monster: Devil, Erinyes

@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Quasit]
+aliases:
+ - Demon
+ - Quasit
 title: Bestiary/MM1/Demon, Quasit
 tags: [35E_SRD, Monster]
 Monster: Demon, Quasit

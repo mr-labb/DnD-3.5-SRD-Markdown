@@ -1,5 +1,6 @@
 ---
-aliases: [Deep Slumber]
+aliases:
+ - Deep Slumber
 title: Compendium/Basics/Spell/Deep Slumber
 tags:
   - 35E_SRD
@@ -48,9 +49,13 @@ This spell functions like [[Sleep]], but affects up to **10 Hit Dice** worth of 
 - A pinch of **fine sand**, **rose petals**, or a **live cricket**
 
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

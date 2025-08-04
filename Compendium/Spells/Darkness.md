@@ -1,5 +1,6 @@
 ---
-aliases: [Darkness]
+aliases:
+ - Darkness
 title: Compendium/Basics/Spell/Darkness
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ This spell causes an object to radiate **shadowy illumination** out to a **20-fo
 - A bit of **bat fur** and either a **drop of pitch** or a **piece of coal**
 
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

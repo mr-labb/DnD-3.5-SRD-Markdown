@@ -1,5 +1,6 @@
 ---
-aliases: [Craft]
+aliases:
+ - Craft
 title: Compendium/Basics/skills/Craft
 tags: skill
 ---
@@ -30,5 +31,4 @@ If you have 5 ranks in Truespeak, you gain a +2 bonus on any Knowledge checks ma
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

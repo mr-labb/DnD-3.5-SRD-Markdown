@@ -1,5 +1,6 @@
 ---
-aliases: [Control Plants]
+aliases:
+ - Control Plants
 title: Compendium/Basics/Spell/Control Plants
 tags:
   - 35E_SRD
@@ -31,12 +32,16 @@ Control actions of one or more plant creatures.
 
 This spell enables you to control the actions of one or more plant creatures for a short period. You command them verbally, and they understand you regardless of language. Even if speech is impossible, controlled plants will not attack you.
 
-- At the end of the spell’s duration, they **revert to their normal behavior**
+- At the end of the spellâ€™s duration, they **revert to their normal behavior**
 - **Suicidal or self-destructive commands** are **ignored**
 
-Source : PHB P213
+**Source :** PHB P213
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -279,36 +279,36 @@ Standard epic staffs are described below.
 ### Cosmos
 This staff allows use of the following spells.
 
--   Chain lightning (intensified, 1 charge, DC 29)
--   Meteor swarm (intensified, 1 charge, DC 34)
--   Sunburst (intensified, 1 charge, DC 32)
+-   [[Chain lightning]] (intensified, 1 charge, DC 29)
+-   [[Meteor swarm]] (intensified, 1 charge, DC 34)
+-   [[Sunburst]] (intensified, 1 charge, DC 32)
 
 *Caster Level:* 27th; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Intensify Spell, *chain lightning, meteor swarm, sunburst; Market
+Intensify Spell, *[[chain lightning]], [[meteor swarm]], [[sunburst]]; Market
 Price:* 683,437 gp.
 
 ### Domination
 This staff allows use of the following heightened
 spells.
 
--   Dominate monster (1 charge, DC 33)
--   Demand (1 charge, DC 32)
--   Mass charm monster (1 charge, DC 32)
+-   [[Dominate monster]] (1 charge, DC 33)
+-   [[Demand]] (1 charge, DC 32)
+-   [[Charm Monster Mass|Mass charm monster]] (1 charge, DC 32)
 -   Geas (heightened, 1 charge, DC 33)
 
 *Caster Level:* 21st; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Heighten Spell, *demand, dominate monster, geas, mass charm monster;
+Heighten Spell, *[[demand]], [[dominate monster]], geas, [[Charm Monster Mass|mass charm monster]];
 Market Price:* 464,400 gp.
 
 ### Fiery Power
 This +*5 flaming quarterstaff* grants its wielder fire
 resistance 30 whenever held. In addition, it has the following powers.
 
--   *Wall of fire* (extended, 1 charge, DC 18)
--   *Delayed blast fireball* (intensified to 240 points of damage, 2
+-   *[[Wall of fire]]* (extended, 1 charge, DC 18)
+-   *[[Delayed blast fireball]]* (intensified to 240 points of damage, 2
     charges, DC 22)
--   *Meteor swarm(heightened*to 12th, 2 charges, DC 30)
--   *Summon monster IX* (extended, 2 charges, elder fire elemental only)
+-   *[[Meteor Swarm|[[Meteor swa]]rm]](heightened*to 12th, 2 charges, DC 30)
+-   *[[Summon monster IX]]* (extended, 2 charges, elder fire elemental only)
     A *staff of fiery power* can be broken in a retributive strike. The
     breaking of the staff must be purposeful and declared by the
     wielder. All charges currently in the staff are instantly released
@@ -327,63 +327,63 @@ resistance 30 whenever held. In addition, it has the following powers.
 
 *Caster Level:* 25th; *Prerequisites:* Craft Staff, Craft Epic Staff,
 Extend Spell, Heighten Spell, Improved Heighten Spell, Intensify Spell,
-Spell Focus (Evocation), *continual flame, delayed blast fireball,
-meteor swarm, protection from energy, summon monster IX, wall of fire;
+Spell Focus (Evocation), *[[continual flame]], [[delay[[Meteor Swarm|ed blast fir]]eball]],
+[[meteor swarm]], [[protection from energy]], [[summon monster IX]], [[wall of fire]];
 Market Price:* 500,000 gp.
 
 ### The Hierophants
 This staff allows use of the following spells.
 
--   Creeping doom (enlarged, extended, 1 charge, DC 23)
--   Command plants (enlarged, extended, 1 charge, DC 25)
--   Elemental swarm (intensified, 2 charges, DC 34)
--   Shambler (intensified, 2 charges, DC 34)
+-   [[Creeping doom]] (enlarged, extended, 1 charge, DC 23)
+-   [[Command plants]] (enlarged, extended, 1 charge, DC 25)
+-   [[Elemental swarm]] (intensified, 2 charges, DC 34)
+-   [[Shambler]] (intensified, 2 charges, DC 34)
 
 *Caster Level:* 27th; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Enlarge Spell, Extend Spell, Intensify Spell, *creeping doom, command
-plants, elemental swarm, shambler; Market Price:* 501,187 gp.
+Enlarge Spell, Extend Spell, Intensify Spell, *[[creeping doom]], command
+plants, [[elemental swarm]], [[shambler]]; Market Price:* 501,187 gp.
 
 ### Mighty Force
 This staff has three powers.
 
 -   *Shield* (quickened, 1 charge, may be activated once per round)
--   *Forcecage* (1 charge)
--   *Crushing hand* (1 charge)
+-   *[[Forcecage]]* (1 charge)
+-   *[[Crushing hand]]* (1 charge)
 
 *Caster Level:* 21st; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Quicken Spell, *crushing hand, forcecage, shield; Market Price:* 265,000
+Quicken Spell, *[[crushing hand]], [[forcecage]], shield; Market Price:* 265,000
 gp.
 
 ### Nature's Fury
 This +*5 aberration bane quarterstaff* allows use of
 the following spells.
 
--   *Earthquake* (1 charge)
+-   *[[Earthquake]]* (1 charge)
 -   *Whirlwind* (heightened to 10th level, 1 charge, DC 25)
--   *Fire storm* (heightened to 10th level, 1 charge, DC 25)
+-   *[[Fire storm]]* (heightened to 10th level, 1 charge, DC 25)
 
 After all charges are used up from a *staff of nature's fury,* it
 remains a +*5 quarterstaff* with no special abilities.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Heighten Spell, Improved Heighten Spell, *earthquake, fire storm, summon
+Heighten Spell, Improved Heighten Spell, *[[earthquake]], [[fire storm]], summon
 monster I* (or *summon nature's ally* I), *whirlwind; Market Price:*
 500,000 gp.
 
 ### Necromancy
 This staff allows use of the following spells.
 
--   Circle of death (intensified, 2 charges, DC 29)
--   Create greater undead (1 charge)
--   Finger of death (improved heightened to 16th, 2 charges, DC 34)
--   *Soul bind* (improved heightened to 16th, 2 charges, DC 34). The
-    soul trapped through the use of the *soul bind* spell is trapped in
+-   [[Circle of death]] (intensified, 2 charges, DC 29)
+-   [[Create greater undead]] (1 charge)
+-   [[Finger of death]] (improved heightened to 16th, 2 charges, DC 34)
+-   *[[Soul bind]]* (improved heightened to 16th, 2 charges, DC 34). The
+    soul trapped through the use of the *[[soul bind]]* spell is trapped in
     the staff rather than a gem. Only by breaking the staff can the
     souls be freed.
 
 *Caster Level:* 27th; *Prerequisites:* Craft Staff, Craft Epic Staff,
 Intensify Spell, Heighten Spell, Improved Heighten Spell, *circle of
-death, create greater undead, finger of death, soul bind; Market Price:*
+death, [[create greater undead]], [[finger of death]], [[soul bind]]; Market Price:*
 1,505,312 gp; *Cost to Create:* 1,290,156 gp + 14,303 XP.
 
 ### Planar Might
@@ -392,11 +392,11 @@ effects of any planar alignment traits, as well as the positive-dominant
 and negative-dominant traits or a plane. It also allows use of the
 following spells.
 
--   *Greater planar ally* (1 charge)
--   *Greater planar binding* (1 charge)
--   *Gate* (1 charge)
+-   *[[Planar Ally Greater|Greater planar ally]]* (1 charge)
+-   *[[Planar Binding Greater|Greater planar binding]]* (1 charge)
+-   *[[Gate]]* (1 charge)
 
-When using the *greater planar ally* power, the character must still
+When using the *[[Planar Ally Greater|greater planar ally]]* power, the character must still
 bargain with the called creature.
 
 In addition to its other powers, a *staff of planar might* is a +*5
@@ -406,66 +406,66 @@ outsiders the staff 's bane power works against: 1=chaotic, 2=evil,
 might,* it remains a +*5 quarterstaff* with no special abilities.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Staff, Craft Epic Staff,
-*gate, greater planar ally, greater planar binding, protection from
+*[[gate]], [[Planar Ally Greater|greater planar ally]], [[Planar Binding Greater|greater planar binding]], protection from
 energy; Market Price:* 460,000 gp.
 
 ### Prism
 This staff allows use of the following spells.
 
--   *Prismatic sphere* (extended, 1 charge, DC 25)
--   *Prismatic spray* (extended, 1 charge, DC 22)
--   *Prismatic wall* (extended, 1 charge, DC 23)
+-   *[[Prismatic sphere]]* (extended, 1 charge, DC 25)
+-   *[[Prismatic spray]]* (extended, 1 charge, DC 22)
+-   *[[Prismatic wall]]* (extended, 1 charge, DC 23)
 
 *Caster Level:* 21st; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Extend Spell, *prismatic sphere, prismatic spray, prismatic wall; Market
+Extend Spell, *[[prismatic sphere]], [[prismatic spray]], [[prismatic wall]]; Market
 Price:* 326,812 gp.
 
 ### Rapid Barrage
 Either of the staff's two powers can be activated as
 a free action (though the staff may only be activated once per round).
 
--   *Magic missile* (intensified, quickened, 1 charge, 5 missiles
+-   *[[Magic missile]]* (intensified, quickened, 1 charge, 5 missiles
     dealing 10 points of damage each)
--   *Fireball* (heightened to 6th, enhanced, quickened, 1 charge, 20d6
+-   *[[Fireball]]* (heightened to 6th, enhanced, quickened, 1 charge, 20d6
     damage, DC 19)
 
 *Caster Level:* 25th; *Prerequisites:* Craft Staff, Craft Epic Staff,
 Enhance Spell, Heighten Spell, Intensify Spell, Quicken Spell,
-*fireball, magic missile; Market Price:* 417,750 gp.
+*[[fireball]], [[magic missile]]; Market Price:* 417,750 gp.
 
 ### Spheres
 This staff allows use of the following spells.
 
--   *Freezing sphere* (1 charge, DC 19)
+-   *[[Freezing sphere]]* (1 charge, DC 19)
 -   *Resilient sphere* (1 charge, DC 16)
--   *Telekinetic sphere* (1 charge, DC 22)
+-   *[[Telekinetic sphere]]* (1 charge, DC 22)
 
 *Caster Level:* 21st; *Prerequisites:* Craft Staff, Craft Epic Staff,
-*freezing sphere, resilient sphere, telekinetic sphere; Market Price:*
+*[[freezing sphere]], [[resilient sphere]], [[telekinetic sphere]]; Market Price:*
 228,375 gp.
 
 ### Walls
 This staff allows use of the following spells.
 
--   *Wall of iron* (1 charge)
--   *Wall of stone* (1 charge)
--   *Wall of force* (1 charge)
+-   *[[Wall of iron]]* (1 charge)
+-   *[[Wall of stone]]* (1 charge)
+-   *[[Wall of force]]* (1 charge)
 
 *Caster Level:* 30th; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Extend Spell, extended *wall of force, wall of iron, wall of stone;
+Extend Spell, extended *[[wall of force]], [[wall of iron]], [[wall of stone]];
 Market Price:* 275,625 gp.
 
 ### Winter
 This staff allows the use of the following spells.
 
--   *Cone of cold* (intensified, 2 charges, DC 28)
--   *Ice storm* (intensified, 2 charges, DC 26)
--   *Freezing sphere* (intensified, 2 charges, DC 29)
--   *Wall of ice* (1 charge)
+-   *[[Cone of cold]]* (intensified, 2 charges, DC 28)
+-   *[[Ice storm]]* (intensified, 2 charges, DC 26)
+-   *[[Freezing sphere]]* (intensified, 2 charges, DC 29)
+-   *[[Wall of ice]]* (1 charge)
 
 *Caster Level:* 24th; *Prerequisites:* Craft Staff, Craft Epic Staff,
-Extend Spell, Intensify Spell, *cone of cold, ice storm, freezing
-sphere, wall of ice; Market Price:* 292,500 gp.
+Extend Spell, Intensify Spell, *[[cone of cold]], [[ice storm]], freezing
+sphere, [[wall of ice]]; Market Price:* 292,500 gp.
 
 ## Wondrous Items
 
@@ -528,7 +528,7 @@ and flesh, giving him or her an enhancement bonus to his or her natural
 armor of +6 or higher, depending on the type of amulet.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *barkskin,* creator's caster level must be three times
+Wondrous Item, *[[barkskin]],* creator's caster level must be three times
 the amulet's bonus; *Market Price:* 720,000 gp (+6), 980,000 gp (+7),
 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10); *Weight:* ---.
 
@@ -537,7 +537,7 @@ This belt adds an enhancement bonus of +8 or
 higher to the wearer's Strength score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *bull's strength; Market Price:* 640,000 gp (+8),
+Wondrous Item, *[[Bulls Strength|bull's strength]]; Market Price:* 640,000 gp (+8),
 1,000,000 gp (+10), 1,440,000 gp (+12); *Weight:* 1 lb.
 
 ### Boots of Swiftness
@@ -548,10 +548,10 @@ evasion ability (as the rogue class feature), and the wearer's jumping
 distance is not limited by his or her height. The wearer gains a +20
 competence bonus on Balance, Climb, Jump, and Tumble checks. Three times
 per day, the wearer can utter a command word to activate the boots'
-*haste* power (as the *haste* spell, lasts 20 rounds).
+*haste* power (as the *[[haste]]* spell, lasts 20 rounds).
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *cat's grace, expeditious retreat, haste, jump; Market
+Wondrous Item, *[[Cats Grace|cat's grace]], [[expeditious retreat]], [[haste]], jump; Market
 Price:* 256,000 gp; *Weight:* 1 lb.
 
 ### Bracers of Epic Armor
@@ -561,7 +561,7 @@ bonus of +11 or higher, just as though he or she were wearing armor.
 Both bracers must be worn for the magic to be effective.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *mage armor,* creator's caster level must be twice the
+Wondrous Item, *[[mage armor]],* creator's caster level must be twice the
 bracers' bonus; *Market Price:* 1,210,000 (+11), 1,440,000 (+12),
 1,690,000 gp (+13), 1,960,000 (+14), 2,250,000 gp (+15); *Weight:* 1 lb.
 
@@ -581,7 +581,7 @@ purposes of combat-related opposed checks that apply a modifier based on
 size, such as bull rush, grapple, and trip.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *bull's strength, endurance, enlarge; Market Price:*
+Wondrous Item, *[[Bulls Strength|bull's strength]], endurance, enlarge; Market Price:*
 4,384,000 gp; *Weight:* 1 lb.
 
 ### Cabinet of Feasting
@@ -589,10 +589,10 @@ This cabinet has the ability to produce a feast
 for up to forty people, three times per day. Merely opening the doors of
 the cabinet reveals platters of food of all types and flavors of the
 very freshest sort. The meal has all the qualities and benefits of that
-produced by a *heroes' feast* spell.
+produced by a *[[Heroes Feast|heroes' feast]]* spell.
 
 *Caster Level:* 40th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *heroes' feast; Market Price:* 288,000 gp; *Weight:* 20
+Wondrous Item, *[[Heroes Feast|heroes' feast]]; Market Price:* 288,000 gp; *Weight:* 20
 lb.
 
 ### Cloak of Epic Charisma
@@ -600,7 +600,7 @@ When worn, this cloak grants a +8 or higher
 enhancement bonus to a character's Charisma score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *charm monster; Market Price:* 640,000 gp (+8), 1,000,000
+Wondrous Item, *[[charm monster]]; Market Price:* 640,000 gp (+8), 1,000,000
 gp (+10), 1,440,000 gp (+12); *Weight:* 1 lb.
 
 ### Cloak of Epic Resistance
@@ -626,7 +626,7 @@ keys include nothing, a pearl, a particular hair color, or even the
 in this manner. Once all sixty pairs of portals are created, the key
 cannot create additional gates, though it may still be the necessary key
 to access some or all of the portals. To any creature without the proper
-key, the interdimensional portals are not visible (through *true seeing*
+key, the interdimensional portals are not visible (through *[[true seeing]]*
 or similar magic reveals their presence).
 
 *Caster Level:* 21st; *Prerequisites:* Craft Wondrous Item, Craft Epic
@@ -637,7 +637,7 @@ These gloves add an enhancement bonus of
 +8 or higher to the wearer's Dexterity score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *cat's grace; Market Price:* 640,000 gp (+8), 1,000,000
+Wondrous Item, *[[Cats Grace|cat's grace]]; Market Price:* 640,000 gp (+8), 1,000,000
 gp (+10), 1,440,000 gp (+12); *Weight:* ---.
 
 ### Headband of Epic Intellect
@@ -645,7 +645,7 @@ This headband adds an enhancement bonus
 of +8 or higher to the wearer's Intelligence score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *commune* or *legend lore; Market Price:* 640,000 gp
+Wondrous Item, *[[commune]]* or *[[legend lore]]; Market Price:* 640,000 gp
 (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); *Weight:* ---.
 
 ### Horseshoes of the Peerless Steed
@@ -660,7 +660,7 @@ resistance 32 against enchantment effects. In addition, the ground speed
 of the creature wearing the horseshoes doubles.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, Ride skill, *haste, spell resistance; Market Price:*
+Wondrous Item, Ride skill, *[[haste]], spell resistance; Market Price:*
 217,000 gp; *Weight:* 1 lb. each.
 
 ### Mantle of Epic Spell Resistance
@@ -675,11 +675,11 @@ lb.
 The wearer of this cloak gains a +30 bonus
 on Hide and Move Silently checks. The wearer's outline is blurry and
 indistinct, granting concealment (20% miss chance) at all times (as the
-*blur* spell). The mantle also grants nondetection to its wearer (as the
+*[[blur]]* spell). The mantle also grants [[nondetection]] to its wearer (as the
 spell).
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *blur, invisibility, nondetection, silence; Market
+Wondrous Item, *[[blur]], invisibility, [[nondetection]], silence; Market
 Price:* 242,000 gp; *Weight:* 1 lb.
 
 ### Periapt of Epic Wisdom
@@ -687,7 +687,7 @@ This large pearl set on a chain grants an
 enhancement bonus of +8 or higher to the wearer's Wisdom score.
 
 *Caster Level:* 20th; *Prerequisites:* Craft Wondrous Item, Craft Epic
-Wondrous Item, *commune* or *legend lore; Market Price:* 640,000 gp
+Wondrous Item, *[[commune]]* or *[[legend lore]]; Market Price:* 640,000 gp
 (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); *Weight:* ---.
 
 ## Intelligent Items
@@ -761,7 +761,7 @@ one negative level for every 10 points of the weapon's Ego (see Item
 Ego, below) if he or she so much as picks up the item. Although this
 never results in actual level loss, the negative levels remain as long
 as the item is in hand and cannot be overcome in any way (including
-*restoration* spells). These negative levels are cumulative with any
+*[[restoration]]* spells). These negative levels are cumulative with any
 other penalties the item might already place on inappropriate wielders.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------
@@ -796,7 +796,7 @@ of communication can use any of its modes at will.
   86--100                                                                                                                                                                                                                                                                                                                                                          Speech^3^ and telepathy^4^   +8,000 gp
   1 The possessor receives some signal (a throb or tingle, for example) when the item's ability functions.                                                                                                                                                                                                                                                                                      
   2 The possessor feels urges and sometimes emotions from the item that encourage or discourage certain courses of action.                                                                                                                                                                                                                                                                      
-  3Speaks Common plus one language per point of Intelligence bonus. Roll d%: 01--05, the item cannot read any languages; 06--75, the item can read any language it can speak (+1,000 gp to market price); 76--90, it can read all languages (+2,000 gp to market price); 91--100, it can read all languages as well as *read magic* (+3,000 gp to market price).                                
+  3Speaks Common plus one language per point of Intelligence bonus. Roll d%: 01--05, the item cannot read any languages; 06--75, the item can read any language it can speak (+1,000 gp to market price); 76--90, it can read all languages (+2,000 gp to market price); 91--100, it can read all languages as well as *[[read magic]]* (+3,000 gp to market price).                                
   4 The item can communicate silently with any wielder who has an Intelligence of 1 or higher, regardless of any language barrier.                                                                                                                                                                                                                                                              
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------- -----------------------
 
@@ -818,19 +818,19 @@ specific abilities by rolling on the appropriate tables below.
   25--28    Wielder has free use of Sunder
   29--32    Wielder has free use of Expertise
   33--39    *Detect* \[opposing alignment\] at will
-  40--42    *Find traps* at will
-  43--47    *Detect secret doors* at will
-  48--54    *Detect magic* at will
+  40--42    *[[Find traps]]* at will
+  43--47    *[[Detect secret doors]]* at will
+  48--54    *[[Detect magic]]* at will
   55--57    Wielder has free use of uncanny dodge (as a 5th-level barbarian)
   58--60    Wielder has free use of evasion
-  61--65    Wielder can use *see invisibility* at will
-  66--70    *Cure light wounds* (1d8+5) on wielder 1/day
-  71--75    *Feather fall* on wielder 1/day
-  76        *Locate object* in a 120-ft. radius
+  61--65    Wielder can use *[[see invisibility]]* at will
+  66--70    *[[Cure light wounds]]* (1d8+5) on wielder 1/day
+  71--75    *[[Feather fall]]* on wielder 1/day
+  76        *[[Locate object]]* in a 120-ft. radius
   77        Wielder does not need to sleep
   78        Wielder does not need to breathe
   79        *Jump* for 20 minutes on wielder 1/day
-  80        *Spider climb* for 20 minutes on wielder 1/day
+  80        *[[Spider climb]]* for 20 minutes on wielder 1/day
   81--90    Roll twice again on this table
   91--100   Roll on Table: Intelligent Item Extraordinary Powers instead
   --------- ------------------------------------------------------------------
@@ -848,31 +848,31 @@ a power on its own.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------- ---------
   d%                                                                                                                                                             Extraordinary Power                                                                                Uses
-  01--05                                                                                                                                                         *Charm person* (DC 11 ^1^) on contact                                                              3/day
-  06--10                                                                                                                                                         *Clairaudience/clairvoyance* (100-ft. range, 1 minute per use)                                     3/day
-  11--15                                                                                                                                                         *Magic missile* (200-ft. range, 3 missiles)                                                        3/day
+  01--05                                                                                                                                                         *[[Charm person]]* (DC 11 ^1^) on contact                                                              3/day
+  06--10                                                                                                                                                         *[[Clairaudience_Clairvoyance|Clairaudience/clairvoyance]]* (100-ft. range, 1 minute per use)                                     3/day
+  11--15                                                                                                                                                         *[[Magic missile]]* (200-ft. range, 3 missiles)                                                        3/day
   16--20                                                                                                                                                         *Shield* on wielder                                                                                3/day
-  21--25                                                                                                                                                         *Detect thoughts* (100-ft. range, 1 minute per use)                                                3/day
+  21--25                                                                                                                                                         *[[Detect thoughts]]* (100-ft. range, 1 minute per use)                                                3/day
   26--30                                                                                                                                                         *Levitation* (wielder only, 10 minute duration)                                                    3/day
   31--35                                                                                                                                                         *Invisibility* (wielder only, up to 30 minutes per use)                                            3/day
   36--40                                                                                                                                                         *Fly* (30 minutes per use)                                                                         2/day
-  41--45                                                                                                                                                         *Lightning bolt* (8d6 points of damage, 200-ft. range, DC 13^1^)                                   1/day
-  46--50                                                                                                                                                         Summon monster III                                                                                 1/day
+  41--45                                                                                                                                                         *[[Lightning bolt]]* (8d6 points of damage, 200-ft. range, DC 13^1^)                                   1/day
+  46--50                                                                                                                                                         [[Summon monster III]]                                                                                 1/day
   51--55                                                                                                                                                         *Telepathy* (100 ft. range)                                                                        2/day
-  56--60                                                                                                                                                         *Cat's grace* (wielder only)                                                                       1/day
-  61--65                                                                                                                                                         *Bull's strength* (wielder only)                                                                   1/day
-  66--70                                                                                                                                                         *Haste* (wielder only, 10 rounds)                                                                  1/day
-  71--73                                                                                                                                                         *Telekinesis* (250 lb. maximum, 1 minute each use)                                                 2/day
+  56--60                                                                                                                                                         *[[Cats Grace|Cat's grace]]* (wielder only)                                                                       1/day
+  61--65                                                                                                                                                         *[[Bulls Strength|Bull's strength]]* (wielder only)                                                                   1/day
+  66--70                                                                                                                                                         *[[Haste]]* (wielder only, 10 rounds)                                                                  1/day
+  71--73                                                                                                                                                         *[[Telekinesis]]* (250 lb. maximum, 1 minute each use)                                                 2/day
   74--76                                                                                                                                                         Heal                                                                                               1/day
-  77                                                                                                                                                             *Teleport,* 600 lb. maximum                                                                        1/day
-  78                                                                                                                                                             Globe of invulnerability                                                                           1/day
-  79                                                                                                                                                             *Stoneskin* (wielder only, 10 minutes per use)                                                     2/day
-  80                                                                                                                                                             *Feeblemind* by touch                                                                              2/day
-  81                                                                                                                                                             True seeing                                                                                        At will
-  82                                                                                                                                                             Wall of force                                                                                      1/day
-  83                                                                                                                                                             Summon monster VI                                                                                  1/day
-  84                                                                                                                                                             *Finger of death* (100 ft. range, DC 17^1^)                                                        1/day
-  85                                                                                                                                                             Passwall                                                                                           At will
+  77                                                                                                                                                             *[[Teleport]],* 600 lb. maximum                                                                        1/day
+  78                                                                                                                                                             [[Globe of invulnerability]]                                                                           1/day
+  79                                                                                                                                                             *[[Stoneskin]]* (wielder only, 10 minutes per use)                                                     2/day
+  80                                                                                                                                                             *[[Feeblemind]]* by touch                                                                              2/day
+  81                                                                                                                                                             [[True seeing]]                                                                                        At will
+  82                                                                                                                                                             [[Wall of force]]                                                                                      1/day
+  83                                                                                                                                                             [[Summon monster VI]]                                                                                  1/day
+  84                                                                                                                                                             *[[Finger of death]]* (100 ft. range, DC 17^1^)                                                        1/day
+  85                                                                                                                                                             [[Passwall]]                                                                                           At will
   86--90                                                                                                                                                         Roll twice again on this table                                                                     ---
   91--100                                                                                                                                                        Roll again on this table, and then roll for a special purpose on Table: Intelligent Item Purpose   ---
   1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability's bonus to the given DC.                                                                                                      
@@ -881,31 +881,31 @@ a power on its own.
   : Table: Intelligent Item Extraordinary Powers
 
 If the same power is rolled twice, the uses per day are doubled. (If
-*true seeing* or *passwall* is rolled twice, roll again.) Powers
+*[[true seeing]]* or *[[passwall]]* is rolled twice, roll again.) Powers
 function only when the item is drawn and held, and the possessor is
 concentrating upon the desired effect. Activating a power is a standard
 action. An intelligent item might activate a power on its own.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------- -------
   d%                                                                                                                                                              Awesome Power                                                                                                          Uses
-  01--04                                                                                                                                                          Astral projection                                                                                                      1/day
-  05--08                                                                                                                                                          *Bull's strength* (wielder only; intensified; +10 enhancement bonus to Strength)                                       1/day
-  09--12                                                                                                                                                          *Cat's grace* (wielder only; intensified; +10 enhancement bonus to Dexterity)                                          1/day
-  13--16                                                                                                                                                          *Chain lightning* (enhanced; 20d6 damage; DC 16^1^)                                                                    1/day
-  17--20                                                                                                                                                          *Dominate monster* (DC 19 ^1^) on contact                                                                              1/day
+  01--04                                                                                                                                                          [[Astral projection]]                                                                                                      1/day
+  05--08                                                                                                                                                          *[[Bulls Strength|Bull's strength]]* (wielder only; intensified; +10 enhancement bonus to Strength)                                       1/day
+  09--12                                                                                                                                                          *[[Cats Grace|Cat's grace]]* (wielder only; intensified; +10 enhancement bonus to Dexterity)                                          1/day
+  13--16                                                                                                                                                          *[[Chain lightning]]* (enhanced; 20d6 damage; DC 16^1^)                                                                    1/day
+  17--20                                                                                                                                                          *[[Dominate monster]]* (DC 19 ^1^) on contact                                                                              1/day
   21--24                                                                                                                                                          *Endurance* (wielder only; intensified; +10 enhancement bonus to Constitution)                                         1/day
   25--28                                                                                                                                                          *Energy drain* (DC 19 ^1^) on contact                                                                                  1/day
-  29--32                                                                                                                                                          *Finger of death* (heightened to 9th level; DC 19^1^)                                                                  1/day
-  33--36                                                                                                                                                          *Foresight* (wielder only)                                                                                             1/day
+  29--32                                                                                                                                                          *[[Finger of death]]* (heightened to 9th level; DC 19^1^)                                                                  1/day
+  33--36                                                                                                                                                          *[[Foresight]]* (wielder only)                                                                                             1/day
   37--40                                                                                                                                                          Gate                                                                                                                   1/day
-  41--44                                                                                                                                                          *Haste* (wielder only; extended; 40-round duration)                                                                    3/day
+  41--44                                                                                                                                                          *[[Haste]]* (wielder only; extended; 40-round duration)                                                                    3/day
   45--48                                                                                                                                                          *Improved invisibility* (wielder only; extended; 40-minute duration)                                                   2/day
-  49--52                                                                                                                                                          *Mass heal* 1/day 53--56 *Meteor swarm* (DC 19^1^)                                                                     1/day
-  57--60                                                                                                                                                          *Phase door* 2/day 61--64 *Prismatic sphere* (DC 19^1^)                                                                1/day
-  65--68                                                                                                                                                          *Stoneskin* (wielder only; extended; 400-minute duration)                                                              3/day
-  69--72                                                                                                                                                          *Summon monster IX* 2 (extended; 40-round duration)                                                                    1/day
-  73--76                                                                                                                                                          *Sunburst* (heightened to 9th level; DC 19^1^)                                                                         2/day
-  77--80                                                                                                                                                          Teleport without error                                                                                                 2/day
+  49--52                                                                                                                                                          *[[[Meteor Swarm|[[Meteor Swa]]rm|[[Meteor Swa]]rm|[Heal Mass|M]]ass heal]]* 1/day 53--56 *Meteor swarm* (DC 19^1^)                                                                     1/day
+  57--60                                                                                                                                                          *[[Phase door]]* 2/day 61--64 *[[Prismatic sphere]]* (DC 19^1^)                                                                1/day
+  65--68                                                                                                                                                          *[[Stoneskin]]* (wielder only; extended; 400-minute duration)                                                              3/day
+  69--72                                                                                                                                                          *[[Summon monster IX]]* 2 (extended; 40-round duration)                                                                    1/day
+  73--76                                                                                                                                                          *[[Sunburst]]* (heightened to 9th level; DC 19^1^)                                                                         2/day
+  77--80                                                                                                                                                          [[Teleport]] without error                                                                                                 2/day
   81--90                                                                                                                                                          Roll twice again on this table                                                                                         ---
   91--100                                                                                                                                                         Roll again on this table, and then roll for a special purpose on nonepic magic item Table: Intelligent Item Purpose.   ---
   1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability's bonus to the listed DC.                                                                                                                          
@@ -957,12 +957,12 @@ believable, the item won't allow it.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
   d%                                                                                                                                                              Special Purpose Power
   01--10                                                                                                                                                          *Blindness*^1^ (DC 17^2^) for 2d6 rounds
-  11--20                                                                                                                                                          *Confusion*^1^ (DC 19^2^) for 2d6 rounds
+  11--20                                                                                                                                                          *[[Confusion]]*^1^ (DC 19^2^) for 2d6 rounds
   21--25                                                                                                                                                          *Fear*^1^ (DC 19^2^) for 1d4 rounds
-  26--55                                                                                                                                                          *Hold monster*^1^ (DC 19^2^) for 1d4 rounds
+  26--55                                                                                                                                                          *[[Hold monster]]*^1^ (DC 19^2^) for 1d4 rounds
   56--65                                                                                                                                                          *Slay living*^1^ (DC 20^2^)
-  66--75                                                                                                                                                          *Disintegrate*^1^ (DC 21^2^)
-  76--80                                                                                                                                                          *True resurrection* on wielder, one time only
+  66--75                                                                                                                                                          *[[Disintegrate]]*^1^ (DC 21^2^)
+  76--80                                                                                                                                                          *[[True resurrection]]* on wielder, one time only
   81--100                                                                                                                                                         +4 luck bonus on all saving throws, +4 deflection AC bonus, spell resistance 30
   1 This power affects the opponent of the item's wielder on a successful hit unless the opponent makes a Will save at the listed DC.                             
   2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability's bonus to the listed DC.   
@@ -988,7 +988,7 @@ regard to the dominance of item over character, as detailed below.
   Special purpose                                                  4
   Telepathic ability                                               1
   Read languages ability                                           1
-  *Read magic* ability                                             1
+  *[[Read magic]]* ability                                             1
   Each +1 of Intelligence bonus                                    1
   Each +1 of Wisdom bonus                                          1
   Each +1 of Charisma bonus                                        1
@@ -1037,7 +1037,7 @@ In extreme circumstances, the item can resort to even harsher measures.
 
 Naturally, such actions are unlikely when harmony reigns between the
 character's and item's alignments or when their purposes and
-personalities are well matched. Even so, an item might wish to have a
+personalities are well matched. Even so, an item might [[wish]] to have a
 lesser character possess it in order to easily command him or her, or a
 higher-level possessor so as to better accomplish its goals. All magic
 items with personalities desire to play an important role in whatever
@@ -1082,10 +1082,10 @@ her halfway into the next level of experience. (If the reader has levels
 in more than one arcane spellcasting class, he or she must choose one of
 the classes to be affected.) Nongood arcane spellcasters (LN, N, CN, LE,
 NE, or CE) are permanently drained of 1d4+1 points of Constitution and
-must atone (see the *atonement* spell) in order to gain any further
+must atone (see the *[[atonement]]* spell) in order to gain any further
 experience. Anyone incapable of casting arcane spells who reads even a
 single word of the work must make a Will save (DC 20) or suffer insanity
-(see the *insanity* spell). Except as indicated above, the writing in a
+(see the *[[insanity]]* spell). Except as indicated above, the writing in a
 *libram of gainful conjuration* can't be distinguished from any other
 book, libram, tome, or so on until perused. Once read, the book
 vanishes, never to be seen again, nor can the same character ever
@@ -1103,10 +1103,10 @@ her halfway into the next level of experience. (If the reader has levels
 in more than one arcane spellcasting class, he or she must choose one of
 the classes to be affected.) Nonevil arcane spellcasters (LN, N, CN, LG,
 NG, or CG) are permanently drained of 1d4+1 points of Constitution and
-must atone (see the *atonement* spell) in order to gain any further
+must atone (see the *[[atonement]]* spell) in order to gain any further
 experience. Anyone incapable of casting arcane spells who reads even a
 single word of the work must make a Will save (DC 20) or suffer insanity
-(see the *insanity* spell). Except as indicated above, the writing in a
+(see the *[[insanity]]* spell). Except as indicated above, the writing in a
 *libram of ineffable damnation* can't be distinguished from any other
 book, libram, tome, or so on until perused. Once read, the book
 vanishes, never to be seen again, nor can the same character ever
@@ -1124,10 +1124,10 @@ her halfway into the next level of experience. (If the reader has levels
 in more than one arcane spellcasting class, he or she must choose one of
 the classes to be affected.) Evil or good arcane spellcasters (LE, NE,
 CE, LG, NG, or CG) are permanently drained of 1d4+1 points of
-Constitution and must atone (see the *atonement* spell) in order to gain
+Constitution and must atone (see the *[[atonement]]* spell) in order to gain
 any further experience. Anyone incapable of casting arcane spells who
 reads even a single word of the work must make a Will save (DC 20) or
-suffer insanity (see the *insanity* spell). Except as indicated above,
+suffer insanity (see the *[[insanity]]* spell). Except as indicated above,
 the writing in a *libram of silver magic* can't be distinguished from
 any other book, libram, tome, or so on until perused. Once read, the
 book vanishes, never to be seen again, nor can the same character ever
@@ -1188,10 +1188,10 @@ The player should roll 2d6 and consult the table below to determine the
   5     --1 penalty on all attacks, saves, and checks for 1 hour
   6     --4 penalty to AC for 10 minutes
   7     +1 morale bonus on attacks and on saves against fear for 10 minutes
-  8     Gain effects of *blur* for 10 minutes
+  8     Gain effects of *[[blur]]* for 10 minutes
   9     +1 insight bonus on all attacks, saves, and checks for 1 hour
-  10    Gain effects of *freedom of movement* for 1 hour
-  11    Gain one *limited wish* (must be used within 1 minute)
+  10    Gain effects of *[[freedom of movement]]* for 1 hour
+  11    Gain one *[[limited wish]]* (must be used within 1 minute)
   12    Gain 10,000 XP and may roll again next round
   ----- ---------------------------------------------------------------------
 
@@ -1218,7 +1218,7 @@ temporary Charisma damage; these points cannot be healed or restored in
 any way while the *Axe* is held. The current owner of the *Axe* gains a
 +10 bonus on Craft (armorsmithing, blacksmithing, gemcutting,
 stonemasonry, and weaponsmithing) checks. The wielder of the *Axe* can
-summon an elder earth elemental (as *summon monster IX;* duration 20
+summon an elder earth elemental (as *[[summon monster IX]];* duration 20
 rounds) once per week.
 
 ### Codex of the Infinite Planes
@@ -1234,9 +1234,9 @@ circumstance bonus on the check per additional day spent reading until a
 power is learned). However, each day of study also forces the reader to
 make a Will save (DC 30 + 1 per day of study) to avoid being driven
 insane (as the *insanity* spell). The powers of the *Codex of the
-Infinite Planes* are as follows: *astral projection, banishment,
-elemental swarm, gate, greater planar ally, greater planar binding,
-plane shift,* and *soul bind.* Each is usable at will by the owner of
+Infinite Planes* are as follows: *[[astral projection]], banishment,
+[[elemental swarm]], gate, [[Planar Ally Greater|greater planar ally]], [[Planar Binding Greater|greater planar binding]],
+plane shift,* and *[[soul bind]].* Each is usable at will by the owner of
 the *Codex* (assuming that he or she has learned how to access the
 power). The *Codex of the Infinite Planes* has a caster level of 30th
 for the purposes of all powers and catastrophes, and all saving throw
@@ -1249,10 +1249,10 @@ catastrophe per power use, even if he or she fails both checks.
 
   --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   d%        Catastrophe
-  01--25    Natural Fury: An *earthquake* spell centered on the reader strikes every round for 1 minute, and an intensified *storm of vengeance* spell is centered and targeted on the reader.
+  01--25    Natural Fury: An *[[earthquake]]* spell centered on the reader strikes every round for 1 minute, and an intensified *[[storm of vengeance]]* spell is centered and targeted on the reader.
   26--50    Fiendish Vengeance: A *gate* opens and 1d3+1 balor demons, pit fiends, or similar evil outsiders immediately step through and attempt to destroy the owner of the *Codex.*
-  51--75    Ultimate Imprisonment: Reader's soul is captured (as *trap the soul;* no save allowed) in a random gem somewhere on the plane while his or her body is entombed beneath the earth (as *imprisonment).*
-  76--100   Death: The reader utters a *wail of the banshee* and then is subject to a *destruction* spell. This repeats every round for 10 rounds until the reader is dead.
+  51--75    Ultimate Imprisonment: Reader's soul is captured (as *[[trap the soul]];* no save allowed) in a random gem somewhere on the plane while his or her body is entombed beneath the earth (as *imprisonment).*
+  76--100   Death: The reader utters a *[[wail of the banshee]]* and then is subject to a *destruction* spell. This repeats every round for 10 rounds until the reader is dead.
   --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Cup and Talisman of the Demigod
@@ -1261,16 +1261,16 @@ chalice requiring two hands to lift. It emits light (as the *daylight*
 spell) at all times and automatically dispels any darkness-based spells
 whose area it enters. If the cup is filled with holy water (requiring a
 full gallon), that substance will act as a *potion of cure critical
-wounds* or a *potion of neutralize poison* (owner's choice) if drunk.
+wounds* or a *potion of [[neutralize poison]]* (owner's choice) if drunk.
 This liquid can't be saved or stored in any way. The *Talisman* is a
 small eight-pointed platinum star hanging from a chain of gold and
 pearls. The wearer gains a +6 enhancement bonus to Charisma and may cast
-*remove blindness/deafness, remove curse,* and *remove disease* at will.
+*remove [[Blindness_Deafness|blindness/deafness]], [[remove curse]],* and *[[remove disease]]* at will.
 Furthermore, if the *Talisman* is placed within the *Cup* and the *Cup*
 filled with holy water, that liquid acts as a special elixir of
-*resurrection* (as the spell). This effect will function only once per
+*[[resurrection]]* (as the spell). This effect will function only once per
 month. Any evil or chaotic creature that touches the *Cup* or *Talisman*
-is struck with a *holy word* (if evil) or *dictum* (if chaotic) spell
+is struck with a *[[holy word]]* (if evil) or *[[dictum]]* (if chaotic) spell
 (or both if the creature is chaotic evil).
 
 ### Eye of the Orc
@@ -1282,7 +1282,7 @@ gain a +2 enhancement bonus to Strength but take a --2 penalty to
 Intelligence and Charisma. Regardless of the owner's race, any weapon
 wielded by the owner of the *Eye* is considered an *elf bane
 weapon.*Furthermore, by holding the *Eye* before the character, he or
-she can perceive things as if he or she had *true seeing* cast upon him
+she can perceive things as if he or she had *[[true seeing]]* cast upon him
 or her. This can be activated only once per day but lasts as long as the
 character concentrates on it (requiring a standard action each round).
 
@@ -1292,7 +1292,7 @@ increases the wearer's size by one category (to a maximum of Colossal).
 The wearer gains a +10 enhancement bonus to Strength and is rendered
 immune to mind-affecting effects, poison, disease, and similar effects.
 He or she is not subject to critical hits, subdual damage, ability
-damage, energy drain, or death from massive damage. *Golem Armor* is
+damage, [[Compendium/Spells/Energy Drain|energy drain]], or death from massive damage. *Golem Armor* is
 immune to rust attacks. The wearer of *Golem Armor* gains damage
 reduction 15/adamantine. He or she also cannot regain hit points by any
 means (mundane or magical) while the armor is worn. It requires 1 hour
@@ -1312,7 +1312,7 @@ to Strength. The wearer doubles the damage bonus on any smite attacks he
 or she makes. If the wearer has the Leadership feat, the wearer's
 Leadership score increases by +4, but the wearer can never attract or
 keep followers or cohorts who are good or chaotic. Once per day, the
-wielder can use *implosion* as a 20th-level caster (DC 23). The *Iron
+wielder can use *[[implosion]]* as a 20th-level caster (DC 23). The *Iron
 Gauntlet of War* is intelligent (Int 13, Wis 18, Cha 24, Ego 26) and
 lawful evil. It can communicate telepathically with its wearer, though
 it cannot speak. It will always seek to dominate any wearer who isn't
@@ -1335,7 +1335,7 @@ determine which facet (and thus which power) is active.
   5      Wearer gains fast healing 1
   6      Wearer can *fly* at will
   7      Wearer gains cold resistance 30
-  8      Wearer gains *freedom of movement*
+  8      Wearer gains *[[freedom of movement]]*
   9      Wearer gains +5 resistance bonus on saving throws
   10     Wearer may select which facet is active
   ------ ---------------------------------------------------
@@ -1353,5 +1353,8 @@ consciousness).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

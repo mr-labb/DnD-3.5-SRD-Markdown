@@ -20,12 +20,12 @@ Natural armor improves by +1 (this stacks with any natural armor bonus the base 
 #### Special Attacks
 A half-celestial retains all the special attacks of the base creature and also gains the following special abilities. 
 
-*Daylight (Su):* Half-celestials can use a *daylight* effect (as the spell) at will. 
+*[[Daylight]] (Su):* Half-celestials can use a *daylight* effect (as the spell) at will. 
 
 *Smite Evil (Su):* Once per day a half-celestial can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against an evil foe. 
 
 #### Spell-Like Abilities
-A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD, and the save DC is Charisma-based. |HD|Abilities| |---|---| |1-2|Protection from evil 3/day, bless| |3-4|Aid, detect evil| |5-6|Cure serious wounds, neutralize poison| |7-8|Holy smite, remove disease| |9-10|Dispel evil| |11-12|Holy word| |13-14|Holy aura 3/day, hallow| |15-16|Mass charm monster| |17-18|Summon monster IX (celestials only)| |19-20|Resurrection|
+A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD, and the save DC is Charisma-based. |HD|Abilities| |---|---| |1-2|[[Protection from evil]] 3/day, bless| |3-4|[[Aid]], [[detect evil]]| |5-6|[[Cure serious wounds]], [[neutralize poison]]| |7-8|[[Holy smite]], [[remove disease]]| |9-10|[[Dispel evil]]| |11-12|[[Holy word]]| |13-14|[[Holy aura]] 3/day, [[hallow]]| |15-16|[[Charm Monster Mass|Mass charm monster]]| |17-18|[[Summon monster IX]] (celestials only)| |19-20|[[Resurrection]]|
 #### Special Qualities
 A half-celestial has all the special qualities of the base creature, plus the following special qualities. 
 
@@ -62,5 +62,8 @@ Same as base creature +4.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

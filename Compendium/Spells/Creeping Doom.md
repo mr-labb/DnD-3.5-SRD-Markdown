@@ -1,5 +1,6 @@
 ---
-aliases: [Creeping Doom]
+aliases:
+ - Creeping Doom
 title: Compendium/Basics/Spell/Creeping Doom
 tags:
   - 35E_SRD
@@ -32,16 +33,20 @@ Swarms of centipedes attack at your command.
 
 ### Description
 
-Upon casting [[Creeping Doom]], you summon a mass of centipede swarms—one per two caster levels (maximum 10 swarms at 20th level). Swarms may be positioned independently and do not need to appear adjacent to one another.
+Upon casting [[Creeping Doom]], you summon a mass of centipede swarmsâ€”one per two caster levels (maximum 10 swarms at 20th level). Swarms may be positioned independently and do not need to appear adjacent to one another.
 
 - Swarms may share space with existing creatures.
 - By default, swarms remain stationary and attack any creature in their area.
 - As a **standard action**, you may command any number of swarms to move toward a target within **100 feet**.
 - A swarm cannot move beyond **100 feet** from you. If you move more than 100 feet away from a swarm, it becomes stationary but resumes movement if you return within range.
 
-**Source:** PHB P215
+**Source :** PHB P215
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

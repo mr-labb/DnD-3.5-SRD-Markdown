@@ -1,5 +1,6 @@
 ---
-aliases: [Color Spray]
+aliases:
+ - Color Spray
 title: Compendium/Basics/Spell/Color Spray
 tags:
   - 35E_SRD
@@ -51,9 +52,13 @@ Sightless creatures are not affected by *Color Spray*.
 **Material Component:**  
 A pinch each of powder or sand colored red, yellow, and blue.
 
-Source : PHB P210
+**Source :** PHB P210
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

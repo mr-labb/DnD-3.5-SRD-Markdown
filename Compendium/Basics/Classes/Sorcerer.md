@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Sorcerer]
+aliases:
+ - Sorcerer
 title: Compendium/Basics/Classe/Sorcerer
 tag: Class, Sorcerer
 ---
@@ -9,7 +10,8 @@ tag: Class, Sorcerer
 
 ### SORCERER
 
-
+<br><br>Sorcerers create magic the way a poet creates poems, with inborn talent honed by practice. They have no books, no mentors, no theories - just raw power that they direct at will. Some sorcerers claim that the blood of dragons courses through their veins. That claim may even be true in some cases - it is common [[Compendium/Basics/Skills/Knowledge]] that certain powerful dragons can take humanoid form and even have humanoid lovers, and it's difficult to prove that a given sorcerer does not have a dragon ancestor. It's true that sorcerers often have striking good looks, usually with a touch of the exotic that hints at an unusual heritage. Others hold that the claim is either an unsubstantiated boast on the part of certain sorcerers or envious gossip on the part of those who lack the sorcerer's gift.<br><br>The typical sorcerer adventures in order to improve his abilities. Only by testing his limits can he expand them. A sorcerer's power is inborn - part of his soul. Developing this power is a quest in itself for many sorcerers, regardless of how they wish to use their power. Some good sorcerers are driven by the need to prove themselves. Marked as different by their power, they seek to win a place in society and to prove themselves to others. Evil sorcerers, however, also feel themselves set apart from others - apart and above. They adventure to gain power over those they look down upon.<br><br>Sorcerers cast spells through innate power rather than through careful training and study. Their magic is intuitive rather than logical. Sorcerers know fewer spells than wizards do and acquire powerful spells more slowly than wizards, but they can cast spells more often and have no need to select and prepare their spells ahead of time. Sorcerers do not specialize in certain schools of magic the way wizards sometimes do. Since sorcerers gain their powers without undergoing the years of rigorous study that wizards go through, they don't have the background of arcane [[Compendium/Basics/Skills/Knowledge]] than most wizards have. However, they do have more time to learn fighting skills, and they are proficient with simple weapons.<br><br>For a sorcerer, magic is an intuitive art, not a science. Sorcery favors the free, chaotic, creative spirit over the disciplined mind, so sorcerers tend slightly toward chaos over law.<br><br>Some sorcerers favor Boccob (god of magic), while others revere Wee Jas (goddess of death and magic). However, many sorcerers follow some other deity, or none at all. (Wizards typically learn to follow Boccob or Wee Jas from their mentors, but most sorcerers are self-taught, with no master to induct them into a religion).<br><br>Sorcerers develop rudimentary powers at puberty. Their first spells are incomplete, spontaneous, uncontrolled, and sometimes dangerous. A household with a budding sorcerer in it may be troubled by strange sounds or lights, which can create the impression that the place is haunted. Eventually, the young sorcerer understands the power that he has been wielding unintentionally. From that point on, he can begin practicing and improving his powers. Sometimes a sorcerer is fortunate enough to come under the care of an older, more experienced sorcerer, someone who can help him understand and use his new powers. More often, however, sorcerers are on their own, feared by erstwhile friends and misunderstood by family. Sorcerers have no sense of identity as a group. Unlike wizards, they gain little by sharing their [[Compendium/Basics/Skills/Knowledge]] and have no strong incentive to work together.<br><br>Most sorcerers are humans or half-elves, but the innate talent for sorcery is unpredictable, and it can show up in any of the common races. Arcane spellcasters from savage lands or from among the brutal humanoids are more likely to be sorcerers than wizards. Kobolds are especially likely to take up this path, and they are fierce, if inarticulate, proponents of the "blood of the dragons" theory.<br><br>Sorcerers find that they have the most in common with members of other largely self-taught classes, such as druids and rogues. They sometimes find themselves at odds with members of the more disciplined classes, such as paladins and monks. Since they cast the same spells as wizards but do so in a different way, they sometimes find themselves in competition with wizards.<br><br>A sorcerer tends to define his role based on his spell selection. A sorcerer who focuses on damage-dealing spells becomes a center of the party's offensive power. Another may rely on more subtle magics, such as charms and illusions, and thus take a quieter role. A party with a sorcerer should strongly consider including a second spellcaster, such as a bard, cleric, druid, or even a wizard, to make up for the sorcerer's lack of versatility. Since a sorcerer often has a powerful presence that gives him a way with people, he may serve as the "face" for an adventuring party, negotiating, bargaining, and speaking for others. The sorcerer's spells often help him sway others or gain information, so he makes an excellent spy or diplomat for an adventuring party.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any.
 
@@ -17,7 +19,7 @@ tag: Class, Sorcerer
 
 ###### Class Skills
 
-The sorcerer's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (arcana) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
+The sorcerer's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -183,9 +185,9 @@ You possess a deep bond to Eberron, the Dragon Between, which shapes your sorcer
 
 **Replaces**: If you select this class feature, you do not gain the normal list of class skills, nor do you gain a familiar.
 
-**Benefit**: The following are your sorcerer class skills: Concentration, Craft, Diplomacy, Handle Animal, Heal, [[Knowledge]] (arcana), [[Knowledge]] (nature), Profession, Spellcraft.
+**Benefit**: The following are your sorcerer class skills: Concentration, Craft, Diplomacy, Handle Animal, Heal, [[Compendium/Basics/Skills/Knowledge]] (arcana), [[Compendium/Basics/Skills/Knowledge]] (nature), Profession, Spellcraft.
 
-In addition, you gain an animal companion, as a druid of half your sorcerer level. Your druid, ranger, and sorcerer levels stack to determine the abilities of your animal companion. If you possess the Natural Spell feat, its benefits apply any time that you are in the form of an animal, whether due to wild shape, polymorph, or other magical effects.
+In addition, you gain an animal companion, as a druid of half your sorcerer level. Your druid, ranger, and sorcerer levels stack to determine the abilities of your animal companion. If you possess the Natural Spell feat, its benefits apply any time that you are in the form of an animal, whether due to wild shape, [[Compendium/Spells/Polymorph|polymorph]], or other magical effects.
 
 #### Blood of Khyber
 
@@ -195,7 +197,7 @@ You possess a deep bond to Khyber, the Dragon Below, which shapes your sorcerous
 
 **Replace**: If you select this class feature, you do not gain the normal list of class skills, nor do you gain a familiar.
 
-**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Intimidate, [[Knowledge]] (arcana), [[Knowledge]] (dungeoneering), Profession, Spellcraft.
+**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Intimidate, [[Compendium/Basics/Skills/Knowledge]] (arcana), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering), Profession, Spellcraft.
 
 Your caster level increases by 1 whenever you cast spells from the schools of conjuration (summoning) or transmutation. You cannot summon any creature of good alignment. In addition, your caster level decreases by 1 (minimum CL 1st) whenever you cast spells from the schools of abjuration or divination.
 
@@ -207,7 +209,7 @@ You possess a deep bond to Siberys, the Dragon Above, which shapes your sorcerou
 
 **Replaces**: If you select this class feature, you do not gain the normal list of class skills, nor do you gain a familiar.
 
-**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Diplomacy, [[Knowledge]] (arcana), [[Knowledge]] (the planes), Profession, Spellcraft.
+**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Diplomacy, [[Compendium/Basics/Skills/Knowledge]] (arcana), [[Compendium/Basics/Skills/Knowledge]] (the planes), Profession, Spellcraft.
 
 In addition, you add +4 to your effective Charisma for purposes of determining bonus sorcerer spells and the maximum level of spell you can cast. For example, even if your natural Charisma is 14, you can still cast up to 8th-level sorcerer spells. This bonus does not affect saving throw DCs, skill rolls, or provide any of the other benefits dependant on Charisma.
 
@@ -215,7 +217,7 @@ In addition, you add +4 to your effective Charisma for purposes of determining b
 
 The sorcerer, similar to the cleric, has nineteen dead levels. The sorcerer parts from the cleric, however, in that new spells known are gained at every level (which can be considered special abilities in their own right). Still, a prestige class that grants +1 level of spellcasting and special abilities at every level makes a minor dead level ability infinitely possible.
 
-**Magical Affinity (Ex)**: Starting at 2nd level, a sorcerer can identify a certain creature type during an encounter by virtue of inheriting his magical ability from a member of that creature type. The type must include at least one creature with an arcane spell-like ability (such as dragon, magical beast, or outsider). Once this choice is made, it cannot be reversed. The sorcerer gains a +2 bonus on [[Knowledge]] (arcana) checks to identify such creature types, but he gains no insight about their special powers or vulnerabilities. See [[Knowledge]]. Moreover, the sorcerer can make these [[Knowledge]] (arcana) checks untrained. This bonus increases by +1 for each sorcerer level the character takes after 2nd level.
+**Magical Affinity (Ex)**: Starting at 2nd level, a sorcerer can identify a certain creature type during an encounter by virtue of inheriting his magical ability from a member of that creature type. The type must include at least one creature with an arcane spell-like ability (such as dragon, magical beast, or outsider). Once this choice is made, it cannot be reversed. The sorcerer gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (arcana) checks to identify such creature types, but he gains no insight about their special powers or vulnerabilities. See [[Compendium/Basics/Skills/Knowledge]]. Moreover, the sorcerer can make these [[Compendium/Basics/Skills/Knowledge]] (arcana) checks untrained. This bonus increases by +1 for each sorcerer level the character takes after 2nd level.
 
 #### Disciple of Boccob
 
@@ -249,7 +251,7 @@ _Shielding (Su)_: As a swift action, you can order the creature to convert the e
 
 #### Domain Access
 
-Your depth of belief allows you to channel divine power the way a cleric does. By doing so, you gain access to a single cleric domain.
+Your depth of belief allows you to channel [[divine power]] the way a cleric does. By doing so, you gain access to a single cleric domain.
 
 **Level**: 5th.
 
@@ -278,7 +280,7 @@ If you take draconic ray and the Draconic Heritage feat, you must choose the sam
 |Bronze|Electricity|Fear|Will|
 |Copper|Acid|Slow|Fortitude|
 |Gold|Fire|Weakening|Fortitude|
-|Silver|Cold|Hold Person|Will|
+|Silver|Cold|[[Hold Person]]|Will|
 
 _Burning_: The target [[catches on fire]] unless it succeeds at a Reflex save. This deals 1d4 points of damage per round for 1 round per 2 sorcerer levels.
 
@@ -288,7 +290,7 @@ _Dehydration_: The target is dehydrated and must succeed at a Fort save or take 
 
 _Fear_: The target becomes panicked for 1d4 rounds unless it succeeds at a Will save.
 
-_Hold Person_: The target is held, as hold person, for 1d4 rounds unless it succeeds at a Will save.
+_[[Hold Person]]_: The target is held, as [[hold person]], for 1d4 rounds unless it succeeds at a Will save.
 
 _Rime of Ice_: The target is covered in a rime of ice that lasts 1 round. If the target fails on a Reflex save it drops whatever it is holding and falls prone.
 
@@ -330,7 +332,7 @@ Dragonblood sorcerer substitution levels have the class skills of the standard s
 
 All the following are class features of the dragonblood sorcerer racial substitution levels.
 
-**Arcane Insight (Ex)**: A 1st-level dragonblood sorcerer's racial talent with magic grants him keen insights into arcane mysteries. Each time he selects a dragonblood sorcerer substitution level, he gains a cumulative +2 insight bonus on [[Knowledge]] (arcana) checks.
+**Arcane Insight (Ex)**: A 1st-level dragonblood sorcerer's racial talent with magic grants him keen insights into arcane mysteries. Each time he selects a dragonblood sorcerer substitution level, he gains a cumulative +2 insight bonus on [[Compendium/Basics/Skills/Knowledge]] (arcana) checks.
 
 **Draconic Heritage**: A 1st-level dragonblood sorcerer gains Draconic Heritage as a bonus feat.
 
@@ -346,9 +348,9 @@ A dragonblood sorcerer who is good-aligned must choose the good list of known sp
 
 If a dragonblood sorcerer already knows any of the listed spells, he can pick another spell that a sorcerer would ordinarily have available at that same level.
 
-_Evil_: 1st - charm person; 2nd - darkness, resist energy; 3rd - suggestion.
+_Evil_: 1st - [[charm person]]; 2nd - darkness, [[resist energy]]; 3rd - suggestion.
 
-_Good_: 1st - bless; 2nd - fog cloud, resist energy; 3rd - fly.
+_Good_: 1st - bless; 2nd - [[fog cloud]], [[Resist Energy|[[resist ener]]gy]]; 3rd - fly.
 
 The chosen list of spells known replaces the normal additions to the sorcerer's list of spells known (one 1st-level spell, one 2nd-level spell, one 3rd-level spell) gained at 7th level.
 
@@ -366,7 +368,7 @@ Arcane spellcasters, even those who don't claim the blood of dragons as their ow
 
 When your familiar would normally gain the ability to deliver touch spells, it gains a breath weapon instead. This breath is a 15-foot cone of fire, usable once per hour, that deals a number of points of damage equal to 1d6 + twice your class level (levels of different classes that are entitled to familiars stack for this purpose). A successful Reflex save (10 + 1/2 your total class levels for determining the familiar's abilities) halves the damage dealt.
 
-When your familiar would normally gain the ability to speak with animals of its kind, it instead gains the ability to speak with creatures of the dragon type.
+When your familiar would normally gain the ability to [[speak with animals]] of its kind, it instead gains the ability to speak with creatures of the dragon type.
 
 #### Dwarf Sorcerer
 
@@ -380,7 +382,7 @@ To take a dwarf sorcerer substitution level, a character must be a dwarf about t
 
 ##### Class Skills
 
-Dwarf sorcerer substitution levels have the class skills of the standard sorcerer class plus [[Knowledge]] (dungeoneering) (Int).
+Dwarf sorcerer substitution levels have the class skills of the standard sorcerer class plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -442,17 +444,17 @@ _Divination_: Usually a large crystal (loose or mounted on a rod or staff) or or
 
 _Enchantment_: Usually an ornate and typically nonfunctional piece of clothing, such as a sash or a hair ribbon, your focus increases the duration of any enchantment spell you cast by 1 round (including spells that require concentration). Spells that require concentration also continue for 1 extra round after you stop concentrating. At 7th level, the duration bonuses each increase by 2 rounds. At 15th level, the DC of your enchantment spells increases by +2.
 
-_Evocation_: Usually a bladed weapon, such as a longsword or dagger, your focus grants +1 point of damage to any evocation spell you cast. Non-area effect spells that allow multiple targets (such as magic missile) only deal the bonus damage to a single target of your choice. For example, a fireball spell cast by a 6th-level sorcerer with this focus deals 6d6+1 points of damage to all creatures caught within it, while a magic missile spell cast by the same sorcerer creates three missiles: two that deal 1d4+1 points of damage and one that deals 1d4+2 points of damage. At 7th level, evocation spells you cast ignore the first 5 points of any energy or elemental resistances that a creature may have. Immunities are not affected. At 15th level, you may, once per day, ignore a creature's immunity when you cast an evocation spell that affects it.
+_Evocation_: Usually a bladed weapon, such as a longsword or dagger, your focus grants +1 point of damage to any evocation spell you cast. Non-area effect spells that allow multiple targets (such as [[magic missile]]) only deal the bonus damage to a single target of your choice. For example, a [[fireball]] spell cast by a 6th-level sorcerer with this focus deals 6d6+1 points of damage to all creatures caught within it, while a [[magic missile]] spell cast by the same sorcerer creates three missiles: two that deal 1d4+1 points of damage and one that deals 1d4+2 points of damage. At 7th level, evocation spells you cast ignore the first 5 points of any energy or elemental resistances that a creature may have. Immunities are not affected. At 15th level, you may, once per day, ignore a creature's immunity when you cast an evocation spell that affects it.
 
 _Illusion_: Usually a mask, shroud, cloak, or similar concealing piece of clothing, your focus increases the caster level of illusion spells you cast by +1. At 7th level, for every illusion spell you cast you gain a bonus on caster level checks made to defeat spell resistance equal to half your caster level. At 15th level, you may cast any personal illusion spell as a touch spell.
 
-_Necromancy_: Usually a flail, kama, sickle, scythe, or other weapon derived from harvesting crops, your focus increases the range of any necromancy spell you cast by +25%. At 7th level, any necromancy spell you cast that deals ability damage, ability drain, or directly assigns a penally to an ability score deals +1 point of ability damage or ability drain or increases the penalty by an additional -1. For example, a 12th-level necromancer who casts ray of enfeeblement bestows a Strength penalty of 1d6+6 instead of the normal 1d6+5. At 15th level, any living creature affected by a necromancy spell you cast and fails the Fortitude save against it also becomes fatigued.
+_Necromancy_: Usually a flail, kama, sickle, scythe, or other weapon derived from harvesting crops, your focus increases the range of any necromancy spell you cast by +25%. At 7th level, any necromancy spell you cast that deals ability damage, ability drain, or directly assigns a penally to an ability score deals +1 point of ability damage or ability drain or increases the penalty by an additional -1. For example, a 12th-level necromancer who casts [[ray of enfeeblement]] bestows a Strength penalty of 1d6+6 instead of the normal 1d6+5. At 15th level, any living creature affected by a necromancy spell you cast and fails the Fortitude save against it also becomes fatigued.
 
-_Transmutation_: Usually a piece of equipment or set of tools used to create something (such as thieves' tools, a musical instrument, or artisan's tools), your focus grants any nonpersonal transmutation spell you cast with one or more targets one additional target. The additional target is affected by the spell for half the normal duration. At 7th level, the additional targets of your spells receive them for the full duration. At 15th level, once per day, a transmutation spell you cast that grants a bonus to ability scores doubles the bonus. For example, a bull's strength spell grants a +8 bonus to Strength instead of the normal +4.
+_Transmutation_: Usually a piece of equipment or set of tools used to create something (such as thieves' tools, a musical instrument, or artisan's tools), your focus grants any nonpersonal transmutation spell you cast with one or more targets one additional target. The additional target is affected by the spell for half the normal duration. At 7th level, the additional targets of your spells receive them for the full duration. At 15th level, once per day, a transmutation spell you cast that grants a bonus to ability scores doubles the bonus. For example, a [[Bulls Strength|bull's strength]] spell grants a +8 bonus to Strength instead of the normal +4.
 
 #### Githyanki Sorcerer
 
-As arcane spellcasters, sorcerers belong to the warlock caste. Though sorcerers fill the same role as wizards, the githyanki view them as a completely different kind of spellcaster. As a society that pays careful attention to function and performance, the githyanki recognize the flexibility of sorcerers' casting as a great advantage, while likewise recognizing the severe limitations of their constrained spell selection. Unlike most other races, the githyanki rarely send a sorcerer to do a wizard's job, or vice versa. They value sorcerers for combat-heavy missions, where the best tactic is likely to involve blasting the enemy with lightning bolt after lightning bolt.
+As arcane spellcasters, sorcerers belong to the warlock caste. Though sorcerers fill the same role as wizards, the githyanki view them as a completely different kind of spellcaster. As a society that pays careful attention to function and performance, the githyanki recognize the flexibility of sorcerers' casting as a great advantage, while likewise recognizing the severe limitations of their constrained spell selection. Unlike most other races, the githyanki rarely send a sorcerer to do a wizard's job, or vice versa. They value sorcerers for combat-heavy missions, where the best tactic is likely to involve blasting the enemy with [[lightning bolt]] after [[lightning bolt]].
 
 Like sorcerers among other races, githyanki sorcerers trace their power to dragon ancestry; specifically, to the same interbreeding of githyanki and fiendish red dragons that produced the first duthka'gith. Githyanki sorcerers often manifest monstrous features, largely cosmetic, reminiscent of their infernal draconic heritage.
 
@@ -541,7 +543,7 @@ Sorcerers typically seek to maximize their limited spell selection by utilizing 
 
 You may apply the metamagic feat spontaneously, as you cast the spell. If you prepare spells, you do not need to prepare the spells with the metamagic feat already applied.
 
-Even though this ability does not increase the spell's level, you must be able to cast spells of the level the spell would be if you applied the metamagic feat normally. For example, a quickened magic missile would normally require a 5th-level spell slot. With this ability you may cast a quickened magic missile as a 1st-level spell, but you must still be able to cast 5th-level spells.
+Even though this ability does not increase the spell's level, you must be able to cast spells of the level the spell would be if you applied the metamagic feat normally. For example, a quickened [[magic missile]] would normally require a 5th-level spell slot. With this ability you may cast a quickened [[magic missile]] as a 1st-level spell, but you must still be able to cast 5th-level spells.
 
 
 
@@ -571,7 +573,7 @@ To take a sorcerer planar substitution level, a character must be about to take 
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -581,7 +583,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Sorcerer planar substitution levels have the class skills of the standard sorcerer class plus [[Knowledge]] (the planes) (Int).
+Sorcerer planar substitution levels have the class skills of the standard sorcerer class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -611,7 +613,7 @@ This benefit replaces the ability to learn a new 4th-level spell gained by a sta
 
 **Spontaneous Planar Summoning (Su)**: A 13th-level planar sorcerer learns to summon extraplanar creatures spontaneously. When he chooses this planar substitution benefit, a sorcerer selects one of the following categories: elementals (creatures of the elemental type), celestial creatures (creatures with the celestial template), or fiendish creatures (creatures with the fiendish template). He can use any spell slot to spontaneously cast a summon monster spell of the same level, but he can use that spell to summon only creatures of the selected category.
 
-For example, a 13th-level sorcerer who chose elementals could use one of his 6th-level spell slots to cast summon monster VI. He could use that spell to summon a single Large elemental, or 1d3 Medium elementals (from the 5th-level summoning list). He could not use the spell to summon creatures that weren't elementals.
+For example, a 13th-level sorcerer who chose elementals could use one of his 6th-level spell slots to cast [[summon monster VI]]. He could use that spell to summon a single Large elemental, or 1d3 Medium elementals (from the 5th-level summoning list). He could not use the spell to summon creatures that weren't elementals.
 
 This benefit replaces the ability to learn a new 6th-level spell gained by a standard sorcerer at 13th level. From now on, the sorcerer's number of 6th-level spells known at any class level is one less than the value shown on Table: [[#Sorcerer Spells Known]].
 
@@ -623,19 +625,19 @@ Sometimes a sorcerer never learns to fully control these first flashes of mystic
 
 **Crawling Coins (Su)**: Your first word likely being "Mine," your loathing of sharing somehow gives life to small objects on your person, sending them scuttling away from those hoping to take them from you. You may use Sleight of Hand to conceal objects on your body even if you put no skill ranks in it. Further, anyone attempting to use Sleight of Hand to take something from you suffers a -4 penalty.
 
-_Spells lost_: Prestidigitation and open/close.
+_Spells lost_: [[Prestidigitation]] and [[Open_Close|open/close]].
 
-**Fanfare (Su)**: Perhaps coddled a bit too much as a child, you feel a sense of uniqueness and entitlement that causes you to enter rooms amidst a flourish of glorious sounds and pyrotechnics. You may, as a conscious act of will similar to holding your breath, suppress this ability, allowing you to sneak into a room. Doing so, however, leaves you feeling strangely diminished. When you permit this ability to function normally you gain a +2 bonus on Diplomacy or Intimidate checks for an hour against anyone who witnesses your spectacular entrance.
+**Fanfare (Su)**: Perhaps coddled a bit too much as a child, you feel a sense of uniqueness and entitlement that causes you to enter rooms amidst a flourish of glorious sounds and [[pyrotechnics]]. You may, as a conscious act of will similar to holding your breath, suppress this ability, allowing you to sneak into a room. Doing so, however, leaves you feeling strangely diminished. When you permit this ability to function normally you gain a +2 bonus on Diplomacy or Intimidate checks for an hour against anyone who witnesses your spectacular entrance.
 
-_Spells lost_: Dancing lights and ghost sounds.
+_Spells lost_: [[Dancing lights]] and ghost sounds.
 
 **Frost Fingers (Su)**: Often belabored for your clumsiness as a child, it sometimes seems as if your merest touch causes objects to shatter and crack. Whenever you first touch an object with a hardness of 2 or less it must make a Fortitude save (DC 10 + Charisma modifier) or take damage equal to your Charisma modifier. This damage ignores hardness. If the item makes its saving throw or endures the damage you may handle it normally thereafter.
 
-_Spells lost_: Ray of frost and touch of fatigue.
+_Spells lost_: [[Ray of frost]] and [[touch of fatigue]].
 
 **That'll Leave a Mark! (Su)**: Called a bully by many, the secret satisfaction you gained from making playmates cry "uncle" somehow caused you to leave a record of their submission visible to all. Whenever you successfully strike an opponent with an unarmed attack or touch attack she must make a Fortitude save (DC 10 + Charisma modifier) or develop a bruise in a shape you desire in the area you struck. This bruise heals normally in a week and is removed by any amount of magical healing.
 
-_Spells lost_: Acid splash and arcane mark.
+_Spells lost_: [[Acid splash]] and [[arcane mark]].
 
 **The Pinch (Su)**: A solitary and eccentric child, often targeted by bullies with rocks or rotted food, you developed a minor but effective way of distracting your tormentors. Once per day as a standard action you can target a spellcaster concentrating on a spell and force the spellcaster to succeed at a Concentration check (DC 15 + spell level of spell being concentrated on) or lose the spell. This disrupting effect cannot be used on a spell as it is being cast.
 
@@ -673,23 +675,23 @@ All the following are features of the raptoran sorcerer's racial substitution le
 
 **Air Magic**: The following spells are considered to be on a raptoran sorcerer's class spell list (and thus may be selected as known spells at the appropriate levels):
 
-_4th level_: Air walk.
+_4th level_: [[Air walk]].
 
-_5th level_: Control winds.
+_5th level_: [[Control winds]].
 
-_7th level_: Wind walk.
+_7th level_: [[Wind walk]].
 
 _8th level_: Whirlwind.
 
 A raptoran sorcerer gains this class feature if he selects any of the indicated raptoran sorcerer substitution levels (1st, 5th, or 11th).
 
-**Elemental Familiar (Ex)**: A 1st-level raptoran sorcerer can obtain a Small air elemental as a familiar. The elemental's hit points are equal to its normal hit points or one half its master's hit points, whichever are greater. The elemental familiar does not gain the ability to speak with animals. This familiar otherwise functions identically to the standard sorcerer's familiar ability.
+**Elemental Familiar (Ex)**: A 1st-level raptoran sorcerer can obtain a [[Air Elemental_Small|Small air elemental]] as a familiar. The elemental's hit points are equal to its normal hit points or one half its master's hit points, whichever are greater. The elemental familiar does not gain the ability to [[speak with animals]]. This familiar otherwise functions identically to the standard sorcerer's familiar ability.
 
 This substitution feature replaces the standard sorcerer's familiar ability gained at 1st level.
 
-**Command the Winds**: A 5th-level raptoran sorcerer adds gust of wind, whispering wind, and wind wall to his list of spells known. Wind wall is henceforth treated as a 2nd-level spell for the raptoran sorcerer.
+**Command the Winds**: A 5th-level raptoran sorcerer adds [[gust of wind]], [[whispering wind]], and [[wind wall]] to his list of spells known. [[Wind wall]] is henceforth treated as a 2nd-level spell for the raptoran sorcerer.
 
-This substitution feature replaces the standard sorcerer's ability to learn a new 2nd-level spell at 5th level. From this point on, the raptoran sorcerer's number of 2nd-level spells known (not including the gust of wind, whispering wind, and wind wall spells) is one less than the value shown on Table: [[#Sorcerer Spells Known]].
+This substitution feature replaces the standard sorcerer's ability to learn a new 2nd-level spell at 5th level. From this point on, the raptoran sorcerer's number of 2nd-level spells known (not including the [[gust of wind]], [[whispering wind]], and [[wind wall]] spells) is one less than the value shown on Table: [[#Sorcerer Spells Known]].
 
 **Spell on the Wing (Ex)**: When airborne and casting a spell with a casting time of 1 standard action or less, a raptoran sorcerer of 11th level or higher can move both before and after spellcasting, provided that his total distance moved is not greater than his speed.
 
@@ -715,7 +717,7 @@ _Enchantment_: For 24 hours after an enchantment spell you cast expires, the tar
 
 _Evocation_: Whenever you cast an evocation spell that deals hit point damage, that spell deals +1 point of damage.
 
-_Illusion_: Whenever you cast an illusion (shadow) spell that creates a partially real effect (such as shadow conjuration or shadow evocation), the effect is 10% more real than normal. Thus, a creature created by shadow conjuration is 30% as strong as a real creature of the same kind, instead of the normal 20%.
+_Illusion_: Whenever you cast an illusion (shadow) spell that creates a partially real effect (such as [[shadow conjuration]] or shadow evocation), the effect is 10% more real than normal. Thus, a creature created by [[shadow conjuration]] is 30% as strong as a real creature of the same kind, instead of the normal 20%.
 
 _Necromancy_: Each undead creature you create with any evil spell gains a number of temporary hit points equal to your caster level. These temporary hit points last indefinitely, only disappearing when your creation takes damage. They cannot be regained once lost.
 
@@ -727,7 +729,7 @@ Some sorcerers have figured out how to tap deeper into the power of their magica
 
 A sphere represents an area with which you have an easier time focusing your arcane energies. Your sphere is the result of a powerful magical creature as an ancestor. You must choose your sphere at 1st level, and you may not change your sphere once you select it nor may you get rid of your sphere in order to become a general sorcerer. You cast all spells from your sphere at +1 caster level. This bonus does not apply to the use of spell trigger and spell completion items that use spells from your sphere.
 
-Your sphere has an opposite, however, a type of magic in which your power is weaker. You cast all spells from your opposed sphere at -2 caster levels. Note that this penalty can delay your access to some spells. For example, if Aphrella has fire as her opposed sphere, she would need to wait until she was a 7th-level caster until she could cast fireball. In addition, you are unable to activate spell trigger and spell completion items from your opposed sphere.
+Your sphere has an opposite, however, a type of magic in which your power is weaker. You cast all spells from your opposed sphere at -2 caster levels. Note that this penalty can delay your access to some spells. For example, if Aphrella has fire as her opposed sphere, she would need to wait until she was a 7th-level caster until she could cast [[fireball]]. In addition, you are unable to activate spell trigger and spell completion items from your opposed sphere.
 
 Spheres should be narrower than spell schools, but not so narrow as to only affect a handful of spells. You and your DM should work together to determine what is fair for your campaign. When creating spheres and opposed spheres, the number of spells on each list should be roughly equal and of the same overall power. For example, while spells of the compulsion subschool might make a good sphere, spells of the charm subschool would make a poor opposed sphere since so few spells exist in that subschool. A spell might appear in multiple schools of magic.
 
@@ -737,7 +739,7 @@ Presented here are five sample spheres which you can reverse for a total of ten 
 
 **Acid**: An especially powerful black dragon is among your ancestors. Spells with the acid descriptor belong to your sphere. Spells with the electricity descriptor make up your opposed sphere.
 
-**Air**: One of your ancestors was a djinni. Spells with the air descriptor belong to your sphere. Spells with the earth descriptor make up your opposed sphere.
+**Air**: One of your ancestors was a [[Genie_Djinni|djinni]]. Spells with the air descriptor belong to your sphere. Spells with the earth descriptor make up your opposed sphere.
 
 **Fire**: A fire giant resides in your family tree. Spells with the fire descriptor belong to your sphere. Spells with the cold descriptor make up your opposed sphere.
 
@@ -761,13 +763,13 @@ You can attempt to deflect damage as often as you wish, but you can make only on
 
 #### Stalwart Sorcerer
 
-Most sorcerers hide behind walls of steel, slinging spells at enemies safely distant. You have no patience for such cowards and prefer to be near the front line. Your breadth of magical [[Knowledge]] might not compare with those craven weaklings, but you are proud to dive into the fray alongside the fighter.
+Most sorcerers hide behind walls of steel, slinging spells at enemies safely distant. You have no patience for such cowards and prefer to be near the front line. Your breadth of magical [[Compendium/Basics/Skills/Knowledge]] might not compare with those craven weaklings, but you are proud to dive into the fray alongside the fighter.
 
 **Class**: Sorcerer.
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: Reduce by one the number of sorcerer spells known for your highest spell level (to a minimum of one). As a 1st-level character, you have one 1st-level spell known rather than two.
 
@@ -799,39 +801,38 @@ Below is a new spell list for a variant spellcasting class: the witch. A staple 
 
 **Charms**: Many. A major feature of this class.
 
-**Form-Changing**: Another strong point for the witch. From alter self to shapechange, the witch has most of the spells relating to changing her (or someone else's) form.
+**Form-Changing**: Another strong point for the witch. From [[alter self]] to [[shapechange]], the witch has most of the spells relating to changing her (or someone else's) form.
 
 **Nature**: From speaking to animals to controlling the weather, the witch dabbles in this type of magic, if for no other reason than she usually lives a secluded life in the wilderness.
 
-**No Flashy Spells**: Anything from a lightning bolt to a wall of fire to a Bigby's hand spell is right out. The witch's archetype doesn't suggest overt attack spells or spells that create massive magic constructs. She doesn't summon monsters, place wards, or teleport from place to place. Her magic is subtle.
+**No Flashy Spells**: Anything from a [[lightning bolt]] to a [[wall of fire]] to a Bigby's hand spell is right out. The witch's archetype doesn't suggest overt attack spells or spells that create massive magic constructs. She doesn't summon monsters, place wards, or [[teleport]] from place to place. Her magic is subtle.
 
-**Miscellaneous**: Spells such as whispering wind, Leomund's tiny hut, bestow curse (and a few other curse-like spells), and a few communication spells round out the list.
+**Miscellaneous**: Spells such as [[whispering wind]], Leomund's [[tiny hut]], [[bestow curse]] (and a few other curse-like spells), and a few communication spells round out the list.
 
 ##### Witch Spell List
 
-_0 Level_: arcane mark, cure minor wounds, dancing lights, daze, detect magic, detect poison, flare, ghost sound, light, mending, read magic, resistance, virtue.
+_0 Level_: [[arcane mark]], [[cure minor wounds]], [[dancing lights]], [[daze]], [[detect magic]], [[detect poison]], [[flare]], [[ghost sound]], light, [[mending]], [[read magic]], resistance, [[virtue]].
 
-_1st Level_: cause fear, change self, charm person, command, comprehend languages, cure light wounds, doom, endure elements, hypnotism, identify, silent image, sleep, speak with animals, ventriloquism.
+_1st Level_: [[cause fear]], change self, [[charm person]], command, [[comprehend languages]], [[cure light wounds]], doom, [[endure elements]], [[hypnotism]], identify, silent image, sleep, [[speak with animals]], [[ventriloquism]].
 
-_2nd Level_: alter self, blindness/deafness, calm emotions, cure moderate wounds, delay poison, detect thoughts, enthrall, invisibility, locate object, minor image, scare, whispering wind.
+_2nd Level_: [[alter self]], [[Blindness_Deafness|blindness/deafness]], [[calm emotions]], [[cure moderate wounds]], [[delay poison]], [[detect thoughts]], [[enthrall]], invisibility, [[locate object]], [[minor image]], [[scare]], [[whispering wind]].
 
-_3rd Level_: bestow curse, clairvoyance/clairaudience, contagion, create food and water, dispel magic, Leomund's tiny hut, magic circle against chaos/law/evil/good*, major image, rage, remove blindness/deafness, suggestion, tongues.
+_3rd Level_: [[bestow curse]], clairvoyance/clairaudience, [[contagion]], [[create food and water]], [[dispel magic]], Leomund's [[tiny hut]], [[magic circle against chaos]]/law/evil/good*, [[major image]], rage, [[Remove Blindness_Deafness|remove blindness/deafness]], suggestion, [[tongues]].
 
-_4th Level_: charm monster, crushing despair, discern lies, divination, fear, giant vermin, good hope, locate creature, minor creation, neutralize poison, polymorph, remove curse, scrying.
+_4th Level_: [[charm monster]], [[crushing despair]], [[discern lies]], divination, fear, [[giant vermin]], [[good hope]], [[locate creature]], [[minor creation]], [[neutralize poison]], [[Compendium/Spells/Polymorph|polymorph]], [[remove curse]], [[scrying]].
 
-_5th Level_: baleful polymorph, dream, false vision, feeblemind, greater command, magic jar, major creation, mirage arcana, nightmare, seeming, sending.
+_5th Level_: [[baleful polymorph]], [[dream]], [[false vision]], [[feeblemind]], [[Command Greater|greater command]], [[magic jar]], [[major creation]], [[mirage arcana]], nightmare, [[seeming]], [[sending]].
 
-_6th Level_: animate objects, control weather, eyebite, find the path, geas/quest, greater scrying, heroes' feast, legend lore, mass suggestion, mislead, repulsion, shadow image, Tenser's transformation, true seeing.
+_6th Level_: [[animate objects]], [[control weather]], [[eyebite]], [[find the path]], [[Geas_Quest|geas/quest]], [[Scrying Greater|greater scrying]], [[Heroes Feast|heroes' feast]], [[legend lore]], [[Suggestion Mass|mass suggestion]], [[mislead]], [[repulsion]], shadow image, Tenser's transformation, [[true seeing]].
 
-_7th Level_: creeping doom, finger of death, insanity, liveoak, repel wood, transport via plants.
+_7th Level_: [[creeping doom]], [[finger of death]], [[insanity]], [[liveoak]], [[repel wood]], [[transport via plants]].
 
-_8th Level_: antipathy, demand, discern location, horrid wilting, polymorph any object, sympathy, trap the soul.
+_8th Level_: [[antipathy]], [[demand]], [[discern location]], [[horrid wilting]], [[polymorph any object]], [[sympathy]], [[trap the soul]].
 
-_9th Level_: earthquake, foresight, refuge, shapechange, wail of the banshee, weird.
+_9th Level_: [[earthquake]], [[foresight]], refuge, [[shapechange]], [[wail of the banshee]], weird.
 
 * _When she becomes able to cast 3rd-level spells, the witch chooses to have one of the four magic circle spells on her spell list. Whichever spell she chooses, she cannot cast it as a spell of an alignment opposed to her own._
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

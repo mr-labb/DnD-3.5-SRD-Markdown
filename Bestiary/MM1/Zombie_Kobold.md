@@ -1,25 +1,27 @@
 ---
-aliases: [Zombie, Kobold]
+aliases:
+ - Zombie Kobold
 title: Bestiary/MM1/Zombie, Kobold
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Zombie, Kobold
 Size: Small
 Type: Undead
 Subtype: 
-CR: 0.5
+CR: 0
 Environnent: Temperate forests
 Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Zombie, Kobold
+image: [[Zombie, Kobold.PNG]]
 race: Zombie, Kobold
 class: 
 level: 
@@ -27,55 +29,69 @@ size: Small
 type: Undead
 subtype: 
 alignment: Always neutral evil
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "13 (+1 size, +2 natural), touch 11, flat-footed 13"
+ac: 13
 touch: 11
-flat_footed: 13
-hit_point:
-  - name: hp
-    desc: "16 ; 2d12+3"
-speed: 30 ft. (6 squares; can't run)
-
-abilities: [8, 11, -, -, 10, 1]
-saves:
-  - Fort: +0
-  - Ref: +0
-  - Will: +3
-damage_resist: 5/slashing
-spell_resist: 
+flatfooted: 13
+AC_desc: +1 size, +2 natural
+hp: 16
+hit_dice: 2d12+3
 initiative: 0
+speed: 30 ft. (6 squares; can't run)
 space/reach: 5 ft./5 ft.
-CR: 0.5
+stats:
+  - 8
+  - 11
+  - 0
+  - 0
+  - 10
+  - 1
+saves:
+ - Fortitude : 0
+ - Reflex : 0
+ - Will : 3
+skillsaves:
+ - Aucun
 base_attack/grapple: +1/-4
-attack: Spear +1 melee (1d6-1/x3) or slam +1 melee (1d4-1) or light crossbow +2 ranged (1d6/19-20)
-full_attack: Spear +0 melee (1d6-1/x3) or slam +0 melee (1d4-1) or light crossbow +1 ranged (1d6/19-20)
-special_attacks: -
-
-special_qualities:
-  - name: 
-    desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
-
-skills:
-  - Aucun
-feats: [[Toughness]]
-weak: 
 environment: Temperate forests
 organization: Any
 treasure: None
 advancement: None
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 5/slashing
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 0
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
+actions:
+  - name: Full Attack
+    desc: "Spear +0 melee (1d6-1/x3) or slam +0 melee (1d4-1) or light crossbow +1 ranged (1d6/19-20)"
+  - name: Attack
+    desc: "Spear +1 melee (1d6-1/x3) or slam +1 melee (1d4-1) or light crossbow +2 ranged (1d6/19-20)"
+  - name: special attacks
+    desc: "-"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Toughness
+combat_gear:  
 ```
 
-## Description
 
-<p>Zombies are corpses reanimated through dark and sinister magic.</p>
-<p>Because of their utter lack of intelligence, the instructions given to a newly created zombie must be very simple.</p>
+Zombies are corpses reanimated through dark and sinister magic.
+
+Because of their utter lack of intelligence, the instructions given to a newly created zombie must be very simple.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

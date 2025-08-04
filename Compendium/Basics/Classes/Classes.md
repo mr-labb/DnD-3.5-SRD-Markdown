@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Class]
+aliases:
+ - Class
 title: Compendium/Basics/Classe/Class
 tag: Class
 ---
@@ -18,21 +19,7 @@ tag: Class
 * [[Rogue]]
 * [[Sorcerer]]
 * [[Wizard]]
-* [[Psion]]
-* [[Psychic Warrior]]
-* [[Soulknife]]
-* [[Wilder]]
 
-**Prestige**
-[[Cerebremancer]]
-[[Elocater]]
-[[Metamind]]
-[[Psion Uncarnate]]
-[[Psionic Fist]]
-[[Psychic Slayer]]
-[[Pyrokineticist]]
-[[Thrallherd]]
-[[War Mind]]
 
 #### [[#NPC Classes]]
 * [[Adept]]
@@ -279,7 +266,7 @@ A general description of the ability and why you should consider it.
 
 **Level**: The alternative class feature can be selected only at this level (unless you are using the retraining option). In some cases, different levels might be given for different classes.
 
-**Special Requirement**: Any special requirements that you must meet before selecting the alternative class feature. Many of the alternative class features described here require 1 or more ranks of a [[Knowledge]] skill. Since skill ranks are purchased before class features are selected, you can meet this requirement at the same level that you gain the alternative class feature.
+**Special Requirement**: Any special requirements that you must meet before selecting the alternative class feature. Many of the alternative class features described here require 1 or more ranks of a [[Compendium/Basics/Skills/Knowledge]] skill. Since skill ranks are purchased before class features are selected, you can meet this requirement at the same level that you gain the alternative class feature.
 
 **Replaces**: The ability that you must sacrifice to gain the alternative class feature.
 
@@ -416,7 +403,4 @@ These NPC classes should provide enough distinction to create anyone the PCs mee
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

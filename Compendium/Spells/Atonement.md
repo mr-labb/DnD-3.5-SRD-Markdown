@@ -1,5 +1,6 @@
 ---
-aliases: [Atonement]
+aliases:
+ - Atonement
 title: Compendium/Basics/Spell/Atonement
 tags: 
   - 35E_SRD
@@ -30,7 +31,7 @@ Removes burden of misdeeds from subject.
 *   **Saving Throw:** None
 *   **Spell Resistance:** Yes
 
-This spell removes the burden of evil acts or misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. If the atoning creature committed the evil act unwittingly or under some form of compulsion, *atonement* operates normally at no cost to you. However, in the case of a creature atoning for deliberate misdeeds and acts of a knowing and willful nature, you must intercede with your deity (requiring you to expend 500 XP) in order to expunge the subject's burden. Many casters first assign a subject of this sort a quest (see *geas/quest*) or similar penance to determine whether the creature is truly contrite before casting the *atonement* spell on its behalf.
+This spell removes the burden of evil acts or misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. If the atoning creature committed the evil act unwittingly or under some form of compulsion, *atonement* operates normally at no cost to you. However, in the case of a creature atoning for deliberate misdeeds and acts of a knowing and willful nature, you must intercede with your deity (requiring you to expend 500 XP) in order to expunge the subject's burden. Many casters first assign a subject of this sort a quest (see *[[Geas_Quest|geas/quest]]*) or similar penance to determine whether the creature is truly contrite before casting the *atonement* spell on its behalf.
 
 *Atonement* may be cast for one of several purposes, depending on the version selected.
 
@@ -48,13 +49,17 @@ Though the spell description refers to evil acts, *atonement* can also be used o
 
 *Material Component:* Burning incense.
 
-*Focus:* In addition to your holy symbol or normal divine focus, you need a set of prayer beads (or other prayer device, such as a prayer wheel or prayer book) worth at least 500 gp.
+*Focus:* In addition to your holy symbol or normal divine focus, you need a set of [[prayer]] beads (or other [[prayer]] device, such as a [[prayer]] wheel or [[prayer]] book) worth at least 500 gp.
 
 *XP Cost:* When cast for the benefit of a creature whose guilt was the result of deliberate acts, the cost to you is 500 XP per casting (see above).
 
-Source : PHB P201
+**Source :** PHB P201
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

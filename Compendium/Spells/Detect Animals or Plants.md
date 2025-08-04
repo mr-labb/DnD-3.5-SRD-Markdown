@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Animals or Plants]
+aliases:
+ - Detect Animals or Plants
 title: Compendium/Basics/Spell/Detect Animals or Plants
 tags:
   - 35E_SRD
@@ -55,9 +56,13 @@ You may scan a new area each round. Barriers affect detection:
 - Blocked by: 1 ft. of stone, 1 in. of metal, a thin sheet of lead, or 3 ft. of wood/dirt
 
 
-**Source:** PHB P218
+**Source :** PHB P218
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

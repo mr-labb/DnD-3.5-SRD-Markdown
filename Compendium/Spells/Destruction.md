@@ -1,5 +1,6 @@
 ---
-aliases: [Destruction]
+aliases:
+ - Destruction
 title: Compendium/Basics/Spell/Destruction
 tags:
   - 35E_SRD
@@ -44,9 +45,13 @@ a carefully worded [[Wish]] spell followed by [[Resurrection]], or [[Miracle]].
 A special holy (or unholy) symbol of silver marked with verses of anathema (cost 500 gp).
 
 
-**Source:** PHB P218
+**Source :** PHB P218
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

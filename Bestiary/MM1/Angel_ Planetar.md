@@ -1,5 +1,7 @@
 ---
-aliases: [Angel, Planetar]
+aliases:
+ - Angel
+ - Planetar
 title: Bestiary/MM1/Angel, Planetar
 tags: [35E_SRD, Monster]
 Monster: Angel, Planetar

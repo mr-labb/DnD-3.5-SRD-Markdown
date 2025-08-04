@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Construct]
+aliases:
+ - Construct
 title: Compendium/Basics/Monsters Information/Construct
 tag: Monster, Construct
 ---
@@ -67,6 +68,5 @@ _Traits_: A construct possesses the following traits (unless otherwise noted in 
     
 
   
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---

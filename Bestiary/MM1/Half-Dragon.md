@@ -56,7 +56,7 @@ A half-dragon retains all the special attacks of the base creature and gains a b
 |Bronze|60-foot line of lightning|
 |Copper|60-foot line of acid|
 |Gold|30-foot cone of fire|
-|Silver|30-foot cone of cold|
+|Silver|30-foot [[cone of cold]]|
 
 #### Special Qualities
 A half-dragon has all the special qualities of the base creature, plus darkvision out to 60 feet and low-light vision. A half-dragon has immunity to *sleep* and paralysis effects, and an additional immunity based on its dragon variety. 
@@ -89,5 +89,8 @@ Same as base creature +3.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

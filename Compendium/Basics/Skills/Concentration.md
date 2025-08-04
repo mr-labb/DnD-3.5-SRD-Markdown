@@ -1,5 +1,6 @@
 ---
-aliases: [Concentration]
+aliases:
+ - Concentration
 title: Compendium/Basics/skills/Concentration
 tags: skill
 ---
@@ -25,7 +26,7 @@ The table below summarizes various types of distractions that cause you to make 
 |20|[[Grappling]] or [[pinned]]. (You can cast only spells without somatic components for which you have any required material component in hand.)|
 |5|Weather is a high wind carrying blinding rain or sleet.|
 |10|Weather is wind-driven hail, dust, or debris.|
-|Distracting spell's save DC|Weather caused by a spell, such as storm of vengeance.4|
+|Distracting spell's save DC|Weather caused by a spell, such as [[storm of vengeance]].4|
 |15 + power level|Attempting to manifest a power without its display.|
 |Distracting power's save DC|Distracted by nondamaging power.4|
 |20|Gain psionic focus.|
@@ -34,7 +35,7 @@ The table below summarizes various types of distractions that cause you to make 
 
 1 _If you are trying to cast, concentrate on, or direct a spell when the distraction occurs, add the level of the spell to the indicated DC._
 2 _Such as during the casting of a spell with a casting time of 1 round or more, or the execution of an activity that takes more than a single full-round action (such as [[Disable Device]]). Also, damage stemming from an attack of opportunity or readied attack made in response to the spell being cast (for spells with a casting time of 1 action) or the action being taken (for activities requiring no more than a full-round action). (See also Distracting Spellcasters, page 160.)_
-3 _Such as from acid arrow._
+3 _Such as from [[acid arrow]]._
 4 _If the spell/power allows no save, use the save DC it would have if it did allow a save._
 
 Gain Psionic Focus: Merely holding a reservoir of psionic power points in mind gives psionic characters a special energy. Psionic characters can put that energy to work without actually paying a power point cost-they can become psionically focused as a special use of the Concentration skill.  
@@ -64,5 +65,4 @@ If you have 5 or more ranks in any [[Perform]] skill, you get a +2 bonus on Conc
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

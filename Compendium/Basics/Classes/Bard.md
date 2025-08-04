@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Bard]
+aliases:
+ - Bard
 title: Compendium/Basics/Classe/Bard
 tag: Class, Bard
 ---
@@ -9,7 +10,8 @@ tag: Class, Bard
 
 ### BARD
 
-
+<br><br>It is said that music has a special magic, and the bard proves that saying true. Wandering across the land, gathering lore, telling stories, working magic with his music, and living on the gratitude of his audience - such is the life of a bard. When chance or opportunity draws them into a conflict, bards serve as diplomats, negotiators, messengers, scouts, and spies.<br><br>A bard's magic comes from the heart. If his heart is good, a bard brings hope and courage to the downtrodden and uses his tricks, music, and magic to thwart the schemes of evildoers. If the nobles of the land are corrupt, the good bard is an enemy of the state, cunningly evading capture and raising the spirits of the oppressed. But music can spring from an evil heart as well. Evil bards forego blatant violence in favor of manipulation, holding sway over the hearts and minds of others and taking what enraptured audiences "willingly" give.<br><br>Bards see adventures as opportunities to learn. They practice their many skills and abilities, and they especially relish the opportunity to enter a long-forgotten tomb, to discover ancient works of magic, to decipher old tomes, to travel to strange places, to encounter exotic creatures, and to learn new songs and stories. Bards love to accompany heroes (and villains), joining their entourage to witness their deeds firsthand - a bard who can tell a marvelous story from personal experience earns renown among his fellows. Indeed, after telling so many stories about heroes doing mighty deeds, many bards take these themes to heart and assume heroic roles themselves.<br><br>A bard brings forth magic from his soul, not from a book. He can cast only a small number of spells, but he can do so without selecting or preparing them in advance. His magic emphasizes charms and illusions over the more dramatic evocation spells that wizards and sorcerers often use.<br><br>In addition to spells, a bard works magic with his music and poetry. He can encourage allies, hold his audiences rapt, and counter magical effects that rely on speech or sound.<br><br>Bards have some of the skills that rogues have, although bards they are not as focused on skill mastery as rogues are. A bard listens to stories as well as telling them, of course, so he has a vast [[Compendium/Basics/Skills/Knowledge]] of local events and noteworthy items.<br><br>Bards are wanderers, guided by whim and intuition rather than by tradition or law. The spontaneous talent, magic, and lifestyle of the bard are incompatible with a lawful alignment.<br><br>Bards revere Fharlanghn (god of roads). They sometimes camp near his wayside shrines, hoping to earn some coin from the travelers who stop to leave offerings for the god. Many bards, even those who are not elves, worship Corellon Larethian, god of elves and patron of poetry and music. Many good bards are partial to Pelor (god of the sun), believing that he watches over them in their travels. Bards given to chaos and occasional larceny favor Olidammara (god of thieves). Those who have turned to evil ways are known to worship Erythnul (the god of slaughter), though few will admit to it. In any event, bards spend so much time on the road that, while they may be devoted to a deity, they are rarely devoted to any particular temple.<br><br>An apprentice bard learns his skills from a single experienced bard, whom he follows and serves until he is ready to strike out on his own. Many bards were once young runaways or orphans, befriended by wandering bards who became their mentors. Since bards occasionally congregate in informal "colleges," the apprentice bard may meet many of the more prominent bards in the area. Still, the bard has no strong allegiance to bards as a whole. In fact, some bards are highly competitive with other bards, jealous of their reputations and defensive<br><br>Bards are commonly human, gnome, elf, or half-elf. Humans take well to the wandering life and adapt easily to new lands and customs. Gnomes have a sense of humor and trickery that lends itself to a bardic career. Elves are talented in music and magic, so the career of the bard comes naturally to them. A bard's wandering ways suit many half-elves, who often feel like strangers even when at home.<br><br>Half-orcs, even those raised among humans, find themselves ill suited to the demands of a bard's career. There are no bardic traditions among dwarves, or halflings, though occasional individuals of these races find teachers to train them in the ways of the bard. Bards are exceedingly rare among the savage humanoids, except among centaurs. Centaur bards sometimes train the children of humans or other humanoids.<br><br>A bard works well with companions of other classes. He often serves as the spokesman of the party, using his social skills for the party's benefit. In a party without a wizard or sorcerer, the bard contributes his magic. In a party without a rogue, he uses his skills. A bard is curious about the ways of more focused or dedicated adventurers, so he often tries to pick up pointers from fighters, sorcerers, and rogues.<br><br>The bard is perhaps the ultimate generalist. In most adventuring groups, he works best in a supporting role. He can't usually match the stealth of the ranger or the rogue, the spellcasting power of the cleric or the wizard, or the combat prowess of the barbarian or the fighter. However, he makes all the other characters better at what they do, and he can often fill in for another character when needed. For a typical group of four characters, the bard is perhaps the most useful fifth character to consider adding, and he can make a great team leader.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any nonlawful.
 
@@ -17,7 +19,7 @@ tag: Class, Bard
 
 ###### Class Skills
 
-The bard's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Balance]] (Dex), [[Bluff]] (Cha), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Decipher Script]] (Int), [[Diplomacy]] (Cha), [[Disguise]] (Cha), [[Escape Artist]] (Dex), [[Gather Information]] (Cha), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (all skills, taken individually) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), [[Sleight of Hand]] (Dex), [[Speak Language]] (n/a), [[Spellcraft]] (Int), [[Swim]] (Str), [[Tumble]] (Dex), and [[Use Magic Device]] (Cha).
+The bard's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Balance]] (Dex), [[Bluff]] (Cha), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Decipher Script]] (Int), [[Diplomacy]] (Cha), [[Disguise]] (Cha), [[Escape Artist]] (Dex), [[Gather Information]] (Cha), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), [[Sleight of Hand]] (Dex), [[Speak Language]] (n/a), [[Spellcraft]] (Int), [[Swim]] (Str), [[Tumble]] (Dex), and [[Use Magic Device]] (Cha).
 
 **Skill Points at 1st Level**: (6 + Int modifier) x 4.
 
@@ -28,12 +30,12 @@ The bard's class skills (and the key ability for each skill) are [[Appraise]] (I
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |0|1st|2nd|3rd|4th|5th|6th|
-|1st|+0|+0|+2|+2|Bardic music, bardic [[Knowledge]], countersong, fascinate, inspirecourage+1|2|—|—|—|—|—|—|
+|1st|+0|+0|+2|+2|Bardic music, bardic [[Compendium/Basics/Skills/Knowledge]], countersong, fascinate, inspirecourage+1|2|—|—|—|—|—|—|
 |2nd|+1|+0|+3|+3||3|0|—|—|—|—|—|
 |3rd|+2|+1|+3|+3|Inspire competence|3|1|—|—|—|—|—|
 |4th|+3|+1|+4|+4||3|2|0|—|—|—|—|
 |5th|+3|+1|+4|+4||3|3|1|—|—|—|—|
-|6th|+4|+2|+5|+5|Suggestion|3|3|2|—|—|—|—|
+|6th|+4|+2|+5|+5|[[Suggestion]]|3|3|2|—|—|—|—|
 |7th|+5|+2|+5|+5||3|3|2|0|—|—|—|
 |8th|+6/+1|+2|+6|+6|Inspire courage +2|3|3|3|1|—|—|—|
 |9th|+6/+1|+3|+6|+6|Inspire greatness|3|3|3|2|—|—|—|
@@ -45,7 +47,7 @@ The bard's class skills (and the key ability for each skill) are [[Appraise]] (I
 |15th|+11/+6/+1|+5|+9|+9|Inspire heroics|4|4|3|3|3|2|—|
 |16th|+12/+7/+2|+5|+10|+10||4|4|4|3|3|2|0|
 |17th|+12/+7/+2|+5|+10|+10||4|4|4|4|3|3|1|
-|18th|+13/+8/+3|+6|+11|+11|Mass suggestion|4|4|4|4|4|3|2|
+|18th|+13/+8/+3|+6|+11|+11|[[Suggestion Mass|[[Suggestion Mass|Mass suggestion]]]]|4|4|4|4|4|3|2|
 |19th|+14/+9/+4|+6|+11|+11||4|4|4|4|4|4|3|
 |20th|+15/+10/+5|+6|+12|+12|Inspire courage +4|4|4|4|4|4|4|4|
 
@@ -96,16 +98,16 @@ Upon reaching 5th level, and at every third bard level after that (8th, 11th, an
 
 As noted above, a bard need not prepare his spells in advance. He can cast any spell he knows at any time, assuming he has not yet used up his allotment of spells per day for the spell's level.
 
-**Bardic [[Knowledge]]**: A bard may make a special bardic [[Knowledge]] check with a bonus equal to his bard level + his Intelligence modifier to see whether he knows some relevant information about local notable people, legendary items, or noteworthy places. (If the bard has 5 or more ranks in [[Knowledge]] (history), he gains a +2 bonus on this check.)
+**Bardic [[Compendium/Basics/Skills/Knowledge]]**: A bard may make a special bardic [[Compendium/Basics/Skills/Knowledge]] check with a bonus equal to his bard level + his Intelligence modifier to see whether he knows some relevant information about local notable people, legendary items, or noteworthy places. (If the bard has 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (history), he gains a +2 bonus on this check.)
 
-A successful bardic [[Knowledge]] check will not reveal the powers of a magic item but may give a hint as to its general function. A bard may not take 10 or take 20 on this check; this sort of [[Knowledge]] is essentially random.
+A successful bardic [[Compendium/Basics/Skills/Knowledge]] check will not reveal the powers of a magic item but may give a hint as to its general function. A bard may not take 10 or take 20 on this check; this sort of [[Compendium/Basics/Skills/Knowledge]] is essentially random.
 
-|DC|Type of [[Knowledge]]|
+|DC|Type of [[Compendium/Basics/Skills/Knowledge]]|
 |---|---|
 |10|Common, known by at least a substantial minority drinking; common legends of the local population.|
 |20|Uncommon but available, known by only a few people legends.|
 |25|Obscure, known by few, hard to come by.|
-|30|Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don't understand the significance of the [[Knowledge]].|
+|30|Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don't understand the significance of the [[Compendium/Basics/Skills/Knowledge]].|
 
 **Bardic Music**: Once per day per bard level, a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. Each ability requires both a minimum bard level and a minimum number of ranks in the Perform skill to qualify; if a bard does not have the required number of ranks in at least one Perform skill, he does not gain the bardic music ability until he acquires the needed ranks.
 
@@ -127,15 +129,15 @@ The ally gets a +2 competence bonus on skill checks with a particular skill as l
 
 _Suggestion (Sp)_: A bard of 6th level or higher with 9 or more ranks in a Perform skill can make a suggestion (as the spell) to a creature that he has already [[fascinated]] (see above). Using this ability does not break the bard's concentration on the fascinate effect, nor does it allow a second saving throw against the fascinate effect.
 
-Making a suggestion doesn't count against a bard's daily limit on bardic music performances. A Will saving throw (DC 10 + 1/2 bard's level + bard's Cha modifier) negates the effect. This ability affects only a single creature (but see mass suggestion, below). Suggestion is an enchantment (compulsion), mind-affecting, language dependent ability.
+Making a suggestion doesn't count against a bard's daily limit on bardic music performances. A Will saving throw (DC 10 + 1/2 bard's level + bard's Cha modifier) negates the effect. This ability affects only a single creature (but see [[Suggestion Mass|mass suggestion]], below). Suggestion is an enchantment (compulsion), mind-affecting, language dependent ability.
 
 _Inspire Greatness (Su)_: A bard of 9th level or higher with 12 or more ranks in a Perform skill can use music or poetics to inspire greatness in himself or a single willing ally within 30 feet, granting him or her extra fighting capability. For every three levels a bard attains beyond 9th, he can target one additional ally with a single use of this ability (two at 12th level, three at 15th, four at 18th). To inspire greatness, a bard must sing and an ally must hear him sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target's Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependant. Inspire greatness is a mind-affecting ability.
 
-_Song of Freedom (Sp)_: A bard of 12th level or higher with 15 or more ranks in a Perform skill can use music or poetics to create an effect equivalent to the break enchantment spell (caster level equals the character's bard level). Using this ability requires 1 minute of uninterrupted concentration and music, and it functions on a single target within 30 feet. A bard can't use song of freedom on himself.
+_Song of Freedom (Sp)_: A bard of 12th level or higher with 15 or more ranks in a Perform skill can use music or poetics to create an effect equivalent to the [[break enchantment]] spell (caster level equals the character's bard level). Using this ability requires 1 minute of uninterrupted concentration and music, and it functions on a single target within 30 feet. A bard can't use song of freedom on himself.
 
 _Inspire Heroics (Su)_: A bard of 15th level or higher with 18 or more ranks in a Perform skill can use music or poetics to inspire tremendous heroism in himself or a single willing ally within 30 feet. For every three bard levels the character attains beyond 15th, he can inspire heroics in one additional creature. To inspire heroics, a bard must sing and an ally must hear the bard sing for a full round. A creature so inspired gains a +4 morale bonus on saving throws and a +4 dodge bonus to AC. The effect lasts for as long as the ally hears the bard sing and for up to 5 rounds thereafter. Inspire heroics is a mind-affecting ability.
 
-_Mass Suggestion (Sp)_: This ability functions like suggestion, above, except that a bard of 18th level or higher with 21 or more ranks in a Perform skill can make the suggestion simultaneously to any number of creatures that he has already [[fascinated]] (see above). Mass suggestion is an enchantment (compulsion), mind-affecting, language-dependent ability.
+_[[Suggestion Mass|Mass Suggestion]] (Sp)_: This ability functions like suggestion, above, except that a bard of 18th level or higher with 21 or more ranks in a Perform skill can make the suggestion simultaneously to any number of creatures that he has already [[fascinated]] (see above). [[Suggestion Mass|Mass suggestion]] is an enchantment (compulsion), mind-affecting, language-dependent ability.
 
 ###### Ex-Bards
 
@@ -149,7 +151,7 @@ A bard who becomes lawful in alignment cannot progress in levels as a bard, thou
 
 |   |   |   |
 |---|---|---|
-|**Variant Classes**  <br>[[#Bardic Sage]]  <br>[[#Divine Bard]]  <br>[[#Fey Bard]]  <br>[[#Harbinger]]  <br>[[#Savage Bard]]|**Alternative Class Features**  <br>[[#Bardic Knack]]  <br>[[#Dead Levels]]  <br>[[#Drow Bard]]  <br>[[#Golarion Bard]]  <br>[[#Healing Hymn]]  <br>[[#Hymn of Fortification]]  <br>[[#Inspire Awe]]  <br>[[#Inspire Hatred]]  <br>[[#Inspire Turning]]  <br>[[#Lore Song]]  <br>[[#Mimicking Song]]  <br>[[#Music of Creation]]  <br>[[#Repel Domination]]  <br>[[#Spellbreaker Song]]  <br>[[#Undead Bardic [[Knowledge]]|**Substitution Levels**  <br>[[#Gnome Bard]]  <br>[[#Half-Elf Bard]]  <br>[[#Planar Bard]]  <br>[[#Spellscale Bard]]|
+|**Variant Classes**  <br>[[#Bardic Sage]]  <br>[[#Divine Bard]]  <br>[[#Fey Bard]]  <br>[[#Harbinger]]  <br>[[#Savage Bard]]|**Alternative Class Features**  <br>[[#Bardic Knack]]  <br>[[#Dead Levels]]  <br>[[#Drow Bard]]  <br>[[#Golarion Bard]]  <br>[[#Healing Hymn]]  <br>[[#Hymn of Fortification]]  <br>[[#Inspire Awe]]  <br>[[#Inspire Hatred]]  <br>[[#Inspire Turning]]  <br>[[#Lore Song]]  <br>[[#Mimicking Song]]  <br>[[#Music of Creation]]  <br>[[#Repel Domination]]  <br>[[#Spellbreaker Song]]  <br>[[#Undead Bardic [[Compendium/Basics/Skills/Knowledge]]|**Substitution Levels**  <br>[[#Gnome Bard]]  <br>[[#Half-Elf Bard]]  <br>[[#Planar Bard]]  <br>[[#Spellscale Bard]]|
 
   
 
@@ -157,13 +159,13 @@ A bard who becomes lawful in alignment cannot progress in levels as a bard, thou
 
 #### Bardic Knack
 
-Wandering bards learn more mundane skills and less esoteric [[Knowledge]] on their travels. If you select this class feature, you have done a little bit of everything; maybe you spent a few months as a wilderness guide, and you also had a cousin in an ambassador's retinue who regaled you with tales of courtly intrigue.
+Wandering bards learn more mundane skills and less esoteric [[Compendium/Basics/Skills/Knowledge]] on their travels. If you select this class feature, you have done a little bit of everything; maybe you spent a few months as a wilderness guide, and you also had a cousin in an ambassador's retinue who regaled you with tales of courtly intrigue.
 
 The bardic knack class feature makes you more capable of accomplishing simple tasks with a wide variety of skills. You don't need to dabble in noncritical skills (unless you want to be considered trained in their use), freeing up your skill points to focus on a small range of crucial skills.
 
 **Level**: 1st.
 
-**Replaces**: If you select this class feature, you do not gain bardic [[Knowledge]].
+**Replaces**: If you select this class feature, you do not gain bardic [[Compendium/Basics/Skills/Knowledge]].
 
 **Benefit**: When making any skill check, you can use 1/2 your bard level (rounded up) in place of the number of ranks you have in the skill (even if that number is 0). For example, a 5th-level bard would have the equivalent of 3 ranks in Appraise, Balance, Bluff, and so on (but only for the purpose of making skill checks).
 
@@ -171,9 +173,9 @@ You can't take 10 on checks when you use bardic knack (to take 10 you have to us
 
 #### Bardic Sage
 
-The bardic sage focuses his efforts on learning, research, and the power of [[Knowledge]].
+The bardic sage focuses his efforts on learning, research, and the power of [[Compendium/Basics/Skills/Knowledge]].
 
-**Alignment**: The bardic sage must be neutral good, neutral, or neutral evil. The true pursuit of [[Knowledge]] cares little for ethical extremes. A bardic sage who becomes chaotic or lawful cannot progress in levels as a bardic sage, though he retains all his bardic sage abilities.
+**Alignment**: The bardic sage must be neutral good, neutral, or neutral evil. The true pursuit of [[Compendium/Basics/Skills/Knowledge]] cares little for ethical extremes. A bardic sage who becomes chaotic or lawful cannot progress in levels as a bardic sage, though he retains all his bardic sage abilities.
 
 **Base Save Bonuses**: The bardic sage has good will saves, but has poor Fortitude and Reflex saves.
 
@@ -197,7 +199,7 @@ To learn or cast a spell, a bardic sage must have an intelligence score (not Cha
 
 6th - [[true seeing]], [[vision]].
 
-**Bardic [[Knowledge]]**: A bardic sage gains a +2 bonus on all [[bardic [[Knowledge]] checks.
+**Bardic [[Compendium/Basics/Skills/Knowledge]]**: A bardic sage gains a +2 bonus on all [[bardic [[Compendium/Basics/Skills/Knowledge]] checks.
 
 **Bardic Music**: A bardic sage's powers of inspiration are not as persistent as those of a traditional bard. His ability to inspire courage, inspire greatness, or inspire heroics lasts only 3 rounds after the ally can no longer hear the bardic sage sing, rather than the normal 5 rounds.
 
@@ -243,13 +245,13 @@ Add the following spells to the divine bard's class spell list:
 
 When adventurers think of drow arcanists, they picture the horrifically deadly drow wizards or the demonically imbued warlocks. The bard would almost certainly be at the bottom of the list of arcane classes associated with the drow. What surfacedwellers fail to realize, however, is that the drow have an ancient bardic tradition - one that transforms the traveling entertainer, trickster, and storyteller of the surface into one of the most horrific taskmasters and assassins of the Underdark.
 
-##### Deadly [[Knowledge]]
+##### Deadly [[Compendium/Basics/Skills/Knowledge]]
 
 Drow bards do not travel the world, and thus do not gain the broad range of understanding other bards have. Instead, they study a means of death-dealing normally associated with other classes.
 
 **Level**: 1st.
 
-**Replaces**: If you select this class feature, you do not gain the standard bard's bardic [[Knowledge]] ability. In addition, you can use your bardic music one fewer time per day than other bards (minimum 1).
+**Replaces**: If you select this class feature, you do not gain the standard bard's bardic [[Compendium/Basics/Skills/Knowledge]] ability. In addition, you can use your bardic music one fewer time per day than other bards (minimum 1).
 
 **Benefit**: You are trained in the use of poison. You never risk poisoning yourself when applying poison to a weapon.
 
@@ -259,7 +261,7 @@ A rare bard might display a special link to nature and the mysterious world of t
 
 This variant simply swaps one or more of a class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
-**Lose**: Bardic [[Knowledge]], inspire courage, inspire competence, inspire greatness, inspire heroics.
+**Lose**: Bardic [[Compendium/Basics/Skills/Knowledge]], inspire courage, inspire competence, inspire greatness, inspire heroics.
 
 **Gain**: Animal companion (as [[druid]]), nature sense (as [[druid]]), resist nature's lure (as [[druid]]), wild empathy (as [[druid]]).
 
@@ -285,7 +287,7 @@ Gnome bard substitution levels have the class skills of the standard bard class.
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+0|+0|+2|+2|Bardic music, bardic [[Knowledge]], gnome cantrips, counter fear, fascinate, inspire courage +1|Same as bard|
+|1st|+0|+0|+2|+2|Bardic music, bardic [[Compendium/Basics/Skills/Knowledge]], gnome cantrips, counter fear, fascinate, inspire courage +1|Same as bard|
 |3rd|+2|+1|+3|+3|Inspire defiance|Same as bard|
 |6th|+4|+2|+5|+5|Phantasmal song|Same as bard|
 |11th|+8/+3|+3|+7|+7|Secrets of bardic trickery|See text|
@@ -294,11 +296,11 @@ Gnome bard substitution levels have the class skills of the standard bard class.
 
 All the following are features of the gnome bard's racial substitution levels.
 
-**Gnome Cantrips**: A gnome bard who takes the 1st-level racial substitution level adds the following 0-level spells to his bard spells known: dancing lights, ghost sound, and prestidigitation.
+**Gnome Cantrips**: A gnome bard who takes the 1st-level racial substitution level adds the following 0-level spells to his bard spells known: [[dancing lights]], [[ghost sound]], and [[prestidigitation]].
 
 This benefit replaces two of the cantrips a bard normally knows at 1st level. Thus, a 1st-level gnome bard with this substitution level knows two cantrips of his choice plus the three mentioned here.
 
-**Counter Fear (Su)**: A gnome bard who takes the 1st-level racial substitution level and has 3 or more ranks in a Perform skill can use his music or poetics to counter magical effects that cause fear. In each round when the bard uses his counter fear ability, he makes a Perform check. Any ally within 30 feet of the bard (including the bard himself) that is affected by a fear effect can use the bard's Perform check result in place of its saving throw if, after the saving throw is rolled, the Perform check result proves to be higher. If a creature within range of the counter fear effect is already under the influence of a fear effect, it gains another saving throw against the effect each round it hears the bard perform, but it must use the bard's Perform check result for the save. Counter fear has no effect against effects that don't allow saves. The bard can keep up the counter fear ability for 10 rounds.
+**Counter Fear (Su)**: A gnome bard who takes the 1st-level racial substitution level and has 3 or more ranks in a Perform skill can use his music or poetics to counter magical effects that [[cause fear]]. In each round when the bard uses his counter fear ability, he makes a Perform check. Any ally within 30 feet of the bard (including the bard himself) that is affected by a fear effect can use the bard's Perform check result in place of its saving throw if, after the saving throw is rolled, the Perform check result proves to be higher. If a creature within range of the counter fear effect is already under the influence of a fear effect, it gains another saving throw against the effect each round it hears the bard perform, but it must use the bard's Perform check result for the save. Counter fear has no effect against effects that don't allow saves. The bard can keep up the counter fear ability for 10 rounds.
 
 This substitution feature replaces the base bard's countersong bardic music ability.
 
@@ -308,17 +310,17 @@ This benefit replaces the standard bard's inspire competence bardic music abilit
 
 **Phantasmal Song (Su)**: A gnome bard who takes the 6th-level racial substitution level and has 9 or more ranks in a Perform skill can use music or poetics to create an eerie melody with phantasmal echoes in the minds of those who hear it. While the music itself is unsettling, the phantasmal component is downright terrifying, with effects that build as the bard continues to play. Enemy creatures within 30 feet of the bard who can hear the music become shaken (Will negates; DC 10 + 1/2 bard's level + bard's Cha modifier). Any creature affected by phantasmal song (that is, who failed the initial Will save) that remains within range and hears the song for at least 3 consecutive rounds becomes frightened instead of shaken. The effect lasts as long as the bard performs and for 1 round after he stops, or until the affected creature moves more than 30 feet from the gnome bard.
 
-The effects of multiple phantasmal songs do not stack with one another. Thus, a creature within the area of two phantasmal songs must save against both, but can still only become shaken on the first round even if it fails both saves. However, a phantasmal song's effect can stack with other fear effects (such as from the cause fear spell). See [[Fear]] under Special Abilities for more information on fear effects. Phantasmal song is an illusion (phantasm), mind-affecting fear effect.
+The effects of multiple phantasmal songs do not stack with one another. Thus, a creature within the area of two phantasmal songs must save against both, but can still only become shaken on the first round even if it fails both saves. However, a phantasmal song's effect can stack with other fear effects (such as from the [[cause fear]] spell). See [[Fear]] under Special Abilities for more information on fear effects. Phantasmal song is an illusion (phantasm), mind-affecting fear effect.
 
 This benefit replaces the standard bard's suggestion bardic music ability.
 
-**Secrets of Bardic Trickery**: A gnome bard who takes the 11th-level racial substitution level adds the following spells to his spells known: 1st - color spray; 2nd - touch of idiocy; 4th - phantasmal killer.
+**Secrets of Bardic Trickery**: A gnome bard who takes the 11th-level racial substitution level adds the following spells to his spells known: 1st - [[color spray]]; 2nd - [[touch of idiocy]]; 4th - [[phantasmal killer]].
 
 This benefit replaces the standard bard's ability to learn a new 4th-level spell at 11th level and his ability to exchange a spell he knows for a new spell of the same level. From now on, the gnome bard's number of 4th-level spells known is one fewer than the value shown on Table: [[Bard Spells Known]].
 
 #### Golarion Bard
 
-Bards trained at one of the great schools of the Inner Sea tend to favor one performance type above all others, focusing their training. Such bards have the above ability, which replaces bardic [[Knowledge]].
+Bards trained at one of the great schools of the Inner Sea tend to favor one performance type above all others, focusing their training. Such bards have the above ability, which replaces bardic [[Compendium/Basics/Skills/Knowledge]].
 
 **Specialized Training (Ex)**: At 1st level, a bard must choose a single category of the Perform skill. Whenever the bard performs bardic music using the chosen category of the Perform skill, he is treated as being 2 levels higher when determining the effect and save DC. In addition, a bard with specialized training can make use of his bardic music one additional time per day, assuming that the additional usage uses his chosen category of the Perform skill.
 
@@ -344,8 +346,8 @@ Half-elf bard substitution levels have the class skills of the standard bard cla
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+0|+0|+2|+2|Bardic music, bardic [[Knowledge]], fascinate, inspire courage +1, soothing voice|Same as bard|
-|6th|+4|+2|+5|+5|Command|Same as bard|
+|1st|+0|+0|+2|+2|Bardic music, bardic [[Compendium/Basics/Skills/Knowledge]], fascinate, inspire courage +1, soothing voice|Same as bard|
+|6th|+4|+2|+5|+5|[[Command]]|Same as bard|
 |8th|+6/+1|+2|+6|+6|Inspire courage +2, secrets of the diplomat|See text|
 
 ##### Class Features
@@ -354,15 +356,15 @@ All the following are features of the half-elf bard's racial substitution levels
 
 **Soothing Voice (Su)**: A 1st-level half-elf bard with 3 or more ranks in Diplomacy can spend one daily use of her bardic music to use a composed, steady voice and reason to calm the emotions in others around her. This ability works in much the same way as the half-elf bard's fascinate ability, with the following differences.
 
-The creature to be soothed must be within 30 feet of the bard and must be able to understand the language she is speaking. To use this ability, the half-elf bard makes a Diplomacy check. Her check result is the DC for each affected creature's Will save against the effect. On a success, the creature is affected as if by the calm emotions spell. The effect lasts as long as the creature listens to the bard, although the creature may wander off on its own if there is nothing to keep its interest.
+The creature to be soothed must be within 30 feet of the bard and must be able to understand the language she is speaking. To use this ability, the half-elf bard makes a Diplomacy check. Her check result is the DC for each affected creature's Will save against the effect. On a success, the creature is affected as if by the [[calm emotions]] spell. The effect lasts as long as the creature listens to the bard, although the creature may wander off on its own if there is nothing to keep its interest.
 
 This benefit replaces the standard bard's ability of countersong.
 
-**Command (Sp)**: A 6th-level half-elf bard with at least 9 ranks in Diplomacy may spend one daily use of her bardic music to issue a command (as the spell) to a creature within 30 feet. Alternatively, the command can affect all creatures that the bard has affected with her soothing voice or fascinate ability. A Will saving throw (DC 11 + bard's Cha modifier) negates the effect.
+**[[Command]] (Sp)**: A 6th-level half-elf bard with at least 9 ranks in Diplomacy may spend one daily use of her bardic music to issue a command (as the spell) to a creature within 30 feet. Alternatively, the command can affect all creatures that the bard has affected with her soothing voice or fascinate ability. A Will saving throw (DC 11 + bard's Cha modifier) negates the effect.
 
 This benefit replaces the standard bard's ability of suggestion.
 
-**Secrets of the Diplomat**: At 8th level, a half-elf bard adds the following spells to her spells known: 1st - command; 2nd - zone of truth; 4th - sending.
+**Secrets of the Diplomat**: At 8th level, a half-elf bard adds the following spells to her spells known: 1st - command; 2nd - [[zone of truth]]; 4th - [[sending]].
 
 This benefit replaces the 4th-level spell learned by a standard bard at 8th level. From now on, the bard knows one fewer 4th-level bard spell than normal (not counting the spells she learned from this substitution feature).
 
@@ -392,7 +394,7 @@ _Drain Prowess (Su)_: A harbinger of 18th level or higher with 21 or more ranks 
 
 #### Healing Hymn
 
-When you play your healing hymn, your allies can cast curative spells more effectively. Furthermore, everyone around you feels rejuvenated and more fully rested when your hymn becomes a lullaby.
+When you play your healing hymn, your allies can cast curative spells more effectively. Furthermore, everyone around you feels rejuvenated and more fully rested when your hymn becomes a [[lullaby]].
 
 **Level**: 1st.
 
@@ -414,7 +416,7 @@ By singing praises to the holy powers, you can cloak yourself or an ally in a pr
 
 **Replaces**: This benefit replaces the inspire competence bardic music ability.
 
-**Benefit**: If you are a 3rd-level or higher bard with 6 or more ranks in Perform (oratory) or Perform (sing), you can grant protection from supernatural creatures. This effect fortifies you or a single chosen ally within 30 feet against mental control and attacks from evil-aligned or summoned creatures. In most respects, hymn of fortification mirrors the effects of the protection from evil spell. If you wish to protect an ally with this ability, the two of you must be able to see and hear each other. The effect lasts as long as you concentrate, up to a maximum of 2 minutes.
+**Benefit**: If you are a 3rd-level or higher bard with 6 or more ranks in Perform (oratory) or Perform (sing), you can grant protection from supernatural creatures. This effect fortifies you or a single chosen ally within 30 feet against mental control and attacks from evil-aligned or summoned creatures. In most respects, hymn of fortification mirrors the effects of the [[protection from evil]] spell. If you [[wish]] to protect an ally with this ability, the two of you must be able to see and hear each other. The effect lasts as long as you concentrate, up to a maximum of 2 minutes.
 
 Each use of hymn of fortification counts as one daily use of your bardic music ability. This is a spell-like ability.
 
@@ -438,7 +440,7 @@ At 20th level, any enemy who fails to save becomes frightened for 1 round, then 
 
 #### Inspire Hatred
 
-Motivated by a desire to spread havoc and sow discord, some villainous bards abandon the techniques that inspire heroes to greatness. Instead, they prey upon secret longings and buried frustrations to awaken the hate that resides in mortal hearts.
+Motivated by a desire to spread havoc and sow discord, some villainous bards abandon the techniques that inspire heroes to greatness. Instead, they prey upon secret longings and buried frustrations to [[awaken]] the hate that resides in mortal hearts.
 
 **Class**: Bard.
 
@@ -456,7 +458,7 @@ Creatures compelled to attack an ally can attempt a new Will save each round to 
 
 #### Inspire Turning
 
-You use your [[Knowledge]] of religious hymns and divine song to lend greater energy to an ally's turn undead attempt.
+You use your [[Compendium/Basics/Skills/Knowledge]] of religious hymns and divine song to lend greater energy to an ally's turn undead attempt.
 
 **Level**: 1st.
 
@@ -466,11 +468,11 @@ You use your [[Knowledge]] of religious hymns and divine song to lend greater en
 
 #### Lore Song
 
-Bardic music serves many purposes, aiding your allies or manipulating your enemies. You have refined your performance of another group of bardic songs, full of lost [[Knowledge]], obscure lore, and relevant anecdotes. These lore songs inspire you to come up with new solutions to difficult problems.
+Bardic music serves many purposes, aiding your allies or manipulating your enemies. You have refined your performance of another group of bardic songs, full of lost [[Compendium/Basics/Skills/Knowledge]], obscure lore, and relevant anecdotes. These lore songs inspire you to come up with new solutions to difficult problems.
 
 **Level**: 1st.
 
-**Replaces**: If you select this alternative class feature, you do not gain the bardic [[Knowledge]] ability.
+**Replaces**: If you select this alternative class feature, you do not gain the bardic [[Compendium/Basics/Skills/Knowledge]] ability.
 
 **Benefit**: Once per day, as an immediate action, you can gain a +4 insight bonus on a single attack, check, or save. You gain one additional daily use of this ability at every odd-numbered bard level (3rd, 5th, and so on).
 
@@ -494,7 +496,7 @@ These bard feats are Haunting Melody, Music of Growth, Music of Making, Song of 
 
 #### Planar Bard
 
-Some hold that if one had the eyes to see, the world would be revealed as a symphony of celestial music, each theme playing out its part on the stage of reality. For some bards, this intuition is true. When they let the scales slip from their eyes, they see the underlying overture of music that connects all levels of reality. With this [[Knowledge]], they gain some ability to add refrains of their own choosing. This fine-tuning bypasses spellcasting and directly affects what others see as reality.
+Some hold that if one had the eyes to see, the world would be revealed as a symphony of celestial music, each theme playing out its part on the stage of reality. For some bards, this intuition is true. When they let the scales slip from their eyes, they see the underlying overture of music that connects all levels of reality. With this [[Compendium/Basics/Skills/Knowledge]], they gain some ability to add refrains of their own choosing. This fine-tuning bypasses spellcasting and directly affects what others see as reality.
 
 **Hit Die**: d6.
 
@@ -504,7 +506,7 @@ To take a bard planar substitution level, a character must be about to take his 
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -544,7 +546,7 @@ Each round of the performance, he attempts a DC 20 Perform check. The bard can't
 
 The bard may keep up the dissonance for 10 consecutive rounds (this counts as one of the bard's bardic music uses per day).
 
-This benefit replaces the suggestion bardic music ability gained by a standard bard at 6th level. If the bard later qualifies for the mass suggestion bardic music ability, he gains the suggestion ability instead.
+This benefit replaces the suggestion bardic music ability gained by a standard bard at 6th level. If the bard later qualifies for the [[Suggestion Mass|mass suggestion]] bardic music ability, he gains the suggestion ability instead.
 
 **Planar Discordance (Su)**: A bard of 12th level or higher with 15 or more ranks in a Perform skill who selects this planar substitution benefit can attempt to create a minor planar breach (as the [[precipitate breach]] spell). The bard must perform for 1 full minute, spending a standard action each round to concentrate on the performance.
 
@@ -606,7 +608,7 @@ Bards pride themselves on being masters of language and sound. A rare few learn 
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank, Perform (any) 3 ranks.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank, Perform (any) 3 ranks.
 
 **Replaces**: You do not gain the countersong bardic music ability.
 
@@ -616,7 +618,7 @@ This ability follows all the other appropriate rules for bardic music.
 
 #### Spellscale Bard
 
-Despite their inclination for sorcery, spellscales make excellent bards, exploiting their racial affinity for arcane magic and superior charm. However, [[Knowledge]] of arcane mysteries remains an important part of a spellscale bard's abilities.
+Despite their inclination for sorcery, spellscales make excellent bards, exploiting their racial affinity for arcane magic and superior charm. However, [[Compendium/Basics/Skills/Knowledge]] of arcane mysteries remains an important part of a spellscale bard's abilities.
 
 **Hit Die**: d6.
 
@@ -636,7 +638,7 @@ Spellscale bard substitution levels have the class skills of the standard bard c
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+0|+0|+2|+2|Bardic music, draconic bardic [[Knowledge]], countersong, fascinate, inspire courage +1|Same as bard|
+|1st|+0|+0|+2|+2|Bardic music, draconic bardic [[Compendium/Basics/Skills/Knowledge]], countersong, fascinate, inspire courage +1|Same as bard|
 |3rd|+2|+1|+3|+3|Inspire arcana|Same as bard|
 |6th|+4|+2|+5|+5|Superior suggestion|See text|
 
@@ -644,27 +646,26 @@ Spellscale bard substitution levels have the class skills of the standard bard c
 
 All the following are features of the spellscale bard racial substitution levels.
 
-**Draconic Bardic [[Knowledge]] (Ex)**: A spellscale bard has special interest in events, items, and individuals important to dragons. Upon taking the 1st-level racial substitution level, a spellscale bard's keen interest in dragon lore grants him a +5 competence bonus on any bardic [[Knowledge]] check related to dragons, so long as he maintains a number of ranks in [[Knowledge]] (arcana) equal to or greater than his bard class level.
+**Draconic Bardic [[Compendium/Basics/Skills/Knowledge]] (Ex)**: A spellscale bard has special interest in events, items, and individuals important to dragons. Upon taking the 1st-level racial substitution level, a spellscale bard's keen interest in dragon lore grants him a +5 competence bonus on any bardic [[Compendium/Basics/Skills/Knowledge]] check related to dragons, so long as he maintains a number of ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) equal to or greater than his bard class level.
 
-**Inspire Arcana (Su)**: Beginning at 3rd level, a spellscale bard can spend one daily use of bardic music to make a single allied arcane spellcaster more powerful. To use this ability, a spellscale bard must have 3 or more ranks in Perform and a number of ranks in [[Knowledge]] (arcana) equal to or greater than his bard class level. The ally must be within 30 feet of and able to see and hear the spellscale bard, and the bard must be able to see the ally. As long as the chosen arcane spellcaster continues to hear the bard's performance, she casts her arcane spells with a +1 bonus to her caster level. The effect lasts as long as the spellscale bard concentrates, up to a maximum of 2 minutes. A bard can't inspire arcana upon himself. Inspire arcana is a mindaffecting ability.
+**Inspire Arcana (Su)**: Beginning at 3rd level, a spellscale bard can spend one daily use of bardic music to make a single allied arcane spellcaster more powerful. To use this ability, a spellscale bard must have 3 or more ranks in Perform and a number of ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) equal to or greater than his bard class level. The ally must be within 30 feet of and able to see and hear the spellscale bard, and the bard must be able to see the ally. As long as the chosen arcane spellcaster continues to hear the bard's performance, she casts her arcane spells with a +1 bonus to her caster level. The effect lasts as long as the spellscale bard concentrates, up to a maximum of 2 minutes. A bard can't inspire arcana upon himself. Inspire arcana is a mindaffecting ability.
 
 This substitution feature replaces the standard bard's inspire competence class feature.
 
-**Superior Suggestion (Sp)**: A spellscale bard who takes the 6th-level racial substitution level draws on his [[Knowledge]] of his sorcerous ancestors to enhance his suggestion ability. So long as he maintains a number of ranks in [[Knowledge]] (arcana) equal to or greater than his bard class level, a spellscale bard gains a +2 bonus on the save DC whenever he uses his suggestion bardic music ability.
+**Superior Suggestion (Sp)**: A spellscale bard who takes the 6th-level racial substitution level draws on his [[Compendium/Basics/Skills/Knowledge]] of his sorcerous ancestors to enhance his suggestion ability. So long as he maintains a number of ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) equal to or greater than his bard class level, a spellscale bard gains a +2 bonus on the save DC whenever he uses his suggestion bardic music ability.
 
 This substitution feature augments the standard bard's suggestion class feature, and it replaces the 2nd-level spell slot gained by a standard bard at 6th level. From 6th level on, a spellscale bard who takes this substitution level can cast one less 2nd-level spell per day than shown on Table: The Bard.
 
-#### Undead Bardic [[Knowledge]]
+#### Undead Bardic [[Compendium/Basics/Skills/Knowledge]]
 
 A lightbringer bard has special interest in events, items, and persons that are important to undead. Your focused, careful studies allow you to identify such creatures and effects commonly associated with them.
 
 **Level**: 1st.
 
-**Replaces**: If you select this class feature, you do not gain bardic [[Knowledge]].
+**Replaces**: If you select this class feature, you do not gain bardic [[Compendium/Basics/Skills/Knowledge]].
 
-**Benefit**: You can tap into some of your specialized [[Knowledge]] of the undead. You make a check just as though using the standard bardic [[Knowledge]] ability, but your insights concern only the undead. You gain a +5 circumstance bonus on this check. You can attempt this check in addition to a [[Knowledge]] (religion) check to learn about an undead creature or some other bit of undead lore, such as an item used to destroy a legendary undead or a plague caused by undead.
+**Benefit**: You can tap into some of your specialized [[Compendium/Basics/Skills/Knowledge]] of the undead. You make a check just as though using the standard bardic [[Compendium/Basics/Skills/Knowledge]] ability, but your insights concern only the undead. You gain a +5 circumstance bonus on this check. You can attempt this check in addition to a [[Compendium/Basics/Skills/Knowledge]] (religion) check to learn about an undead creature or some other bit of undead lore, such as an item used to destroy a legendary undead or a plague caused by undead.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

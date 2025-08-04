@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Bear's Endurance]
+aliases:
+ - Mass Bear's Endurance
 title: Compendium/Basics/Spell/Bear's Endurance, Mass
 tags: 
   - 35E_SRD
@@ -39,9 +40,13 @@ The affected creature gains greater vitality and stamina. The spell grants the s
 
 Hit points gained by a temporary increase in Constitution score are not temporary hit points. They go away when the subject's Constitution drops back to normal. They are not lost first as temporary hit points are.
 
-Source : PHB P203
+**Source :** PHB P203
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

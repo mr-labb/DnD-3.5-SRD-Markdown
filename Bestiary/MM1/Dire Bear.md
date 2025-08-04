@@ -1,7 +1,10 @@
 ---
-aliases: [Dire Bear]
+aliases:
+ - Dire Bear
 title: Bestiary/MM1/Dire Bear
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Dire Bear
 Size: Large
 Type: Animal
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Dire Bear
+image: [[Dire Bear.PNG]]
 race: Dire Bear
 class: 
 level: 
@@ -27,62 +29,80 @@ size: Large
 type: Animal
 subtype: 
 alignment: Always neutral
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "17 (-1 size, +1 Dex, +7 natural), touch 10, flat-footed 16"
+ac: 17
 touch: 10
-flat_footed: 16
-hit_point:
-  - name: hp
-    desc: "105 ; 12d8+51"
-speed: 40 ft. (8 squares)
-
-abilities: [31, 13, 19, 2, 12, 10]
-saves:
-  - Fort: +12
-  - Ref: +9
-  - Will: +9
-damage_resist: 
-spell_resist: 
+flatfooted: 16
+AC_desc: -1 size, +1 Dex, +7 natural
+hp: 105
+hit_dice: 12d8+51
 initiative: 1
+speed: 40 ft. (8 squares)
 space/reach: 10 ft./5 ft.
-cr: 7
+stats:
+  - 31
+  - 13
+  - 19
+  - 2
+  - 12
+  - 10
+saves:
+ - Fortitude : +12
+ - Reflex : +9
+ - Will : +9
+skillsaves:
+ - Listen: +10
+ - Spot: +10
+ - Swim: +13
 base_attack/grapple: +9/+23
-attack: Claw +19 melee (2d4+10)
-full_attack: 2 claws +19 melee (2d4+10) and bite +13 melee (2d8+5)
-special_attacks: Improved grab
-
-special_qualities:
-  - name: 
-    desc: Low-light vision, scent
-
-skills:
-  - Listen: +10
-  - Spot: +10
-  - Swim: +13
-feats: [[Alertness]], [[Endurance]], [[Run]], [[Toughness]], [[Weapon Focus (claw)]]
-weak: 
 environment: Cold forests
 organization: Solitary or pair
 treasure: None
 advancement: 13-16 HD (Large); 17-36 HD (Huge)
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 7
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Low-light vision, scent
+actions:
+  - name: Full Attack
+    desc: "2 claws +19 melee (2d4+10) and bite +13 melee (2d8+5)"
+  - name: Attack
+    desc: "Claw +19 melee (2d4+10)"
+  - name: special attacks
+    desc: "Improved grab"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Alertness, Endurance, Run, Toughness, Weapon Focus (claw)
+combat_gear:  
 ```
 
-## Description
 
-<p>Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.</p>
-<p>The omnivorous dire bear usually does not bother creatures that try to avoid it, but will aggressively defend a kill or other source of food. It will not hesitate to rip apart anything that might contain something edible.</p>
-<p>A typical dire bear is 12 feet long and weighs as much as 8,000 pounds.</p>
-<p>Combat</p>
-<p>A dire bear attacks by tearing at opponents with its claws.</p>
-<p>
-            <b>Improved Grab (Ex):</b> To use this ability, a dire bear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.</p>
+Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.
+
+The omnivorous dire bear usually does not bother creatures that try to avoid it, but will aggressively defend a kill or other source of food. It will not hesitate to rip apart anything that might contain something edible.
+
+A typical dire bear is 12 feet long and weighs as much as 8,000 pounds.
+
+Combat
+
+A dire bear attacks by tearing at opponents with its claws.
+
+
+**Improved Grab (Ex):** To use this ability, a dire bear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

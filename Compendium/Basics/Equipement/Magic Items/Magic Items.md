@@ -27,7 +27,7 @@ Magic items are divided into categories: armor, weapons, potions, rings, rods, s
 
 ###### Magic Items and Detect Magic
 
-When detect magic identifies a magic item’s school of magic, this information refers to the school of the spell placed within the potion, scroll, or wand, or the prerequisite given for the item. The description of each item provides its aura strength and the school it belongs to.
+When [[detect magic]] identifies a magic item’s school of magic, this information refers to the school of the spell placed within the potion, scroll, or wand, or the prerequisite given for the item. The description of each item provides its aura strength and the school it belongs to.
 
 If more than one spell is given as a prerequisite, use the highest-level spell. If no spells are included in the prerequisites, use the following default guidelines.
 
@@ -57,7 +57,7 @@ Sometimes the command word to activate an item is written right on the item. Occ
 
 The Knowledge (arcana) and Knowledge (history) skills might be useful in helping to identify command words or deciphering clues regarding them. A successful check against DC 30 is needed to come up with the word itself. If that check is failed, succeeding on a second check (DC 25) might provide some insight into a clue.
 
-The spells identify and analyze dweomer both reveal command words.
+The spells identify and [[analyze dweomer]] both reveal command words.
 
 **Use Activated**: This type of item simply has to be used in order to activate it. A character has to drink a potion, swing a sword, interpose a shield to deflect a blow in combat, look through a lens, sprinkle dust, wear a ring, or don a hat. Use activation is generally straightforward and self-explanatory.
 
@@ -113,7 +113,7 @@ Magic items, unless otherwise noted, take damage as nonmagical items of the same
 
 ##### REPAIRING MAGIC ITEMS
 
-Some magic items take damage over the course of an adventure. It costs no more to repair a magic item with the Craft skill than it does to repair its nonmagical counterpart. The make whole spell also repairs a damaged—but not completely broken—magic item.
+Some magic items take damage over the course of an adventure. It costs no more to repair a magic item with the Craft skill than it does to repair its nonmagical counterpart. The [[make whole]] spell also repairs a damaged—but not completely broken—magic item.
 
 ##### INTELLIGENT ITEMS
 
@@ -143,9 +143,9 @@ Some individual items, notably those that simply store spells and nothing else, 
 
 Items with full descriptions have their powers detailed, and each of the following topics is covered in notational form at the end of the description.
 
-**Aura**: Most of the time, a detect magic spell will reveal the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item’s notational entry. See the detect magic spell description for details.
+**Aura**: Most of the time, a [[detect magic]] spell will reveal the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item’s notational entry. See the detect magic spell description for details.
 
-**Caster Level**: The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item’s saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a dispel magic spell or similar situation. This information is given in the form “CL x,” where “CL” is an abbreviation for caster level and “x” is an ordinal number representing the caster level itself.
+**Caster Level**: The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item’s saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a [[dispel magic]] spell or similar situation. This information is given in the form “CL x,” where “CL” is an abbreviation for caster level and “x” is an ordinal number representing the caster level itself.
 
 For potions, scrolls, and wands, the creator can set the caster level of an item at any number high enough to cast the stored spell and not higher than her own caster level. For other magic items, the caster level is determined by the creator. The minimum caster level is that which is needed to meet the prerequisites given.
 
@@ -181,5 +181,4 @@ Typically, a list of prerequisites includes one feat and one or more spells (or 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

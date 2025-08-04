@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Goblinoid]
+aliases:
+ - Goblinoid
 title: Compendium/Basics/Monsters Information/Goblinoid
 tag: Monster, Goblinoid
 ---
@@ -19,5 +20,4 @@ tag: Monster, Goblinoid
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

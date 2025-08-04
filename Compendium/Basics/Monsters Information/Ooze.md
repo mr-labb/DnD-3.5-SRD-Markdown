@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Ooze]
+aliases:
+ - Ooze
 title: Compendium/Basics/Monsters Information/Ooze
 tag: Monster, Ooze
 ---
@@ -29,7 +30,7 @@ _Traits_: An ooze possesses the following traits (unless otherwise noted in a cr
     
 - Blind (but have the blindsight special quality), with immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
     
-- Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
+- Immunity to poison, sleep effects, paralysis, [[Compendium/Spells/Polymorph|polymorph]], and stunning.
     
 - Some oozes have the ability to deal acid damage to objects. In such a case, the amount of damage is equal to 10 + 1/2 ooze’s HD + ooze’s Con modifier per full round of contact.
     
@@ -41,7 +42,6 @@ _Traits_: An ooze possesses the following traits (unless otherwise noted in a cr
     
 - Oozes eat and breathe, but do not sleep.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

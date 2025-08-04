@@ -1,5 +1,6 @@
 ---
-aliases: [Handle Animal]
+aliases:
+ - Handle Animal
 title: Compendium/Basics/skills/Handle Animal
 tags: skill
 ---
@@ -189,5 +190,4 @@ she can't teach, rear, or train other nondomestic animals.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

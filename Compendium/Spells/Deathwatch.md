@@ -1,5 +1,6 @@
 ---
-aliases: [Deathwatch]
+aliases:
+ - Deathwatch
 title: Compendium/Basics/Spell/Deathwatch
 tags:
   - 35E_SRD
@@ -36,11 +37,15 @@ Using the foul sight granted by the powers of unlife, you can determine the cond
 
 You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (such as a construct).
 
-_Deathwatch_ sees through any spell or ability that allows creatures to feign death.
+_Deathwatch_Â sees through any spell or ability that allows creatures to feign death.
 
-Source : PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

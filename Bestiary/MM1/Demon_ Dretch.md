@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Dretch]
+aliases:
+ - Demon
+ - Dretch
 title: Bestiary/MM1/Demon, Dretch
 tags: [35E_SRD, Monster]
 Monster: Demon, Dretch

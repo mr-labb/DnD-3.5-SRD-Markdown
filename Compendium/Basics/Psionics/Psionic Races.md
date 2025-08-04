@@ -12,7 +12,7 @@ tags:
 #### Dromites
 
 -   +2 Charisma, --2 Strength, --2 Wisdom
--   Monstrous Humanoid: Dromites are not subject to spells or effects that affect humanoids only, such as *charm person* or *dominate person*.
+-   Monstrous Humanoid: Dromites are not subject to spells or effects that affect humanoids only, such as *[[charm person]]* or *[[dominate person]]*.
 -   Small: As a Small creature, a dromite gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but it uses smaller weapons than humans use, and its lifting and carrying limits are three-quarters of those of a Medium character.
 -   Dromite base land speed is 20 feet.
 -   Chitin: A dromite's skin is hardened, almost like an exoskeleton, and grants the character a +3 natural armor bonus to AC and one of the following kinds of resistance to energy: cold 5, electricity 5, fire 5, or sonic 5. The player chooses what type of energy resistance is gained when the character is created. (This choice also dictates which caste the dromite belongs to.) This natural energy resistance stacks with any future energy resistance gained through other effects.
@@ -74,7 +74,7 @@ tags:
 ### Elans
 
 -   --2 Charisma
--   Aberration: Elans are not subject to spells or effects that affect humanoids only, such as *charm person* or *dominate person*.
+-   Aberration: Elans are not subject to spells or effects that affect humanoids only, such as *[[charm person]]* or *[[dominate person]]*.
 -   Medium: As Medium creatures, elans have no special bonuses or penalties due to their size.
 -   Elan base land speed is 30 feet.
 -   Elans (unlike most aberrations) do not have darkvision.
@@ -90,7 +90,7 @@ tags:
 
 -   +2 Strength, +2 Constitution, --2 Dexterity: Half-giants are tough and strong, but not too nimble.
 
--   Giant: Half-giants are not subject to spells or effects that affect humanoids only, such as *charm person* or *dominate person*.
+-   Giant: Half-giants are not subject to spells or effects that affect humanoids only, such as *[[charm person]]* or *[[dominate person]]*.
 
 -   Medium: As Medium creatures, half-giants have no special bonuses or penalties due to their size.
 
@@ -199,5 +199,8 @@ tags:
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

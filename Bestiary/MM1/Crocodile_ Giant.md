@@ -1,5 +1,7 @@
 ---
-aliases: [Crocodile, Giant]
+aliases:
+ - Crocodile
+ - Giant
 title: Bestiary/MM1/Crocodile, Giant
 tags: [35E_SRD, Monster]
 Monster: Crocodile, Giant

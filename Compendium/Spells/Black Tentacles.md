@@ -1,5 +1,6 @@
 ---
-aliases: [Black Tentacles]
+aliases:
+ - Black Tentacles
 title: Compendium/Basics/Spell/Black Tentacles
 tags: 
   - 35E_SRD
@@ -37,11 +38,15 @@ Once a creature is grappled, the tentacles make another grapple check each round
 
 Any creature entering the area is immediately attacked. Non-grappled creatures move through the zone at half speed.
 
-*Material Component:* A piece of tentacle from a giant octopus or giant squid.
+*Material Component:* A piece of tentacle from a [[Octopus_Giant|giant octopus]] or giant squid.
 
-Source : PHB P228
+**Source :** PHB P228
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

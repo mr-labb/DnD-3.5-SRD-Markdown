@@ -1,5 +1,6 @@
 ---
-aliases: [Discern Location]
+aliases:
+ - Discern Location
 title: Compendium/Basics/Spell/Discern Location
 tags:
   - 35E_SRD
@@ -55,9 +56,13 @@ Upon successful casting, you learn:
 - To locate an **object**, you must have **touched it at least once**
 
 
-**Source:** PHB P222
+**Source :** PHB P222
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

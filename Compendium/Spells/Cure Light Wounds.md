@@ -1,5 +1,6 @@
 ---
-aliases: [Cure Light Wounds]
+aliases:
+ - Cure Light Wounds
 title: Compendium/Basics/Spell/Cure Light Wounds
 tags:
   - 35E_SRD
@@ -48,9 +49,13 @@ When laying your hand upon a living creature, you channel positive energy that c
 - **Spell Resistance for Undead:** Yes  
 
 
-**Source:** PHB P215
+**Source :** PHB P215
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Disrupting Weapon]
+aliases:
+ - Disrupting Weapon
 title: Compendium/Basics/Spell/Disrupting Weapon
 tags:
   - 35E_SRD
@@ -32,7 +33,7 @@ Melee weapon destroys undead.
 
 ### Description
 
-You imbue a melee weapon with divine power, turning it into a bane against the undead. When wielded against an undead creature:
+You imbue a melee weapon with [[divine power]], turning it into a bane against the undead. When wielded against an undead creature:
 
 - If the target’s **Hit Dice (HD) ≤ your caster level**, it must make a **Will save**  
 - On a **failed save**, the undead is **instantly destroyed**  
@@ -41,9 +42,13 @@ You imbue a melee weapon with divine power, turning it into a bane against the u
 This enchantment is ideal for clerics and champions of the divine who face persistent undead threats. Note that the weapon remains usable by others during the effect’s duration but still only affects undead as described.
 
 
-**Source:** PHB P223
+**Source :** PHB P223
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

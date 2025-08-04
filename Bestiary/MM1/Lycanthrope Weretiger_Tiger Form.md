@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Weretiger, Tiger Form]
+aliases:
+ - Lycanthrope
+ - Weretiger
+ - Tiger Form
 title: Bestiary/MM1/Lycanthrope, Weretiger, Tiger Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Weretiger, Tiger Form

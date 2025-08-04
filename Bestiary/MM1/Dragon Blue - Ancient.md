@@ -1,5 +1,7 @@
 ---
-aliases: [Dragon, Blue - Ancient]
+aliases:
+ - Dragon
+ - Blue - Ancient
 title: Bestiary/MM1/Dragon, Blue - Ancient
 tags: [35E_SRD, Monster]
 Monster: Dragon, Blue - Ancient

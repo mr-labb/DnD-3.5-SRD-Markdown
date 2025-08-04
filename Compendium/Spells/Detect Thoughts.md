@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Thoughts]
+aliases:
+ - Detect Thoughts
 title: Compendium/Basics/Spell/Detect Thoughts
 tags:
   - 35E_SRD
@@ -45,7 +46,7 @@ You detect surface thoughts from conscious creatures with Intelligence scores of
 - **3rd Round:** Surface thoughts of any mind in the area  
   - Targets can resist with a Will save  
   - A failed attempt requires recasting to try again  
-  - Creatures with Intelligence 1–2 have simple, instinctual thoughts
+  - Creatures with Intelligence 1â€“2 have simple, instinctual thoughts
 
 You may scan a new area each round. The spell penetrates most barriers but is blocked by:
 
@@ -59,9 +60,13 @@ You may scan a new area each round. The spell penetrates most barriers but is bl
 A copper piece.
 
 
-**Source:** PHB P220
+**Source :** PHB P220
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

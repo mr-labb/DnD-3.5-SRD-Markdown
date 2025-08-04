@@ -1,5 +1,6 @@
 ---
-aliases: [Track]
+aliases:
+ - Track
 title: Track
 tags: Feat, General_Feat
 ---
@@ -56,12 +57,11 @@ If you fail a Survival check, you can retry after 1 hour (outdoors) or 10 minute
 
 **Special**: A ranger automatically has Track as a bonus feat. He need not select it.
 
-This feat does not allow you to find or follow the tracks made by a subject of a pass without trace spell.
+This feat does not allow you to find or follow the tracks made by a subject of a [[pass without trace]] spell.
 
 
 Source :
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

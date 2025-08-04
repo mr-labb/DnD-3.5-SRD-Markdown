@@ -1,5 +1,6 @@
 ---
-aliases: [Spells]
+aliases:
+ - Spells
 title: Compendium/Basics/Spell/Spell
 tags: [35E_SRD, Spell]
 ---
@@ -98,7 +99,7 @@ To complete the action, you must then cast the correct spell. As a general rule,
 
 **Specific Exceptions**: Some spells specifically counter each other, especially when they have diametrically opposed effects.
 
-**Dispel Magic as a Counterspell**: You can use dispel magic to counterspell another spellcaster, and you don’t need to identify the spell he or she is casting. However, dispel magic doesn’t always work as a counterspell (see the spell description).
+**[[Dispel Magic]] as a Counterspell**: You can use [[dispel magic]] to counterspell another spellcaster, and you don’t need to identify the spell he or she is casting. However, [[dispel magic]] doesn’t always work as a counterspell (see the spell description).
 
 ##### CASTER LEVEL
 
@@ -132,9 +133,9 @@ When a living creature dies, its soul departs its body, leaves the Material Plan
 
 _Level Loss_: Any creature brought back to life usually loses one level of experience. The character’s new XP total is midway between the minimum needed for his or her new (reduced) level and the minimum needed for the next one. If the character was 1st level at the time of death, he or she loses 2 points of Constitution instead of losing a level.
 
-This level loss or Constitution loss cannot be repaired by any mortal means, even wish or miracle. A revived character can regain a lost level by earning XP through further adventuring. A revived character who was 1st level at the time of death can regain lost points of Constitution by improving his or her Constitution score when he or she attains a level that allows an ability score increase.
+This level loss or Constitution loss cannot be repaired by any mortal means, even wish or [[miracle]]. A revived character can regain a lost level by earning XP through further adventuring. A revived character who was 1st level at the time of death can regain lost points of Constitution by improving his or her Constitution score when he or she attains a level that allows an ability score increase.
 
-_Preventing Revivification_: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using raise dead or resurrection to restore the slain character to life. Casting trap the soul prevents any sort of revivification unless the soul is first released.
+_Preventing Revivification_: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using [[raise dead]] or resurrection to restore the slain character to life. Casting [[trap the soul]] prevents any sort of revivification unless the soul is first released.
 
 _Revivification against One’s Will_: A soul cannot be returned to life if it does not wish to be. A soul knows the name, alignment, and patron deity (if any) of the character attempting to revive it and may refuse to return on that basis.
 
@@ -314,7 +315,7 @@ A spell’s Duration entry tells you how long the magical energy of the spell la
 
 **Instantaneous**: The spell energy comes and goes the instant the spell is cast, though the consequences might be long-lasting.
 
-**Permanent**: The energy remains as long as the effect does. This means the spell is vulnerable to dispel magic.
+**Permanent**: The energy remains as long as the effect does. This means the spell is vulnerable to [[dispel magic]].
 
 **Concentration**: The spell lasts as long as you concentrate on it. Concentrating to maintain a spell is a standard action that does not provoke attacks of opportunity. Anything that could break your concentration when casting a spell can also break your concentration while you’re maintaining one, causing the spell to end. You can’t cast a spell while concentrating on another one. Sometimes a spell lasts for a short time after you cease concentrating.
 
@@ -326,7 +327,7 @@ Some touch spells allow you to touch multiple targets as part of the spell. You 
 
 **Discharge**: Occasionally a spells lasts for a set duration or until triggered or discharged.
 
-**(D) Dismissible**: If the Duration line ends with “(D),” you can dismiss the spell at will. You must be within range of the spell’s effect and must speak words of dismissal, which are usually a modified form of the spell’s verbal component. If the spell has no verbal component, you can dismiss the effect with a gesture. Dismissing a spell is a standard action that does not provoke attacks of opportunity. A spell that depends on concentration is dismissible by its very nature, and dismissing it does not take an action, since all you have to do to end the spell is to stop concentrating on your turn.
+**(D) Dismissible**: If the Duration line ends with “(D),” you can dismiss the spell at will. You must be within range of the spell’s effect and must speak words of [[dismissal]], which are usually a modified form of the spell’s verbal component. If the spell has no verbal component, you can dismiss the effect with a gesture. Dismissing a spell is a standard action that does not provoke attacks of opportunity. A spell that depends on concentration is dismissible by its very nature, and dismissing it does not take an action, since all you have to do to end the spell is to stop concentrating on your turn.
 
 ##### SAVING THROW
 
@@ -390,5 +391,8 @@ This portion of a spell description details what the spell does and how it works
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

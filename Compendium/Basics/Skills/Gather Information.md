@@ -1,5 +1,6 @@
 ---
-aliases: [Gather Information]
+aliases:
+ - Gather Information
 title: Compendium/Basics/skills/Gather Information
 tags: skill
 ---
@@ -37,5 +38,4 @@ If you have 5 or more ranks in Knowledge (local), you get a
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

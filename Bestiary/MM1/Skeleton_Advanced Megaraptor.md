@@ -1,7 +1,10 @@
 ---
-aliases: [Skeleton, Advanced Megaraptor]
+aliases:
+ - Advanced Megaraptor Skeleton
 title: Bestiary/MM1/Skeleton, Advanced Megaraptor
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Skeleton, Advanced Megaraptor
 Size: Huge
 Type: Undead
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Skeleton, Advanced Megaraptor
+image: [[Skeleton, Advanced Megaraptor.PNG]]
 race: Skeleton, Advanced Megaraptor
 class: 
 level: 
@@ -27,61 +29,78 @@ size: Huge
 type: Undead
 subtype: 
 alignment: Always neutral evil
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "14 (-2 size, +3 Dex, +3 natural), touch 11, flat-footed 11"
+ac: 14
 touch: 11
-flat_footed: 11
-hit_point:
-  - name: hp
-    desc: "78 ; 12d12"
-speed: 60 ft. (12 squares)
-
-abilities: [21, 17, -, -, 10, 1]
-saves:
-  - Fort: +4
-  - Ref: +7
-  - Will: +8
-damage_resist: 5/bludgeoning
-spell_resist: 
+flatfooted: 11
+AC_desc: -2 size, +3 Dex, +3 natural
+hp: 78
+hit_dice: 12d12
 initiative: 7
+speed: 60 ft. (12 squares)
 space/reach: 15 ft./10 ft.
-cr: 6
+stats:
+  - 21
+  - 17
+  - 0
+  - 0
+  - 10
+  - 1
+saves:
+ - Fortitude : 4
+ - Reflex : 7
+ - Will : 8
+skillsaves:
+ - Aucun
 base_attack/grapple: +6/+19
-attack: Talons +9 melee (2d8+5)
-full_attack: Talons +9 melee (2d8+5) and 2 claws +4 melee (1d8+2) and bite +4 melee (2d6+2)
-special_attacks: -
-
-special_qualities:
-  - name: 
-    desc: Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits
-
-skills:
-  - Aucun
-feats: [[Improved Initiative]]
-weak: 
 environment: Warm forests
 organization: Any
 treasure: None
 advancement: 13-16 HD (Huge); 17-20 HD (Gargantuan)
 level_adjustment: -
-immune: to cold
+damage_vulnerabilities: ""
+damage_resistances: 5/bludgeoning
+spell_resist: 
+senses: 
+damage_immunities: "to cold"
+condition_immunities: ""
+languages: ""
+cr: 6
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits
+actions:
+  - name: Full Attack
+    desc: "Talons +9 melee (2d8+5) and 2 claws +4 melee (1d8+2) and bite +4 melee (2d6+2)"
+  - name: Attack
+    desc: "Talons +9 melee (2d8+5)"
+  - name: special attacks
+    desc: "-"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Improved Initiative
+combat_gear:  
 ```
 
-## Description
 
-<p>Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.</p>
-<p>A skeleton is seldom garbed in anything more than the rotting remnants of any clothing or armor it was wearing when slain. A skeleton does only what it is ordered to do. It can draw no conclusions of its own and takes no initiative. Because of this limitation, its instructions must always be simple. A skeleton attacks until destroyed.</p>
-<p>
-            <b>Special Qualities:</b> A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.</p>
-<p>
-            <i>Immunity to Cold (Ex):</i> Skeletons are not affected by cold.</p>
-<p>
-            <i>Damage Reduction 5/Bludgeoning:</i> Skeletons lack flesh or internal organs.</p>
+Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.
+
+A skeleton is seldom garbed in anything more than the rotting remnants of any clothing or armor it was wearing when slain. A skeleton does only what it is ordered to do. It can draw no conclusions of its own and takes no initiative. Because of this limitation, its instructions must always be simple. A skeleton attacks until destroyed.
+
+
+**Special Qualities:** A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.
+
+
+*Immunity to Cold (Ex):* Skeletons are not affected by cold.
+
+
+*Damage Reduction 5/Bludgeoning:* Skeletons lack flesh or internal organs.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Dimensional Lock]
+aliases:
+ - Dimensional Lock
 title: Compendium/Basics/Spell/Dimensional Lock
 tags:
   - 35E_SRD
@@ -52,9 +53,13 @@ You create a shimmering emerald barrier that completely **blocks extradimensiona
 - Does **not prevent** summoned creatures from **disappearing** at the end of a summoning spell
 
 
-**Source:** PHB P221
+**Source :** PHB P221
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

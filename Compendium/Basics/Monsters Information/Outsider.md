@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/Monsters Information/
 tag: Monster, Outsider
 ---
@@ -27,7 +28,7 @@ _Traits_: An outsider possesses the following traits (unless otherwise noted in 
 
 - Darkvision out to 60 feet.
     
-- Unlike most other living creatures, an outsider does not have a dual nature—its soul and body form one unit. When an outsider is slain, no soul is set loose. Spells that restore souls to their bodies, such as raise dead, reincarnate, and resurrection, don’t work on an outsider. It takes a different magical effect, such as limited wish, wish, miracle, or true resurrection to restore it to life. An outsider with the native subtype can be raised, reincarnated, or resurrected just as other living creatures can be.
+- Unlike most other living creatures, an outsider does not have a dual nature—its soul and body form one unit. When an outsider is slain, no soul is set loose. Spells that restore souls to their bodies, such as [[raise dead]], [[reincarnate]], and [[resurrection]], don’t work on an outsider. It takes a different magical effect, such as [[limited wish]], wish, [[miracle]], or [[true resurrection]] to restore it to life. An outsider with the native subtype can be raised, reincarnated, or resurrected just as other living creatures can be.
     
 - Proficient with all simple and martial weapons and any weapons mentioned in its entry.
     
@@ -35,7 +36,6 @@ _Traits_: An outsider possesses the following traits (unless otherwise noted in 
     
 - Outsiders breathe, but do not need to eat or sleep (although they can do so if they wish). Native outsiders breathe, eat, and sleep.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

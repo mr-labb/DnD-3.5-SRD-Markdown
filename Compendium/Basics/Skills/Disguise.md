@@ -1,5 +1,6 @@
 ---
-aliases: [Disguise]
+aliases:
+ - Disguise
 title: Compendium/Basics/skills/Disguise
 tags: skill
 ---
@@ -26,7 +27,7 @@ The effectiveness of your disguise depends in part on how much you're attempting
 
 1 _These modifiers are cumulative; use any that apply._
 2 _Per step of difference between your actual age category  <br>and your disguised age category. The steps are: young (younger  <br>than adulthood), adulthood, middle age, old, and venerable._
-3 _Can be negated by any effect that can duplicate a height  <br>and/or weight change of this degree, such as the alter self spell._
+3 _Can be negated by any effect that can duplicate a height  <br>and/or weight change of this degree, such as the [[alter self]] spell._
 
 If you are impersonating a particular individual, those who know what that person looks like get a bonus on their Spot checks according to the table below. Furthermore, they are automatically considered to be suspicious of you, so opposed checks are always called for.
 
@@ -61,7 +62,7 @@ Creating a disguise requires 1d3×10 minutes of work. A disguise made to appear 
 ### Try Again : 
 Yes. You may try to redo a failed disguise, but once others know that a disguise was attempted, they'll be more suspicious.
 
-**Special**: Magic that alters your form, such as alter self, disguise self, polymorph, or shapechange, grants you a +10 bonus on Disguise checks (see the individual spell descriptions). You must succeed on a Disguise check with a +10 bonus to duplicate the appearance of a specific individual using the veil spell. Divination magic that allows people to see through illusions (such as true seeing) does not penetrate a mundane disguise, but it can negate the magical component of a magically enhanced one.
+**Special**: Magic that alters your form, such as [[alter self]], [[disguise self]], [[Compendium/Spells/Polymorph|polymorph]], or [[shapechange]], grants you a +10 bonus on Disguise checks (see the individual spell descriptions). You must succeed on a Disguise check with a +10 bonus to duplicate the appearance of a specific individual using the [[veil]] spell. Divination magic that allows people to see through illusions (such as [[true seeing]]) does not penetrate a mundane disguise, but it can negate the magical component of a magically enhanced one.
 
 You must make a Disguise check when you cast a simulacrum spell to determine how good the likeness is.
 
@@ -72,5 +73,4 @@ If you have 5 or more ranks in [[Bluff]], you get a +2 bonus on Disguise checks 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

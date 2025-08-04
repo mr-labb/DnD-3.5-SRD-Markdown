@@ -1,5 +1,6 @@
 ---
-aliases: [Doom]
+aliases:
+ - Doom
 title: Compendium/Basics/Spell/Doom
 tags:
   - 35E_SRD
@@ -46,9 +47,13 @@ The spell overwhelms a living creature with an intense sense of dread and futili
 Doom is especially effective early in combat, softening a target’s ability to hit back or resist further magical effects. The fear it inspires can tilt an encounter in your favor—assuming your target fails its Will save.
 
 
-**Source:** PHB P225
+**Source :** PHB P225
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

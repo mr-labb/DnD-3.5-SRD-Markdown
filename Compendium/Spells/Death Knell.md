@@ -1,5 +1,6 @@
 ---
-aliases: [Death Knell]
+aliases:
+ - Death Knell
 title: Compendium/Basics/Spell/Death Knell
 tags:
   - 35E_SRD
@@ -43,9 +44,13 @@ If the target **fails its Will save**, it **dies**, and you gain:
 
 These benefits last for **10 minutes per HD of the slain creature**.
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Daylight]
+aliases:
+ - Daylight
 title: Compendium/Basics/Spell/Daylight
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ The object touched sheds light as bright as **full daylight** in a **60-foot rad
 - [[Daylight]] and magical [[Darkness]] temporarily **negate each other** in overlapping areas.
 - [[Daylight]] **counters or dispels** any [[Darkness]] spell of **equal or lower level**.
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

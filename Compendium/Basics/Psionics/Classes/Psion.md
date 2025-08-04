@@ -179,7 +179,7 @@ Additionally, the owner can manifest a power with a target of "You" on his psicr
 
 *Telepathic Link (Su):* The owner has a telepathic link with his psicrystal out to a distance of up to 1 mile. The owner cannot see through the psicrystal's senses, but the two of them can communicate telepathically as if the psicrystal were the target of a *mindlink* power manifested by the owner. For instance, a psicrystal placed in a distant room could relay the activities occurring in that room.
 
-Because of the telepathic link between a psicrystal and its owner, the owner has the same connection to an item or place that the psicrystal does. For instance, if his psicrystal has seen a room, the owner can teleport into that room as if he has seen it too.
+Because of the telepathic link between a psicrystal and its owner, the owner has the same connection to an item or place that the psicrystal does. For instance, if his psicrystal has seen a room, the owner can [[teleport]] into that room as if he has seen it too.
 
 *Deliver Touch Powers (Su):* If the owner is 3rd level or higher, his psicrystal can deliver touch powers for him. If the owner and psicrystal are in contact at the time the owner manifests a touch power, he can designate his psicrystal as the "toucher." The psicrystal can then deliver the touch power just as the owner could. As usual, if the owner manifests another power before the touch is delivered, the touch power dissipates.
 
@@ -425,7 +425,7 @@ At 9th level, a soulknife gains the ability to momentarily fragment his mind bla
 
 As a full attack, when wielding his mind blade, a soulknife can give up his regular attacks and instead fragment his mind blade to make one melee attack at his full base attack bonus against each opponent within reach. Each fragment functions identically to the soulknife's regular mind blade.
 
-When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as the Cleave feat or the *haste* spell).
+When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as the Cleave feat or the *[[haste]]* spell).
 
 The mind blade immediately reverts to its previous form after the bladewind attack.
 
@@ -463,7 +463,7 @@ The wilder's class skills (and the key ability for each skill) are Autohypnosis\
 |       |                   |           |          |           |                                   |                  |              |                           |
 |-------|-------------------|-----------|----------|-----------|-----------------------------------|------------------|--------------|---------------------------|
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                           | Power Points/Day | Powers Known | Maximum Power Level Known |
-| 1st   | +0                | +0        | +0       | +2        | Wild surge +1, psychic enervation | 2                | 1            | 1st                       |
+| 1st   | +0                | +0        | +0       | +2        | Wild surge +1, psychic [[enervation]] | 2                | 1            | 1st                       |
 | 2nd   | +1                | +0        | +0       | +3        | Elude touch                       | 6                | 2            | 1st                       |
 | 3rd   | +2                | +1        | +1       | +3        | Wild surge +2                     | 11               | 2            | 1st                       |
 | 4th   | +3                | +1        | +1       | +4        | Surging euphoria +1               | 17               | 3            | 2nd                       |
@@ -680,7 +680,7 @@ An elocater of 3rd level or higher can slip psionically between spaces as if usi
 An elocater of 4th level or higher can flank enemies from seemingly impossible angles. She can designate any adjacent square as the square from which flanking against an ally is determined (including the square where she stands, as normal). She can designate the square at the beginning of her turn or at any time during her turn. The designated square remains her effective square for flanking until she is no longer adjacent to it or until she chooses a different square (at the start of one of her turns). The character can even choose a square that is impassable or occupied.
 
 ### Transporter (Ex)
-At 6th level, an elocater learns both *psionic teleport* and *psionic plane shift*. These powers are in addition to any powers the elocater normally learns by advancing a level.
+At 6th level, an elocater learns both *psionic [[teleport]]* and *psionic plane shift*. These powers are in addition to any powers the elocater normally learns by advancing a level.
 
 The elocater treats these powers as if they were 3rd-level powers on her class list. This means, among other things, that manifesting these powers costs 5 power points. (If the character does not have a high enough manifester level to manifest 3rd-level powers the character cannot manifest these powers until she has attained the required manifester level.)
 
@@ -691,7 +691,7 @@ At 7th level, an elocater can take an extra 5-foot step in any round when she do
 An elocater of 9th level or higher can use her dimension step ability in conjunction with her Spring Attack feat once per day. This ability can be used only against opponents within 60 feet to which the elocater has line of sight. She can dimension step up to the target, use Spring Attack, and then use dimension step to return to her starting point. (When she uses this ability, the total distance she can travel before and after the attack is not limited by her speed.) The use of this ability counts as her use of the dimension step ability on that day (and this ability is not available during a day when she has already used dimension step).
 
 ### Accelerated Action (Su)
-When she attains 10th level, an elocater can accelerate herself and thereby take more actions than normal. An elocater can accelerate herself for a total of 5 rounds per day. She can choose to parcel out her accelerated actions in 1-round increments. (This effect is not cumulative with similar effects that provide additional actions, such as *schism* or a *haste* spell---and in fact an elocater can't take an accelerated action if affected by these or similar effects.)
+When she attains 10th level, an elocater can accelerate herself and thereby take more actions than normal. An elocater can accelerate herself for a total of 5 rounds per day. She can choose to parcel out her accelerated actions in 1-round increments. (This effect is not cumulative with similar effects that provide additional actions, such as *schism* or a *[[haste]]* spell---and in fact an elocater can't take an accelerated action if affected by these or similar effects.)
 
 If she makes a full attack while accelerated, an elocater can make one extra attack with any weapon she is holding. The attack is made using her full base attack bonus, plus any modifiers appropriate to the situation. If the elocater uses her accelerated action to move, she gains an enhancement bonus to her speed of +30 feet. The elocater can use her accelerated action to manifest a power, as long as she has not already manifested a power in the current round and the one she wants to manifest has a manifesting time of 1 standard action or shorter. While accelerated, she gains a +2 dodge bonus on attack rolls and Reflex saves and a +2 dodge bonus to Armor Class. Any condition that makes her lose her Dexterity bonus to Armor Class (if any) also makes her lose these dodge bonuses.
 
@@ -845,13 +845,13 @@ At 3rd level, a slayer becomes especially skilled at resisting mental attacks. S
 ### Cerebral Blind (Su)
 After reaching 6th level, a slayer is protected from all devices, powers, and spells that reveal location. This ability protects against information gathering by clairsentience powers or effects that reveal location.
 
-The ability even foils *bend reality, limited wish, miracle, reality revision,* and *wish* when they are used to gain information about the slayer's location (however, *metafaculty* can pierce this protective barrier). In the case of *remote viewing* or *scrying* that scans an area a slayer is in, the effect works, but the slayer simply isn't detected. *Remote viewing* or *scrying* attempts that are targeted specifically at a slayer do not work. This ability is active as long as the slayer is psionically focused.
+The ability even foils *bend reality, [[limited wish]], [[miracle]], reality revision,* and *[[wish]]* when they are used to gain information about the slayer's location (however, *metafaculty* can pierce this protective barrier). In the case of *remote viewing* or *[[scrying]]* that scans an area a slayer is in, the effect works, but the slayer simply isn't detected. *Remote viewing* or *[[scrying]]* attempts that are targeted specifically at a slayer do not work. This ability is active as long as the slayer is psionically focused.
 
 ### Breach Power Resistance (Su)
 A slayer of 8th level or higher can enhance her weapon with psionic might. Each successful melee attack (or ranged attack if the target is within 30 feet) she makes with her weapon against a creature with power resistance temporarily reduces its power resistance by 1. Unless the creature is slain, its lost power resistance returns all at once 12 hours later. This ability is active as long as the slayer is psionically focused.
 
 ### Cerebral Immunity (Su)
-On reaching 9th level, a slayer gains protection from all devices, powers, and spells that influence the mind. This ability shields her against almost all mind-affecting powers and effects (though the slayer can selectively allow powers or spells to affect her). The ability even foils *bend reality*, *limited wish*, *miracle, reality revision*, and *wish* when they are used to mentally influence a slayer. This ability is active as long as the slayer is psionically focused.
+On reaching 9th level, a slayer gains protection from all devices, powers, and spells that influence the mind. This ability shields her against almost all mind-affecting powers and effects (though the slayer can selectively allow powers or spells to affect her). The ability even foils *bend reality*, *[[limited wish]]*, *[[miracle]], reality revision*, and *[[wish]]* when they are used to mentally influence a slayer. This ability is active as long as the slayer is psionically focused.
 
 ### Blast Feedback (Su)
 At 10th level, if a slayer makes her saving throw when attacked with *mind blast,* the *mind blast* rebounds upon the attacker. Only the original attacker is targeted in the rebound effect. If the original attacker fails a Will saving throw (DC equal to that of the original attack), the attacker is affected normally by the *mind blast.*
@@ -1317,5 +1317,8 @@ The war mind taps into this underlying energy and apply it to a single attack, d
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

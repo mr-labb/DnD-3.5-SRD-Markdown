@@ -1,5 +1,6 @@
 ---
-aliases: [Bluff]
+aliases:
+ - Bluff
 title: Compendium/Basics/skills/Bluff
 tags: skill
 ---
@@ -12,11 +13,11 @@ A Bluff check is opposed by the target's [[Sense Motive]] check. See the accompa
 |The bluff is believable and doesn't affect the target much.  <br>"I don't know what you're talking about, sir. I'm just a simple peasant girl here for the fair."|+0|
 |The bluff is a little hard to believe or puts the target at some risk.  <br>"You orcs want to fight? I'll take you all on myself. I don't need my friends' help. Just don't get your  <br>blood all over my new surcoat."|+5|
 |The bluff is hard to believe or puts the target at significant risk.  <br>"This diadem doesn't belong to the duchess. It just looks like hers. Trust me, I wouldn't sell you  <br>jewelry that would get you hanged, would I?"|+10|
-|The bluff is way out there, almost too incredible to consider.  <br>"You might find this hard to believe, but I'm actually a lammasu who's been polymorphed into halfling  <br>form by an evil sorcerer. You know we lammasu are trustworthy, so you can believe me."|+20|
+|The bluff is way out there, almost too incredible to consider.  <br>"You might find this hard to believe, but I'm actually a [[lammasu]] who's been polymorphed into halfling  <br>form by an evil sorcerer. You know we [[lammasu]] are trustworthy, so you can believe me."|+20|
 
 Favorable and unfavorable circumstances weigh heavily on the outcome of a bluff. Two circumstances can weigh against you: The bluff is hard to believe, or the action that the target is asked to take goes against its self-interest, nature, personality, orders, or the like. If it's important, you can distinguish between a bluff that fails because the target doesn't believe it and one that fails because it just asks too much of the target. For instance, if the target gets a +10 bonus on its Sense Motive check because the bluff demands something risky, and the Sense Motive check succeeds by 10 or less, then the target didn't so much see through the bluff as prove reluctant to go along with it. A target that succeeds by 11 or more has seen through the bluff.
 
-A successful Bluff check indicates that the target reacts as you wish, at least for a short time (usually 1 round or less) or believes something that you want it to believe. Bluff, however, is not a suggestion spell.
+A successful Bluff check indicates that the target reacts as you [[wish]], at least for a short time (usually 1 round or less) or believes something that you want it to believe. Bluff, however, is not a suggestion spell.
 
 A bluff requires interaction between you and the target. Creatures unaware of you cannot be bluffed.
 
@@ -34,7 +35,7 @@ You can substitute Dexterity for Charisma when making Bluff checks to deliver a 
 
 _Tail Someone_: If you fail a Hide check while tailing someone, you can attempt a Bluff check opposed by your quarry's Sense Motive check to look innocuous. See the Hide skill, later in this section, for details.
 
-_Heckling a Performer_: Heckling involves making a Bluff check opposed by the target's Concentration check. More than one person can aid a heckler, using the aid another action, by making a DC 10 Bluff check.
+_Heckling a Performer_: Heckling involves making a Bluff check opposed by the target's Concentration check. More than one person can [[aid]] a heckler, using the [[aid]] another action, by making a DC 10 Bluff check.
 
 If you succeed, the performer is distracted by your abuse and taunts, and he must make an immediate Perform check with a -2 penalty. For every 5 points by which your Bluff check exceeds the performer's Concentration check, the penalty worsens by an additional 2. (So a Bluff check that beats the Concentration check by 11 results in a -6 penalty.) This new Perform check is required even if the performer has already made one or more successful checks during the same performance, and the result of the new Perform check replaces any previous result.
 
@@ -60,7 +61,7 @@ _Instill Suggestion in Target:_ If you beat the target's Sense Motive check by 5
 
 _Display False Alignment:_ With a DC 70 Bluff check, you can fool alignment-sensing effects by displaying a false alignment of your choice. Once set, a false alignment remains as long as you remain conscious and awake. Setting or changing a false alignment requires a full-round action.
 
-_Disguise Surface Thoughts:_ With a DC 100 Bluff check, you can fool spells such as detect thoughts (or similar effects) by displaying false surface thoughts. While you can't completely mask the presence of your thoughts, you can change your apparent Intelligence score (and thus your apparent mental strength) by as much as 10 points and can place any thought in your “surface thoughts” to be read by such spells or effects. If someone attempts to use Sense Motive to detect your surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails).
+_Disguise Surface Thoughts:_ With a DC 100 Bluff check, you can fool spells such as [[detect thoughts]] (or similar effects) by displaying false surface thoughts. While you can't completely mask the presence of your thoughts, you can change your apparent Intelligence score (and thus your apparent mental strength) by as much as 10 points and can place any thought in your “surface thoughts” to be read by such spells or effects. If someone attempts to use Sense Motive to detect your surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails).
 
 ### Action: 
 Varies. A Bluff check made as part of general interaction always takes at least 1 round (and is at least a full-round action), but it can take much longer if you try something elaborate. A Bluff check made to feint in combat or create a diversion to hide is a standard action. A Bluff check made to deliver a secret message doesn't take an action; it is part of normal communication. An attempt to heckle takes 1 minute.
@@ -79,5 +80,4 @@ If you have 5 or more ranks in Bluff, you get a +2 bonus on [[Diplomacy]], [[Int
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

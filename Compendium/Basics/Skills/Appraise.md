@@ -1,5 +1,6 @@
 ---
-aliases: [Appraise]
+aliases:
+ - Appraise
 title: Compendium/Basics/skills/Appraise
 tags: skill
 ---
@@ -27,7 +28,7 @@ _Fast Appraise_: You can appraise an item quickly, but the DC is higher (see tab
 
 _Identify Dwarven Craftwork_: You can tell whether an item is dwarvencraft or of dwarven manufacture or by making a successful DC 10 Appraise check.
 
-_Detect Magic_: With a DC 50 Appraise check, you can sense if an item has a magical aura. You can then use Spellcraft to learn more about the item as if you have already cast detect magic on the item. This requires a full-round action.
+_[[Detect Magic]]_: With a DC 50 Appraise check, you can sense if an item has a magical aura. You can then use Spellcraft to learn more about the item as if you have already cast [[detect magic]] on the item. This requires a full-round action.
 
 ### Action
 Appraising an item takes 1 minute (ten consecutive
@@ -42,7 +43,7 @@ A dwarf gets a +2 racial bonus on Appraise checks that are
 related to stone or metal items because dwarves are familiar with
 valuable items of all kinds (especially those made of stone or metal).
 
-The master of a raven familiar gains a +3 bonus on Appraise checks.
+The master of a [[raven]] familiar gains a +3 bonus on Appraise checks.
 
 A character with the Diligent feat gets a +2 bonus on Appraise checks.
 
@@ -57,5 +58,4 @@ estimate. For rare items, success means an estimate of 50% to 150%
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

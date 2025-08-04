@@ -1,5 +1,6 @@
 ---
-aliases: [Chill Metal]
+aliases:
+ - Chill Metal
 title: Compendium/Basics/Spell/Chill Metal
 tags: 
   - 35E_SRD
@@ -60,9 +61,13 @@ The spell chills selected metal, dealing cold damage to creatures in contact wit
 
 - *Chill Metal* **counters and dispels** [[Heat Metal]]
 
-Source : PHB P209
+**Source :** PHB P209
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

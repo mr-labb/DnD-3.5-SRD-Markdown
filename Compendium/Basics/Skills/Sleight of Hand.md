@@ -1,5 +1,6 @@
 ---
-aliases: [Sleight of Hand]
+aliases:
+ - Sleight of Hand
 title: Compendium/Basics/skills/Sleight of Hand
 tags: skill
 ---
@@ -74,5 +75,4 @@ body.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

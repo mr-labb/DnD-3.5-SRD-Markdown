@@ -1,5 +1,6 @@
 ---
-aliases: [Consecrate]
+aliases:
+ - Consecrate
 title: Compendium/Basics/Spell/Consecrate
 tags:
   - 35E_SRD
@@ -34,13 +35,17 @@ If the _consecrated_ area contains an altar, shrine, or other permanent fixtur
 
 If the area does contain an altar, shrine, or other permanent fixture of a deity, pantheon, or higher power other than your patron, the _consecrate_ spell instead curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
-_Consecrate_ counters and dispels _desecrate_.
+_Consecrate_ counters and dispels _[[desecrate]]_.
 
 _Material Component:_ A vial of holy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.
 
-Source : PHB P212
+**Source :** PHB P212
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

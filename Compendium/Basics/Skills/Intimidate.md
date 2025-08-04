@@ -1,5 +1,6 @@
 ---
-aliases: [Intimidate]
+aliases:
+ - Intimidate
 title: Compendium/Basics/skills/Intimidate
 tags: skill
 ---
@@ -15,7 +16,7 @@ purpose of actions taken while it remains intimidated. (That is, the
 target retains its normal attitude, but will chat, advise, offer limited
 help, or advocate on your behalf while intimidated. See the Diplomacy
 skill, above, for additional details.) The effect lasts as long as the
-target remains in your presence, and for 1d6×10 minutes afterward. After
+target remains in your presence, and for 1d6Ã—10 minutes afterward. After
 this time, the target's default attitude toward you shifts to unfriendly
 (or, if normally unfriendly, to hostile).
 
@@ -58,5 +59,4 @@ Intimidate checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

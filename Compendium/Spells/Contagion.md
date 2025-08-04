@@ -1,5 +1,6 @@
 ---
-aliases: [Contagion]
+aliases:
+ - Contagion
 title: Compendium/Basics/Spell/Contagion
 tags:
   - 35E_SRD
@@ -50,9 +51,13 @@ The subject contracts a disease selected from the table below. It **strikes imme
 
 \* For **Blinding Sickness**, each time the target takes 2 or more Strength damage, it must make another **Fortitude save** (DC 16) or become **permanently blinded**.
 
-Source : PHB P213
+**Source :** PHB P213
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

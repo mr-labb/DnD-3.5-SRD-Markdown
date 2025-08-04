@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Babau]
+aliases:
+ - Demon
+ - Babau
 title: Bestiary/MM1/Demon, Babau
 tags: [35E_SRD, Monster]
 Monster: Demon, Babau

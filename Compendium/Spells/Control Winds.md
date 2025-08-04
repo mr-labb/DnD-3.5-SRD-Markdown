@@ -1,5 +1,6 @@
 ---
-aliases: [Control Winds]
+aliases:
+ - Control Winds
 title: Compendium/Basics/Spell/Control Winds
 tags:
   - 35E_SRD
@@ -39,7 +40,7 @@ Choose one of four wind patterns:
 - **Rotation:** Creates circular wind around the center (clockwise or counterclockwise)
 - **Blast:** Pushes wind across the entire area in one direction
 
-Optional: You may create a central "eye" of calm air (up to 80 ft. in diameter) or reduce the area’s size.
+Optional: You may create a central "eye" of calm air (up to 80 ft. in diameter) or reduce the areaâ€™s size.
 
 ###  Wind Strength
 
@@ -56,9 +57,13 @@ Wind levels and effects:
 | 75+ mph (Hurricane)| Destroys wooden buildings, foundering ships           |
 | 175+ mph (Tornado)| Uproots large trees, destroys nonfortified buildings   |
 
-Source : PHB P214
+**Source :** PHB P214
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

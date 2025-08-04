@@ -1,5 +1,6 @@
 ---
-aliases: [Animal Shapes]
+aliases:
+ - Animal Shapes
 title: Compendium/Basics/Spell/Animal Shapes
 tags: 
   - 35E_SRD
@@ -29,11 +30,15 @@ One ally/level polymorphs into chosen animal.
 *   **Saving Throw:** None; see text
 *   **Spell Resistance:** Yes (harmless)
 
-As *polymorph*, except you polymorph up to one willing creature per caster level into an animal of your choice; the spell has no effect on unwilling creatures. All creatures must take the same kind of animal form. Recipients remain in the animal form until the spell expires or until you dismiss it for all recipients. In addition, an individual subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject alone. The maximum HD of an assumed form is equal to the subject's HD or your caster level, whichever is lower, to a maximum of 20 HD at 20th level.
+As *[[Compendium/Spells/Polymorph|polymorph]]*, except you [[Compendium/Spells/Polymorph|polymorph]] up to one willing creature per caster level into an animal of your choice; the spell has no effect on unwilling creatures. All creatures must take the same kind of animal form. Recipients remain in the animal form until the spell expires or until you dismiss it for all recipients. In addition, an individual subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject alone. The maximum HD of an assumed form is equal to the subject's HD or your caster level, whichever is lower, to a maximum of 20 HD at 20th level.
 
-Source : PHB P198
+**Source :** PHB P198
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

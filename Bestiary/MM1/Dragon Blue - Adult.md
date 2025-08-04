@@ -1,5 +1,7 @@
 ---
-aliases: [Dragon, Blue - Adult]
+aliases:
+ - Dragon
+ - Blue - Adult
 title: Bestiary/MM1/Dragon, Blue - Adult
 tags: [35E_SRD, Monster]
 Monster: Dragon, Blue - Adult

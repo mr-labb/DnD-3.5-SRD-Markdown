@@ -1,5 +1,6 @@
 ---
-aliases: [Dismissal]
+aliases:
+ - Dismissal
 title: Compendium/Basics/Spell/Dismissal
 tags:
   - 35E_SRD
@@ -43,9 +44,13 @@ This spell forces an **extraplanar creature** to return to its native plane. The
 - There is a **20% chance** the creature is mistakenly sent to a **different plane** altogether
 
 
-**Source:** PHB P222
+**Source :** PHB P222
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

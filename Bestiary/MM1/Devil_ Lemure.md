@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Lemure]
+aliases:
+ - Devil
+ - Lemure
 title: Bestiary/MM1/Devil, Lemure
 tags: [35E_SRD, Monster]
 Monster: Devil, Lemure

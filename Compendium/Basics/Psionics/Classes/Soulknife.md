@@ -137,7 +137,7 @@ At 9th level, a soulknife gains the ability to momentarily fragment his mind bla
 
 As a full attack, when wielding his mind blade, a soulknife can give up his regular attacks and instead fragment his mind blade to make one melee attack at his full base attack bonus against each opponent within reach. Each fragment functions identically to the soulknife's regular mind blade.
 
-When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as the Cleave feat or the *haste* spell).
+When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as the Cleave feat or the *[[haste]]* spell).
 
 The mind blade immediately reverts to its previous form after the bladewind attack.
 
@@ -155,5 +155,8 @@ At 17th level and higher, a soulknife can throw a number of mind blades per roun
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Commune]
+aliases:
+ - Commune
 title: Compendium/Basics/Spell/Commune
 tags:
   - 35E_SRD
@@ -42,9 +43,13 @@ Entities contacted generally structure answers to align with their **own purpose
 **Material Component:** Holy (or unholy) water and incense  
 **XP Cost:** 100 XP
 
-Source : PHB P211
+**Source :** PHB P211
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

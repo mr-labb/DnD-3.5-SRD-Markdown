@@ -1,5 +1,7 @@
 ---
-aliases: [Archon, Lantern]
+aliases:
+ - Archon
+ - Lantern
 title: Bestiary/MM1/Archon, Lantern
 tags: [35E_SRD, Monster]
 Monster: Archon, Lantern

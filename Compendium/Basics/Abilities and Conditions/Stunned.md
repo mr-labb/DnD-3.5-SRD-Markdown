@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Stunned]
+aliases:
+ - Stunned
 title: Compendium\Basics\Abilities and Conditions\Stunned
 tag: Conditions
 ---
@@ -8,13 +9,11 @@ tag: Conditions
 ---
 ##### Stunned
 
-A stunned creature drops everything held, can’t take actions, takes a –2 penalty to AC, and loses his Dexterity bonus to AC (if any).
+A stunned creature drops everything held, canâ€™t take actions, takes a â€“2 penalty to AC, and loses his Dexterity bonus to AC (if any).
 
-**If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
+**If more than one condition affects a character, apply them all. If certain effects canâ€™t combine, apply the most severe effect.
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

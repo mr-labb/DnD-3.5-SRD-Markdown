@@ -1,5 +1,7 @@
 ---
-aliases: [Merfolk, 1st-Level Warrior]
+aliases:
+ - Merfolk
+ - 1st-Level Warrior
 title: Bestiary/MM1/Merfolk, 1st-Level Warrior
 tags: [35E_SRD, Monster]
 Monster: Merfolk, 1st-Level Warrior

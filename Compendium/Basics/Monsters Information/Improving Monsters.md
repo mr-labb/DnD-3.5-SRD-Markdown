@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Improving Monsters
 tag: Monster
 ---
@@ -245,7 +246,4 @@ Make sure to “scale” your evaluation of these abilities by the monster’s c
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

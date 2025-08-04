@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Glabrezu]
+aliases:
+ - Demon
+ - Glabrezu
 title: Bestiary/MM1/Demon, Glabrezu
 tags: [35E_SRD, Monster]
 Monster: Demon, Glabrezu

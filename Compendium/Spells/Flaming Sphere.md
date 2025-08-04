@@ -1,39 +1,63 @@
 ---
-aliases: [Flaming Sphere]
+aliases:
+ - Flaming Sphere
 title: Compendium/Basics/Spell/Flaming Sphere
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Druid]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Sorcerer  
+  - Wizard  
+  - Druid  
 Spell Name: Flaming Sphere
 School: Evocation
 Subschool: 
 Descriptor: [Fire]
-Level:
-  - Drd 2
-  - Sor/Wiz 2
+Level:  
+  - Drd 2  
+  - Sor/Wiz 2  
 Source: PHB
 ---
-
 
 ## Flaming Sphere
 
 Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.
 
-*   Evocation [Fire]
-*   **Level:** Drd 2, Sor/Wiz 2
-*   **Components:** V, S, M/DF
-*   **Casting Time:** 1 standard action
-*   **Range:** Medium (100 ft. + 10 ft./level)
-*   **Effect:** 5-ft.-diameter sphere
-*   **Duration:** 1 round/level
-*   **Saving Throw:** Reflex negates
-*   **Spell Resistance:** Yes
+### Spell Details
 
-<p>A burning globe of fire rolls in whichever direction you point and burns those it strikes. It moves 30 feet per round. As part of this movement, it can ascend or jump up to 30 feet to strike a target. If it enters a space with a creature, it stops moving for the round and deals 2d6 points of fire damage to that creature, though a successful Reflex save negates that damage. A <i>flaming sphere</i> rolls over barriers less than 4 feet tall. It ignites flammable substances it touches and illuminates the same area as a torch would.</p><p>The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest and burns. It can be extinguished by any means that would put out a normal fire of its size. The surface of the sphere has a spongy, yielding consistency and so does not cause damage except by its flame. It cannot push aside unwilling creatures or batter down large obstacles. A <i>flaming sphere</i> winks out if it exceeds the spell's range.</p><p><i>Arcane Material Component:</i> A bit of tallow, a pinch of brimstone, and a dusting of powdered iron.</p>
+- **School:** Evocation [Fire]  
+- **Level:** Drd 2, Sor/Wiz 2  
+- **Components:** V, S, M/DF  
+- **Casting Time:** 1 standard action  
+- **Range:** Medium (100 ft. + 10 ft./level)  
+- **Effect:** 5-ft.-diameter sphere  
+- **Duration:** 1 round/level  
+- **Saving Throw:** Reflex negates  
+- **Spell Resistance:** Yes  
 
-Source : PHB P232
+### Description
+
+A burning globe of fire rolls in whichever direction you point and burns those it strikes. It moves **30 feet per round**, and can ascend or leap up to **30 feet** to hit a target. If the sphere enters a space occupied by a creature, it stops and deals **2d6 points of fire damage**. A successful Reflex save **negates** the damage.
+
+A Flaming Sphere can roll over barriers less than **4 feet tall**, ignite flammable materials it touches, and emits light like a torch. 
+
+You must use a **move action** each round to actively direct the sphere; otherwise, it remains stationary. It can be extinguished by any standard method appropriate to its size. The sphere is **spongy and intangible**, dealing damage only through its flames. It can't push creatures or destroy large objects.
+
+The spell ends if the sphere moves **beyond its range**.
+
+### Arcane Material Component
+
+- A bit of **tallow**,  
+- A pinch of **brimstone**,  
+- A dusting of **powdered iron**
+
+
+**Source :** PHB P232
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

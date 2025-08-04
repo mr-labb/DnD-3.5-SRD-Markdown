@@ -211,16 +211,16 @@ Wyrmling +3; very young +3; young +3; juvenile +4; others ---
 
 |Age|Speed|Initiative|Armor Class|Special Abilities|Caster Level|SR|
 |---|---|---|---|---|---|---|
-|Wyrmling|60 ft., fly 100 ft. (average), swim 60 ft.|+0|15 (+2 size,+3 natural), touch 12, flat-footed 15|Immunity to acid, water breathing|-|-|
+|Wyrmling|60 ft., fly 100 ft. (average), swim 60 ft.|+0|15 (+2 size,+3 natural), touch 12, flat-footed 15|Immunity to acid, [[water breathing]]|-|-|
 |Very young|60 ft., fly 100 ft. (average), swim 60 ft.|+0|17 (+1 size,+6 natural), touch 11, flat-footed 17||-|-|
 |Young|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|19 (+9 natural), touch 10, flat-footed 19||-|-|
-|Juvenile|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|22 (+12 natural), touch 10, flat-footed 22|Darkness|-|-|
+|Juvenile|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|22 (+12 natural), touch 10, flat-footed 22|[[Darkness]]|-|-|
 |Young adult|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|24 (-1 size,+15 natural), touch 9, flat-footed 24|DR 5/magic|1st|17|
 |Adult|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|27 (-1 size,+18 natural), touch 9, flat-footed 27|Corrupt water|3rd|18|
 |Mature adult|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|29 (-2 size,+21 natural), touch 8, flat-footed 29|DR 10/magic|5th|21|
-|Old|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|32 (-2 size,+24 natural), touch 8, flat-footed 32|Plant growth|7th|22|
+|Old|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|32 (-2 size,+24 natural), touch 8, flat-footed 32|[[Plant growth]]|7th|22|
 |Very old|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|35 (-2 size,+27 natural), touch 8, flat-footed 35|DR 15/magic|9th|23|
-|Ancient|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|38 (-2 size,+30 natural), touch 8, flat-footed 38|Insect plague|11th|25|
+|Ancient|60 ft., fly 150 ft. (poor), swim 60 ft.|+0|38 (-2 size,+30 natural), touch 8, flat-footed 38|[[Insect plague]]|11th|25|
 |Wyrm|60 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|39 (-4 size,+33 natural), touch 6, flat-footed 39|DR 20/magic|13th|26|
 |Great wyrm|60 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|42 (-4 size,+36 natural), touch 6, flat-footed 42|Charm reptiles|15th|28|
 
@@ -246,12 +246,12 @@ Once per day an adult or older black dragon can stagnate 10 cubic feet of water,
 
 ##### _Charm Reptiles_ (Sp)
 
-A great wyrm black dragon can use this ability three times per day. It works as a _mass charm_ spell that affects only reptilian animals. The dragon can communicate with any charmed reptiles as though casting a _speak with animals_ spell. This ability is the equivalent of a 1st-level spell.
+A great wyrm black dragon can use this ability three times per day. It works as a _mass charm_ spell that affects only reptilian animals. The dragon can communicate with any charmed reptiles as though casting a _[[speak with animals]]_ spell. This ability is the equivalent of a 1st-level spell.
 
 ##### Other Spell-Like Abilities
 
-- **1/day:** [Plant Growth](app://obsidian.md/3.5%20Spell%20List#Plant%20Growth) (old Or Older);
-- **3/day:** [Darkness](app://obsidian.md/3.5%20Spell%20List#Darkness) (juvenile Or Older;
+- **1/day:** [[Plant Growth]] (old Or Older);
+- **3/day:** [[Darkness]] (juvenile Or Older;
 
 ##### Skills
 
@@ -315,13 +315,13 @@ Wyrmling +4; very young +4; young +5; others ---
 |Young|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|21 (+11 natural), touch 10, flat-footed 21||-|-|
 |Juvenile|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|23 (-1 size, +14 natural), touch 9, flat-footed 23|Sound imitation|1st|-|
 |Young adult|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|26 (-1 size, +17 natural), touch 9, flat-footed 26|DR 5/magic|3rd|19|
-|Adult|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|28 (-2 size, +20 natural), touch 8, flat-footed 28|Ventriloquism|5th|21|
+|Adult|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|28 (-2 size, +20 natural), touch 8, flat-footed 28|[[Ventriloquism]]|5th|21|
 |Mature adult|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|31 (-2 size, +23 natural), touch 8, flat-footed 31|DR 10/magic|7th|22|
-|Old|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|34 (-2 size, +26 natural), touch 8, flat-footed 34|Hallucinatory terrain|9th|24|
+|Old|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|34 (-2 size, +26 natural), touch 8, flat-footed 34|[[Hallucinatory terrain]]|9th|24|
 |Very old|40 ft., burrow 20 ft., fly 150 ft. (poor)|+0|37 (-2 size, +29 natural), touch 8, flat-footed 37|DR 15/magic|11th|25|
-|Ancient|40 ft., burrow 20 ft., fly 200 ft. (clumsy)|+0|38 (-4 size, +32 natural), touch 6, flat-footed 38|Veil|13th|27|
+|Ancient|40 ft., burrow 20 ft., fly 200 ft. (clumsy)|+0|38 (-4 size, +32 natural), touch 6, flat-footed 38|[[Veil]]|13th|27|
 |Wyrm|40 ft., burrow 20 ft., fly 200 ft. (clumsy)|+0|41 (-4 size, +35 natural), touch 6, flat-footed 41|DR 20/magic|15th|29|
-|Great wyrm|40 ft., burrow 20 ft., fly 200 ft. (clumsy)|+0|44 (-4 size, +38 natural), touch 6, flat-footed 44|Mirage arcana|17th|31|
+|Great wyrm|40 ft., burrow 20 ft., fly 200 ft. (clumsy)|+0|44 (-4 size, +38 natural), touch 6, flat-footed 44|[[Mirage arcana]]|17th|31|
 |* Can also cast cleric spells and those from the Air, Evil, and Law domains as arcane spells.|||||||
 
 A blue dragon's scales vary in color from an iridescent azure to a deep indigo, polished to a glossy finish by blowing desert sands. The size of its scales increases little as the dragon ages, although they do become thicker and harder. Its hide tends to hum and crackle faintly with built-up static electricity. These effects intensify when the dragon is angry or about to attack, giving off an odor of ozone and sand. Their vibrant color makes blue dragons easy to spot in barren desert surroundings. However, they often burrow into the sand so only part of their heads are exposed.
@@ -332,7 +332,7 @@ Blue dragons lair in vast underground caverns, where they also store their treas
 
 #### Combat
 
-Typically, blue dragons attack from above or burrow beneath the sands until opponents come within 100 feet. Older dragons use their special abilities, such as _hallucinatory terrain_, in concert with these tactics to mask the land and improve their chances to surprise the target. Blue dragons run from a fight only if they are severely damaged, since they view retreat as cowardly.
+Typically, blue dragons attack from above or burrow beneath the sands until opponents come within 100 feet. Older dragons use their special abilities, such as _[[hallucinatory terrain]]_, in concert with these tactics to mask the land and improve their chances to surprise the target. Blue dragons run from a fight only if they are severely damaged, since they view retreat as cowardly.
 
 #### Breath Weapon (Su)
 
@@ -340,7 +340,7 @@ A blue dragon has one type of breath weapon, a line of lightning.
 
 #### _Create/Destroy Water_ (Sp)
 
-A blue dragon of any age can use this ability three times per day. It works like the _create water_ spell, except that the dragon can decide to destroy water instead of creating it, which automatically spoils unattended liquids containing water. Magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC equal to that of the dragon's frightful presence) or be ruined. This ability is the equivalent of a 1st-level spell.
+A blue dragon of any age can use this ability three times per day. It works like the _[[create water]]_ spell, except that the dragon can decide to destroy water instead of creating it, which automatically spoils unattended liquids containing water. Magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC equal to that of the dragon's frightful presence) or be ruined. This ability is the equivalent of a 1st-level spell.
 
 #### Sound Imitation (Ex)
 
@@ -348,8 +348,8 @@ A juvenile or older blue dragon can mimic any voice or sound it has heard, anyti
 
 #### Other Spell-Like Abilities
 
-- **1/day:** [Hallucinatory Terrain](app://obsidian.md/3.5%20Spell%20List#Hallucinatory%20Terrain) (old Or Older), [Veil](app://obsidian.md/3.5%20Spell%20List#Veil) (ancient Or Older), [Mirage Arcana](app://obsidian.md/3.5%20Spell%20List#Mirage%20Arcana) (great Wyrm);
-- **3/day:** [Ventriloquism](app://obsidian.md/3.5%20Spell%20List#Ventriloquism) (adult Or Older);
+- **1/day:** [[Hallucinatory Terrain]] (old Or Older), [[Veil]](ancient Or Older), [[Mirage Arcana]] (great Wyrm);
+- **3/day:** [[Ventriloquism]] (adult Or Older);
 
 #### Skills
 
@@ -408,18 +408,18 @@ Wyrmling +5; very young +5; young +5; juvenile +6; others ---
 
 |Age|Speed|Initiative|Armor Class|Special Abilities|Caster Level|SR|
 |---|---|---|---|---|---|---|
-|Wyrmling|40 ft., fly 100 ft. (average), swim 40 ft|+0|15 (+1 size, +4 natural), touch 11, flat-footed 15|Immunity to acid, water breathing|-|-|
+|Wyrmling|40 ft., fly 100 ft. (average), swim 40 ft|+0|15 (+1 size, +4 natural), touch 11, flat-footed 15|Immunity to acid, [[water breathing]]|-|-|
 |Very young|40 ft., fly 150 ft. (poor), swim 40 ft|+0|17 (+7 natural), touch 10, flat-footed 17||-|-|
 |Young|40 ft., fly 150 ft. (poor), swim 40 ft|+0|20 (+10 natural), touch 10, flat-footed 20||-|-|
 |Juvenile|40 ft., fly 150 ft. (poor), swim 40 ft|+0|22 (-1 size, +13 natural), touch 9, flat-footed 22||1st|-|
 |Young adult|40 ft., fly 150 ft. (poor), swim 40 ft|+0|25 (-1 size, +16 natural), touch 9, flat-footed 25|DR 5/magic|3rd|19|
 |Adult|40 ft., fly 150 ft. (poor), swim 40 ft|+0|27 (-2 size, +19 natural), touch 8, flat-footed 27|Suggestion|5th|21|
 |Mature adult|40 ft., fly 150 ft. (poor), swim 40 ft|+0|30 (-2 size, +22 natural), touch 8, flat-footed 30|DR 10/magic|7th|22|
-|Old|40 ft., fly 150 ft. (poor), swim 40 ft|+0|33 (-2 size, +25 natural), touch 8, flat-footed 33|Plant growth|9th|24|
+|Old|40 ft., fly 150 ft. (poor), swim 40 ft|+0|33 (-2 size, +25 natural), touch 8, flat-footed 33|[[Plant growth]]|9th|24|
 |Very old|40 ft., fly 150 ft. (poor), swim 40 ft|+0|36 (-2 size, +28 natural), touch 8, flat-footed 36|DR 15/magic|11th|25|
-|Ancient|40 ft., fly 200 ft. (clumsy), swim 40 ft|+0|37 (-4 size, +31 natural), touch 6, flat-footed 37|Dominate person|13th|27|
+|Ancient|40 ft., fly 200 ft. (clumsy), swim 40 ft|+0|37 (-4 size, +31 natural), touch 6, flat-footed 37|[[Dominate person]]|13th|27|
 |Wyrm|40 ft., fly 200 ft. (clumsy), swim 40 ft|+0|40 (-4 size, +34 natural), touch 6, flat-footed 40|DR 20/magic|15th|28|
-|Great wyrm|40 ft., fly 200 ft. (clumsy), swim 40 ft|+0|43 (-4 size, +37 natural), touch 6, flat-footed 43|Command plants|17th|30|
+|Great wyrm|40 ft., fly 200 ft. (clumsy), swim 40 ft|+0|43 (-4 size, +37 natural), touch 6, flat-footed 43|[[Command plants]]|17th|30|
 
 A wyrmling green dragon's scales are thin, very small, and a deep shade of green that appears nearly black. As the dragon ages, the scales grow larger and lighter, turning shades of forest, emerald, and olive green, which helps it blend in with its wooded surroundings.
 
@@ -439,8 +439,8 @@ A green dragon can breathe underwater indefinitely and can freely use its breath
 
 #### Spell-Like Abilities
 
-- **1/day:** [Plant Growth](app://obsidian.md/3.5%20Spell%20List#Plant%20Growth) (old Or Older), [Command Plants](app://obsidian.md/3.5%20Spell%20List#Command%20Plants) (great Wyrm);
-- **3/day:** [Suggestion](app://obsidian.md/3.5%20Spell%20List#Suggestion) (adult Or Older), [Dominate Person](app://obsidian.md/3.5%20Spell%20List#Dominate%20Person) (ancient Or Older);
+- **1/day:** [[Plant Growth]] (old Or Older), [[Command Plants]] (great Wyrm);
+- **3/day:** [[Suggestion]] (adult Or Older), [[Dominate Person]] (ancient Or Older);
 
 #### Skills
 
@@ -502,15 +502,15 @@ Wyrmling +4; very young +5; young +6; others ---
 |Wyrmling|40 ft., fly 150 ft. (poor)|+0|16 (+6 natural), touch 10, flat-footed 16|Immunity to fire, vulnerability to cold|-|-|
 |Very young|40 ft., fly 150 ft. (poor)|+0|18 (-1 size, +9 natural), touch 9, flat-footed 18||-|-|
 |Young|40 ft., fly 150 ft. (poor)|+0|21 (-1 size, +12 natural), touch 9, flat-footed 21||1st|-|
-|Juvenile|40 ft., fly 150 ft. (poor)|+0|24 (-1 size, +15 natural), touch 9, flat-footed 24|Locate object|3rd|-|
+|Juvenile|40 ft., fly 150 ft. (poor)|+0|24 (-1 size, +15 natural), touch 9, flat-footed 24|[[Locate object]]|3rd|-|
 |Young adult|40 ft., fly 150 ft. (poor)|+0|26 (-2 size, +18 natural), touch 8, flat-footed 26|DR 5/magic|5th|19|
 |Adult|40 ft., fly 150 ft. (poor)|+0|29 (-2 size, +21 natural), touch 8, flat-footed 29||7th|21|
 |Mature adult|40 ft., fly 150 ft. (poor)|+0|32 (-2 size, +24 natural), touch 8, flat-footed 32|DR 10/magic|9th|23|
 |Old|40 ft., fly 200 ft. (clumsy)|+0|33 (-4 size, +27 natural), touch 6, flat-footed 33|Suggestion|11th|24|
 |Very old|40 ft., fly 200 ft. (clumsy)|+0|36 (-4 size, +30 natural), touch 6, flat-footed 36|DR 15/magic|13th|26|
-|Ancient|40 ft., fly 200 ft. (clumsy)|+0|39 (-4 size, +33 natural), touch 6, flat-footed 39|Find the path|15th|28|
+|Ancient|40 ft., fly 200 ft. (clumsy)|+0|39 (-4 size, +33 natural), touch 6, flat-footed 39|[[Find the path]]|15th|28|
 |Wyrm|40 ft., fly 200 ft. (clumsy)|+0|42 (-4 size, +36 natural), touch 6, flat-footed 42|DR 20/magic|17th|30|
-|Great wyrm|40 ft., fly 200 ft. (clumsy)|+0|41 (-8 size, +39 natural), touch 2, flat-footed 41|Discern location|19th|32|
+|Great wyrm|40 ft., fly 200 ft. (clumsy)|+0|41 (-8 size, +39 natural), touch 2, flat-footed 41|[[Discern location]]|19th|32|
 |* Can also cast cleric spells and those from the Chaos, Evil, and Fire domains as arcane spells.|||||||
 
 The small scales of a wyrmling red dragon are a bright glossy scarlet, making the dragon easily spotted by predators and hunters, so it stays underground and does not venture outside until it is more able to take care of itself. Toward the end of young age, the scales turn a deeper red, and the glossy texture is replaced by a smooth, dull finish. As the dragon grows older, the scales become large, thick, and as strong as metal. The neck frill and wings are an ash blue or purple-gray toward the edges, becoming darker with age. The pupils of a red dragon fade as it ages; the oldest red dragons have eyes that resemble molten lava orbs.
@@ -529,8 +529,8 @@ A juvenile or older red dragon can use this ability as the spell of the same nam
 
 #### Other Spell-Like Abilities
 
-- **1/day:** [Find The Path](app://obsidian.md/3.5%20Spell%20List#Find%20The%20Path) (ancient Or Older), [Discern Location](app://obsidian.md/3.5%20Spell%20List#Discern%20Location) (great Wyrm);
-- **3/day:** [Suggestion](app://obsidian.md/3.5%20Spell%20List#Suggestion) (old Or Older);
+- **1/day:** [[Find The Path]] (ancient Or Older), [[Discern Location]] (great Wyrm);
+- **3/day:** [[Suggestion]] (old Or Older);
 
 #### Skills
 
@@ -592,15 +592,15 @@ Wyrmling +2; very young +3; young +3; juvenile +5; others ---
 |Wyrmling|60 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft.|+0|14 (+2 size, +2 natural), touch 12, flat-footed 14|Icewalking, immunity to cold, vulnerability to fire|-|-|
 |Very young|60 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft.|+0|16 (+1 size, +5 natural), touch 11, flat-footed 16||-|-|
 |Young|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|18 (+8 natural), touch 10, flat-footed 18||-|-|
-|Juvenile|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|21 (+11 natural), touch 10, flat-footed 21|Fog cloud|-|-|
+|Juvenile|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|21 (+11 natural), touch 10, flat-footed 21|[[Fog cloud]]|-|-|
 |Young adult|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|23 (-1 size, +14 natural), touch 9, flat-footed 23|DR 5/magic|-|16|
-|Adult|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|26 (-1 size, +17 natural), touch 9, flat-footed 26|Gust of wind|1st|18|
+|Adult|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|26 (-1 size, +17 natural), touch 9, flat-footed 26|[[Gust of wind]]|1st|18|
 |Mature adult|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|28 (-2 size, +20 natural), touch 8, flat-footed 28|DR 10/magic|3rd|20|
 |Old|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|31 (-2 size, +23 natural), touch 8, flat-footed 31|Freezing fog|5th|21|
 |Very old|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|34 (-2 size, +26 natural), touch 8, flat-footed 34|DR 15/magic|7th|23|
-|Ancient|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|37 (-2 size, +29 natural), touch 8, flat-footed 37|Wall of ice|9th|24|
+|Ancient|60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.|+0|37 (-2 size, +29 natural), touch 8, flat-footed 37|[[Wall of ice]]|9th|24|
 |Wyrm|60 ft., burrow 30 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|38 (-4 size, +32 natural), touch 6, flat-footed 38|DR 20/magic|11th|25|
-|Great wyrm|60 ft., burrow 30 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|41 (-4 size, +35 natural), touch 6, flat-footed 41|Control weather|13th|27|
+|Great wyrm|60 ft., burrow 30 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|41 (-4 size, +35 natural), touch 6, flat-footed 41|[[Control weather]]|13th|27|
 
 The scales of a wyrmling white dragon glisten like mirrors. As the dragon ages, the sheen disappears, and by very old age, scales of pale blue and light gray are mixed in with the white.
 
@@ -610,20 +610,20 @@ White dragons prefer sudden assaults, swooping down from aloft or bursting from 
 
 #### Breath Weapon (Su)
 
-A white dragon has one type of breath weapon, a cone of cold.
+A white dragon has one type of breath weapon, a [[cone of cold]].
 
 #### Icewalking (Ex)
 
-This ability works like the _spider climb_ spell, but the surfaces the dragon climbs must be icy. It is always in effect.
+This ability works like the _[[spider climb]]_ spell, but the surfaces the dragon climbs must be icy. It is always in effect.
 
 #### _Freezing Fog_ (Sp)
 
-An old or older white dragon can use this ability three times per day. It is similar to a _solid fog_ spell but also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a _grease_ spell. The dragon is immune to the _grease_ effect because of its icewalking ability. This ability is the equivalent of a 5th-level spell.
+An old or older white dragon can use this ability three times per day. It is similar to a _[[solid fog]]_ spell but also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a _[[grease]]_ spell. The dragon is immune to the _[[grease]]_ effect because of its icewalking ability. This ability is the equivalent of a 5th-level spell.
 
 #### Other Spell-Like Abilities
 
-- **1/day:** [Control Weather](app://obsidian.md/3.5%20Spell%20List#Control%20Weather) (great Wyrm);
-- **3/day:** [Fog Cloud](app://obsidian.md/3.5%20Spell%20List#Fog%20Cloud) (juvenile Or Older), [Gust Of Wind](app://obsidian.md/3.5%20Spell%20List#Gust%20Of%20Wind) (adult Or Older), [Wall Of Ice](app://obsidian.md/3.5%20Spell%20List#Wall%20Of%20Ice) (ancient Or Older);
+- **1/day:** [[Control Weather]] (great Wyrm);
+- **3/day:** [[Fog Cloud]] (juvenile Or Older), [[Gust Of Wind]] (adult Or Older), [[Wall Of Ice]] (ancient Or Older);
 
 #### Skills
 
@@ -686,18 +686,18 @@ Wyrmling +2; very young +3; young +4; juvenile +4; others ---
 
 |Age|Speed|Initiative|Armor Class|Special Abilities|Caster Level|SR|
 |---|---|---|---|---|---|---|
-|Wyrmling|60 ft., burrow 30 ft., fly 150 ft. (average)|+0|15 (+2 size, +3 natural), touch 12, flat-footed 15|Immunity to fire, speak with animals, vulnerability to cold|-|-|
+|Wyrmling|60 ft., burrow 30 ft., fly 150 ft. (average)|+0|15 (+2 size, +3 natural), touch 12, flat-footed 15|Immunity to fire, [[speak with animals]], vulnerability to cold|-|-|
 |Very young|60 ft., burrow 30 ft., fly 150 ft. (average)|+0|17 (+1 size, +6 natural), touch 11, flat-footed 17||-|-|
 |Young|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|19 (+9 natural), touch 10, flat-footed 19||1st|-|
-|Juvenile|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|22 (+12 natural), touch 10, flat-footed 22|Endure elements|3rd|-|
+|Juvenile|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|22 (+12 natural), touch 10, flat-footed 22|[[Endure elements]]|3rd|-|
 |Young adult|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|24 (-1 size, +15 natural), touch 9, flat-footed 24|DR 5/magic|5th|18|
 |Adult|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|27 (-1 size, +18 natural), touch 9, flat-footed 27|Suggestion|7th|20|
 |Mature adult|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|29 (-2 size, +21 natural), touch 8, flat-footed 29|DR 10/magic|9th|22|
-|Old|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|32 (-2 size, +24 natural), touch 8, flat-footed 32|Control winds|11th|24|
+|Old|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|32 (-2 size, +24 natural), touch 8, flat-footed 32|[[Control winds]]|11th|24|
 |Very old|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|35 (-2 size, +27 natural), touch 8, flat-footed 35 DR|15/magic|13th|25|
-|Ancient|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|38 (-2 size, +30 natural), touch 8, flat-footed 38|Control weather|15th|27|
+|Ancient|60 ft., burrow 30 ft., fly 200 ft. (poor)|+0|38 (-2 size, +30 natural), touch 8, flat-footed 38|[[Control weather]]|15th|27|
 |Wyrm|60 ft., burrow 30 ft., fly 250 ft. (clumsy)|+0|39 (-4 size, +33 natural), touch 6, flat-footed 39|DR 20/magic|17th|28|
-|Great wyrm|60 ft., burrow 30 ft., fly 250 ft. (clumsy)|+0|42 (-4 size, +36 natural), touch 6, flat-footed 42|Summon djinni|19th|30|
+|Great wyrm|60 ft., burrow 30 ft., fly 250 ft. (clumsy)|+0|42 (-4 size, +36 natural), touch 6, flat-footed 42|Summon [[Genie_Djinni|djinni]]|19th|30|
 |* Can also cast cleric spells and those from the Chaos and Knowledge domains as arcane spells.|||||||
 
 At birth, a brass dragon's scales are a dull, mottled brown. As the dragon gets older, the scales become more brassy until they reach a warm, burnished appearance. The grand head-plates of a brass dragon are smooth and metallic, and it sports bladed chin horns that grow sharper with age. Wings and frills are mottled green toward the edges, darkening with age. As the dragon grows older, its pupils fade until the eyes resemble molten metal orbs.
@@ -712,13 +712,13 @@ A brass dragon has two types of breath weapon, a line of fire and a cone of _sl
 
 #### Spell-Like Abilities
 
-- **At will:** [Speak With Animals](app://obsidian.md/3.5%20Spell%20List#Speak%20With%20Animals) ;
-- **1/day:** [Suggestion](app://obsidian.md/3.5%20Spell%20List#Suggestion) (adult Or Older), [Control Winds](app://obsidian.md/3.5%20Spell%20List#Control%20Winds) (old Or Older), [Control Weather](app://obsidian.md/3.5%20Spell%20List#Control%20Weather) (ancient Or Older);
-- **3/day:** [Endure Elements](app://obsidian.md/3.5%20Spell%20List#Endure%20Elements) (juvenile Or Older;
+- **At will:** [[Speak With Animals]] ;
+- **1/day:** [[Suggestion]] (adult Or Older), [[Control Winds]] (old Or Older), [[Control Weather]] (ancient Or Older);
+- **3/day:** [[Endure Elements]] (juvenile Or Older;
 
 #### _Summon Djinni_ (Sp)
 
-This ability, usable by a great wyrm brass dragon, works like a _summon monster_ spell, except that it summons one djinni. This ability is the equivalent of a 7th-level spell.
+This ability, usable by a great wyrm brass dragon, works like a _summon monster_ spell, except that it summons one [[Genie_Djinni|djinni]]. This ability is the equivalent of a 7th-level spell.
 
 Skills: Bluff, Gather Information, and Survival are considered class skills for brass dragons.
 
@@ -775,27 +775,27 @@ Wyrmling +4; very young +4; young +6; others ---
 
 |Age|Speed|Initiative|Armor Class|Special Abilities|Caster Level|SR|
 |---|---|---|---|---|---|---|
-|Wyrmling|40 ft., fly 100 ft. (average), swim 60 ft.|+0|16 (+1 size, +5 natural), touch 11, flat-footed 16|Immunity to electricity, water breathing, speak with animals|-|-|
+|Wyrmling|40 ft., fly 100 ft. (average), swim 60 ft.|+0|16 (+1 size, +5 natural), touch 11, flat-footed 16|Immunity to electricity, [[water breathing]], [[speak with animals]]|-|-|
 |Very young|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|18 (+8 natural), touch 10, flat-footed 18||-|-|
 |Young|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|21 (+11 natural), touch 10, flat-footed 21|Alternate form|1st|-|
 |Juvenile|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|23 (-1 size, +14 natural), touch 9, flat-footed 23||3rd|-|
 |Young adult|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|26 (-1 size, +17 natural), touch 9, flat-footed 26|DR 5/magic|5th|20|
-|Adult|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|28 (-2 size, +20 natural), touch 8, flat-footed 28|Create food and water, fog cloud|7th|22|
+|Adult|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|28 (-2 size, +20 natural), touch 8, flat-footed 28|[[Create food and water]], [[fog cloud]]|7th|22|
 |Mature adult|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|31 (-2 size, +23 natural), touch 8, flat-footed 31|DR 10/magic|9th|23|
-|Old|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|34 (-2 size, +26 natural), touch 8, flat-footed 34|Detect thoughts|11th|25|
+|Old|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|34 (-2 size, +26 natural), touch 8, flat-footed 34|[[Detect thoughts]]|11th|25|
 |Very old|40 ft., fly 150 ft. (poor), swim 60 ft.|+0|37 (-2 size, +29 natural), touch 8, flat-footed 37|DR 15/magic|13th|26|
-|Ancient|40 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|38 (-4 size, +32 natural), touch 6, flat-footed 38|Control water|15th|28|
+|Ancient|40 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|38 (-4 size, +32 natural), touch 6, flat-footed 38|[[Control water]]|15th|28|
 |Wyrm|40 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|41 (-4 size, +35 natural), touch 6, flat-footed 41|DR 20/magic|17th|29|
-|Great wyrm|40 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|44 (-4 size, +38 natural), touch 6, flat-footed 44|Control weather|19th|31|
+|Great wyrm|40 ft., fly 200 ft. (clumsy), swim 60 ft.|+0|44 (-4 size, +38 natural), touch 6, flat-footed 44|[[Control weather]]|19th|31|
 |* Can also cast cleric spells and those from the Animal, Law, and Water domains as arcane spells.|||||||
 
 A bronze wyrmling's scales are yellow tinged with green, showing only a hint of bronze. As the dragon approaches adulthood, its color deepens slowly to a darker, rich bronze tone. Very old dragons develop a blue-black tint to the edges of their scales. Powerful swimmers, they have webbed feet and smooth, flat scales. The pupils of its eyes fade as a dragon ages, until in the oldest the eyes resemble glowing green orbs.
 
 #### Combat
 
-Bronze dragons dislike killing animals and would rather bribe them (perhaps with food) or force them away magically. They use _detect thoughts_ to learn intelligent creatures' intentions.
+Bronze dragons dislike killing animals and would rather bribe them (perhaps with food) or force them away magically. They use _[[detect thoughts]]_ to learn intelligent creatures' intentions.
 
-When attacking they blind their opponents with _fog cloud_ and then charge or, if flying, snatch them up. Against seafaring opponents they conjure up a storm or use their tails to smash the vessels' hulls. If a dragon is inclined to be lenient, ships might be merely becalmed, fogbound, or broken-masted.
+When attacking they blind their opponents with _[[fog cloud]]_ and then charge or, if flying, snatch them up. Against seafaring opponents they conjure up a storm or use their tails to smash the vessels' hulls. If a dragon is inclined to be lenient, ships might be merely becalmed, fogbound, or broken-masted.
 
 #### Breath Weapon (Su)
 
@@ -807,13 +807,13 @@ A bronze dragon can breathe underwater indefinitely and can freely use its breat
 
 #### Alternate Form (Su)
 
-A young or older bronze dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as a _polymorph_ spell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
+A young or older bronze dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as a _[[Compendium/Spells/Polymorph|polymorph]]_ spell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
 
 #### Spell-Like Abilities
 
-- **At will:** [Speak With Animals](app://obsidian.md/3.5%20Spell%20List#Speak%20With%20Animals) ;
-- **1/day:** [Control Weather](app://obsidian.md/3.5%20Spell%20List#Control%20Weather) (great Wyrm);
-- **3/day:** [Create Food And Water](app://obsidian.md/3.5%20Spell%20List#Create%20Food%20And%20Water) (adult Or Older), [Fog Cloud](app://obsidian.md/3.5%20Spell%20List#Fog%20Cloud) (adult Or Older), [Detect Thoughts](app://obsidian.md/3.5%20Spell%20List#Detect%20Thoughts) (old Or Older), [Control Water](app://obsidian.md/3.5%20Spell%20List#Control%20Water) (ancient Or Older);
+- **At will:** [[Speak With Animals]] ;
+- **1/day:** [[Control Weather]] (great Wyrm);
+- **3/day:** [[Create Food And Water]] (adult Or Older), [[Fog Cloud]] (adult Or Older), [[Detect Thoughts]] (old Or Older), [[Control Water]];
 
 #### Skills
 
@@ -872,18 +872,18 @@ Wyrmling +2; very young +3; young +4; juvenile +4; others ---
 
 |Age|Speed|Initiative|Armor Class|Special Abilities|Caster Level|SR|
 |---|---|---|---|---|---|---|
-|Wyrmling|40 ft., fly 100 ft. (average)|+0|16 (+2 size, +4 natural), touch 12, flat-footed 16|Immunity to acid, spider climb|-|-|
+|Wyrmling|40 ft., fly 100 ft. (average)|+0|16 (+2 size, +4 natural), touch 12, flat-footed 16|Immunity to acid, [[spider climb]]|-|-|
 |Very young|40 ft., fly 100 ft. (average)|+0|18 (+1 size, +7 natural), touch 11, flat-footed 18||-|-|
 |Young|40 ft., fly 150 ft. (poor)|+0|20 (+10 natural), touch 10, flat-footed 20||1st|-|
 |Juvenile|40 ft., fly 150 ft. (poor)|+0|23 (+13 natural), touch 10, flat-footed 23||3rd|-|
 |Young adult|40 ft., fly 150 ft. (poor)|+0|25 (-1 size, +16 natural), touch 9, flat-footed 25|DR 5/magic|5th|19|
-|Adult|40 ft., fly 150 ft. (poor)|+0|28 (-1 size, +19 natural), touch 9, flat-footed 28|Stone shape|7th|21|
+|Adult|40 ft., fly 150 ft. (poor)|+0|28 (-1 size, +19 natural), touch 9, flat-footed 28|[[Stone shape]]|7th|21|
 |Mature adult|40 ft., fly 150 ft. (poor)|+0|30 (-2 size, +22 natural), touch 8, flat-footed 30|DR 10/magic|9th|23|
-|Old|40 ft., fly 150 ft. (poor)|+0|33 (-2 size, +25 natural), touch 8, flat-footed 33|Transmute rock to mud/mud to rock|11th|25|
+|Old|40 ft., fly 150 ft. (poor)|+0|33 (-2 size, +25 natural), touch 8, flat-footed 33|[[Transmute rock to mud]]/mud to rock|11th|25|
 |Very old|40 ft., fly 150 ft. (poor)|+0|36 (-2 size, +28 natural), touch 8, flat-footed 36|DR 15/magic|13th|26|
-|Ancient|40 ft., fly 150 ft. (poor)|+0|39 (-2 size, +31 natural), touch 8, flat-footed 39|Wall of stone|15th|28|
+|Ancient|40 ft., fly 150 ft. (poor)|+0|39 (-2 size, +31 natural), touch 8, flat-footed 39|[[Wall of stone]]|15th|28|
 |Wyrm|40 ft., fly 200 ft. (clumsy)|+0|40 (-4 size, +34 natural), touch 6, flat-footed 40|DR 20/magic|17th|29|
-|Great wyrm|40 ft., fly 200 ft. (clumsy)|+0|43 (-4 size, +37 natural), touch 6, flat-footed 43|Move earth|19th|31|
+|Great wyrm|40 ft., fly 200 ft. (clumsy)|+0|43 (-4 size, +37 natural), touch 6, flat-footed 43|[[Move earth]]|19th|31|
 |* Can also cast cleric spells and those from the Chaos, Earth, and Trickery domains as arcane spells.|||||||
 
 At birth, a copper dragon's scales have a ruddy brown color with a metallic tint. As the dragon gets older, the scales become finer and more coppery, assuming a soft, warm gloss by young adult age. Very old dragons' scales pick up a green tint. A copper dragon's pupils fade with age, and the eyes of great wyrms resemble glowing turquoise orbs.
@@ -892,7 +892,7 @@ At birth, a copper dragon's scales have a ruddy brown color with a metallic tint
 
 A copper dragon appreciates wit and usually doesn't harm creatures that can relate a joke, humorous story, or riddle the dragon has not heard before. It quickly gets annoyed with anyone who doesn't laugh at its jokes or accept its tricks with good humor. It likes to taunt and annoy opponents into giving up or acting foolishly.
 
-An angry copper dragon prefers to mire foes using _transmute rock to mud_. The dragon pushes trapped opponents into the mud or snatches and carries them aloft. A copper dragon tries to draw airborne enemies into narrow, stony gorges where it can use its spider climb ability and maneuver them into colliding with the walls.
+An angry copper dragon prefers to mire foes using _[[transmute rock to mud]]_. The dragon pushes trapped opponents into the mud or snatches and carries them aloft. A copper dragon tries to draw airborne enemies into narrow, stony gorges where it can use its [[spider climb]] ability and maneuver them into colliding with the walls.
 
 #### Breath Weapon (Su)
 
@@ -900,12 +900,12 @@ A copper dragon has two types of breath weapon, a line of acid and a cone of _s
 
 #### Spider Climb (Ex)
 
-A copper dragon can climb on stone surfaces as though using the _spider climb_ spell.
+A copper dragon can climb on stone surfaces as though using the _[[spider climb]]_ spell.
 
 #### Spell-Like Abilities
 
-- **1/day:** [Transmute Rock To Mud Or Mud To Rock](app://obsidian.md/3.5%20Spell%20List#Transmute%20Rock%20To%20Mud%20Or%20Mud%20To%20Rock) (old Or Older), [Wall Of Stone](app://obsidian.md/3.5%20Spell%20List#Wall%20Of%20Stone) (ancient Or Older), [Move Earth](app://obsidian.md/3.5%20Spell%20List#Move%20Earth) (great Wyrm);
-- **2/day:** [Stone Shape](app://obsidian.md/3.5%20Spell%20List#Stone%20Shape) (adult Or Older);
+- **1/day:** [[Transmute Rock to Mud]] or [[Transmute Mud To Rock]] (old Or Older), [[Wall Of Stone]] (ancient Or Older), [[Move Earth]] (great Wyrm);
+- **2/day:** [[Stone Shape]] (adult Or Older);
 
 #### Skills
 
@@ -964,18 +964,18 @@ Wyrmling +4; very young +5; young +6; others ---
 
 |Age|Speed|Initiative|Armor Class|Special Abilities|Caster Level|SR|
 |---|---|---|---|---|---|---|
-|Wyrmling|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|17 (+7 natural), touch 10, flat-footed 17|Alternate form, immunity to fire, vulnerability to cold, water breathing|-|-|
+|Wyrmling|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|17 (+7 natural), touch 10, flat-footed 17|Alternate form, immunity to fire, vulnerability to cold, [[water breathing]]|-|-|
 |Very young|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|19 (-1 size, +10 natural), touch 9, flat-footed 19||-|-|
 |Young|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|22 (-1 size, +13 natural), touch 9, flat-footed 22||1st|-|
-|Juvenile|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|25 (-1 size, +16 natural), touch 9, flat-footed 25|Bless|3rd|-|
+|Juvenile|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|25 (-1 size, +16 natural), touch 9, flat-footed 25|[[Bless]]|3rd|-|
 |Young adult|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|27 (-2 size, +19 natural), touch 8, flat-footed 27|DR 5/magic|5th|21|
 |Adult|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|30 (-2 size, +22 natural), touch 8, flat-footed 30|Luck bonus|7th|23|
 |Mature adult|60 ft., fly 200 ft. (poor), swim 60 ft.|+0|33 (-2 size, +25 natural), touch 8, flat-footed 33|DR 10/magic|9th|25|
-|Old|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|34 (-4 size, +28 natural), touch 6, flat-footed 34|Geas/quest, detect gems|11th|27|
+|Old|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|34 (-4 size, +28 natural), touch 6, flat-footed 34|[[Geas_Quest|Geas/quest]], detect gems|11th|27|
 |Very old|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|37 (-4 size, +31 natural), touch 6, flat-footed 37|DR 15/magic|13th|28|
-|Ancient|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|40 (-4 size, +34 natural), touch 6, flat-footed 40|Sunburst|15th|30|
+|Ancient|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|40 (-4 size, +34 natural), touch 6, flat-footed 40|[[Sunburst]]|15th|30|
 |Wyrm|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|39 (-8 size, +37 natural), touch 2, flat-footed 39|DR 20/magic|17th|31|
-|Great wyrm|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|42 (-8 size, +40 natural), touch 2, flat-footed 42|Foresight|19th|33|
+|Great wyrm|60 ft., fly 250 ft. (clumsy), swim 60 ft.|+0|42 (-8 size, +40 natural), touch 2, flat-footed 42|[[Foresight]]|19th|33|
 |* Can also cast cleric spells and those from the Law, Luck, and Good domains as arcane spells.|||||||
 
 On hatching, a gold dragon's scales are dark yellow with golden metallic flecks.
@@ -984,7 +984,7 @@ The flecks get larger as the dragon matures until, at the adult stage, the scale
 
 #### Combat
 
-Gold dragons usually parley before fighting. When conversing with intelligent creatures, they use Intimidate and Sense Motive to gain the upper hand. In combat, they employ _bless_ and their _luck bonus;_ older dragons use their _luck bonus_ at the start of each day. They make heavy use of spells in combat. Among their favorites are _cloudkill, delayed blast fireball, fire shield, globe of invulnerability, maze, sleep, slow,_ and _stinking cloud._
+Gold dragons usually parley before fighting. When conversing with intelligent creatures, they use Intimidate and Sense Motive to gain the upper hand. In combat, they employ _[[bless]]_ and their _luck bonus;_ older dragons use their _luck bonus_ at the start of each day. They make heavy use of spells in combat. Among their favorites are _[[cloudkill]], [[delayed blast fireball]], [[fire shield]], [[globe of invulnerability]], [[maze]], sleep, slow,_ and _[[stinking cloud]]._
 
 #### Breath Weapon (Su)
 
@@ -992,7 +992,7 @@ A gold dragon has two types of breath weapon, a cone of fire and a cone of weake
 
 #### Alternate Form (Su)
 
-A gold dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as a _polymorph_ spell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
+A gold dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as a _[[Compendium/Spells/Polymorph|polymorph]]_ spell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
 
 #### Water Breathing (Ex)
 
@@ -1004,12 +1004,12 @@ Once per day an adult or older gold dragon can touch a gem, usually one embedded
 
 #### _Detect Gems_ (Sp)
 
-An old or older gold dragon can use this ability three times per day. This is a divination effect similar to a _detect magic_ spell, except that it finds only gems. The dragon can scan a 60-degree arc each round: By concentrating for 1 round it knows if there are any gems within the arc; 2 rounds of concentration reveal the exact number of gems; and 3 rounds reveal their exact location, type, and value. This ability is the equivalent of a 2ndlevel spell.
+An old or older gold dragon can use this ability three times per day. This is a divination effect similar to a _[[detect magic]]_ spell, except that it finds only gems. The dragon can scan a 60-degree arc each round: By concentrating for 1 round it knows if there are any gems within the arc; 2 rounds of concentration reveal the exact number of gems; and 3 rounds reveal their exact location, type, and value. This ability is the equivalent of a 2ndlevel spell.
 
 #### Other Spell-Like Abilities
 
-- **1/day:** [Geas/quest](app://obsidian.md/3.5%20Spell%20List#Geas/quest) (old Or Older), [Sunburst](app://obsidian.md/3.5%20Spell%20List#Sunburst) (ancient Or Older), [Foresight](app://obsidian.md/3.5%20Spell%20List#Foresight) (great Wyrm);
-- **3/day:** [Bless](app://obsidian.md/3.5%20Spell%20List#Bless) (juvenile Or Older);
+- **1/day:** [[Geas_quest|Geas/quest]] (old Or Older), [[Sunburst]] (ancient Or Older), [[Foresight]] (great Wyrm);
+- **3/day:** [[Bless]] (juvenile Or Older);
 
 #### Skills
 
@@ -1071,30 +1071,30 @@ Wyrmling +4; very young +4; young +5; others ---
 |Wyrmling|40 ft., fly 100 ft. (average)|+0|17 (+1 size, +6 natural), touch 11, flat-footed 17|Alternate form, immunity to acid and cold, cloudwalking, vulnerability to fire|-|-|
 |Very young|40 ft., fly 150 ft. (poor)|+0|19 (+9 natural), touch 10, flat-footed 19||-|-|
 |Young|40 ft., fly 150 ft. (poor)|+0|22 (+12 natural), touch 10, flat-footed 22||1st|-|
-|Juvenile|40 ft., fly 150 ft. (poor)|+0|24 (-1 size, +15 natural), touch 9, flat-footed 24|Feather fall|3rd|-|
+|Juvenile|40 ft., fly 150 ft. (poor)|+0|24 (-1 size, +15 natural), touch 9, flat-footed 24|[[Feather fall]]|3rd|-|
 |Young adult|40 ft., fly 150 ft. (poor)|+0|27 (-1 size, +18 natural), touch 9, flat-footed 27|DR 5/magic|5th|20|
-|Adult|40 ft., fly 150 ft. (poor)|+0|29 (-2 size, +21 natural), touch 8, flat-footed 29|Fog cloud|7th|22|
+|Adult|40 ft., fly 150 ft. (poor)|+0|29 (-2 size, +21 natural), touch 8, flat-footed 29|[[Fog cloud]]|7th|22|
 |Mature adult|40 ft., fly 150 ft. (poor)|+0|32 (-2 size, +24 natural), touch 8, flat-footed 32|DR 10/magic|9th|24|
-|Old|40 ft., fly 150 ft. (poor)|+0|35 (-2 size, +27 natural), touch 8, flat-footed 35|Control winds|11th|26|
+|Old|40 ft., fly 150 ft. (poor)|+0|35 (-2 size, +27 natural), touch 8, flat-footed 35|[[Control winds]]|11th|26|
 |Very old|40 ft., fly 150 ft. (poor)|+0|38 (-2 size, +30 natural), touch 8, flat-footed 38|DR 15/magic|13th|27|
-|Ancient|40 ft., fly 200 ft. (clumsy)|+0|39 (-4 size, +33 natural), touch 6, flat-footed 39|Control weather|15th|29|
+|Ancient|40 ft., fly 200 ft. (clumsy)|+0|39 (-4 size, +33 natural), touch 6, flat-footed 39|[[Control weather]]|15th|29|
 |Wyrm|40 ft., fly 200 ft. (clumsy)|+0|42 (-4 size, +36 natural), touch 6, flat-footed 42|DR 20/magic|17th|30|
-|Great wyrm|40 ft., fly 200 ft. (clumsy)|+0|41 (-8 size, +39 natural), touch 2, flat-footed 41|Reverse gravity|19th|32|
+|Great wyrm|40 ft., fly 200 ft. (clumsy)|+0|41 (-8 size, +39 natural), touch 2, flat-footed 41|[[Reverse gravity]]|19th|32|
 |* Can also cast cleric spells and those from the Air, Good, Law, and Sun domains as arcane spells.|||||||
 
 A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until the individual scales are scarcely visible.
 
 #### Combat
 
-Silver dragons are not violent and avoid combat except when faced with highly evil or aggressive foes. If necessary, they use _fog cloud_ or _control weather_ to blind or confuse opponents before attacking. When angry, they use _reverse gravity_ to fling enemies helplessly into the air, where they can be snatched. Against flying opponents, a silver dragon hides in clouds (creating some with _control weather_ on clear days), then jumps to the attack when it has the advantage.
+Silver dragons are not violent and avoid combat except when faced with highly evil or aggressive foes. If necessary, they use _[[fog cloud]]_ or _[[control weather]]_ to blind or confuse opponents before attacking. When angry, they use _[[reverse gravity]]_ to fling enemies helplessly into the air, where they can be snatched. Against flying opponents, a silver dragon hides in clouds (creating some with _[[control weather]]_ on clear days), then jumps to the attack when it has the advantage.
 
 #### Breath Weapon (Su)
 
-A silver dragon has two types of breath weapon, a cone of cold and a cone of paralyzing gas. Creatures within a cone of paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+A silver dragon has two types of breath weapon, a [[cone of cold]] and a cone of paralyzing gas. Creatures within a cone of paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
 
 #### Alternate Form (Su)
 
-A silver dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as a _polymorph_ spell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an anirmal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
+A silver dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as a _[[Compendium/Spells/Polymorph|polymorph]]_ spell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an anirmal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
 
 #### Cloudwalking (Su)
 
@@ -1102,9 +1102,9 @@ A silver dragon can tread on clouds or fog as though on solid ground. The abilit
 
 #### Spell-Like Abilities
 
-- **1/day:** [Control Weather](app://obsidian.md/3.5%20Spell%20List#Control%20Weather) (ancient Or Older), [Reverse Gravity](app://obsidian.md/3.5%20Spell%20List#Reverse%20Gravity) (great Wyrm);
-- **2/day:** [Feather Fall](app://obsidian.md/3.5%20Spell%20List#Feather%20Fall) (juvenile Or Older);
-- **3/day:** [Fog Cloud](app://obsidian.md/3.5%20Spell%20List#Fog%20Cloud) (adult Or Older), [Control Winds](app://obsidian.md/3.5%20Spell%20List#Control%20Winds) (old Or Older);
+- **1/day:** [[Control Weather]] (ancient Or Older), [[Reverse Gravity]] (great Wyrm);
+- **2/day:** [[Feather Fall]] (juvenile Or Older);
+- **3/day:** [[Fog Cloud]] (adult Or Older), [[Control Winds]] (old Or Older);
 
 #### Skills
 
@@ -1112,5 +1112,8 @@ Bluff, Disguise, and Jump are considered class skills for silver dragons.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

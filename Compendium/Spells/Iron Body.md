@@ -1,39 +1,86 @@
 ---
-aliases: [Iron Body]
+aliases:
+ - Iron Body
 title: Compendium/Basics/Spell/Iron Body
-tags: [35E_SRD, Spell, Sorcerer, Wizard]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Sorcerer  
+  - Wizard  
 Spell Name: Iron Body
 School: Transmutation
 Subschool: 
 Descriptor: 
-Level:
-  - Earth 8
-  - Sor/Wiz 8
+Level:  
+  - Earth 8  
+  - Sor/Wiz 8  
 Source: PHB
 ---
-
 
 ## Iron Body
 
 Your body becomes living iron.
 
-*   Transmutation
-*   **Level:** Earth 8, Sor/Wiz 8
-*   **Components:** V, S, M/DF
-*   **Casting Time:** 1 standard action
-*   **Range:** Personal
-*   **Effect:** You
-*   **Duration:** 1 min./level (D)
-*   **Saving Throw:** Non spécifié
-*   **Spell Resistance:** Non spécifié
+### Spell Details
 
-<p>This spell transforms your body into living iron, which grants you several powerful resistances and abilities.</p><p>You gain damage reduction 15/adamantine. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You take only half damage from acid and fire of all kinds. However, you also become vulnerable to all special attacks that affect iron golems.</p><p>You gain a +6 enhancement bonus to your Strength score, but you take a -6 penalty to Dexterity as well (to a minimum Dexterity score of 1), and your speed is reduced to half normal. You have an arcane spell failure chance of 50% and a -8 armor check penalty, just as if you were clad in full plate armor. You cannot drink (and thus can't use potions) or play wind instruments.</p><p>Your unarmed attacks deal damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium characters), and you are considered armed when making unarmed attacks.</p><p>Your weight increases by a factor of ten, causing you to sink in water like a stone. However, you could survive the crushing pressure and lack of air at the bottom of the ocean - at least until the spell duration expires.</p><p><i>Arcane Material Component:</i> A small piece of iron that was once part of either an iron golem, a hero's armor, or a war machine.</p>
+- **School**: Transmutation  
+- **Level**: Earth 8, Sor/Wiz 8  
+- **Components**: V, S, M/DF  
+- **Casting Time**: 1 standard action  
+- **Range**: Personal  
+- **Effect**: You  
+- **Duration**: 1 min./level (D)  
+- **Saving Throw**: Not specified  
+- **Spell Resistance**: Not specified  
 
-Source : PHB P245
+### Description
+
+This spell transforms your body into living iron, granting powerful resistances and abilities.
+
+You gain:
+- Damage reduction 15/adamantine  
+- Immunity to:  
+  - Blindness  
+  - Critical hits  
+  - Ability score damage  
+  - Deafness  
+  - Disease  
+  - Drowning  
+  - Electricity  
+  - Poison  
+  - Stunning  
+  - Any spells or attacks affecting physiology or respiration  
+- 50% arcane spell failure chance  
+- –8 armor check penalty  
+- Immunity to breathing-based effects  
+- Vulnerability to attacks affecting iron golems  
+- Half damage from all acid and fire  
+
+Stat changes:
+- +6 enhancement bonus to Strength  
+- –6 penalty to Dexterity (minimum 1)  
+- Movement speed reduced to half  
+
+Combat and interaction effects:
+- You cannot drink (thus cannot use potions)  
+- Cannot play wind instruments  
+- Unarmed attacks deal damage as a club (1d4 Small, 1d6 Medium) and are treated as armed  
+- Weight increases ×10, causing you to sink in water  
+- You can survive crushing pressure and lack of air at ocean depths until the spell expires  
+
+### Arcane Material Component
+
+A small piece of iron that was once part of either an [[Golem_Iron|iron golem]], a hero’s armor, or a war machine.
+
+
+
+**Source :** PHB P245
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

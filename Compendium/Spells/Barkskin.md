@@ -1,5 +1,6 @@
 ---
-aliases: [Barkskin]
+aliases:
+ - Barkskin
 title: Compendium/Basics/Spell/Barkskin
 tags: 
   - 35E_SRD
@@ -35,9 +36,13 @@ Grants +2 (or higher) enhancement to natural armor.
 
 The enhancement bonus provided by *barkskin* stacks with the target's natural armor bonus, but not with other enhancement bonuses to natural armor. A creature without natural armor has an effective natural armor bonus of +0.
 
-Source : PHB P203
+**Source :** PHB P203
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

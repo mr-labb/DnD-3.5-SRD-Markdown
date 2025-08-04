@@ -1,7 +1,10 @@
 ---
-aliases: [Dire Boar]
+aliases:
+ - Dire Boar
 title: Bestiary/MM1/Dire Boar
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Dire Boar
 Size: Large
 Type: Animal
@@ -12,14 +15,13 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Dire Boar
+image: [[Dire Boar.PNG]]
 race: Dire Boar
 class: 
 level: 
@@ -27,61 +29,79 @@ size: Large
 type: Animal
 subtype: 
 alignment: Always neutral
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "15 (-1 size, +6 natural), touch 9, flat-footed 15"
+ac: 15
 touch: 9
-flat_footed: 15
-hit_point:
-  - name: hp
-    desc: "52 ; 7d8+21"
-speed: 40 ft. (8 squares)
-
-abilities: [27, 10, 17, 2, 13, 8]
-saves:
-  - Fort: +8
-  - Ref: +5
-  - Will: +8
-damage_resist: 
-spell_resist: 
+flatfooted: 15
+AC_desc: -1 size, +6 natural
+hp: 52
+hit_dice: 7d8+21
 initiative: 0
+speed: 40 ft. (8 squares)
 space/reach: 10 ft./5 ft.
-cr: 4
+stats:
+  - 27
+  - 10
+  - 17
+  - 2
+  - 13
+  - 8
+saves:
+ - Fortitude : +8
+ - Reflex : +5
+ - Will : +8
+skillsaves:
+ - Listen: +8
+ - Spot: +8
 base_attack/grapple: +5/+17
-attack: Gore +12 melee (1d8+12)
-full_attack: Gore +12 melee (1d8+12)
-special_attacks: Ferocity
-
-special_qualities:
-  - name: 
-    desc: Low-light vision, scent
-
-skills:
-  - Listen: +8
-  - Spot: +8
-feats: [[Alertness]], [[Endurance]], [[Iron Will]]
-weak: 
 environment: Temperate forests
 organization: Solitary or herd (5-8)
 treasure: None
 advancement: 8-16 HD (Large); 17-21 HD (Huge)
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 4
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Low-light vision, scent
+actions:
+  - name: Full Attack
+    desc: "Gore +12 melee (1d8+12)"
+  - name: Attack
+    desc: "Gore +12 melee (1d8+12)"
+  - name: special attacks
+    desc: "Ferocity"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Alertness, Endurance, Iron Will
+combat_gear:  
 ```
 
-## Description
 
-<p>Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.</p>
-<p>Dire boars are omnivorous and spend most of their time rooting around, much as ordinary pigs do. They viciously attack anything that approaches them, however.</p>
-<p>Dire boars grow up to 12 feet long and weigh as much as 2,000 pounds.</p>
-<p>Combat</p>
-<p>A dire boar charges its opponent, trying to rip the target open with its tusks.</p>
-<p>
-            <b>Ferocity (Ex):</b> A dire boar is such a tenacious combatant that it continues to fight without penalty even while disabled or dying.</p>
+Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.
+
+Dire boars are omnivorous and spend most of their time rooting around, much as ordinary pigs do. They viciously attack anything that approaches them, however.
+
+Dire boars grow up to 12 feet long and weigh as much as 2,000 pounds.
+
+Combat
+
+A dire boar charges its opponent, trying to rip the target open with its tusks.
+
+
+            **Ferocity (Ex):** A dire boar is such a tenacious combatant that it continues to fight without penalty even while disabled or dying.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

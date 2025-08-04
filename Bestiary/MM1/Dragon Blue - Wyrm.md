@@ -1,5 +1,7 @@
 ---
-aliases: [Dragon, Blue - Wyrm]
+aliases:
+ - Dragon
+ - Blue - Wyrm
 title: Bestiary/MM1/Dragon, Blue - Wyrm
 tags: [35E_SRD, Monster]
 Monster: Dragon, Blue - Wyrm

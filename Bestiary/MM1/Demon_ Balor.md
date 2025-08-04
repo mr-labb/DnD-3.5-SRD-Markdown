@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Balor]
+aliases:
+ - Demon
+ - Balor
 title: Bestiary/MM1/Demon, Balor
 tags: [35E_SRD, Monster]
 Monster: Demon, Balor

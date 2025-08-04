@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Ability Damaged]
+aliases:
+ - Ability Damaged
 title: Compendium\Basics\Abilities and Conditions\Ability Damaged
 tag: Abilities, Conditions
 ---
@@ -15,9 +16,7 @@ Also see [[Ability Score Loss]]
 **If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

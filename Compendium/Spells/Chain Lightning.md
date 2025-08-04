@@ -1,5 +1,6 @@
 ---
-aliases: [Chain Lightning]
+aliases:
+ - Chain Lightning
 title: Compendium/Basics/Spell/Chain Lightning
 tags: 
   - 35E_SRD
@@ -40,9 +41,13 @@ This spell creates an electrical discharge that begins as a single stroke from y
 
 **Focus:** A bit of fur; a piece of amber, glass, or crystal rod; plus one silver pin per caster level.
 
-Source : PHB P208
+**Source :** PHB P208
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

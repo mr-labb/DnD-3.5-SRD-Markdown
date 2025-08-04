@@ -1,5 +1,6 @@
 ---
-aliases: [Commune with Nature]
+aliases:
+ - Commune with Nature
 title: Compendium/Basics/Spell/Commune with Nature
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ You become one with nature, instantly gaining knowledge about your surrounding t
 - **Natural underground (caves, caverns):** 100 feet per caster level  
 - **Does not function** in constructed or settled areas such as towns and dungeons
 
-Source : PHB P211
+**Source :** PHB P211
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

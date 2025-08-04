@@ -1,11 +1,11 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Planes
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
@@ -101,7 +101,7 @@ _Infinite_: Planes with this trait go on forever, though they may have finite co
 
 _Finite Shape_: A plane with this trait has defined edges or borders. These borders may adjoin other planes or hard, finite borders such as the edge of the world or a great wall. Demiplanes are often finite.
 
-_Self-Contained Shape_: On planes with this trait, the borders wrap in on themselves, depositing the traveler on the other side of the map. A spherical plane is an example of a self-contained, finite plane, but there can be cubes, toruses, and flat planes with magical edges that teleport the traveler to an opposite edge when he crosses them.
+_Self-Contained Shape_: On planes with this trait, the borders wrap in on themselves, depositing the traveler on the other side of the map. A spherical plane is an example of a self-contained, finite plane, but there can be cubes, toruses, and flat planes with magical edges that [[teleport]] the traveler to an opposite edge when he crosses them.
 
 Some demiplanes are self-contained.
 
@@ -145,7 +145,7 @@ Major positive-dominant planes go even further. A creature on a major positive-d
 
 Major negative-dominant planes are even more severe. Each round, those within must make a DC 25 Fortitude save or gain a negative level. A creature whose negative levels equal its current levels or Hit Dice is slain, becoming a wraith.
 
-The death ward spell protects a traveler from the damage and [[energy drain]] of a negative-dominant plane.
+The [[death ward]] spell protects a traveler from the damage and [[energy drain]] of a negative-dominant plane.
 
 ###### Alignment Traits
 
@@ -191,8 +191,8 @@ Failure on this check means that something strange happens; roll d% and consult 
 |28–31|The spell affects a random target or area. Randomly choose a different target from among those in range of the spell or center the spell at a random place within range of the spell. To generate direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate range randomly, roll 3d6. Multiply the result by 5 feet for close range spells, 20 feet for medium range spells, or 80 feet for long range spells.|
 |32–35|The spell functions normally, but any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit.|
 |36–39|The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a heal spell.|
-|40–43|The spell does not function. Instead, a deeper darkness and a silence effect cover a 30-foot radius around the caster for 2d4 rounds.|
-|44–47|The spell does not function. Instead, a reverse gravity effect covers a 30-foot radius around the caster for 1 round.|
+|40–43|The spell does not function. Instead, a [[deeper darkness]] and a silence effect cover a 30-foot radius around the caster for 2d4 rounds.|
+|44–47|The spell does not function. Instead, a [[reverse gravity]] effect covers a 30-foot radius around the caster for 1 round.|
 |48–51|The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this a glitterdust effect with a save DC of 10 + the level of the spell that generated this result.|
 |52–59|Nothing happens. The spell does not function. Any material components are used up. The spell or spell slot is used up, and charges or uses from an item are used up.|
 |60–71|Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit.|
@@ -211,7 +211,7 @@ If a spell is enhanced, certain metamagic feats can be applied to it without cha
 
 **Limited Magic**: Planes with this trait permit only the use of spells and spell-like abilities that meet particular qualifications. Magic can be limited to effects from certain schools or subschools, to effects with certain descriptors, or to effects of a certain level (or any combination of these qualities). Spells and spell-like abilities that don’t meet the qualifications simply don’t work.
 
-**Dead Magic**: These planes have no magic at all. A plane with the dead magic trait functions in all respects like an antimagic field spell. Divination spells cannot detect subjects within a dead magic plane, nor can a spellcaster use teleport or another spell to move in or out. The only exception to the “no magic” rule is permanent planar portals, which still function normally.
+**Dead Magic**: These planes have no magic at all. A plane with the dead magic trait functions in all respects like an [[antimagic field]] spell. Divination spells cannot detect subjects within a dead magic plane, nor can a spellcaster use [[teleport]] or another spell to move in or out. The only exception to the “no magic” rule is permanent planar portals, which still function normally.
 
 ##### HOW PLANES INTERACT
 
@@ -225,9 +225,8 @@ If a spell is enhanced, certain metamagic feats can be applied to it without cha
 
 Infinities may be broken into smaller infinities, and planes into smaller, related planes. These layers are effectively separate planes of existence, and each layer can have its own planar traits. Layers are connected to each other through a variety of planar gates, natural vortices, paths, and shifting borders.
 
-Access to a layered plane from elsewhere usually happens on a specific layer: the first layer of the plane, which can be either the top layer or the bottom layer, depending on the specific plane. Most fixed access points (such as portals and natural vortices) reach this layer, which makes it the gateway for other layers of the plane. The plane shift spell also deposits the
+Access to a layered plane from elsewhere usually happens on a specific layer: the first layer of the plane, which can be either the top layer or the bottom layer, depending on the specific plane. Most fixed access points (such as portals and natural vortices) reach this layer, which makes it the gateway for other layers of the plane. The [[plane shift]] spell also deposits the
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

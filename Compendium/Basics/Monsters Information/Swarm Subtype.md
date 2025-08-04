@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Swarm Subtype]
+aliases:
+ - Swarm Subtype
 title: Compendium/Basics/Monsters Information/Swarm Subtype
 tag: Monster, Swarm
 ---
@@ -17,9 +18,9 @@ A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying cr
 
 _Traits_: A swarm has no clear front or back and no discernable anatomy, so it is not subject to critical hits or flanking. A swarm made up of Tiny creatures takes half damage from slashing and piercing weapons. A swarm composed of Fine or Diminutive creatures is immune to all weapon damage. Reducing a swarm to 0 hit points or lower causes it to break up, though damage taken until that point does not degrade its ability to attack or resist attack. Swarms are never staggered or reduced to a dying state by damage. Also, they cannot be tripped, grappled, or bull rushed, and they cannot grapple an opponent.
 
-A swarm is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as disintegrate), with the exception of mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects) if the swarm has an Intelligence score and a hive mind. A swarm takes half again as much damage (+50%) from spells or effects that affect an area, such as splash weapons and many evocation spells.
+A swarm is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as [[disintegrate]]), with the exception of mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects) if the swarm has an Intelligence score and a hive mind. A swarm takes half again as much damage (+50%) from spells or effects that affect an area, such as splash weapons and many evocation spells.
 
-Swarms made up of Diminutive or Fine creatures are susceptible to high winds such as that created by a gust of wind spell. For purposes of determining the effects of wind on a swarm, treat the swarm as a creature of the same size as its constituent creatures. A swarm rendered unconscious by means of nonlethal damage becomes disorganized and dispersed, and does not reform until its hit points exceed its nonlethal damage.
+Swarms made up of Diminutive or Fine creatures are susceptible to high winds such as that created by a [[gust of wind]] spell. For purposes of determining the effects of wind on a swarm, treat the swarm as a creature of the same size as its constituent creatures. A swarm rendered unconscious by means of nonlethal damage becomes disorganized and dispersed, and does not reform until its hit points exceed its nonlethal damage.
 
   
 
@@ -45,5 +46,4 @@ _Distraction (Ex)_: Any living creature vulnerable to a swarm’s damage that be
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

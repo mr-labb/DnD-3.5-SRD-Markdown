@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Pit Fiend]
+aliases:
+ - Devil
+ - Pit Fiend
 title: Bestiary/MM1/Devil, Pit Fiend
 tags: [35E_SRD, Monster]
 Monster: Devil, Pit Fiend

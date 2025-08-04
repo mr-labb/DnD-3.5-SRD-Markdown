@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Nonabilities]
+aliases:
+ - Nonabilities
 title: Compendium/Basics/Nonabilities
 tag: Abilities
 ---
@@ -14,7 +15,7 @@ _Strength_: Any creature that can physically manipulate other objects has at lea
 
 _Dexterity_: Any creature that can move has at least 1 point of Dexterity. A creature with no Dexterity score can’t move. If it can perform actions (such as casting spells), it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier. The creature automatically fails Reflex saves and Dexterity checks.
 
-_Constitution_: Any living creature has at least 1 point of Constitution. A creature with no Constitution has no body or no metabolism. It is immune to any effect that requires a Fortitude save unless the effect works on objects or is harmless. The creature is also immune to ability damage, ability drain, and energy drain, and automatically fails Constitution checks. A creature with no Constitution cannot tire and thus can run indefinitely without tiring (unless the creature’s description says it cannot run).
+_Constitution_: Any living creature has at least 1 point of Constitution. A creature with no Constitution has no body or no metabolism. It is immune to any effect that requires a Fortitude save unless the effect works on objects or is harmless. The creature is also immune to ability damage, ability drain, and [[Compendium/Spells/Energy Drain|energy drain]], and automatically fails Constitution checks. A creature with no Constitution cannot tire and thus can run indefinitely without tiring (unless the creature’s description says it cannot run).
 
 _Intelligence_: Any creature that can think, learn, or remember has at least 1 point of Intelligence. A creature with no Intelligence score is mindless, an automaton operating on simple instincts or programmed instructions. It has immunity to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects) and automatically fails Intelligence checks.
 
@@ -26,9 +27,7 @@ _Charisma_: Any creature capable of telling the difference between itself and th
 
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

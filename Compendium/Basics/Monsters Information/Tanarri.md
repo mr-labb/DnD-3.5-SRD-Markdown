@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Tanarri]
+aliases:
+ - Tanarri
 title: Compendium/Basics/Monsters Information/Tanarri
 tag: Monster, Tanarri
 ---
@@ -30,5 +31,4 @@ Except where otherwise noted, demons speak Abyssal, Celestial, and Draconic.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

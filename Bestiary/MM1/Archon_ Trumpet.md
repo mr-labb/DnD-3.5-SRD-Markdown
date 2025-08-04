@@ -1,5 +1,7 @@
 ---
-aliases: [Archon, Trumpet]
+aliases:
+ - Archon
+ - Trumpet
 title: Bestiary/MM1/Archon, Trumpet
 tags: [35E_SRD, Monster]
 Monster: Archon, Trumpet

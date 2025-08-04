@@ -1,5 +1,6 @@
 ---
-aliases: [Comprehend Languages]
+aliases:
+ - Comprehend Languages
 title: Compendium/Basics/Spell/Comprehend Languages
 tags:
   - 35E_SRD
@@ -37,16 +38,20 @@ You can understand the spoken words of creatures or read otherwise incomprehensi
 
 - Written material can be read at a rate of **1 page (250 words) per minute**.
 - Magical writing **cannot be read**, though the spell reveals it is magical.
-- This spell can be **foiled by warding magic** like *secret page* and *illusory script*.
+- This spell can be **foiled by warding magic** like *[[secret page]]* and *[[illusory script]]*.
 - It does **not decipher codes** or **reveal hidden messages** in normal text.
 
-*Comprehend Languages* can be made permanent using a *permanency* spell.
+*Comprehend Languages* can be made permanent using a *[[permanency]]* spell.
 
 **Material Component:** A pinch of soot and a few grains of salt.
 
-Source : PHB P212
+**Source :** PHB P212
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

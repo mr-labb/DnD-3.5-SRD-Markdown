@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Marilith]
+aliases:
+ - Demon
+ - Marilith
 title: Bestiary/MM1/Demon, Marilith
 tags: [35E_SRD, Monster]
 Monster: Demon, Marilith

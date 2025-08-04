@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Movement Modes]
+aliases:
+ - Movement Modes
 title: Compendium/Basics/Movement Modes
 tag: Abilities
 ---
@@ -33,9 +34,7 @@ _Swim_: A creature with a swim speed can move through water at its swim speed wi
 
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

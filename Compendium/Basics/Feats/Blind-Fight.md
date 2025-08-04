@@ -1,5 +1,6 @@
 ---
-aliases: [Blind-Fight]
+aliases:
+ - Blind-Fight
 title: Blind-Fight
 tags: Feat, General_Feat
 ---
@@ -24,7 +25,7 @@ to hit you apply, and you lose your Dexterity bonus to AC. The speed
 reduction for darkness and poor visibility also applies.
 
 **Special:** The Blind-Fight feat is of no use against a character who
-is the subject of a *blink* spell.
+is the subject of a *[[blink]]* spell.
 
 A fighter may select Blind-Fight as one of his fighter bonus feats.
 
@@ -33,5 +34,4 @@ Source :
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Disintegrate]
+aliases:
+ - Disintegrate
 title: Compendium/Basics/Spell/Disintegrate
 tags:
   - 35E_SRD
@@ -52,16 +53,20 @@ A thin green ray springs from your pointing finger. You must succeed on a **rang
 - On a successful Fortitude save, target takes **5d6 damage**  
 - If this reduces it to 0 or fewer HP, it is **disintegrated**
 
-Note: The ray affects **only the first target struck**—one target per casting.
+Note: The ray affects **only the first target struck**â€”one target per casting.
 
 ### Arcane Material Component
 
 - A **lodestone** and a **pinch of dust**
 
 
-**Source:** PHB P222
+**Source :** PHB P222
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

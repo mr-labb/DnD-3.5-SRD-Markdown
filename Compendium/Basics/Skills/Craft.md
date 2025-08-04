@@ -1,5 +1,6 @@
 ---
-aliases: [Craft]
+aliases:
+ - Craft
 title: Compendium/Basics/skills/Craft
 tags: skill
 ---
@@ -15,11 +16,11 @@ You can practice your trade and make a decent living, earning about half your ch
 
 The basic function of the Craft skill, however, is to allow you to make an item of the appropriate type. The DC depends on the complexity of the item to be created. The DC, your check results, and the price of the item determine how long it takes to make a particular item. The item's finished price also determines the cost of raw materials.
 
-In some cases, the fabricate spell can be used to achieve the results of a Craft check with no actual check involved. However, you must make an appropriate Craft check when using the spell to make articles requiring a high degree of craftsmanship.
+In some cases, the [[fabricate]] spell can be used to achieve the results of a Craft check with no actual check involved. However, you must make an appropriate Craft check when using the spell to make articles requiring a high degree of craftsmanship.
 
-A successful Craft check related to woodworking in conjunction with the casting of the ironwood spell enables you to make wooden items that have the strength of steel.
+A successful Craft check related to woodworking in conjunction with the casting of the [[ironwood]] spell enables you to make wooden items that have the strength of steel.
 
-When casting the spell minor creation, you must succeed on an appropriate Craft check to make a complex item.
+When casting the spell [[minor creation]], you must succeed on an appropriate Craft check to make a complex item.
 
 All crafts require artisan's tools to give the best chance of success. If improvised tools are used, the check is made with a -2 circumstance penalty. On the other hand, masterwork artisan's tools provide a +2 circumstance bonus on the check.
 
@@ -182,5 +183,4 @@ If you have 5 ranks in a Craft skill, you get a +2 bonus on [[Appraise]] checks 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

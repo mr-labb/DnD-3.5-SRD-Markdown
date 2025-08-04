@@ -12,7 +12,7 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 The creature's type changes to undead. It retains any subtype except for alignment subtypes (such as good) and subtypes that indicate kind. It does not gain the augmented subtype. It uses all the base creature's statistics and special abilities except as noted here. 
 
 ### Hit Dice
-Drop any Hit Dice gained from class levels (to a minimum of 1) and raise remaining Hit Dice to d12s. If the creature has more than 20 Hit Dice, it can't be made into a skeleton by the *animate dead* spell. 
+Drop any Hit Dice gained from class levels (to a minimum of 1) and raise remaining Hit Dice to d12s. If the creature has more than 20 Hit Dice, it can't be made into a skeleton by the *[[animate dead]]* spell. 
 
 ### Speed
 Winged skeletons can't use their wings to fly. If the base creature flew magically, so can the skeleton. 
@@ -104,5 +104,8 @@ As base creature (or --- if the base creature advances by character class).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

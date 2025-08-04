@@ -1,5 +1,6 @@
 ---
-aliases: [Control Shape]
+aliases:
+ - Control Shape
 title: Compendium/Basics/skills/Control Shape
 tags: skill
 ---
@@ -37,5 +38,4 @@ A character can retry voluntary changes to animal form or hybrid form as often a
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

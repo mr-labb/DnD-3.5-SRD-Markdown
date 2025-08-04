@@ -1,5 +1,6 @@
 ---
-aliases: [Dispel Chaos]
+aliases:
+ - Dispel Chaos
 title: Compendium/Basics/Spell/Dispel Chaos
 tags:
   - 35E_SRD
@@ -47,9 +48,13 @@ This spell functions like [[Dispel Evil]], but instead targets **chaotic** rathe
 - The spell affects chaotic extraplanar entities, enchantments, and magic with the chaotic descriptor
 
 
-**Source:** PHB P222
+**Source :** PHB P222
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

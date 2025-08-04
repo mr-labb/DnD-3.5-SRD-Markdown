@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Giant]
+aliases:
+ - Giant
 title: Compendium/Basics/Monsters Information/Giant
 tag: Monster, Giant
 ---
@@ -23,7 +24,7 @@ _Features_: A giant has the following features.
 - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit Die.
     
 
-_Traits_: A giant possesses the following traits (unless otherwise noted in a creature’s entry).
+_Traits_: A giant possesses the following traits (unless otherwise noted in a creatureâ€™s entry).
 
 - Low-light vision.
     
@@ -33,7 +34,6 @@ _Traits_: A giant possesses the following traits (unless otherwise noted in a cr
     
 - Giants eat, sleep, and breathe.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

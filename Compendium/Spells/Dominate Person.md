@@ -1,5 +1,6 @@
 ---
-aliases: [Dominate Person]
+aliases:
+ - Dominate Person
 title: Compendium/Basics/Spell/Dominate Person
 tags:
   - 35E_SRD
@@ -70,9 +71,13 @@ You create a **telepathic link** that allows you to **control the actions** of a
 - Spells like [[Protection from Evil]] block **control and communication**, but **do not end** domination
 
 
-**Source:** PHB P224
+**Source :** PHB P224
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

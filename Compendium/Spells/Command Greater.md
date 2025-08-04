@@ -1,5 +1,6 @@
 ---
-aliases: [Greater Command]
+aliases:
+ - Greater Command
 title: Compendium/Basics/Spell/Command, Greater
 tags:
   - 35E_SRD
@@ -30,9 +31,13 @@ As [[Command]], but affects one subject/level.
 
 This spell functions like *[[command]]*, except that up to one creature per level may be affected, and the activities continue beyond 1 round. At the start of each commanded creature's action after the first, it gets another Will save to attempt to break free from the spell. Each creature must receive the same command.
 
-Source : PHB P211
+**Source :** PHB P211
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

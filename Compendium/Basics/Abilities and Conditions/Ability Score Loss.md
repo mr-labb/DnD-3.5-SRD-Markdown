@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Ability Score Loss]
+aliases:
+ - Ability Score Loss
 title: Compendium\Basics\Abilities and Conditions\Ability Score Loss
 tag: Abilities, Conditions
 ---
@@ -18,7 +19,7 @@ _Ability Drain_: This effect permanently reduces a living opponent’s ability s
 
 Some ability drain attacks allow a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). If no saving throw is mentioned, none is allowed.  
 
-Points lost to ability damage return at the rate of 1 point per day (or double that if the character gets complete bed rest) to each damaged ability, and the spells lesser restoration and restoration offset ability damage as well. Ability drain, however, is permanent, though restoration can restore even those lost ability score points.
+Points lost to ability damage return at the rate of 1 point per day (or double that if the character gets complete bed rest) to each damaged ability, and the spells [[Restoration Lesser|lesser restoration]] and restoration offset ability damage as well. Ability drain, however, is permanent, though restoration can restore even those lost ability score points.
 
 While any loss is debilitating, losing all points in an ability score can be devastating.
 
@@ -45,9 +46,7 @@ If a character’s Constitution score drops, then he loses 1 hit point per Hit D
 
 The ability that some creatures have to drain ability scores is a supernatural one, requiring some sort of attack. Such creatures do not drain abilities from enemies when the enemies strike them, even with unarmed attacks or natural weapons.
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

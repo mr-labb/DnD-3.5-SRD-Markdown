@@ -1,5 +1,6 @@
 ---
-aliases: [Chaos Hammer]
+aliases:
+ - Chaos Hammer
 title: Compendium/Basics/Spell/Chaos Hammer
 tags: 
   - 35E_SRD
@@ -33,9 +34,13 @@ The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to lawf
 
 The spell deals only half damage against creatures who are neither lawful nor chaotic, and they are not slowed. Such a creature can reduce the damage by half again (down to one-quarter) with a successful Will save.
 
-Source : PHB P208
+**Source :** PHB P208
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

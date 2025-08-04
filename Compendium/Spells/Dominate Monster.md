@@ -1,5 +1,6 @@
 ---
-aliases: [Dominate Monster]
+aliases:
+ - Dominate Monster
 title: Compendium/Basics/Spell/Dominate Monster
 tags:
   - 35E_SRD
@@ -17,7 +18,7 @@ Source: PHB
 
 ## Dominate Monster
 
-As Dominate Person, but any creature.
+As [[Dominate Person]], but any creature.
 
 ### Spell Details
 
@@ -40,11 +41,15 @@ This is the most powerful form of magical domination available. It functions lik
 - Target obeys even complex instructions, depending on your control and its Intelligence  
 - **Suicidal or overtly self-destructive commands** may be resisted or ignored, per GM discretion
 
-You retain control as long as the creature remains within range and under the spell’s duration. The long duration makes this ideal for controlling powerful enemies, turning them into allies (or at least tools) for extended quests or conflicts.
+You retain control as long as the creature remains within range and under the spellâ€™s duration. The long duration makes this ideal for controlling powerful enemies, turning them into allies (or at least tools) for extended quests or conflicts.
 
-**Source:** PHB P224
+**Source :** PHB P224
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

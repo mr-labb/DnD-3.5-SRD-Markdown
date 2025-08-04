@@ -1,5 +1,6 @@
 ---
-aliases: [Awaken]
+aliases:
+ - Awaken
 title: Compendium/Basics/Spell/Awaken
 tags: 
   - 35E_SRD
@@ -40,9 +41,13 @@ An *awakened* tree or animal can speak one language that you know, plus one addi
 
 *XP Cost:* 250 XP.
 
-Source : PHB P202
+**Source :** PHB P202
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

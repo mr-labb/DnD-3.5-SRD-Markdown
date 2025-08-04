@@ -1,5 +1,6 @@
 ---
-aliases: [Disrupt Undead]
+aliases:
+ - Disrupt Undead
 title: Compendium/Basics/Spell/Disrupt Undead
 tags:
   - 35E_SRD
@@ -40,12 +41,16 @@ You project a ray of **positive energy** toward an undead creature.
 - Spell does **not affect** living creatures or constructs  
 - Standard rules for cover and concealment apply to targeting
 
-While modest in power, this cantrip is a reliable way to chip away at lesser undead or finish off weakened foes—especially when conserving higher-level spell slots.
+While modest in power, this cantrip is a reliable way to chip away at lesser undead or finish off weakened foesâ€”especially when conserving higher-level spell slots.
 
 
-**Source:** PHB P223
+**Source :** PHB P223
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

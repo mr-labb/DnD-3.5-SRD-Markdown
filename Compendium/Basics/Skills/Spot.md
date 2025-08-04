@@ -1,5 +1,6 @@
 ---
-aliases: [Spot]
+aliases:
+ - Spot
 title: Compendium/Basics/skills/Spot
 tags: skill
 ---
@@ -78,5 +79,4 @@ or other darkened areas.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

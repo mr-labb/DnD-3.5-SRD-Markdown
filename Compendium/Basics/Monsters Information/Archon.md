@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Archon]
+aliases:
+ - Archon
 title: Compendium/Basics/Monsters Information/Archon
 tag: Monster, Archon
 ---
@@ -22,13 +23,12 @@ _Traits_: An archon possesses the following traits (unless otherwise noted in a 
     
 - +4 racial bonus on saves against poison.
     
-- [[Magic Circle against Evil]] (Su): A magic circle against evil effect always surrounds an archon (caster level equals the archon’s Hit Dice). (The defensive benefits from the circle are not included in an archon’s statistics block.)
+- [[Magic Circle against Evil]] (Su): A [[magic circle against evil]] effect always surrounds an archon (caster level equals the archon’s Hit Dice). (The defensive benefits from the circle are not included in an archon’s statistics block.)
     
-- Teleport (Su): Archons can use [[greater teleport]] at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of objects.
+- [[Teleport]] (Su): Archons can use [[greater teleport]] at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of objects.
     
-- Tongues (Su): All archons can speak with any creature that has a language, as though using a [[tongues]] spell (caster level 14th). This ability is always active.
+- [[Tongues]] (Su): All archons can speak with any creature that has a language, as though using a [[tongues]] spell (caster level 14th). This ability is always active.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

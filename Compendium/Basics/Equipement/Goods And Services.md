@@ -174,12 +174,12 @@ title: Compendium/Basics/Equipement/Goods And Services
 |Bit and bridle|2 gp|1 lb.|
 |Dog, guard|25 gp|—|
 |Dog, riding|150 gp|—|
-|Donkey or mule|8 gp|—|
+|Donkey or [[mule]]|8 gp|—|
 |Feed (per day)|5 cp|10 lb.|
 |Horse|
 |Horse, heavy|200 gp|—|
 |Horse, light|75 gp|—|
-|Pony|30 gp|—|
+|[[Pony]]|30 gp|—|
 |Warhorse, heavy|400 gp|—|
 |Warhorse, light|150 gp|—|
 |Warpony|100 gp|—|
@@ -304,7 +304,7 @@ A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of th
 
 **Antitoxin**: If you drink antitoxin, you get a +5 alchemical bonus on Fortitude saving throws against poison for 1 hour.
 
-**Everburning Torch**: This otherwise normal torch has a continual flame spell cast upon it. An everburning torch clearly illuminates a 20-foot radius and provides shadowy illumination out to a 40-foot radius.
+**Everburning Torch**: This otherwise normal torch has a [[continual flame]] spell cast upon it. An everburning torch clearly illuminates a 20-foot radius and provides shadowy illumination out to a 40-foot radius.
 
 **Holy Water**: Holy water damages undead creatures and evil outsiders almost as if it were acid. A flask of holy water can be thrown as a splash weapon. Treat this attack as a ranged touch attack with a range increment of 10 feet. A flask breaks if thrown against the body of a corporeal creature, but to use it against an incorporeal creature, you must open the flask and pour the holy water out onto the target. Thus, you can douse an incorporeal creature with holy water only if you are adjacent to it. Doing so is a ranged touch attack that does not provoke attacks of opportunity.
 
@@ -312,7 +312,7 @@ A direct hit by a flask of holy water deals 2d4 points of damage to an undead cr
 
 Temples to good deities sell holy water at cost (making no profit).
 
-**Smokestick**: This alchemically treated wooden stick instantly creates thick, opaque smoke when ignited. The smoke fills a 10- foot cube (treat the effect as a fog cloud spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally.
+**Smokestick**: This alchemically treated wooden stick instantly creates thick, opaque smoke when ignited. The smoke fills a 10- foot cube (treat the effect as a [[fog cloud]] spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally.
 
 **Sunrod**: This 1-foot-long, gold-tipped, iron rod glows brightly when struck. It clearly illuminates a 30-foot radius and provides shadowy illumination in a 60-foot radius. It glows for 6 hours, after which the gold tip is burned out and worthless.
 
@@ -342,7 +342,7 @@ Since you don’t need to hit a specific target, you can simply aim at a particu
 
 **Holy Symbol, Silver or Wooden**: A holy symbol focuses positive energy. A cleric or paladin uses it as the focus for his spells and as a tool for turning undead. Each religion has its own holy symbol.
 
-**Unholy Symbols**: An unholy symbol is like a holy symbol except that it focuses negative energy and is used by evil clerics (or by neutral clerics who want to cast evil spells or command undead).
+**Unholy Symbols**: An unholy symbol is like a holy symbol except that it focuses negative energy and is used by evil clerics (or by neutral clerics who want to cast evil spells or [[command undead]]).
 
 **Magnifying Glass**: This simple lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and at least a full-round action. A magnifying glass grants a +2 circumstance bonus on Appraise checks involving any item that is small or highly detailed.
 
@@ -398,7 +398,7 @@ Since you don’t need to hit a specific target, you can simply aim at a particu
 
 **Barding, Medium Creature and Large Creature**: Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of any of the armor types found on Table: Armor and Shields.
 
-Armor for a horse (a Large nonhumanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much as the armor found on Table: Armor and Shields (see Armor for Unusual Creatures). If the barding is for a pony or other Medium mount, the cost is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.
+Armor for a horse (a Large nonhumanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much as the armor found on Table: Armor and Shields (see Armor for Unusual Creatures). If the barding is for a [[pony]] or other Medium mount, the cost is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.
 
 ||Base Speed|   |   |
 |---|---|---|---|
@@ -414,11 +414,11 @@ Removing and fitting barding takes five times as long as the figures given on Ta
 
 **Dog, Riding**: This Medium dog is specially trained to carry a Small humanoid rider. It is brave in combat like a warhorse. You take no damage when you fall from a riding dog.
 
-**Donkey or Mule**: Donkeys and mules are stolid in the face of danger, hardy, surefooted, and capable of carrying heavy loads over vast distances. Unlike a horse, a donkey or a mule is willing (though not eager) to enter dungeons and other strange or threatening places.
+**Donkey or [[Mule]]**: Donkeys and mules are stolid in the face of danger, hardy, surefooted, and capable of carrying heavy loads over vast distances. Unlike a horse, a donkey or a [[mule]] is willing (though not eager) to enter dungeons and other strange or threatening places.
 
 **Feed**: Horses, donkeys, mules, and ponies can graze to sustain themselves, but providing feed for them is much better. If you have a riding dog, you have to feed it at least some meat.
 
-**Horse**: A horse (other than a pony) is suitable as a mount for a human, dwarf, elf, half-elf, or half-orc. A pony is smaller than a horse and is a suitable mount for a gnome or halfling.
+**Horse**: A horse (other than a [[pony]]) is suitable as a mount for a human, dwarf, elf, half-elf, or half-orc. A [[pony]] is smaller than a horse and is a suitable mount for a gnome or halfling.
 
 Warhorses and warponies can be ridden easily into combat. Light horses, ponies, and heavy horses are hard to control in combat.
 
@@ -481,10 +481,6 @@ In addition, not every town or village has a spellcaster of sufficient level to 
 - A large city for 5th- or 6th-level spells, 
 - A metropolis for 7th- or 8th-level spells. Even a metropolis isn’t guaranteed to have a local spellcaster able to cast 9th-level spells.
 
-
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

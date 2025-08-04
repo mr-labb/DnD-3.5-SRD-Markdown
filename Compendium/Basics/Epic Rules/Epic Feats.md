@@ -645,16 +645,16 @@ good cohorts for epic characters.
   Creature                 Alignment      Level Equivalent
   Angel, astral deva       Any good       20nd
   Dragon, ancient silver   Lawful good    42nd
-  Couatl                   Lawful good    16th
+  [[Couatl]]                   Lawful good    16th
   Giant, cloud             Neutral good   24th
-  Ghaele                   Chaotic good   20st
+  [[Ghaele]]                   Chaotic good   20st
   Giant, storm             Chaotic good   28th
   Dragon, wyrm brass       Chaotic good   42th
   Dragon turtle            Neutral        21st
   Hydra, 12-headed         Neutral        19th
-  Roc                      Neutral        23rd
+  [[Roc]]                      Neutral        23rd
   Dragon, ancient green    Lawful evil    40th
-  Devil, ice (gelugon)     Lawful evil    21st
+  Devil, ice ([[Devil_Ice|gelugon]])     Lawful evil    21st
   Giant, cloud             Neutral evil   24th
   Demon, glabrezu          Chaotic evil   23rd
   Demon, succubus          Chaotic evil   12th
@@ -1411,7 +1411,7 @@ start of the character's next turn) suffer a --4 penalty.
 
 When using the Improved Whirlwind feat, the character also forfeits any
 bonus or extra attacks granted by other spells or abilities (such as
-Cleave or the haste spell).
+Cleave or the [[haste]] spell).
 
 Since these attacks are made as part of a standard action the character
 can't make a 5-foot step between any two of the attacks.
@@ -1632,38 +1632,38 @@ animal companions from which you can select.
 
 #### 1st Level (No Adjustment)
 
--   Stirge
+-   [[Stirge]]
 -   Darkmantle
 
 #### 4th Level (-3)
 
 -   Hippogriff
--   Shocker lizard
+-   [[Shocker lizard]]
 
 #### 7th Level (-6)
 
--   Cockatrice
--   Ankheg
--   Griffon
--   Owlbear
--   Sea cat\*
+-   [[Cockatrice]]
+-   [[Ankheg]]
+-   [[Griffon]]
+-   [[Owlbear]]
+-   [[Sea cat]]\*
 
 #### 10th Level (-9)
 
 -   Basilisk
 -   Digerster
--   Girallon
--   Spider eater
+-   [[Girallon]]
+-   [[Spider eater]]
 
 #### 13th Level (-12)
 
--   Bulette
--   Chimera
--   Remorhaz
+-   [[Bulette]]
+-   [[Chimera]]
+-   [[Remorhaz]]
 
 #### 16th Level (-15)
 
--   Gorgon
+-   [[Gorgon]]
 -   Gray render
 
 ### Special
@@ -1784,11 +1784,11 @@ bonus on their Will saves to resist such effects.
 ### Negative Energy Burst (featType:: Divine\]\[Epic)
 
 ### Prerequisites
-Cha 25, ability to rebuke or command undead, ability
-to cast *inflict critical wounds,*any evil alignment.
+Cha 25, ability to rebuke or [[command undead]], ability
+to cast *[[inflict critical wounds]],*any evil alignment.
 
 ### Benefit
-The character can use one rebuke or command undead attempt
+The character can use one rebuke or [[command undead]] attempt
 to unleash a wave of negative energy in a 60-foot-burst. Roll a normal
 rebuke (or command) check, except that the negative energy burst affects
 living creatures rather than undead. Any creature that would be rebuked
@@ -2350,7 +2350,7 @@ but can only use it when wearing light or no armor.
 ### Undead Mastery (featType:: Divine\]\[Epic)
 
 ### Prerequisites
-Cha 21, ability to rebuke or command undead.
+Cha 21, ability to rebuke or [[command undead]].
 
 ### Benefit
 The character may command up to ten times his or her level
@@ -2416,7 +2416,7 @@ Cha 25, Undead Mastery, ability to rebuke or command
 undead.
 
 ### Benefit
-The character can use a rebuke or command undead attempt to
+The character can use a rebuke or [[command undead]] attempt to
 animate corpses within range of his or her rebuke or command attempt.
 The character animates a total number of HD of undead equal to the
 number of undead that would be commanded by the character's result
@@ -2497,5 +2497,8 @@ for creatures with more than two arms.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

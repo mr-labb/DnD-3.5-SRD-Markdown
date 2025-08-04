@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Paladin]
+aliases:
+ - Paladin
 title: Compendium/Basics/Classe/Paladin
 tag: Class, Paladin
 ---
@@ -9,7 +10,8 @@ tag: Class, Paladin
 
 ### PALADIN
 
-
+<br><br>The compassion to pursue good, the will to uphold law, and the power to defeat evil - these are the three weapons of the paladin. Few have the purity and devotion that it takes to walk the paladin's path, but those few are rewarded with the power to protect, to heal, and to smite. In a land of scheming wizards, unholy priests, bloodthirsty dragons, and infernal fiends, the paladin is the final hope that cannot be extinguished.<br><br>Paladins take their adventures seriously and have a penchant for referring to them as quests. Even a mundane mission is, in the heart of the paladin, a personal test - an opportunity to demonstrate bravery, to develop martial skills, to learn tactics, and to find ways to do good. Still, the paladin really comes into her own when leading a mighty campaign against evil, not when merely looting ruins.<br><br>[[Divine power]] protects the paladin and gives her special powers. It wards off harm, protects her from disease, lets her heal herself, and guards her heart against fear. The paladin can also direct this power to help others, healing their wounds or curing diseases. Finally, the paladin can use this power to destroy evil. Even the least experienced paladin can [[detect evil]], and more experienced paladins can smite evil foes and turn away undead. In addition, this power draws a mighty steed to the paladin and imbues that mount with strength, intelligence, and magical protection.<br><br>Paladins must be lawful good, and they lose their divine powers if they deviate from that alignment. Additionally, paladins swear to follow a code of conduct that is in line with lawfulness and goodness.<br><br>Paladins need not devote themselves to a single deity - devotion to righteousness is enough. Those who align themselves with particular religions prefer Heironeous (god of valor) over all others, but some paladins follow Pelor (the sun god). Paladins devoted to a god are scrupulous in observing religious duties and are welcome in every associated temple.<br><br>No one ever chooses to be a paladin. Becoming a paladin is answering a call, accepting one's destiny. No one, no matter how diligent, can become a paladin through practice. The nature is either within one or not, and it is not possible to gain the paladin's nature by any act of will. It is possible, however, to fail to recognize one's own potential, or to deny one's destiny. Occasionally, one who is called to be a paladin denies that call and pursues some other life instead.<br><br>Most paladins answer the call and begin training as adolescents. Typically, they become squires or assistants to experienced paladins, train for years, and finally set off on their own to further the causes of good and law. Other paladins, however, find their calling only later in life, after having pursued some other career. All paladins, regardless of background, recognize in each other an eternal bond that transcends culture, race, and even religion. Any two paladins, even from opposite sides of the world, consider themselves comrades.<br><br>Humans, with their ambitious souls, make great paladins. Half-elves, who often have human ambition, may also find themselves called into service as paladins. Dwarves are sometimes paladins, but becoming a paladin may be hard on a dwarf because it means putting the duties of the paladin's life before duties to family, clan, and king. Elf paladins are few, and they tend to follow quests that take them far and wide because their lawful bent puts them out of synch with life among the elves. Members of the other common races rarely hear the call to become paladins. Among the savage humanoids, paladins are all but unheard of.<br><br>Even though paladins are in some ways set apart from others, they eagerly team up with those whose skills and capabilities complement their own. They work well with good and lawful clerics, and they appreciate working with those who are brave, honest, and committed to good. While they cannot abide evil acts by their companions, they are otherwise willing to work with a variety of people quite different from themselves. Charismatic, trustworthy, and well respected, the paladin makes a fine leader for a team.<br><br>The paladin's chief role in most groups is as a melee combatant, but she contributes other useful support as well. She makes a good secondary healer, and her high Charisma opens up fine leadership opportunities.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Lawful good.
 
@@ -17,7 +19,7 @@ tag: Class, Paladin
 
 ###### Class Skills
 
-The paladin's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Knowledge]] (nobility and royalty) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Ride]] (Dex), and [[Sense Motive]] (Wis).
+The paladin's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Ride]] (Dex), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -28,24 +30,24 @@ The paladin's class skills (and the key ability for each skill) are [[Concentrat
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, smite evil 1/day|—|—|—|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], smite evil 1/day|—|—|—|—|
 |2nd|+2|+3|+0|+0|Divine grace, lay on hands|—|—|—|—|
 |3rd|+3|+3|+1|+1|Aura of courage, divine health|—|—|—|—|
 |4th|+4|+4|+1|+1|Turn undead|0|—|—|—|
 |5th|+5|+4|+1|+1|Smite evil 2/day, special mount|0|—|—|—|
-|6th|+6/+1|+5|+2|+2|Remove disease 1/week|1|—|—|—|
+|6th|+6/+1|+5|+2|+2|[[Remove disease]] 1/week|1|—|—|—|
 |7th|+7/+2|+5|+2|+2||1|—|—|—|
 |8th|+8/+3|+6|+2|+2||1|0|—|—|
-|9th|+9/+4|+6|+3|+3|Remove disease 2/week|1|0|—|—|
+|9th|+9/+4|+6|+3|+3|[[Remove disease]] 2/week|1|0|—|—|
 |10th|+10/+5|+7|+3|+3|Smite evil 3/day|1|1|—|—|
 |11th|+11/+6/+1|+7|+3|+3||1|1|0|—|
-|12th|+12/+7/+2|+8|+4|+4|Remove disease 3/week|1|1|1|—|
+|12th|+12/+7/+2|+8|+4|+4|[[Remove disease]] 3/week|1|1|1|—|
 |13th|+13/+8/+3|+8|+4|+4||1|1|1|—|
 |14th|+14/+9/+4|+9|+4|+4||2|1|1|0|
-|15th|+15/+10/+5|+9|+5|+5|Remove disease 4/week, smite evil 4/day|2|1|1|1|
+|15th|+15/+10/+5|+9|+5|+5|[[Remove disease]] 4/week, smite evil 4/day|2|1|1|1|
 |16th|+16/+11/+6/+1|+10|+5|+5||2|2|1|1|
 |17th|+17/+12/+7/+2|+10|+5|+5||2|2|2|1|
-|18th|+18/+13/+8/+3|+11|+6|+6|Remove disease 5/week|3|2|2|1|
+|18th|+18/+13/+8/+3|+11|+6|+6|[[Remove disease]] 5/week|3|2|2|1|
 |19th|+19/+14/+9/+4|+11|+6|+6||3|3|3|2|
 |20th|+20/+15/+10/+5|+12|+6|+6|Smite evil 5/day|3|3|3|3|
 
@@ -57,9 +59,9 @@ All of the following are class features of the paladin.
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Good (Ex)**: The power of a paladin's aura of good (see the detect good spell) is equal to her paladin level.
+**Aura of Good (Ex)**: The power of a paladin's aura of good (see the [[detect good]] spell) is equal to her paladin level.
 
-**Detect Evil (Sp)**: At will, a paladin can use detect evil, as the spell.
+**[[Detect Evil]] (Sp)**: At will, a paladin can use [[detect evil]], as the spell.
 
 **Smite Evil (Su)**: Once per day, a paladin may attempt to smite evil with one normal melee attack. She adds her Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per paladin level. If the paladin accidentally smites a creature that is not evil, the smite has no effect, but the ability is still used up for that day.
 
@@ -87,7 +89,7 @@ A paladin prepares and casts spells the way a cleric does, though she cannot los
 
 Through 3rd level, a paladin has no caster level. At 4th level and higher, her caster level is one-half her paladin level.
 
-**Special Mount (Sp)**: Upon reaching 5th level, a paladin gains the service of an unusually intelligent, strong, and loyal steed to serve her in her crusade against evil (see below). This mount is usually a heavy warhorse (for a Medium paladin) or a warpony (for a Small paladin).
+**Special Mount (Sp)**: Upon reaching 5th level, a paladin gains the service of an unusually intelligent, strong, and loyal steed to serve her in her crusade against evil (see below). This mount is usually a [[Warhorse_Heavy|heavy warhorse]] (for a Medium paladin) or a warpony (for a Small paladin).
 
 Once per day, as a full-round action, a paladin may magically call her mount from the celestial realms in which it resides. This ability is the equivalent of a spell of a level equal to one-third the paladin's class level. The mount immediately appears adjacent to the paladin and remains for 2 hours per paladin level; it may be dismissed at any time as a free action. The mount is the same creature each time it is summoned, though the paladin may release a particular mount from service.
 
@@ -95,7 +97,7 @@ Each time the mount is called, it appears in full health, regardless of any dama
 
 Should the paladin's mount die, it immediately disappears, leaving behind any equipment it was carrying. The paladin may not summon another mount for thirty days or until she gains a paladin level, whichever comes first, even if the mount is somehow returned from the dead. During this thirty-day period, the paladin takes a -1 penalty on attack and weapon damage rolls.
 
-**Remove Disease (Sp)**: At 6th level, a paladin can produce a remove disease effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth).
+**[[Remove Disease]] (Sp)**: At 6th level, a paladin can produce a [[remove disease]] effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth).
 
 ###### Code of Conduct
 
@@ -107,13 +109,13 @@ While she may adventure with characters of any good or neutral alignment, a pala
 
 ###### Ex-Paladins
 
-A paladin who ceases to be lawful good, who willfully commits an evil act, or who grossly violates the code of conduct loses all paladin spells and abilities (including the service of the paladin's mount, but not weapon, armor, and shield proficiencies). She may not progress any farther in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the atonement spell description), as appropriate.
+A paladin who ceases to be lawful good, who willfully commits an evil act, or who grossly violates the code of conduct loses all paladin spells and abilities (including the service of the paladin's mount, but not weapon, armor, and shield proficiencies). She may not progress any farther in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the [[atonement]] spell description), as appropriate.
 
 Like a member of any other class, a paladin may be a multiclass character, but multiclass paladins face a special restriction. A paladin who gains a level in any class other than paladin may never again raise her paladin level, though she retains all her paladin abilities.
 
 ##### THE PALADIN'S MOUNT
 
-The paladin's mount is superior to a normal mount of its kind and has special powers, as described below. The standard mount for a Medium paladin is a heavy warhorse, and the standard mount for a Small paladin is a warpony. Another kind of mount, such as a riding dog (for a halfling paladin) or a Large shark (for a paladin in an aquatic campaign) may be allowed as well. A paladin's mount is treated as a magical beast, not an animal, for the purpose of all effects that depend on its type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
+The paladin's mount is superior to a normal mount of its kind and has special powers, as described below. The standard mount for a Medium paladin is a [[Warhorse_Heavy|heavy warhorse]], and the standard mount for a Small paladin is a warpony. Another kind of mount, such as a riding dog (for a halfling paladin) or a [[Shark_Large|Large shark]] (for a paladin in an aquatic campaign) may be allowed as well. A paladin's mount is treated as a magical beast, not an animal, for the purpose of all effects that depend on its type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
 
 |Paladin Level|Bonus HD|Natural Armor Adj.|Str Adj.|Int|Special|
 |---|---|---|---|---|---|
@@ -172,7 +174,7 @@ Anarchs must be chaotic neutral, since they embody the unpredictable nature of e
 
 ##### Class Skills
 
-The anarch's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), Disable Device (Int), [[Intimidate]] (Cha), [[Knowledge]] (architecture and engineering) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[Survival]] (Wis).
+The anarch's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), Disable Device (Int), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -185,26 +187,26 @@ The anarch's class skills (and the key ability for each skill) are [[Bluff]] (Ch
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+0|+2|+0|Aura of chaos, detect law, smite law 1/day|—|—|—|—|
+|1st|+1|+0|+2|+0|Aura of chaos, [[detect law]], smite law 1/day|—|—|—|—|
 |2nd|+2|+0|+3|+0|Divine grace, destructive strike|—|—|—|—|
 |3rd|+3|+1|+3|+1|Aura of courage, slippery mind|—|—|—|—|
 |4th|+4|+1|+4|+1|Turn construct|0|—|—|—|
 |5th|+5|+1|+4|+1|Smite law 2/day, special mount|0|—|—|—|
 |6th|+6/+1|+2|+5|+2||1|—|—|—|
 |7th|+7/+2|+2|+5|+2||1|—|—|—|
-|8th|+8/+3|+2|+6|+2|Dispel law 1/week|1|0|—|—|
+|8th|+8/+3|+2|+6|+2|[[Dispel law]] 1/week|1|0|—|—|
 |9th|+9/+4|+3|+6|+3||1|0|—|—|
 |10th|+10/+5|+3|+7|+3|Smite law 3/day|1|1|—|—|
 |11th|+11/+6/+1|+3|+7|+3||1|1|0|—|
-|12th|+12/+7/+2|+4|+8|+4|Dispel law 2/week|1|1|1|—|
+|12th|+12/+7/+2|+4|+8|+4|[[Dispel law]] 2/week|1|1|1|—|
 |13th|+13/+8/+3|+4|+8|+4||1|1|1|—|
 |14th|+14/+9/+4|+4|+9|+4||2|1|1|0|
 |15th|+15/+10/+5|+5|+9|+5|Smite law 4/day|2|1|1|1|
-|16th|+16/+11/+6/+1|+5|+10|+5|Dispel law 3/week|2|2|1|1|
+|16th|+16/+11/+6/+1|+5|+10|+5|[[Dispel law]] 3/week|2|2|1|1|
 |17th|+17/+12/+7/+2|+5|+10|+5||2|2|2|1|
 |18th|+18/+13/+8/+3|+6|+11|+6||3|2|2|1|
 |19th|+19/+14/+9/+4|+6|+11|+6||3|3|3|2|
-|20th|+20/+15/+10/+5|+6|+12|+6|Dispel law 4/week, smite law 5/day|3|3|3|3|
+|20th|+20/+15/+10/+5|+6|+12|+6|[[Dispel law]] 4/week, smite law 5/day|3|3|3|3|
 
 ##### Class Features
 
@@ -212,9 +214,9 @@ All of the following are class features of the anarch.
 
 **Weapon and Armor Proficiency**: Anarchs are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Chaos**: The power of an anarch's aura of chaos (see the detect chaos spell) is equal to his anarch level.
+**Aura of Chaos**: The power of an anarch's aura of chaos (see the [[detect chaos]] spell) is equal to his anarch level.
 
-**Detect Law (Sp)**: At will, an anarch can use detect law, as the spell.
+**[[Detect Law]] (Sp)**: At will, an anarch can use [[detect law]], as the spell.
 
 **Smite Law (Su)**: An anarch's smite ability affects lawful creatures, but otherwise, it functions the same as the paladin's ability to smite evil.
 
@@ -230,7 +232,7 @@ All of the following are class features of the anarch.
 
 **Special Mount (Sp)**: Anarchs gain a special mount, just as a paladin does, at 5th level.
 
-**Dispel Law (Sp)**: At 8th level, an anarch gains the ability to dispel law, as the spell, once per week. He may use this ability an additional time each week every additional four levels, to a maximum of 4 times a week at 20th level. Caster level is equal to the anarch's class level.
+**[[Dispel Law]] (Sp)**: At 8th level, an anarch gains the ability to [[dispel law]], as the spell, once per week. He may use this ability an additional time each week every additional four levels, to a maximum of 4 times a week at 20th level. Caster level is equal to the anarch's class level.
 
 ##### Code of Conduct
 
@@ -244,13 +246,13 @@ An anarch never knowingly associates with lawful characters, nor will he continu
 
 Anarchs choose their spells from the following list:
 
-_1st Level_: Bane, bless weapon, cause fear, cure light wounds, detect poison, divine favor, doom, endure elements, entropic shield, lesser confusion, magic weapon, obscuring mist, protection from law.
+_1st Level_: Bane, [[bless weapon]], [[cause fear]], [[cure light wounds]], [[detect poison]], [[divine favor]], doom, [[endure elements]], [[entropic shield]], [[Confusion Lesser|lesser confusion]], magic weapon, [[obscuring mist]], [[protection from law]].
 
-_2nd Level_: Align weapon, bear's endurance, blur, darkness, eagle's splendor, mirror image, misdirection, scare, shatter, touch of idiocy, undetectable alignment.
+_2nd Level_: [[Align weapon]], [[Bears Endurance|bear's endurance]], [[blur]], darkness, [[Eagles Splendor|eagle's splendor]], [[mirror image]], [[misdirection]], [[scare]], shatter, [[touch of idiocy]], [[undetectable alignment]].
 
-_3rd Level_: Blindness/deafness, contagion, cure moderate wounds, deeper darkness, dispel magic, greater magic weapon, magic circle against law, rage, slow.
+_3rd Level_: [[Blindness_Deafness|Blindness/deafness]], [[contagion]], [[cure moderate wounds]], [[deeper darkness]], [[dispel magic]], [[Magic Weapon Greater|greater magic weapon]], [[magic circle against law]], rage, slow.
 
-_4th Level_: Break enchantment, chaos hammer, confusion, cure serious wounds, dispel law, freedom of movement, lesser planar ally, poison, shout.
+_4th Level_: [[Break enchantment]], [[chaos hammer]], [[confusion]], [[cure serious wounds]], [[dispel law]], [[freedom of movement]], [[Planar Ally Lesser|lesser planar ally]], poison, shout.
 
 #### Angel's Sight
 
@@ -274,7 +276,7 @@ Anti-paladins must be chaotic evil, since they personify the raw destructive for
 
 ##### Class Skills
 
-The anti-paladin's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Climb]] (Str), [[Concentration]] (Con), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Ride]] (Dex), and [[Survival]] (Wis).
+The anti-paladin's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Climb]] (Str), [[Concentration]] (Con), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Ride]] (Dex), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -287,24 +289,24 @@ The anti-paladin's class skills (and the key ability for each skill) are [[Bluff
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+2|+0|+0|Aura of evil, detect good, smite good 1/day|—|—|—|—|
+|1st|+1|+2|+0|+0|Aura of evil, [[detect good]], smite good 1/day|—|—|—|—|
 |2nd|+2|+3|+0|+0|Divine grace, slaughter the weak|—|—|—|—|
-|3rd|+3|+3|+1|+1|Aura of fear, death knell 1/day|—|—|—|—|
+|3rd|+3|+3|+1|+1|Aura of fear, [[death knell]] 1/day|—|—|—|—|
 |4th|+4|+4|+1|+1|Turn or rebuke outsider|0|—|—|—|
 |5th|+5|+4|+1|+1|Smite good 2/day, fiendish mount|0|—|—|—|
-|6th|+6/+1|+5|+2|+2|Contagion 1/week|1|—|—|—|
+|6th|+6/+1|+5|+2|+2|[[Contagion]] 1/week|1|—|—|—|
 |7th|+7/+2|+5|+2|+2||1|—|—|—|
-|8th|+8/+3|+6|+2|+2|Death knell 2/day|1|0|—|—|
-|9th|+9/+4|+6|+3|+3|Contagion 2/week|1|0|—|—|
+|8th|+8/+3|+6|+2|+2|[[Death knell]] 2/day|1|0|—|—|
+|9th|+9/+4|+6|+3|+3|[[Contagion]] 2/week|1|0|—|—|
 |10th|+10/+5|+7|+3|+3|Smite good 3/day|1|1|—|—|
 |11th|+11/+6/+1|+7|+3|+3||1|1|0|—|
-|12th|+12/+7/+2|+8|+4|+4|Contagion 3/week|1|1|1|—|
-|13th|+13/+8/+3|+8|+4|+4|Death knell 3/day|1|1|1|—|
+|12th|+12/+7/+2|+8|+4|+4|[[Contagion]] 3/week|1|1|1|—|
+|13th|+13/+8/+3|+8|+4|+4|[[Death knell]] 3/day|1|1|1|—|
 |14th|+14/+9/+4|+9|+4|+4||2|1|1|0|
-|15th|+15/+10/+5|+9|+5|+5|Contagion 4/week, smite good 4/day|2|1|1|1|
+|15th|+15/+10/+5|+9|+5|+5|[[Contagion]] 4/week, smite good 4/day|2|1|1|1|
 |16th|+16/+11/+6/+1|+10|+5|+5||2|2|1|1|
 |17th|+17/+12/+7/+2|+10|+5|+5||2|2|2|1|
-|18th|+18/+13/+8/+3|+11|+6|+6|Contagion 5/week, death knell 4/day|3|2|2|1|
+|18th|+18/+13/+8/+3|+11|+6|+6|[[Contagion]] 5/week, [[death knell]] 4/day|3|2|2|1|
 |19th|+19/+14/+9/+4|+11|+6|+6||3|3|3|2|
 |20th|+20/+15/+10/+5|+12|+6|+6|Smite good 5/day|3|3|3|3|
 
@@ -314,25 +316,25 @@ All of the following are class features of the anti-paladin.
 
 **Weapon and Armor Proficiency**: Anti-paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Evil**: The power of an anti-paladin's aura of evil (see the detect evil spell) is equal to his anti-paladin level.
+**Aura of Evil**: The power of an anti-paladin's aura of evil (see the [[detect evil]] spell) is equal to his anti-paladin level.
 
-**Detect Good (Sp)**: At will, an anti-paladin can detect good, as the spell.
+**[[Detect Good]] (Sp)**: At will, an anti-paladin can detect good, as the spell.
 
 **Smite Good (Su)**: An anti-paladin's smite targets creatures of a good alignment, but otherwise, it functions the same as the paladin's ability to smite evil.
 
 **Divine Grace (Su)**: An anti-paladin gains this ability at 2nd level, which functions as the paladin ability of the same name.
 
-**Slaughter the Weak (Ex)**: Beginning at 2nd level, an anti-paladin takes a perverse and horrendous glee when facing opponents in battle that are weaker than himself. He gains a +2 morale bonus to attack and damage rolls with melee weapons when he attacks any creature that has fewer Hit Dice than he does. Dying creatures who have less Hit Dice than the anti-paladin suffer a -2 penalty to save against death knell spells cast by the anti-paladin.
+**Slaughter the Weak (Ex)**: Beginning at 2nd level, an anti-paladin takes a perverse and horrendous glee when facing opponents in battle that are weaker than himself. He gains a +2 morale bonus to attack and damage rolls with melee weapons when he attacks any creature that has fewer Hit Dice than he does. Dying creatures who have less Hit Dice than the anti-paladin suffer a -2 penalty to save against [[death knell]] spells cast by the anti-paladin.
 
 **Aura of Fear (Su)**: Beginning at 3rd level, an anti-paladin exudes an almost palpable aura of menace and evil. Each enemy within 10 feet of her suffers a -4 morale penalty on saving throws against fear effects. The anti-paladin herself is deadened to the emotion of fear, and is immune to all fear effects. This ability functions while the anti-paladin is conscious, but not if she is unconscious or dead. An anti-paladin can suppress or activate this aura as a free action.
 
-**Death Knell (Sp)**: The anti-paladin can cast death knell, as the spell, once per day at 3rd level, at a caster level equal to his anti-paladin level. At every five levels thereafter the anti-paladin can cast death knell an additional time each day.
+**[[Death Knell]] (Sp)**: The anti-paladin can cast [[death knell]], as the spell, once per day at 3rd level, at a caster level equal to his anti-paladin level. At every five levels thereafter the anti-paladin can cast [[death knell]] an additional time each day.
 
 **Turn or Rebuke Outsider (Su)**: When an anti-paladin reaches 4th level, he gains the supernatural ability to turn or destroy good outsiders by channeling energy. He can instead rebuke or command evil outsiders with a use of this ability if he chooses. The anti-paladin may use this ability a number of times per day equal to 3 + his Charisma modifier. The anti-paladin turns or rebukes outsiders as a cleric of three levels lower would turn undead.
 
 **Fiendish Mount (Sp)**: Anti-paladins gain a fiendish mount at 5th level. This ability functions just like the special mount ability of the paladin class except that an anti-paladin's special mount always has the fiendish template, and it remains for 1 hour per anti-paladin level once called.
 
-**Contagion (Sp)**: At 6th level, an anti-paladin gains the ability to cast contagion, as the spell, once per week. He may use this ability an additional time each week every additional three levels, to a maximum of 5 times a week at 20th level. Caster level is equal to the anti-paladin's class level.
+**[[Contagion]] (Sp)**: At 6th level, an anti-paladin gains the ability to cast [[contagion]], as the spell, once per week. He may use this ability an additional time each week every additional three levels, to a maximum of 5 times a week at 20th level. Caster level is equal to the anti-paladin's class level.
 
 ##### Code of Conduct
 
@@ -346,13 +348,13 @@ An anti-paladin may adventure with any non-good alignment, but remains hateful a
 
 Anti-paladins choose their spells from the following list:
 
-_1st Level_: Bane, cause fear, curse water, deathwatch, doom, inflict light wounds, magic weapon, profane weapon, protection from good, protection from law, ray of enfeeblement, read magic, summon monster I.
+_1st Level_: Bane, [[cause fear]], [[curse water]], [[deathwatch]], doom, [[inflict light wounds]], magic weapon, profane weapon, [[protection from good]], [[protection from law]], [[ray of enfeeblement]], [[read magic]], [[summon monster I]].
 
-_2nd Level_: Bull's strength, darkness, desecrate, shatter, summon monster II, undetectable alignment.
+_2nd Level_: [[Bulls Strength|Bull's strength]], darkness, [[desecrate]], shatter, [[summon monster II]], [[undetectable alignment]].
 
-_3rd Level_: Bestow curse, blindness/deafness, deeper darkness, greater magic weapon, heal mount, inflict moderate wounds, magic circle against good, magic circle against law, summon monster III.
+_3rd Level_: [[Bestow curse]], [[Blindness_Deafness|blindness/deafness]], [[deeper darkness]], [[Magic Weapon Greater|greater magic weapon]], [[heal mount]], inflict moderate wounds, [[magic circle against good]], [[magic circle against law]], [[summon monster III]].
 
-_4th Level_: Death ward, dispel good, dispel law, fear, inflict serious wounds, poison, unholy sword.
+_4th Level_: [[Death ward]], [[dispel good]], [[dispel law]], fear, [[inflict serious wounds]], poison, unholy sword.
 
 #### Aura of Banishment
 
@@ -360,7 +362,7 @@ An invisible aura surrounds you that prevents fiends from extraplanar travel ont
 
 **Level**: 6th.
 
-**Replaces**: If you choose this ability, you do not gain the ability to remove disease.
+**Replaces**: If you choose this ability, you do not gain the ability to [[remove disease]].
 
 **Benefit**: An aura of banishment surrounds you to a distance of 30 feet. Only evil outsiders can feel the aura and suffer from its effects. No evil outsider with fewer Hit Dice than your paladin level can be summoned into this area, nor can such creatures use summoning or teleporting effects.
 
@@ -388,7 +390,7 @@ Avengers must be chaotic good. They usually serve deities that value personal fr
 
 ##### Class Skills
 
-The avenger's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Knowledge]] (local) (Int), [[Knowledge]] (religion) (Int), Move Silently (Dex), [[Sense Motive]] (Wis).
+The avenger's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (local) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), Move Silently (Dex), [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -401,24 +403,24 @@ The avenger's class skills (and the key ability for each skill) are [[Bluff]] (C
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+0|+0|+2|Aura of chaos, detect law, smite law 1/day|—|—|—|—|
+|1st|+1|+0|+0|+2|Aura of chaos, [[detect law]], smite law 1/day|—|—|—|—|
 |2nd|+2|+0|+0|+2|Divine grace, lay on hands|—|—|—|—|
 |3rd|+3|+1|+1|+3|Aura of courage, slippery mind|—|—|—|—|
 |4th|+4|+1|+1|+4|Turn undead|0|—|—|—|
 |5th|+5|+1|+1|+4|Smite law 2/day, animal minion|0|—|—|—|
-|6th|+6/+1|+2|+2|+5|Break enchantment 1/week|1|—|—|—|
+|6th|+6/+1|+2|+2|+5|[[Break enchantment]] 1/week|1|—|—|—|
 |7th|+7/+2|+2|+2|+5||1|—|—|—|
 |8th|+8/+3|+2|+2|+6||1|0|—|—|
-|9th|+9/+4|+3|+3|+6|Break enchantment 2/week|1|0|—|—|
+|9th|+9/+4|+3|+3|+6|[[Break enchantment]] 2/week|1|0|—|—|
 |10th|+10/+5|+3|+3|+7|Smite law 3/day|1|1|—|—|
 |11th|+11/+6/+1|+3|+3|+7||1|1|0|—|
-|12th|+12/+7/+2|+4|+4|+8|Break enchantment 3/week|1|1|1|—|
+|12th|+12/+7/+2|+4|+4|+8|[[Break enchantment]] 3/week|1|1|1|—|
 |13th|+13/+8/+3|+4|+4|+8||1|1|1|—|
 |14th|+14/+9/+4|+4|+4|+9||2|1|1|0|
-|15th|+15/+10/+5|+5|+5|+9|Break enchantment 4/week, smite law 4/day|2|1|1|1|
+|15th|+15/+10/+5|+5|+5|+9|[[Break enchantment]] 4/week, smite law 4/day|2|1|1|1|
 |16th|+16/+11/+6/+1|+5|+5|+10||2|2|1|1|
 |17th|+17/+12/+7/+2|+5|+5|+10||2|2|2|1|
-|18th|+18/+13/+8/+3|+6|+6|+11|Break enchantment 5/week|3|2|2|1|
+|18th|+18/+13/+8/+3|+6|+6|+11|[[Break enchantment]] 5/week|3|2|2|1|
 |19th|+19/+14/+9/+4|+6|+6|+11||3|3|3|2|
 |20th|+20/+15/+10/+5|+6|+6|+12|Smite law 5/day|3|3|3|3|
 
@@ -428,9 +430,9 @@ All of the following are class features of the avenger.
 
 **Weapon and Armor Proficiency**: Avengers are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Chaos**: The power of an avenger's aura of chaos (see the detect chaos spell) is equal to his avenger level.
+**Aura of Chaos**: The power of an avenger's aura of chaos (see the [[detect chaos]] spell) is equal to his avenger level.
 
-**Detect Law (Sp)**: At will, an avenger can detect law, as the spell.
+**[[Detect Law]] (Sp)**: At will, an avenger can [[detect law]], as the spell.
 
 **Smite Law (Su)**: An avenger's smite targets creatures with a lawful alignment, but otherwise, it functions the same as the paladin's ability to smite evil.
 
@@ -446,7 +448,7 @@ All of the following are class features of the avenger.
 
 **Animal Minion (Su)**: At 5th level, avengers gain an animal minion that can serve as a scout, a combatant, or a guardian. Most avengers select some form of bird as their minion. The animal minion must be equal in size or smaller than the avenger's size, since they are never used as mounts. This animal minion is otherwise treated as a paladin's special mount in all ways, including additional abilities gained as the avenger gains levels and the repercussions if the minion is lost.
 
-**Break Enchantment (Sp)**: At 6th level, an avenger can cast break enchantment as a spell-like ability once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at gth, three times at 12th, and so forth).
+**[[Break Enchantment]] (Sp)**: At 6th level, an avenger can cast [[break enchantment]] as a spell-like ability once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at gth, three times at 12th, and so forth).
 
 ##### Code of Conduct
 
@@ -460,13 +462,13 @@ An avenger may adventure with characters of any good or neutral alignment. Altho
 
 Avengers choose their spells from the following list:
 
-_1st Level_: Bless, bless water, bless weapon, disguise self, cure light wounds, detect poison, divine favor, endure elements, lesser restoration, magic stone, magic weapon, mending, protection from evil, protection from law, read magic, shield of faith.
+_1st Level_: Bless, [[bless water]], [[bless weapon]], [[disguise self]], [[cure light wounds]], [[detect poison]], [[divine favor]], [[endure elements]], [[Restoration Lesser|lesser restoration]], [[magic stone]], magic weapon, [[mending]], [[protection from evil]], [[protection from law]], [[read magic]], shield of faith.
 
-_2nd Level_: Align weapon, alter self, cat's grace, cure moderate wounds, eagle's splendor, fox's cunning, invisibility, make whole, misdirection, resist energy, shield other, undetectable alignment.
+_2nd Level_: [[Align weapon]], [[alter self]], [[Cats Grace|cat's grace]], [[cure moderate wounds]], [[Eagles Splendor|eagle's splendor]], [[Foxs Cunning|fox's cunning]], invisibility, [[make whole]], [[misdirection]], resist energy, shield other, [[undetectable alignment]].
 
-_3rd Level_: Cure moderate wounds, dispel magic, flame arrow, greater magic weapon, magic vestment, magic circle against evil, magic circle against law, nondetection. obscure object.
+_3rd Level_: [[Cure moderate wounds]], [[dispel magic]], [[flame arrow]], [[Magic Weapon Greater|greater magic weapon]], [[magic vestment]], [[magic circle against evil]], [[magic circle against law]], [[nondetection]]. [[obscure object]].
 
-_4th Level_: Cure serious wounds, detect scrying, dispel law, dispel evil, freedom of movement, greater invisibility, holy sword, neutralize poison, restoration. stone shape.
+_4th Level_: [[Cure serious wounds]], [[detect scrying]], [[dispel law]], [[dispel evil]], [[freedom of movement]], [[Invisibility Greater|greater invisibility]], [[holy sword]], [[neutralize poison]], restoration. [[stone shape]].
 
 
 
@@ -478,7 +480,7 @@ Berronar's Valkyries are female dwarf paladins of the goddess Berronar Truesilve
 
 ##### Requirements
 
-To take a Berronar Valkyrie paladin substitution level, a character must be a female dwarf, have Berronar as her patron deity, be a member of the Berronar's Valkyries order, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
+To take a Berronar Valkyrie paladin substitution level, a character must be a female dwarf, have Berronar as her patron deity, be a member of the Berronar's Valkyries order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -504,9 +506,9 @@ This benefit replaces the turn undead class feature gained by a standard paladin
 
 A Valkyrie can bind an oath once per week as a full-round action. For every three paladin levels gained thereafter, the Valkyrie can use this ability one extra time per week (2/week at 9th level, 3/week at 12th level, and so forth).
 
-This benefit replaces the remove disease class feature gained by a standard paladin at 6th level. A Berronar Valkyrie who selects this substitution level never gains the remove disease ability.
+This benefit replaces the [[remove disease]] class feature gained by a standard paladin at 6th level. A Berronar Valkyrie who selects this substitution level never gains the [[remove disease]] ability.
 
-**Touch of Fatigue (Sp)**: Beginning at 6th level, a Valkyrie can use touch of fatigue at will. This ability is normally used to admonish those about to stray from their promises or to punish those guilty of minor infractions. The save DC against this spell-like ability is 10 + the Valkyrie's Charisma modifier.
+**[[Touch of Fatigue]] (Sp)**: Beginning at 6th level, a Valkyrie can use [[touch of fatigue]] at will. This ability is normally used to admonish those about to stray from their promises or to punish those guilty of minor infractions. The save DC against this spell-like ability is 10 + the Valkyrie's Charisma modifier.
 
   
 
@@ -516,7 +518,7 @@ This benefit replaces the remove disease class feature gained by a standard pala
 |---|---|---|---|---|---|---|
 |3rd|+3|+3|+1|+1|Aura of courage, everbright blessing|—|
 |4th|+4|+4|+1|+1|Valiant rescue|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Binding oath 1/week, touch of fatigue|Same as paladin|
+|6th|+6/+1|+5|+2|+2|Binding oath 1/week, [[touch of fatigue]]|Same as paladin|
 
   
 
@@ -539,7 +541,7 @@ The first Mulhorandi order of paladins to worship a god other than Osiris, the C
 
 ##### Requirements
 
-To take a Claw of the Sun and the Ankh substitution level, a character must have Horus-Re as his patron deity, be a member of the Claws of the Sun and the Ankh order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 6th, or 12th level of paladin.
+To take a Claw of the Sun and the Ankh substitution level, a character must have Horus-Re as his patron deity, be a member of the Claws of the Sun and the Ankh order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 6th, or 12th level of paladin.
 
 ##### Class Skills
 
@@ -551,7 +553,7 @@ Claw of the Sun and the Ankh substitution levels have the class skills of the st
 
 All of the following are features of the Claw of the Sun and the Ankh substitution levels.
 
-**Bird of Prey (Su)**: Beginning at 1st level, once per day a Claw of the Sun and the Ankh can pay homage to his god by taking on aspects of a hawk. His hands turn into claws that deal 1d4 points of damage; the attacks deal extra damage equal to one-half his paladin level to evil creatures. These attacks are considered magic, good-aligned weapons for the purpose of overcoming damage reduction. The paladin is considered to be proficient with these natural weapons while using this form. This transformation lasts for a number of rounds equal to 3 + his Charisma modifier.
+**Bird of Prey (Su)**: Beginning at 1st level, once per day a Claw of the Sun and the Ankh can pay homage to his god by taking on aspects of a [[hawk]]. His hands turn into claws that deal 1d4 points of damage; the attacks deal extra damage equal to one-half his paladin level to evil creatures. These attacks are considered magic, good-aligned weapons for the purpose of overcoming damage reduction. The paladin is considered to be proficient with these natural weapons while using this form. This transformation lasts for a number of rounds equal to 3 + his Charisma modifier.
 
 At 5th level, and every five levels thereafter, a Claw of the Sun and the Ankh can use this ability one extra time per day.
 
@@ -561,7 +563,7 @@ This benefit replaces the smite evil class feature gained by a standard paladin.
 
 A Claw of the Sun and the Ankh can use this smite attack once per day, plus one extra time per day for every three levels gained beyond 6th.
 
-This benefit replaces the standard paladin's remove disease class feature. A Claw of the Sun and the Ankh who selects this substitution level never gains the remove disease ability.
+This benefit replaces the standard paladin's [[remove disease]] class feature. A Claw of the Sun and the Ankh who selects this substitution level never gains the [[remove disease]] ability.
 
 **Horus-Re's Glory (Su)**: Starting at 12th level, a Claw's armor shines brightly (as the daylight spell). This illumination can be suppressed or resumed at will with a standard action.
 
@@ -573,7 +575,7 @@ This benefit replaces the 3rd-level spell slot gained by a standard paladin at 1
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, bird of prey 1/day, detect evil|—|
+|1st|+1|+2|+0|+0|Aura of good, bird of prey 1/day, [[detect evil]]|—|
 |6th|+6/+1|+5|+2|+2|Smite minions of Set 1/day|Same as paladin|
 |12th|+12/+7/+2|+8|+4|+4|Horus-Re's glory, smite minions of Set 3/day|See text|
 
@@ -593,7 +595,7 @@ Corrupters are always neutral evil; they ignore the laws of the land as they see
 
 ##### Class Skills
 
-The corrupter's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Disguise (Cha), Forgery (Int), [[Hide]] (Dex), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), and [[Sense Motive]] (Wis).
+The corrupter's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Disguise (Cha), Forgery (Int), [[Hide]] (Dex), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -606,9 +608,9 @@ The corrupter's class skills (and the key ability for each skill) are [[Bluff]] 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+0|+2|+0|Aura of evil, detect good, smite heathen 1/day|—|—|—|—|
+|1st|+1|+0|+2|+0|Aura of evil, [[detect good]], smite heathen 1/day|—|—|—|—|
 |2nd|+2|+0|+3|+0|Divine grace, hidden faith|—|—|—|—|
-|3rd|+3|+1|+3|+1|Aura of fear, disguise self|—|—|—|—|
+|3rd|+3|+1|+3|+1|Aura of fear, [[disguise self]]|—|—|—|—|
 |4th|+4|+1|+4|+1|Intercession|0|—|—|—|
 |5th|+5|+1|+4|+1|Smite heathen 2/day|0|—|—|—|
 |6th|+6/+1|+2|+5|+2|Fiendish familiar|1|—|—|—|
@@ -633,9 +635,9 @@ All of the following are class features of the corrupter.
 
 **Weapon and Armor Proficiency**: Corrupters are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Evil**: The power of a corrupter's aura of evil (see the detect evil spell) is equal to his corrupter level.
+**Aura of Evil**: The power of a corrupter's aura of evil (see the [[detect evil]] spell) is equal to his corrupter level.
 
-**Detect Good (Sp)**: At will, a corrupter can detect good, as the spell.
+**[[Detect Good]] (Sp)**: At will, a corrupter can [[detect good]], as the spell.
 
 **Smite Heathen (Su)**: A corrupter's smite targets all creatures with the ability (including potential ability, such as a paladin or ranger who have yet to progress to a level that allows spellcasting) to cast divine spells, with the exception of worshipers of his own faith. Otherwise, it functions the same as the paladin's ability to smite evil.
 
@@ -645,13 +647,13 @@ All of the following are class features of the corrupter.
 
 **Aura of Fear (Su)**: Beginning at 3rd level, a corrupter exudes an almost palpable aura of menace and evil. Each enemy within 10 feet of him suffers a -4 morale penalty on saving throws against fear effects. The corrupter himself is deadened to the emotion of fear, and is immune to all fear effects. This ability functions while the corrupter is conscious, but not if he is unconscious or dead. A corrupter can suppress or activate this aura as a free action.
 
-**Disguise Self (Sp)**: At 3rd level, a corrupter can cast disguise self, as the spell. He may use this spell-like ability a number of times per day equal to his Charisma bonus (minimum of once per day), at a caster level equal to his corrupter level.
+**[[Disguise Self]] (Sp)**: At 3rd level, a corrupter can cast [[disguise self]], as the spell. He may use this spell-like ability a number of times per day equal to his Charisma bonus (minimum of once per day), at a caster level equal to his corrupter level.
 
 **Intercession (Su)**: When a corrupter reaches 4th level, he gains the supernatural ability to cut divine spellcasters off from their source of power. To do so, the corrupter makes a turning check as a cleric three levels lower would. The result indicates the highest-level divine spellcaster the corrupter can cut off from her connection to her deity. The turning damage result indicates the maximum total Hit Dice of divine spellcasters within 60 feet the ability can affect. The corrupter's intercession affects the closest divine spellcasters it can affect first.
 
 Affected divine spellcasters cannot cast divine spells for 1 minute, except if the corrupter has twice as many corrupter levels as the creature has divine spellcaster levels; in this case, the divine spellcaster loses the ability to cast divine spells for 24 hours.
 
-If the corrupter attacks an affected divine spellcaster in any way, or the affected spellcaster receives an atonement spell, the divine spellcaster is freed from this effect. The corrupter's allies and other creatures can attack the divine spellcaster without breaking the effect.
+If the corrupter attacks an affected divine spellcaster in any way, or the affected spellcaster receives an [[atonement]] spell, the divine spellcaster is freed from this effect. The corrupter's allies and other creatures can attack the divine spellcaster without breaking the effect.
 
 The corrupter may use this ability a number of times per day equal to 3 + his Charisma modifier.
 
@@ -671,13 +673,13 @@ A corrupter can adventure with characters of any alignment, but remains suspicio
 
 Corrupters choose their spells from the following list:
 
-_1st Level_: Bane, cause fear, charm person, cure light wounds, curse water, divine favor, doom, endure elements, inflict light wounds, magic weapon, profane weapon, protection from good, read magic, resistance, sanctuary, undetectable alignment.
+_1st Level_: Bane, [[cause fear]], [[charm person]], [[cure light wounds]], [[curse water]], [[divine favor]], doom, [[endure elements]], [[inflict light wounds]], magic weapon, profane weapon, [[protection from good]], [[read magic]], resistance, [[sanctuary]], [[undetectable alignment]].
 
-_2nd Level_: Cat's grace, calm emotions, desecrate, detect thoughts, eagle's splendor, enthrall, owl's wisdom, silence, tongues.
+_2nd Level_: [[Cats Grace|Cat's grace]], [[calm emotions]], [[desecrate]], [[detect thoughts]], [[Eagles Splendor|eagle's splendor]], [[enthrall]], [[Owls Wisdom|owl's wisdom]], silence, [[tongues]].
 
-_3rd Level_: Clairaudience/clairvoyance, cure moderate wounds, dispel magic, glibness, greater magic weapon, inflict moderate wounds, magic circle against good, nondetection, obscure object, scrying.
+_3rd Level_: [[Clairaudience_Clairvoyance|Clairaudience/clairvoyance]], [[cure moderate wounds]], [[dispel magic]], [[glibness]], [[Magic Weapon Greater|greater magic weapon]], inflict moderate wounds, [[magic circle against good]], [[nondetection]], [[obscure object]], [[scrying]].
 
-_4th Level_: Break enchantment, cure serious wounds, dispel good, dominate person, dream, greater command, inflict serious wounds, locate creature, unhallow.
+_4th Level_: [[Break enchantment]], [[cure serious wounds]], [[dispel good]], [[dominate person]], [[dream]], [[Command Greater|greater command]], [[inflict serious wounds]], [[locate creature]], [[unhallow]].
 
 #### Crescent Moon Knight
 
@@ -687,11 +689,11 @@ These unusual paladins of the Order of the Crescent Moon serve either Clangeddin
 
 ##### Requirements
 
-To take a Crescent Moon Knight paladin substitution level, a character must have Clangeddin Silverbeard or Selune as his patron deity, be related to or a close friend of one of the founding families, be a member of the Order of the Crescent Moon, have 1 rank in [[Knowledge]] (religion), and be about to take his 4th, 6th, or 10th level of paladin.
+To take a Crescent Moon Knight paladin substitution level, a character must have Clangeddin Silverbeard or Selune as his patron deity, be related to or a close friend of one of the founding families, be a member of the Order of the Crescent Moon, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 4th, 6th, or 10th level of paladin.
 
 ##### Class Skills
 
-Crescent Moon Knight paladin substitution levels have the class skills of the standard paladin plus [[Knowledge]] (local Impiltur).
+Crescent Moon Knight paladin substitution levels have the class skills of the standard paladin plus [[Compendium/Basics/Skills/Knowledge]] (local Impiltur).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -702,7 +704,7 @@ Crescent Moon Knight paladin substitution levels have the class skills of the st
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
 |4th|+4|+4|+1|+1|Favored enemy (lycanthropes +2)|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Cure lycanthropy, remove disease 1/week|Same as paladin|
+|6th|+6/+1|+5|+2|+2|Cure lycanthropy, [[remove disease]] 1/week|Same as paladin|
 |10th|+10/+5|+7|+3|+3|Battlesong|See text|
 
 ##### Class Features
@@ -713,7 +715,7 @@ All of the following are features of the Crescent Moon Knight substitution level
 
 This benefit replaces the turn undead class feature gained by a standard paladin at 4th level.
 
-**Cure Lycanthropy (Su)**: Starting at 6th level, a Knight becomes versed in the methods of curing lycanthropy. A Knight counts as a 12th-level cleric for the purpose of curing lycanthropy within 3 days of a lycanthrope's attack. A Knight can use his remove disease spell-like ability as if it were break enchantment or remove curse to cure a lycanthrope on the nights of the full moon.
+**Cure Lycanthropy (Su)**: Starting at 6th level, a Knight becomes versed in the methods of curing lycanthropy. A Knight counts as a 12th-level cleric for the purpose of curing lycanthropy within 3 days of a lycanthrope's attack. A Knight can use his [[remove disease]] spell-like ability as if it were [[break enchantment]] or [[remove curse]] to cure a lycanthrope on the nights of the full moon.
 
 **Battlesong (Su)**: Once per day starting at 10th level, a Knight can begin an inspiring battle song as a standard action. This song functions like a bard's inspire courage ability, using the Knight's paladin level minus 4 as his bard level. For example, a 10th-level paladin who selects this substitution level would receive a +1 morale bonus on the relevant rolls, while an 18th-level paladin would receive a +3 morale bonus. A Knight need not have any ranks in Perform to use this class feature.
 
@@ -727,19 +729,19 @@ Most paladins use their divinely granted powers to combat diseases that plague t
 
 **Level**: 6th.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
-**Replaces**: You do not gain the remove disease spell-like ability or any later improvement of that ability.
+**Replaces**: You do not gain the [[remove disease]] spell-like ability or any later improvement of that ability.
 
-**Benefit**: At 6th level, you can produce a remove curse effect, as the spell, once per week. You can use this ability one additional time per week for every three levels beyond 6th (twice per week at 9th, three times at 12th, and so forth).
+**Benefit**: At 6th level, you can produce a [[remove curse]] effect, as the spell, once per week. You can use this ability one additional time per week for every three levels beyond 6th (twice per week at 9th, three times at 12th, and so forth).
 
-Beginning at 12th level, you can spend two of your weekly uses to produce a break enchantment effect, as the spell.
+Beginning at 12th level, you can spend two of your weekly uses to produce a [[break enchantment]] effect, as the spell.
 
 These are spell-like abilities.
 
 #### Dead Levels
 
-The paladin has eight dead levels, none of which occur until 7th level. Despite being front loaded with special abilities, paladins gain smite evil and remove disease for the remainder of their levels, along with a special mount and minor spellcasting abilities. Despite these abilities, paladins still gain nothing except for base attack bonuses, hit points, and skill points at 7th and 13th level. Their dead level ability comes with two choices, the first of which has a prerequisite.
+The paladin has eight dead levels, none of which occur until 7th level. Despite being front loaded with special abilities, paladins gain smite evil and [[remove disease]] for the remainder of their levels, along with a special mount and minor spellcasting abilities. Despite these abilities, paladins still gain nothing except for base attack bonuses, hit points, and skill points at 7th and 13th level. Their dead level ability comes with two choices, the first of which has a prerequisite.
 
 **Righteous Cause (Ex)**: Starting at 7th level, a paladin is either rewarded with a bonus to form a lawful community or route out duplicitous intent. The paladin gains an additional bonus at 8th, 11th, 13th, 14th, 16th, 17th, and 19th level. The bonus must be drawn from one of the following two abilities.
 
@@ -759,7 +761,7 @@ The despot is always lawful evil, and strives to build an organization of thugs 
 
 ##### Class Skills
 
-The despot's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Intimidate]] (Cha), [[Knowledge]] (nobility and royalty) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
+The despot's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -772,25 +774,25 @@ The despot's class skills (and the key ability for each skill) are [[Bluff]] (Ch
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+0|+0|+2|Aura of law, detect chaos, smite chaos 1/day|—|—|—|—|
+|1st|+1|+0|+0|+2|Aura of law, [[detect chaos]], smite chaos 1/day|—|—|—|—|
 |2nd|+2|+0|+0|+2|Divine grace, slippery mind|—|—|—|—|
 |3rd|+3|+1|+1|+3|Aura of fear, indomitable will|—|—|—|—|
 |4th|+4|+1|+1|+4|Oppression|0|—|—|—|
 |5th|+5|+1|+1|+4|Smite chaos 2/day, Leadership|0|—|—|—|
 |6th|+6/+1|+2|+2|+5||1|—|—|—|
-|7th|+7/+2|+2|+2|+5|Mark of justice 1/week|1|—|—|—|
+|7th|+7/+2|+2|+2|+5|[[Mark of justice]] 1/week|1|—|—|—|
 |8th|+8/+3|+2|+2|+6||1|0|—|—|
 |9th|+9/+4|+3|+3|+6||1|0|—|—|
 |10th|+10/+5|+3|+3|+7|Smite chaos 3/day|1|1|—|—|
-|11th|+11/+6/+1|+3|+3|+7|Mark of justice 2/week|1|1|0|—|
+|11th|+11/+6/+1|+3|+3|+7|[[Mark of justice]] 2/week|1|1|0|—|
 |12th|+12/+7/+2|+4|+4|+8||1|1|1|—|
 |13th|+13/+8/+3|+4|+4|+8||1|1|1|—|
 |14th|+14/+9/+4|+4|+4|+9||2|1|1|0|
-|15th|+15/+10/+5|+5|+5|+9|Mark of justice 3/week, smite chaos 4/day|2|1|1|1|
+|15th|+15/+10/+5|+5|+5|+9|[[Mark of justice]] 3/week, smite chaos 4/day|2|1|1|1|
 |16th|+16/+11/+6/+1|+5|+5|+10||2|2|1|1|
 |17th|+17/+12/+7/+2|+5|+5|+10||2|2|2|1|
 |18th|+18/+13/+8/+3|+6|+6|+11||3|2|2|1|
-|19th|+19/+14/+9/+4|+6|+6|+11|Mark of justice 4/week|3|3|3|2|
+|19th|+19/+14/+9/+4|+6|+6|+11|[[Mark of justice]] 4/week|3|3|3|2|
 |20th|+20/+15/+10/+5|+6|+6|+12|Smite chaos 5/day|3|3|3|3|
 
 ##### Class Features
@@ -799,9 +801,9 @@ All of the following are class features of the despot.
 
 **Weapon and Armor Proficiency**: Despots are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Law**: The power of a despot's aura of law (see the detect law spell) is equal to her despot level.
+**Aura of Law**: The power of a despot's aura of law (see the [[detect law]] spell) is equal to her despot level.
 
-**Detect Chaos (Sp)**: At will, a despot can use detect chaos, as the spell.
+**[[Detect Chaos]] (Sp)**: At will, a despot can use [[detect chaos]], as the spell.
 
 **Smite Chaos (Su)**: A despot's smite targets creatures with a chaotic alignment, but otherwise, it functions the same as the paladin's ability to smite evil.
 
@@ -825,11 +827,11 @@ A despot can use this ability a number of times per day equal to 3 + her Charism
 
 **Leadership (Ex)**: Upon reaching 5th level, a despot gains the Leadership feat as a bonus feat. Despots gain a +1 bonus to their Leadership score.
 
-**Mark of Justice (Sp)**: At 7th level, a despot can cast mark of justice, as the spell, once per week. She can use this ability one additional time per week for every four levels after 7th, to a maximum of 4 times a week at 19th level.
+**[[Mark of Justice]] (Sp)**: At 7th level, a despot can cast [[mark of justice]], as the spell, once per week. She can use this ability one additional time per week for every four levels after 7th, to a maximum of 4 times a week at 19th level.
 
 ##### Code of Conduct
 
-A despot must be of lawful evil alignment and loses all class abilities if she ever willingly commits a chaotic act (such as breaking a vow or contract or betraying an ally). She must at all times work to expand and grow her domain, either by virtue of the Leadership feat or by strong-arming those less fortunate and powerful than herself. She is allowed to abuse her sovereignty in any way she sees fit to further her own personal strength and glory, but she must protect and defend her subjects and allies from harm from other forces. Likewise, she must not overburden her subjects so that they cannot support her.
+A despot must be of lawful evil alignment and loses all class abilities if she ever willingly commits a chaotic act (such as breaking a vow or contract or betraying an ally). She must at all times work to expand and grow her domain, either by [[virtue]] of the Leadership feat or by strong-arming those less fortunate and powerful than herself. She is allowed to abuse her sovereignty in any way she sees fit to further her own personal strength and glory, but she must protect and defend her subjects and allies from harm from other forces. Likewise, she must not overburden her subjects so that they cannot support her.
 
 ##### Associates
 
@@ -839,13 +841,13 @@ A despot adventures only with characters of a non-chaotic alignment and remains 
 
 Despots choose their spells from the following list:
 
-_1st Level_: Alarm, bane, bless, curse water, command, cure light wounds, detect poison, divine favor, endure elements, magic weapon, profane weapon, protection from chaos, protection from good, resistance, virtue.
+_1st Level_: [[Alarm]], bane, bless, [[curse water]], command, [[cure light wounds]], [[detect poison]], [[divine favor]], [[endure elements]], magic weapon, profane weapon, [[protection from chaos]], [[protection from good]], resistance, [[virtue]].
 
-_2nd Level_: Bull's strength, eagle's splendor, enthrall, fox's cunning, hold person, resist energy. status, zone of truth.
+_2nd Level_: [[Bulls Strength|Bull's strength]], [[Eagles Splendor|eagle's splendor]], [[enthrall]], [[Foxs Cunning|fox's cunning]], [[hold person]], [[resist energy]]. status, [[zone of truth]].
 
-_3rd Level_: Crushing despair, cure moderate wounds, discern lies, helping hand, lesser geas, magic circle against chaos, magic circle against good, prayer, suggestion.
+_3rd Level_: [[Crushing despair]], [[cure moderate wounds]], [[discern lies]], [[helping hand]], [[Geas Lesser|lesser geas]], [[magic circle against chaos]], [[magic circle against good]], [[prayer]], suggestion.
 
-_4th Level_: Break enchantment, charm monster, cure serious wounds, dispel chaos, dispel good, dominate person, geas/quest, greater command, hold monster.
+_4th Level_: [[Break enchantment]], [[charm monster]], [[cure serious wounds]], [[dispel chaos]], [[dispel good]], [[dominate person]], [[Geas_Quest|geas/quest]], [[Command Greater|greater command]], [[hold monster]].
 
 #### Detect Undead
 
@@ -853,9 +855,9 @@ Lightbringer paladins are little different from standard paladins, and share the
 
 **Level**: 1st.
 
-**Replaces**: Detect evil.
+**Replaces**: [[Detect evil]].
 
-**Benefit**: A lightbringer paladin can use this ability at will. This is a divination effect similar to a detect evil spell, except that it finds undead only (of any alignment). Unlike with detect evil, the lightbringer paladin doesn't need to concentrate to know all relevant information. At the moment the paladin uses the ability, she knows if there are any undead within a chosen 60-degree arc, knows the exact number , and knows their exact location. This ability is the equivalent of a 2nd-level spell. It is a spell-like ability.
+**Benefit**: A lightbringer paladin can use this ability at will. This is a divination effect similar to a [[detect evil]] spell, except that it finds undead only (of any alignment). Unlike with [[detect evil]], the lightbringer paladin doesn't need to concentrate to know all relevant information. At the moment the paladin uses the ability, she knows if there are any undead within a chosen 60-degree arc, knows the exact number , and knows their exact location. This ability is the equivalent of a 2nd-level spell. It is a spell-like ability.
 
 
 
@@ -867,17 +869,17 @@ Although the ability to turn undead is arguably a defining cleric characteristic
 
 **Level**: 1st (cleric) or 4th (paladin).
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the ability to turn or rebuke undead.
 
-**Benefit**: You gain the supernatural ability to counter another spellcaster's magic through pure force of will. This ability functions just as if you were using dispel magic to counter the spell, except that you add your cleric level (instead of your caster level) to the d20 roll. You don't need to identify the spell the opposing spellcaster is casting to make the attempt.
+**Benefit**: You gain the supernatural ability to counter another spellcaster's magic through pure force of will. This ability functions just as if you were using [[dispel magic]] to counter the spell, except that you add your cleric level (instead of your caster level) to the d20 roll. You don't need to identify the spell the opposing spellcaster is casting to make the attempt.
 
 If you don't have a cleric level, use your effective cleric level for the purpose of turning undead. For example, a paladin would normally turn undead as a cleric of three levels lower; her effective cleric level for counterspelling is equal to her paladin level - 3.
 
 You can attempt to counterspell a number of times per day equal to 1 + your Cha modifier.
 
-A character with 5 or more ranks in [[Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
+A character with 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
 
 #### Divine Spirit
 
@@ -903,7 +905,7 @@ The following entries describe how each of the different spirits function. Unles
 - A spirit occupies a 5-foot square on the battle map.
 - When summoned, a spirit appears on the battlefield within 30 feet of you. You can use a free action to have it move once per round. The spirit has a land speed of 30 feet.
 - All spirits are insubstantial and transparent. Any creature can move through them normally, and they do not block line of sight or line of effect.
-- A spirit cannot attack or be attacked. It is not undead and cannot be turned. It is subject to dispel magic, dismissal, or banishment as if it were a summoned creature, using your paladin level as the caster level.
+- A spirit cannot attack or be attacked. It is not undead and cannot be turned. It is subject to [[dispel magic]], [[dismissal]], or banishment as if it were a summoned creature, using your paladin level as the caster level.
 - If you lose line of sight to a spirit, it disappears immediately.
 - Each spirit available to you can be summoned once per day.
 - A spirit remains for a number of rounds equal to your paladin level, until it is dismissed, or until special conditions in the spirit's description are met.
@@ -918,7 +920,7 @@ _Spirit of Heroism_: This spirit automatically occupies your space and does not 
 
 _Spirit of the Fallen_: While you or any of your allies are adjacent to this spirit, it grants fast healing 10 to those characters. If an affected character's hit points drop to 0 or fewer while within 30 feet of this spirit, it revives that character at the start of his next turn, allowing him to take his action as normal. The character heals an amount of damage equal to twice your paladin level, though if his hit points are still at -10 or below, he still dies. The spirit can use its revive ability once per round.
 
-A spirit of the fallen cannot revive creatures whose bodies have been destroyed (such as by a disintegrate spell), nor can it reverse the effects of bodily changes, such as from flesh to stone or baleful polymorph, or other effects that slay a character without dealing damage.
+A spirit of the fallen cannot revive creatures whose bodies have been destroyed (such as by a [[disintegrate]] spell), nor can it reverse the effects of bodily changes, such as from [[flesh to stone]] or [[baleful polymorph]], or other effects that slay a character without dealing damage.
 
 #### Domain Paladin
 
@@ -932,13 +934,13 @@ The optional rule presented in this article offers paladins a greater variety of
 
 While only Chaos and Evil are banned, paladins rarely select domains other than the ones listed here.
 
-**Death**: You may use a special death ward effect as a standard action, giving you or a good-aligned creature you touch a bonus on all saves against death effects. This saving throw bonus equals your paladin level -2 and lasts for 1 minute. This granted power may be used a total number of times per day equal to 3 + your Charisma modifier. It is a supernatural ability.
+**Death**: You may use a special [[death ward]] effect as a standard action, giving you or a good-aligned creature you touch a bonus on all saves against death effects. This saving throw bonus equals your paladin level -2 and lasts for 1 minute. This granted power may be used a total number of times per day equal to 3 + your Charisma modifier. It is a supernatural ability.
 
-**[[Knowledge]]**: You gain a special divine inspiration power. You may make a special divine inspiration check that functions exactly as a bard's bardic [[Knowledge]] class ability, except that it is a supernatural ability. Your divine inspiration bonus is equal to your paladin level + your Charisma modifier, and is usable a number of times per day equal to 1 + your Charisma modifier.
+**[[Compendium/Basics/Skills/Knowledge]]**: You gain a special divine inspiration power. You may make a special divine inspiration check that functions exactly as a bard's bardic [[Compendium/Basics/Skills/Knowledge]] class ability, except that it is a supernatural ability. Your divine inspiration bonus is equal to your paladin level + your Charisma modifier, and is usable a number of times per day equal to 1 + your Charisma modifier.
 
 **Luck**: Once per day, as an extraordinary ability, you may reroll one roll you have just made before the DM declares whether the roll results in success or failure. You must take the result of the second roll, even if it's worse than the first one.
 
-**Magic**: You may use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of half your paladin level. Any actual wizard levels you have stack with the effective wizard levels gained from this ability. [[Knowledge]] (arcana) and Spellcraft are class skills for you.
+**Magic**: You may use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of half your paladin level. Any actual wizard levels you have stack with the effective wizard levels gained from this ability. [[Compendium/Basics/Skills/Knowledge]] (arcana) and Spellcraft are class skills for you.
 
 **Protection**: You can generate a protective ward as a supernatural ability. This protective ward grants you or someone you touch a resistance bonus equal to your paladin level -2 on the recipient's next saving throw. Activating this power is a standard action. The protective ward is an abjuration effect with a duration of 1 hour. It is usable once per day.
 
@@ -958,7 +960,7 @@ A dragonborn paladin normally takes substitution levels at 1st level and when sh
 
 ##### Class Skills
 
-Dragonborn paladin substitution levels have the class skills of the standard paladin class, plus [[Knowledge]] (arcana).
+Dragonborn paladin substitution levels have the class skills of the standard paladin class, plus [[Compendium/Basics/Skills/Knowledge]] (arcana).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -976,9 +978,9 @@ Dragonborn paladin substitution levels have the class skills of the standard pal
 
 All the following are class features of the dragonborn paladin racial substitution levels.
 
-**Detect Dragonblood (Sp)**: A 1st-level dragonborn paladin can use detect dragonblood at will. This is a divination effect similar to a detect evil spell, except that it detects dragonblood creatures of any alignment. A dragonborn paladin can scan a 60-degree arc each round. By concentrating for 1 round, she knows if any dragonblood creatures are within the arc; concentrating for 2 rounds reveals the exact number of such creatures; and concentrating for 3 rounds reveals their exact locations. This ability is the equivalent of a 2nd-level spell.
+**Detect Dragonblood (Sp)**: A 1st-level dragonborn paladin can use detect dragonblood at will. This is a divination effect similar to a [[detect evil]] spell, except that it detects dragonblood creatures of any alignment. A dragonborn paladin can scan a 60-degree arc each round. By concentrating for 1 round, she knows if any dragonblood creatures are within the arc; concentrating for 2 rounds reveals the exact number of such creatures; and concentrating for 3 rounds reveals their exact locations. This ability is the equivalent of a 2nd-level spell.
 
-This substitution feature replaces the standard paladin's detect evil class feature.
+This substitution feature replaces the standard paladin's [[detect evil]] class feature.
 
 **Bahamut's Blessing (Su)**: At 4th level, a dragonborn paladin who uses her smite evil ability against evil dragons and dragonbloods gains an additional +2 bonus on the attack roll. She also deals 1 extra point of damage per two paladin levels. For example, a 13th-level dragonborn paladin with a 20 Strength and armed with a +2 longsword deals 1d8+26 points of damage when using smite evil against an evil dragonblood (+13 from normal smite evil, +6 from Bahamut's blessing, + 5 from Str, and +2 from the longsword).
 
@@ -1008,13 +1010,13 @@ In addition, as you attain higher levels, your husk grants you increasing resist
 
 Your dragonscale husk is treated as medium armor for the purpose of determining your speed and whether you can use class features or other special abilities. It allows a maximum Dexterity bonus to Armor Class of +2 and has an armor check penalty of -4. You can sleep in your husk without penalty. You cannot wear any other armor while your husk is present.
 
-Your husk isn't treated as armor for the purpose of being affected by spells or other abilities. You can't grant it an enhancement bonus with magic vestment, nor can you imbue it with special properties, as you could a normal suit of armor.
+Your husk isn't treated as armor for the purpose of being affected by spells or other abilities. You can't grant it an enhancement bonus with [[magic vestment]], nor can you imbue it with special properties, as you could a normal suit of armor.
 
 You can't take off your dragonscale husk, but you can choose to shed it. Doing this requires 10 minutes of concentration and results in your sloughing off a pile of scales that crumble to dust if handled.
 
 #### Drakkensteed Mount
 
-Paladins who revere dragons or draconic deities, though few in number, sometimes summon dragon-descended beasts known as drakkensteeds to serve as their special mounts. Unlike a standard warhorse, unicorn, or other special mount used by paladins, drakkensteeds are more than just outstanding members of mundane races - they are nearly legendary beasts seen by few and mastered by even fewer.
+Paladins who revere dragons or draconic deities, though few in number, sometimes summon dragon-descended beasts known as drakkensteeds to serve as their special mounts. Unlike a standard warhorse, [[unicorn]], or other special mount used by paladins, drakkensteeds are more than just outstanding members of mundane races - they are nearly legendary beasts seen by few and mastered by even fewer.
 
 **Class**: Paladin.
 
@@ -1046,9 +1048,9 @@ Elf paladin substitution levels grant the same class skills as the standard pala
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, ranged smite evil 1/day|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], ranged smite evil 1/day|—|
 |3rd|+3|+3|+1|+1|Aura of freedom, divine health|—|
-|5th|+5|+4|+1|+1|Ranged smite evil 2/day, unicorn mount|Same as paladin|
+|5th|+5|+4|+1|+1|Ranged smite evil 2/day, [[unicorn]] mount|Same as paladin|
 
 ##### Class Features
 
@@ -1062,9 +1064,9 @@ This substitution feature replaces the standard paladin's class feature of smite
 
 This substitution feature replaces the standard paladin's ability of aura of courage.
 
-**Unicorn Mount (Sp)**: A 5th-level elf paladin gains the service of a unicorn to serve him in his crusade against evil. This ability is identical to the paladin's special mount class feature, except that the paladin is treated as six levels lower than normal for the purpose of determining the mount's bonus HD, natural armor adjustment, and Strength adjustment (but not other special abilities). The unicorn serves as a loyal steed regardless of the paladin's gender.
+**[[Unicorn]] Mount (Sp)**: A 5th-level elf paladin gains the service of a [[unicorn]] to serve him in his crusade against evil. This ability is identical to the paladin's special mount class feature, except that the paladin is treated as six levels lower than normal for the purpose of determining the mount's bonus HD, natural armor adjustment, and Strength adjustment (but not other special abilities). The [[unicorn]] serves as a loyal steed regardless of the paladin's gender.
 
-For example, an elf paladin's unicorn mount doesn't gain the adjusted statistics of a 5th-level paladin's mount (+2 HD, +4 natural armor adjustment, and +1 Strength adjustment - see [[#The Paladin's Mount]]) until the paladin is 11th level. It gains the other special abilities of a paladin's mount at the normal levels (empathic link, improved evasion, share spells, and share saving throws at 5th level, improved speed at 8th level, command at 11th level, and spell resistance at 15th level). The unicorn mount may only use its command ability on horses, ponies, donkeys, and mules.
+For example, an elf paladin's [[unicorn]] mount doesn't gain the adjusted statistics of a 5th-level paladin's mount (+2 HD, +4 natural armor adjustment, and +1 Strength adjustment - see [[#The Paladin's Mount]]) until the paladin is 11th level. It gains the other special abilities of a paladin's mount at the normal levels (empathic link, improved evasion, share spells, and share saving throws at 5th level, improved speed at 8th level, command at 11th level, and spell resistance at 15th level). The [[unicorn]] mount may only use its command ability on horses, ponies, donkeys, and mules.
 
 This substitution feature replaces the standard paladin's class feature of special mount.
 
@@ -1080,7 +1082,7 @@ An enforcer is always lawful neutral. Deities of protection and nobility often h
 
 ##### Class Skills
 
-The enforcer's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Intimidate]] (Cha), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
+The enforcer's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1093,25 +1095,25 @@ The enforcer's class skills (and the key ability for each skill) are [[Concentra
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+0|+0|+2|Aura of law, detect chaos, smite chaos 1/day|—|—|—|—|
+|1st|+1|+0|+0|+2|Aura of law, [[detect chaos]], smite chaos 1/day|—|—|—|—|
 |2nd|+2|+0|+0|+2|Divine grace, subdue|—|—|—|—|
 |3rd|+3|+1|+1|+3|Aura of courage, suggestion 1/day|—|—|—|—|
 |4th|+4|+1|+1|+4|Rebuke undead|0|—|—|—|
 |5th|+5|+1|+1|+4|Smite chaos 2/day, Leadership|0|—|—|—|
 |6th|+6/+1|+2|+2|+5||1|—|—|—|
-|7th|+7/+2|+2|+2|+5|Dominate person 1/week|1|—|—|—|
+|7th|+7/+2|+2|+2|+5|[[Dominate person]] 1/week|1|—|—|—|
 |8th|+8/+3|+2|+2|+6|Suggestion 2/day|1|0|—|—|
 |9th|+9/+4|+3|+3|+6||1|0|—|—|
 |10th|+10/+5|+3|+3|+7|Smite chaos 3/day|1|1|—|—|
-|11th|+11/+6/+1|+3|+3|+7|Dominate person 2/week|1|1|0|—|
+|11th|+11/+6/+1|+3|+3|+7|[[Dominate person]] 2/week|1|1|0|—|
 |12th|+12/+7/+2|+4|+4|+8||1|1|1|—|
 |13th|+13/+8/+3|+4|+4|+8|Suggestion 3/day|1|1|1|—|
 |14th|+14/+9/+4|+4|+4|+9||2|1|1|0|
-|15th|+15/+10/+5|+5|+5|+9|Dominate person 3/week, smite chaos 4/day|2|1|1|1|
+|15th|+15/+10/+5|+5|+5|+9|[[Dominate person]] 3/week, smite chaos 4/day|2|1|1|1|
 |16th|+16/+11/+6/+1|+5|+5|+10||2|2|1|1|
 |17th|+17/+12/+7/+2|+5|+5|+10||2|2|2|1|
 |18th|+18/+13/+8/+3|+6|+6|+11|Suggestion 4/day|3|2|2|1|
-|19th|+19/+14/+9/+4|+6|+6|+11|Dominate person 4/week|3|3|3|2|
+|19th|+19/+14/+9/+4|+6|+6|+11|[[Dominate person]] 4/week|3|3|3|2|
 |20th|+20/+15/+10/+5|+6|+6|+12|Smite chaos 5/day|3|3|3|3|
 
 ##### Class Features
@@ -1120,9 +1122,9 @@ All of the following are class features of the enforcer.
 
 **Weapon and Armor Proficiency**: Enforcers are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Law**: The power of an enforcer's aura of law (see the detect law spell) is equal to his enforcer level.
+**Aura of Law**: The power of an enforcer's aura of law (see the [[detect law]] spell) is equal to his enforcer level.
 
-**Detect Chaos (Sp)**: At will, an enforcer can use detect chaos, as the spell.
+**[[Detect Chaos]] (Sp)**: At will, an enforcer can use [[detect chaos]], as the spell.
 
 **Smite Chaos (Su)**: An enforcer's smite targets creatures with a chaotic alignment, but otherwise, it functions the same as the paladin's ability to smite evil.
 
@@ -1134,11 +1136,11 @@ All of the following are class features of the enforcer.
 
 **Suggestion (Sp)**: At 3rd level, an enforcer may cast suggestion, as the spell. He may use this ability once per day at 3rd level. At 8th level, and every five levels thereafter, he may use this ability one additional time per day, to a maximum of four times a day at 18th level. Caster level is equal to the enforcer's class level.
 
-**Rebuke Undead (Su)**: When an enforcer reaches 4th level, he gains the supernatural ability to rebuke or command undead as an evil cleric three levels lower would. The enforcer can use this ability a number of times per day equal to 3 + his Charisma modifier. Enforcers are expected to use commanded undead to further the cause of law and generally don't keep commanded undead under their control for more than 24 hours, especially if the presence of undead causes chaos in society.
+**Rebuke Undead (Su)**: When an enforcer reaches 4th level, he gains the supernatural ability to rebuke or [[command undead]] as an evil cleric three levels lower would. The enforcer can use this ability a number of times per day equal to 3 + his Charisma modifier. Enforcers are expected to use commanded undead to further the cause of law and generally don't keep commanded undead under their control for more than 24 hours, especially if the presence of undead causes chaos in society.
 
 **Leadership (Ex)**: Upon reaching 5th level, an enforcer gains the Leadership feat as a bonus feat. Enforcers gain a +1 bonus to their leadership score, although the maximum number and level of their followers and cohorts remains standard.
 
-**Dominate Person (Sp)**: At 7th level, an enforcer can cast dominate person, as the spell, once per week. He can use this ability one additional time per week for every four levels after 7th. Caster level is equal to the enforcer's class level.
+**[[Dominate Person]] (Sp)**: At 7th level, an enforcer can cast [[dominate person]], as the spell, once per week. He can use this ability one additional time per week for every four levels after 7th. Caster level is equal to the enforcer's class level.
 
 ##### Code of Conduct
 
@@ -1152,13 +1154,13 @@ An enforcer can adventure with characters of any non-chaotic alignment but remai
 
 Enforcers choose their spells from the following list:
 
-_1st Level_: Alarm, bless, bless water, bless weapon, command, cure light wounds, detect poison, divine favor, endure elements, hold portal, magic weapon, protection from chaos, resistance, sleep, virtue.
+_1st Level_: [[Alarm]], bless, [[bless water]], [[bless weapon]], command, [[cure light wounds]], [[detect poison]], [[divine favor]], [[endure elements]], [[hold portal]], magic weapon, [[protection from chaos]], resistance, sleep, [[virtue]].
 
-_2nd Level_: Bull's strength eagle's splendor, fox's cunning, hold person, resist energy, shield other, status, zone of truth.
+_2nd Level_: [[Bulls Strength|Bull's strength]] [[Eagles Splendor|eagle's splendor]], [[Foxs Cunning|fox's cunning]], [[hold person]], [[resist energy]], shield other, status, [[zone of truth]].
 
-_3rd Level_: Cure moderate wounds, discern lies, magic circle against chaos, prayer, remove blindness/deafness, remove curse, remove disease.
+_3rd Level_: [[Cure moderate wounds]], [[discern lies]], [[magic circle against chaos]], [[prayer]], [[Remove Blindness_Deafness|remove blindness/deafness]], [[remove curse]], [[remove disease]].
 
-_4th Level_: Break enchantment, cure serious wounds, dispel chaos, greater command, hold monster, mark of justice, neutralize poison, restoration.
+_4th Level_: [[Break enchantment]], [[cure serious wounds]], [[dispel chaos]], [[Command Greater|greater command]], [[hold monster]], [[mark of justice]], [[neutralize poison]], [[restoration]].
 
 
 
@@ -1170,7 +1172,7 @@ The primary duty of the Knights of the Eternal Order - Kelemvor's main order of 
 
 ##### Requirements
 
-To take an Eternal Order substitution level, a character must have Kelemvor as her patron deity, be a member of the Knights of the Eternal Order, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 3rd, or 6th level of paladin.
+To take an Eternal Order substitution level, a character must have Kelemvor as her patron deity, be a member of the Knights of the Eternal Order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 3rd, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -1186,7 +1188,7 @@ All of the following are features of the Eternal Order substitution levels.
 
 This benefit replaces the standard paladin's smite evil class feature. Any time an Eternal Order paladin would later gain an extra smite evil attempt (such as at 5th level), she can instead use this ability one extra time per day.
 
-**Undead [[Knowledge]] (Ex)**: Each time an Eternal Order substitution level is taken, the character gains a cumulative +2 competence bonus on [[Knowledge]] (religion) checks concerning undead.
+**Undead [[Compendium/Basics/Skills/Knowledge]] (Ex)**: Each time an Eternal Order substitution level is taken, the character gains a cumulative +2 competence bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks concerning undead.
 
 **Eternal Vigor (Ex)**: Beginning at 3rd level, an Eternal Order paladin can ignore the effects of negative levels bestowed upon her by an undead creature.
 
@@ -1194,7 +1196,7 @@ This benefit replaces the standard paladin's divine health class feature.
 
 **Greater Turning (Su)**: At 6th level, an Eternal Order paladin gains the ability to perform a greater turning once per day in place of a regular turning, just as if she had access to the Sun domain.
 
-This benefit replaces the standard paladin's remove disease class feature normally gained at 6th level. At any level where a standard paladin gains an extra daily use of remove disease, an Eternal Order paladin instead gains another daily use of her greater turning ability.
+This benefit replaces the standard paladin's [[remove disease]] class feature normally gained at 6th level. At any level where a standard paladin gains an extra daily use of [[remove disease]], an Eternal Order paladin instead gains another daily use of her greater turning ability.
 
   
 
@@ -1202,9 +1204,9 @@ This benefit replaces the standard paladin's remove disease class feature normal
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, corpsestrike 1/day, undead [[Knowledge]]|—|
-|3rd|+3|+3|+1|+1|Aura of courage, eternal vigor, undead [[Knowledge]]|—|
-|6th|+6/+1|+5|+2|+2|Greater turning 1/day, undead [[Knowledge]]|Same as paladin|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], corpsestrike 1/day, undead [[Compendium/Basics/Skills/Knowledge]]|—|
+|3rd|+3|+3|+1|+1|Aura of courage, eternal vigor, undead [[Compendium/Basics/Skills/Knowledge]]|—|
+|6th|+6/+1|+5|+2|+2|Greater turning 1/day, undead [[Compendium/Basics/Skills/Knowledge]]|Same as paladin|
 
   
 
@@ -1214,11 +1216,11 @@ For you, justice is paramount.
 
 **Level**: 1st.
 
-**Replaces**: If you choose this ability, you do not gain the ability to detect evil.
+**Replaces**: If you choose this ability, you do not gain the ability to [[detect evil]].
 
-**Benefit**: You can discern when someone is lying to you, as the spell discern lies. You may use this ability a number of times per day equal to 1 + your Charisma modifier (minimum 1/day). The target is afforded a Will save (DC 10 + half your paladin level + your Charisma modifier). If he succeeds, you cannot discern lies from him for 24 hours. Each use of this ability lasts for 1 round per paladin level.
+**Benefit**: You can discern when someone is lying to you, as the spell [[discern lies]]. You may use this ability a number of times per day equal to 1 + your Charisma modifier (minimum 1/day). The target is afforded a Will save (DC 10 + half your paladin level + your Charisma modifier). If he succeeds, you cannot [[discern lies]] from him for 24 hours. Each use of this ability lasts for 1 round per paladin level.
 
-Additionally, you add detect evil to the paladin spell list.
+Additionally, you add [[detect evil]] to the paladin spell list.
 
 **Note**: You should discuss this ability with your DM before choosing it. While it is appropriate for some campaigns, such ready use of a truth-finding ability can quickly spoil a game in which lies, subterfuge, and intrigue play a significant part.
 
@@ -1226,13 +1228,13 @@ Additionally, you add detect evil to the paladin spell list.
 
 Gnome paladins chuckle at the stereotype of paladins as self-righteous, honor-bound, humorless sticks-in-the-mud, especially when someone thinks it applies to them. You might make the following changes to a gnome paladins class features to emphasize her racial characteristics:
 
-**Class Skills**: Replace [[Knowledge]] (nobility and royalty) with Perform (comedy).
+**Class Skills**: Replace [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) with Perform (comedy).
 
-**Special Mount (Sp)**: A 5th-level gnome paladin may summon a dire badger as a special mount. It gains special abilities at the same rate as a standard special mount. Due to their connection with burrowing creatures, many gnome paladins call for a dire badger special mount when possible. Other gnome paladin mounts might include the black bear, boar, dire eagle, dire toad, dire weasel, and wolverine.
+**Special Mount (Sp)**: A 5th-level gnome paladin may summon a [[Badger_Dire|dire badger]] as a special mount. It gains special abilities at the same rate as a standard special mount. Due to their connection with burrowing creatures, many gnome paladins call for a [[Badger_Dire|dire badger]] special mount when possible. Other gnome paladin mounts might include the black bear, boar, dire eagle, dire toad, dire weasel, and [[wolverine]].
 
 #### Golarion Paladin
 
-Paladins trained in the Holy Citadel of Light focus specifically on the destruction of undead and are often charged with cleansing the land around Gallowspire of its necrotic taint. These paladins gain the above special ability, which replaces the remove disease ability gained at 6th level and all increases in that ability.
+Paladins trained in the Holy Citadel of Light focus specifically on the destruction of undead and are often charged with cleansing the land around Gallowspire of its necrotic taint. These paladins gain the above special ability, which replaces the [[remove disease]] ability gained at 6th level and all increases in that ability.
 
 **Light of Purity (Su)**: Starting at 6th level, a paladin with this ability can emit a radiance of blinding light once per week. This light acts like a daylight spell, save that it only lasts for 1 round per level of the paladin. In addition, any undead within 30 feet of the paladin emitting this light takes 1d6 points of damage per round for every two levels the paladin has attained. A Fortitude save (DC 10 + 1/2 the paladin's level + the paladin's Cha modifier) halves this damage. A paladin may use the light of purity one additional time per week for every three additional levels he has attained, to a maximum of five times at 18th level.
 
@@ -1244,7 +1246,7 @@ Paladins who are members of the Order of the Golden Cup serve Ilmater and have d
 
 ##### Requirements
 
-To take a Golden Cup substitution level, a character must have Ilmater as her patron deity, be a member of the Order of the Golden Cup, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 10th level of paladin.
+To take a Golden Cup substitution level, a character must have Ilmater as her patron deity, be a member of the Order of the Golden Cup, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 10th level of paladin.
 
 ##### Class Skills
 
@@ -1286,9 +1288,9 @@ The Order of the Golden Lion serves Torm and was created specifically to serve t
 
 ##### Requirements
 
-To take a Golden Lion paladin substitution level, a character must have Torm as her patron deity, maintain the appearance of her armor and helm in accordance with the standards of the order, be a member of the Order of the Golden Lion, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
+To take a Golden Lion paladin substitution level, a character must have Torm as her patron deity, maintain the appearance of her armor and helm in accordance with the standards of the order, be a member of the Order of the Golden Lion, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
 
-Furthermore, as part of an ongoing atonement for their church's hostilities toward other good churches in the years preceding the Time of Troubles, the Golden Lions pledge to help rebuild and defend these churches. Once per month each Golden Lion must perform a quest for or spend a day defending a good temple of another faith. The Golden Lion must follow orders from this temple as if they came from her own temple, but can disregard any order that conflicts with her own faith or that would certainly result in her death (the good faiths involved understand the boundaries of the Penance of Duty and won't ask for things they wouldn't ask of their own champions of the faith).
+Furthermore, as part of an ongoing [[atonement]] for their church's hostilities toward other good churches in the years preceding the Time of Troubles, the Golden Lions pledge to help rebuild and defend these churches. Once per month each Golden Lion must perform a quest for or spend a day defending a good temple of another faith. The Golden Lion must follow orders from this temple as if they came from her own temple, but can disregard any order that conflicts with her own faith or that would certainly result in her death (the good faiths involved understand the boundaries of the Penance of Duty and won't ask for things they wouldn't ask of their own champions of the faith).
 
 ##### Class Skills
 
@@ -1302,7 +1304,7 @@ Golden Lion substitution levels have the class skills of the standard paladin cl
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, detect magic, smite evil 1/day|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect magic]], smite evil 1/day|—|
 |4th|+4|+4|+1|+1|Enemy of strife|Same as paladin|
 |6th|+6/+1|+5|+2|+2|Restore the Weave 1/day|Same as paladin|
 
@@ -1310,9 +1312,9 @@ Golden Lion substitution levels have the class skills of the standard paladin cl
 
 All of the following are features of the Golden Lion substitution levels.
 
-**Detect Magic (Sp)**: A Golden Lion can use a detect magic effect at will. Her caster level is equal to her paladin level.
+**[[Detect Magic]] (Sp)**: A Golden Lion can use a [[detect magic]] effect at will. Her caster level is equal to her paladin level.
 
-This benefit replaces the standard paladin's detect evil ability.
+This benefit replaces the standard paladin's [[detect evil]] ability.
 
 **Enemy of Strife (Su)**: Golden Lions are tasked with eliminating the Zhentarim and the churches of Bane and Cyric. Beginning at 4th level, any smite evil attack used against a member of one of these groups (or a creature created or conjured by a member of one of these groups) automatically ignores any miss chance from concealment and overcomes damage reduction as if it were made with a good-aligned weapon.
 
@@ -1320,7 +1322,7 @@ This benefit replaces the standard paladin's ability to turn undead.
 
 **Restore the Weave (Sp)**: At 6th level, once per day a Golden Lion can repair a 5-foot cube of dead magic or wild magic area, returning it to its normal function. This ability only works if the paladin stands in an area of normal Weave that is adjacent to the damaged area (in other words, it cannot create an "island" of normal Weave within a damaged area). Slowly but surely, the Golden Lions can repair large problem areas. This spell-like ability is the equivalent of a 3rd-level spell.
 
-This benefit replaces the remove disease class feature gained by a standard paladin at 6th level. At any level where a standard paladin gains an extra daily use of remove disease, a Golden Lion can instead gain another daily use of her restore the Weave ability.
+This benefit replaces the [[remove disease]] class feature gained by a standard paladin at 6th level. At any level where a standard paladin gains an extra daily use of [[remove disease]], a Golden Lion can instead gain another daily use of her restore the Weave ability.
 
 #### Half-Orc Paladin
 
@@ -1344,7 +1346,7 @@ Half-orc paladin substitution levels have the class skills of the standard palad
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, righteous fury 1/day|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], righteous fury 1/day|—|
 |3rd|+3|+3|+1|+1|Aura of awe, divine health|—|
 |6th|+6/+1|+5|+2|+2|Remove fatigue 1/week|Same as paladin|
 
@@ -1364,7 +1366,7 @@ This substitution feature replaces the base paladin's aura of courage ability.
 
 **Remove Fatigue (Sp)**: At 6th level, a half-orc paladin can remove the fatigued condition from all allies within a 30-foot burst centered on him. (This has no effect on exhausted allies.) He can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times per week at 12th, and so forth).
 
-This benefit replaces the standard paladin's remove disease ability. A half-orc paladin who selects this substitution feature never gains any weekly uses of remove disease.
+This benefit replaces the standard paladin's [[remove disease]] ability. A half-orc paladin who selects this substitution feature never gains any weekly uses of [[remove disease]].
 
 #### Harmonious Knight
 
@@ -1374,7 +1376,7 @@ Paladins of the Harmonious Order, called Harmonious Knights, serve Milil and do 
 
 ##### Requirements
 
-To take a Harmonious Knight substitution level, a character must have Milil as his patron deity, be a member of the Harmonious Order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of paladin.
+To take a Harmonious Knight substitution level, a character must have Milil as his patron deity, be a member of the Harmonious Order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of paladin.
 
 ##### Class Skills
 
@@ -1398,15 +1400,15 @@ All the following are features of the Harmonious Knight substitution levels.
 
 **Inspire Courage (Su)**: A Harmonious Knight can use songs to inspire courage in his allies and himself. As a standard action, he can sing rallying or inspiring war songs that grant all allies that hear him a +1 morale bonus on attack and damage rolls. This effect lasts as long as the Harmonious Knight sings, and for 5 rounds afterward. This ability is usable once per day per paladin level, and Harmonious Knight substitution levels count as paladin levels for this purpose.
 
-This benefit replaces the standard paladin's detect evil ability.
+This benefit replaces the standard paladin's [[detect evil]] ability.
 
 **Inspire Competence (Su)**: A 6th-level Harmonious Knight with at least 4 ranks in Perform can use singing to help an ally (but not himself) succeed at a task. The ally must be within 30 feet and able to see and hear the Harmonious Knight. The ally gains a +2 competence bonus on skill checksmade with a particular skill as long as she continues to hear the Harmonious Knight's singing (maximum 2 minutes). Inspire competence is a mind-affecting ability and is usable once per day.
 
-This benefit replaces the remove disease ability that the standard paladin gains at 6th level. From this point onward, the character has one fewer weekly uses of remove disease than a normal paladin of his level does.
+This benefit replaces the [[remove disease]] ability that the standard paladin gains at 6th level. From this point onward, the character has one fewer weekly uses of [[remove disease]] than a normal paladin of his level does.
 
 **Inspire Greatness (Su)**: A 9th-level Harmonious Knight with at least 5 ranks in Perform can sing to inspire greatness in himself or one chosen ally as a standard action. The effect lasts for as long as the ally hears the Harmonious Knight sing and for 5 rounds thereafter. The affected ally gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (applying the target's Constitution modifier, if any, to both extra Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells such as sleep. Inspire greatness is a mind-affecting ability and is usable once per day.
 
-This benefit replaces the second weekly use of remove disease that the standard paladin gains at 9th level. From this point onward, the Harmonious Knight gains another daily use of inspire greatness or inspire competence (if he took the 6th Harmonious Knight level) instead of each additional weekly use of remove disease that he would otherwise have gained.
+This benefit replaces the second weekly use of [[remove disease]] that the standard paladin gains at 9th level. From this point onward, the Harmonious Knight gains another daily use of inspire greatness or inspire competence (if he took the 6th Harmonious Knight level) instead of each additional weekly use of [[remove disease]] that he would otherwise have gained.
 
 #### Holy Judge
 
@@ -1416,11 +1418,11 @@ This group of Tyr-worshiping paladins is focused primarily on its god's lawful a
 
 ##### Requirements
 
-To take a Holy Judge substitution level, a character must have Tyr as her patron deity, be a member of the Knights of Holy Judgment, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
+To take a Holy Judge substitution level, a character must have Tyr as her patron deity, be a member of the Knights of Holy Judgment, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
-Holy Judge substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (the planes).
+Holy Judge substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1430,9 +1432,9 @@ Holy Judge substitution levels have the class skills of the standard paladin cla
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, favored enemy (devils +2)|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], favored enemy (devils +2)|—|
 |4th|+4|+4|+1|+1|Censure devil|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Zone of truth 1/week|Same as paladin|
+|6th|+6/+1|+5|+2|+2|[[Zone of truth]] 1/week|Same as paladin|
 
 ##### Class Features
 
@@ -1448,13 +1450,13 @@ This benefit replaces the standard paladin's smite evil class feature.
 
 This benefit replaces the standard paladin's ability to turn undead.
 
-**Zone of Truth (Sp)**: A Holy Judge can use a zone of truth effect once per week, using his paladin level as his caster level.
+**[[Zone of Truth]] (Sp)**: A Holy Judge can use a [[zone of truth]] effect once per week, using his paladin level as his caster level.
 
-This benefit replaces the standard paladin remove disease class feature. If the Holy Judge would later gain an extra weekly use of remove disease, he instead gains an extra weekly use of zone of truth.
+This benefit replaces the standard paladin [[remove disease]] class feature. If the Holy Judge would later gain an extra weekly use of [[remove disease]], he instead gains an extra weekly use of [[zone of truth]].
 
 #### Holy Warrior
 
-By giving up your spellcasting ability, you gain access to bonus feats much as a fighter does. This choice does not, however, close you off from divine influence - in fact, several of these feats actually increase your divine power.
+By giving up your spellcasting ability, you gain access to bonus feats much as a fighter does. This choice does not, however, close you off from divine influence - in fact, several of these feats actually increase your [[divine power]].
 
 **Level**: 1st.
 
@@ -1470,9 +1472,9 @@ You actively seek out demons and devils to slay rather than waiting for them to 
 
 **Level**: 1st.
 
-**Replaces**: If you choose this ability you lose the ability to smite evil and give up [[Knowledge]] (royalty and nobility) as a class skill.
+**Replaces**: If you choose this ability you lose the ability to smite evil and give up [[Compendium/Basics/Skills/Knowledge]] (royalty and nobility) as a class skill.
 
-**Benefit**: You gain outsider (evil) as a favored enemy, as the ranger ability, except the bonus you gain equals half your paladin level (minimum +1). You gain no additional favored enemies at later levels. In addition, you gain Track as a bonus feat and Survival and [[Knowledge]] (the planes) as class skills.
+**Benefit**: You gain outsider (evil) as a favored enemy, as the ranger ability, except the bonus you gain equals half your paladin level (minimum +1). You gain no additional favored enemies at later levels. In addition, you gain Track as a bonus feat and Survival and [[Compendium/Basics/Skills/Knowledge]] (the planes) as class skills.
 
 #### Incarnate
 
@@ -1486,7 +1488,7 @@ Incarnates are always neutral. They rarely have patron deities. Incarnates form 
 
 ##### Class Skills
 
-The incarnate's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Knowledge]] (nature) (Int), [[Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Profession]] (Wis), Search (Int), [[Spot]] (Wis), and [[Survival]] (Wis).
+The incarnate's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Profession]] (Wis), Search (Int), [[Spot]] (Wis), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1506,19 +1508,19 @@ The incarnate's class skills (and the key ability for each skill) are [[Concentr
 |5th|+5|+4|+1|+1|Smite extremist 2/day, elemental minion|0|—|—|—|
 |6th|+6/+1|+5|+2|+2||1|—|—|—|
 |7th|+7/+2|+5|+2|+2||1|—|—|—|
-|8th|+8/+3|+6|+2|+2|Commune with nature 1/week|1|0|—|—|
+|8th|+8/+3|+6|+2|+2|[[Commune with nature]] 1/week|1|0|—|—|
 |9th|+9/+4|+6|+3|+3||1|0|—|—|
 |10th|+10/+5|+7|+3|+3|Smite extremist 3/day|1|1|—|—|
 |11th|+11/+6/+1|+7|+3|+3||1|1|0|—|
-|12th|+12/+7/+2|+8|+4|+4|Commune with nature 2/week|1|1|1|—|
+|12th|+12/+7/+2|+8|+4|+4|[[Commune with nature]] 2/week|1|1|1|—|
 |13th|+13/+8/+3|+8|+4|+4||1|1|1|—|
 |14th|+14/+9/+4|+9|+4|+4||2|1|1|0|
 |15th|+15/+10/+5|+9|+5|+5|Smite extremist 4/day|2|1|1|1|
-|16th|+16/+11/+6/+1|+10|+5|+5|Commune with nature 3/week|2|2|1|1|
+|16th|+16/+11/+6/+1|+10|+5|+5|[[Commune with nature]] 3/week|2|2|1|1|
 |17th|+17/+12/+7/+2|+10|+5|+5||2|2|2|1|
 |18th|+18/+13/+8/+3|+11|+6|+6||3|2|2|1|
 |19th|+19/+14/+9/+4|+11|+6|+6||3|3|3|2|
-|20th|+20/+15/+10/+5|+12|+6|+6|Commune with nature 4/week, smite extremist 5/day|3|3|3|3|
+|20th|+20/+15/+10/+5|+12|+6|+6|[[Commune with nature]] 4/week, smite extremist 5/day|3|3|3|3|
 
 ##### Class Features
 
@@ -1526,7 +1528,7 @@ All of the following are class features of the incarnate.
 
 **Weapon and Armor Proficiency**: Incarnates are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Detect Imbalance (Sp)**: Incarnates are sensitive to the presence of creatures with alignment subtypes because of how unbalancing the presence of such creatures can be. This ability functions as the detect undead spell, save that it detects creatures with an alignment subtype rather than the type. This ability does not determine the alignment or subtype of the creature, just the presence.
+**Detect Imbalance (Sp)**: Incarnates are sensitive to the presence of creatures with alignment subtypes because of how unbalancing the presence of such creatures can be. This ability functions as the [[detect undead]] spell, save that it detects creatures with an alignment subtype rather than the type. This ability does not determine the alignment or subtype of the creature, just the presence.
 
 **Elemental Affinity (Ex)**: The elemental planes are closer to the mind of an incarnate than the Outer Planes. As a result, an incarnate has a particular affinity to two elements, either air and earth or fire and water. She must select one of these pairings upon taking her first incarnate level. Each element is associated with a form of energy, as detailed below.
 
@@ -1551,7 +1553,7 @@ All of the following are class features of the incarnate.
 
 **Elemental Minion (Sp)**: Upon reaching 5th level, an incarnate gains the ability to summon a Medium elemental (air, earth, fire, or water) as a standard action usable once a day. This elemental must be one of the types she is associated with due to her elemental affinity. This elemental minion carries the same responsibilities as a paladin's special mount and gains the same bonuses to its HD, natural armor, Strength, Intelligence, and other special abilities that a paladin's special mount gains when the incarnate gains levels. Unlike the paladin's special mount, the elemental minion only remains for 1 hour/level before returning to the elemental plane from whence it came.
 
-**Commune with Nature (Sp)**: At 8th level, an incarnate gains the ability to commune with nature, as the spell, once per week. She may use this ability an additional time each week every additional four levels, to a maximum of 4 times a week at 20th level.
+**[[Commune with Nature]] (Sp)**: At 8th level, an incarnate gains the ability to [[commune with nature]], as the spell, once per week. She may use this ability an additional time each week every additional four levels, to a maximum of 4 times a week at 20th level.
 
 ##### Code of Conduct
 
@@ -1565,13 +1567,13 @@ An incarnate can adventure with characters of any alignment but remains suspicio
 
 Incarnates choose their spells from the following list:
 
-_1st Level_: Bless, bless water, bless weapon, charm animal, cure light wounds, detect poison, divine favor, endure elements, entangle, longstrider, magic fang, magic weapon, pass without trace, protection from chaos, protection from evil, protection from good, protection from law, speak with animals.
+_1st Level_: Bless, [[bless water]], [[bless weapon]], [[charm animal]], [[cure light wounds]], [[detect poison]], [[divine favor]], [[endure elements]], [[entangle]], [[longstrider]], [[magic fang]], magic weapon, [[pass without trace]], [[protection from chaos]], [[protection from evil]], [[protection from good]], [[protection from law]], [[speak with animals]].
 
-_2nd Level_: Animal messenger, barkskin, bear's endurance, bull's strength, eagle's splendor, hold person, lesser restoration, owl's wisdom, resist energy, shield other, spike growth, tree shape.
+_2nd Level_: [[Animal messenger]], [[barkskin]], [[Bears Endurance|bear's endurance]], [[Bulls Strength|bull's strength]], [[Eagles Splendor|eagle's splendor]], [[hold person]], [[Restoration Lesser|lesser restoration]], [[Owls Wisdom|owl's wisdom]], [[resist energy]], shield other, [[spike growth]], [[tree shape]].
 
-_3rd Level_: Cure moderate wounds, diminish plants, dominate animal, greater magic fang, magic circle against chaos, magic circle against evil, magic circle against good, magic circle against law, plant growth, prayer, speak with plants.
+_3rd Level_: [[Cure moderate wounds]], [[diminish plants]], [[dominate animal]], greater [[magic fang]], [[magic circle against chaos]], [[magic circle against evil]], [[magic circle against good]], [[magic circle against law]], [[plant growth]], [[prayer]], [[speak with plants]].
 
-_4th Level_: Break enchantment, command plants, cure serious wounds, dismissal, dispel chaos, dispel evil, dispel good, dispel law, freedom of movement, tree stride.
+_4th Level_: [[Break enchantment]], [[command plants]], [[cure serious wounds]], [[dismissal]], [[dispel chaos]], [[dispel evil]], [[dispel good]], [[dispel law]], [[freedom of movement]], [[tree stride]].
 
 #### Inquisitor
 
@@ -1579,23 +1581,23 @@ The paladin who takes an active role in hunting her foul enemies must give up he
 
 This variant simply swaps one or more of a class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
-**Lose**: Lay on hands, turn undead, remove disease.
+**Lose**: Lay on hands, turn undead, [[remove disease]].
 
 **Gain**: Favored enemy (as [[ranger]]; may only select aberrations, dragons, giants, monstrous humanoids, evil outsiders, or undead).
 
 #### Lion Legionnaire
 
-The mighty wemic paladins of Nobanion are called the Legion of Lions; they are small in number but great in their bravery. Unlike most of Lord Firemane's wemic followers, they travel outside the Shaar in search of evil, and partly because of their efforts Nobanion's faith has attracted humanoid followers. Though most Lion Legionnaires are wemics, a small number are humanoids, and at least one lammasu is a member of this elite group. Rather than traditional paladin abilities, they develop powers relating to Nobanion's strengths and tactics.
+The mighty wemic paladins of Nobanion are called the Legion of Lions; they are small in number but great in their bravery. Unlike most of Lord Firemane's wemic followers, they travel outside the Shaar in search of evil, and partly because of their efforts Nobanion's faith has attracted humanoid followers. Though most Lion Legionnaires are wemics, a small number are humanoids, and at least one [[lammasu]] is a member of this elite group. Rather than traditional paladin abilities, they develop powers relating to Nobanion's strengths and tactics.
 
 **Hit Die**: d10.
 
 ##### Requirements
 
-To take a Lion Legionnaire substitution level, a character must have Nobanion as his patron deity, be a member of the Legion of Lions, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 4th, or 5th level of paladin.
+To take a Lion Legionnaire substitution level, a character must have Nobanion as his patron deity, be a member of the Legion of Lions, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 4th, or 5th level of paladin.
 
 ##### Class Skills
 
-Lion Legionnaire substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (nature).
+Lion Legionnaire substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (nature).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1613,7 +1615,7 @@ Lion Legionnaire substitution levels have the class skills of the standard palad
 
 All of the following are features of the Lion Legionnaire substitution levels.
 
-**Firemane Aura (Su)**: Once per day a Lion Legionnaire can create an aura of holy flame around his body. As this ability activates, the paladin's hair or mane (if any) momentarily turns into a brilliant golden flame. Any evil creature striking a Lion Legionnaire with a natural weapon, or a melee weapon that is not a reach weapon, takes damage equal to the Legionnaire's paladin level. Half of this damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire. This aura lasts for 1 minute.
+**Firemane Aura (Su)**: Once per day a Lion Legionnaire can create an aura of holy flame around his body. As this ability activates, the paladin's hair or mane (if any) momentarily turns into a brilliant golden flame. Any evil creature striking a Lion Legionnaire with a natural weapon, or a melee weapon that is not a reach weapon, takes damage equal to the Legionnaire's paladin level. Half of this damage is fire damage, but the other half results directly from [[divine power]] and is therefore not subject to being reduced by resistance to fire. This aura lasts for 1 minute.
 
 This benefit replaces the standard paladin's aura of courage class feature.
 
@@ -1633,11 +1635,11 @@ The Knights of the Mystic Fire serve Mystra by guarding her temples and questing
 
 ##### Requirements
 
-To take a Mystic Fire Knight substitution level, a character must have Mystra as her patron deity, be a member of the Knights of the Mystic Fire, have 1 rank in [[Knowledge]] (religion), and be about to take her 4th, 5th, or 6th level of paladin.
+To take a Mystic Fire Knight substitution level, a character must have Mystra as her patron deity, be a member of the Knights of the Mystic Fire, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 4th, 5th, or 6th level of paladin.
 
 ##### Class Skills
 
-Mystic Fire Knight substitution levels have the class skills of the standard paladin plus [[Knowledge]] (arcana) and Spellcraft.
+Mystic Fire Knight substitution levels have the class skills of the standard paladin plus [[Compendium/Basics/Skills/Knowledge]] (arcana) and Spellcraft.
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1668,11 +1670,11 @@ This benefit replaces the turn undead class feature gained by a standard paladin
 
 This class feature augments, but does not replace, the standard paladin's smite evil class feature.
 
-**Spellshatter (Su)**: Once per day starting at 6th level, a Mystic Fire Knight can choose to deliver a targeted greater dispel magic effect with a melee attack. The decision to use this ability must be made before the attack is rolled; if the attack misses, the effect is wasted.
+**Spellshatter (Su)**: Once per day starting at 6th level, a Mystic Fire Knight can choose to deliver a targeted [[Dispel Magic Greater|greater dispel magic]] effect with a melee attack. The decision to use this ability must be made before the attack is rolled; if the attack misses, the effect is wasted.
 
-If the attack hits, treat this as if the Mystic Fire Knight had cast a targeted greater dispel magic on the creature struck, using her paladin level (plus any arcane caster level she might have from another class) as her caster level, up to a maximum of +20.
+If the attack hits, treat this as if the Mystic Fire Knight had cast a targeted [[Dispel Magic Greater|greater dispel magic]] on the creature struck, using her paladin level (plus any arcane caster level she might have from another class) as her caster level, up to a maximum of +20.
 
-This benefit replaces the standard paladin's remove disease class feature. If the Mystic Fire Knight would later gain an extra weekly use of remove disease, she instead gains an extra daily use of spellshatter.
+This benefit replaces the standard paladin's [[remove disease]] class feature. If the Mystic Fire Knight would later gain an extra weekly use of [[remove disease]], she instead gains an extra daily use of spellshatter.
 
 #### Noble Heart
 
@@ -1682,7 +1684,7 @@ The Companions of the Noble Heart are aggressive knights in the service of Ilmat
 
 ##### Requirements
 
-To take a Noble Heart substitution level, a character must have Ilmater as her patron deity, be a member of the Companions of the Noble Heart, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
+To take a Noble Heart substitution level, a character must have Ilmater as her patron deity, be a member of the Companions of the Noble Heart, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -1698,7 +1700,7 @@ Noble Heart substitution levels have the class skills of the standard paladin cl
 |---|---|---|---|---|---|---|
 |3rd|+3|+3|+1|+1|Aura of courage, tenacious tracker|—|
 |4th|+4|+4|+1|+1|Sunder the sadistic|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Delay poison 1/week|Same as paladin|
+|6th|+6/+1|+5|+2|+2|[[Delay poison]] 1/week|Same as paladin|
 
 ##### Class Features
 
@@ -1714,9 +1716,9 @@ This benefit replaces the standard paladin's divine health class feature.
 
 This benefit replaces the standard paladin's ability to turn undead.
 
-**Delay Poison (Sp)**: The enemies of the Noble Heart paladin frequently employ poison in their efforts to spread evil and cruelty. Starting at 6th level, a Noble Heart paladin can use a delay poison effect once per week using her paladin level as her caster level.
+**[[Delay Poison]] (Sp)**: The enemies of the Noble Heart paladin frequently employ poison in their efforts to spread evil and cruelty. Starting at 6th level, a Noble Heart paladin can use a [[delay poison]] effect once per week using her paladin level as her caster level.
 
-This benefit replaces the remove disease class feature gained by a standard paladin. If she would later gain extra weekly uses of remove disease, the Noble Heart paladin instead gains extra weekly uses of delay poison.
+This benefit replaces the [[remove disease]] class feature gained by a standard paladin. If she would later gain extra weekly uses of [[remove disease]], the Noble Heart paladin instead gains extra weekly uses of [[delay poison]].
 
 
 
@@ -1730,24 +1732,24 @@ These paladin variants aren't meant to be unique classes in and of themselves, b
 
 |Level|Honor (LG)|Freedom (CG)|Tyranny (LE)|Slaughter (CE)|
 |---|---|---|---|---|
-|1st|Aura of good, detect evil,  <br>smite evil 1/day|Aura of good, detect evil,  <br>smite evil 1/day|Aura of evil, detect good,  <br>smite good 1/day|Aura of evil, detect good,  <br>smite good 1/day|
+|1st|Aura of good, [[detect evil]],  <br>smite evil 1/day|Aura of good, [[detect evil]],  <br>smite evil 1/day|Aura of evil, [[detect good]],  <br>smite good 1/day|Aura of evil, [[detect good]],  <br>smite good 1/day|
 |2nd|Divine grace, lay on hands|Divine grace, lay on hands|Divine grace, deadly touch|Divine grace, deadly touch|
 |3rd|Aura of courage, divine health|Aura of resolve, divine health|Aura of despair, divine health|Debilitating aura, divine health|
 |4th|Turn undead|Turn undead|Rebuke undead|Rebuke undead|
 |5th|Smite evil 2/day, special mount|Smite evil 2/day, special mount|Smite good 2/day, special mount|Smite good 2/day, special mount|
-|6th|Remove disease 1/week|Remove disease 1/week|Cause disease 1/week|Cause disease 1/week|
+|6th|[[Remove disease]] 1/week|[[Remove disease]] 1/week|Cause disease 1/week|Cause disease 1/week|
 |7th|—|—|—|—|
 |8th|—|—|—|—|
-|9th|Remove disease 2/week|Remove disease 2/week|Cause disease 2/week|Cause disease 2/week|
+|9th|[[Remove disease]] 2/week|[[Remove disease]] 2/week|Cause disease 2/week|Cause disease 2/week|
 |10th|Smite evil 3/day|Smite evil 3/day|Smite good 3/day|Smite good 3/day|
 |11th|—|—|—|—|
-|12th|Remove disease 3/week|Remove disease 3/week|Cause disease 3/week|Cause disease 3/week|
+|12th|[[Remove disease]] 3/week|[[Remove disease]] 3/week|Cause disease 3/week|Cause disease 3/week|
 |13th|—|—|—|—|
 |14th|—|—|—|—|
-|15th|Remove disease 4/week,  <br>smite evil 4/day|Remove disease 4/week,  <br>smite evil 4/day|Cause disease 4/week,  <br>smite good 4/day|Cause disease 4/week,  <br>smite good 4/day|
+|15th|[[Remove disease]] 4/week,  <br>smite evil 4/day|[[Remove disease]] 4/week,  <br>smite evil 4/day|Cause disease 4/week,  <br>smite good 4/day|Cause disease 4/week,  <br>smite good 4/day|
 |16th|—|—|—|—|
 |17th|—|—|—|—|
-|18th|Remove disease 5/week|Remove disease 5/week|Cause disease 5/week|Cause disease 5/week|
+|18th|[[Remove disease]] 5/week|[[Remove disease]] 5/week|Cause disease 5/week|Cause disease 5/week|
 |19th|—|—|—|—|
 |20th|Smite evil 5/day|Smite evil 5/day|Smite good 5/day|Smite good 5/day|
 
@@ -1793,7 +1795,7 @@ The paladin of slaughter has all the standard paladin class features, except as 
 
 **Aura of Evil (Ex)**: The power of a paladin of slaughter's aura of evil (see the [[detect evil]] spell) is equal to her paladin of slaughter level, just as with the aura of a cleric of an evil deity.
 
-**Detect Good (Sp)**: At will, a paladin of slaughter can use [[detect good]], as the spell.
+**[[Detect Good]] (Sp)**: At will, a paladin of slaughter can use [[detect good]], as the spell.
 
 **Smite Good (Su)**: Once per day, a paladin of slaughter may attempt to smite good with one normal melee attack. This ability is otherwise identical to the standard paladin's ability to smite evil, including increased daily uses as the paladin of slaughter gains class levels.
 
@@ -1805,7 +1807,7 @@ Alternatively, a paladin of slaughter can use any or all of this power to cure d
 
 **Rebuke Undead (Su)**: A paladin of slaughter rebukes undead rather than turning undead.
 
-**Cause Disease (Sp)**: A paladin of slaughter can inflict disease with her touch (as the [[contagion]] spell) a number of times per week that a standard paladin of her level would normally be able to remove disease.
+**Cause Disease (Sp)**: A paladin of slaughter can inflict disease with her touch (as the [[contagion]] spell) a number of times per week that a standard paladin of her level would normally be able to [[remove disease]].
 
 **Spellcasting**: Replace the standard paladin's spell list with the following spell list:
 
@@ -1833,7 +1835,7 @@ The paladin of tyranny has all the standard paladin class features, except as no
 
 **Aura of Evil (Ex)**: The power of a paladin of tyranny's aura of evil (see the[[detect evil]] spell) is equal to his paladin of tyranny level, just as with the aura of a cleric of an evil deity.
 
-**Detect Good (Sp)**: At will, a paladin of tyranny can use[[detect good]], as the spell.
+**[[Detect Good]] (Sp)**: At will, a paladin of tyranny can use[[detect good]], as the spell.
 
 **Smite Good (Su)**: Once per day, a paladin of tyranny may attempt to smite good with one normal melee attack. This ability is otherwise identical to the standard paladin's ability to smite evil, including increased daily uses as the paladin of tyranny gains class levels.
 
@@ -1845,7 +1847,7 @@ Alternatively, a paladin of tyranny can use any or all of this power to cure dam
 
 **Rebuke Undead (Su)**: A paladin of tyranny rebukes undead rather than turning undead.
 
-**Cause Disease (Sp)**: A paladin of tyranny can inflict disease with his touch (as the[[contagion]] spell) a number of times per week that a standard paladin of her level would normally be able to remove disease.
+**Cause Disease (Sp)**: A paladin of tyranny can inflict disease with his touch (as the[[contagion]] spell) a number of times per week that a standard paladin of her level would normally be able to [[remove disease]].
 
 **Spellcasting**: Replace the paladin's spell list with the following spell list:
 
@@ -1889,7 +1891,7 @@ Paladin of light substitution levels grant the same class skills as the standard
 |---|---|---|---|---|---|---|
 |1st|+1|+2|+0|+0|Aura of good, detect night creature, smite evil 1/day|—|
 |2th|+2|+3|+0|+0|Cooling touch, divine grace|—|
-|6th|+6/+1|+5|+2|+2|Remove curse 1/week|Same as paladin|
+|6th|+6/+1|+5|+2|+2|[[Remove curse]] 1/week|Same as paladin|
 
 ##### Class Features
 
@@ -1897,7 +1899,7 @@ All of the following are features of the paladin of light's substitution levels.
 
 **Detect Night Creature (Sp)**: At will, a paladin of light can detect night creature, as the spell.
 
-This substitution feature replaces the standard paladin's detect evil class feature gained at 1st level.
+This substitution feature replaces the standard paladin's [[detect evil]] class feature gained at 1st level.
 
 **Cooling Touch (Su)**: Beginning at 2nd level, a paladin of light with a Charisma score of 12 or higher can provide creatures with fire resistance by touch. Each day she can grant a total number of points of fire resistance equal to her paladin level × her Charisma bonus. This fire resistance lasts for 10 minutes per paladin level.
 
@@ -1905,9 +1907,9 @@ For example, a 7th-level paladin of light with a 16 Charisma (+3 bonus) can prov
 
 This substitution feature replaces the standard paladin's lay on hands class feature.
 
-**Remove Curse (Sp)**: At 6th level, a paladin of light can produce a remove curse effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times per week at 12th, and so forth).
+**[[Remove Curse]] (Sp)**: At 6th level, a paladin of light can produce a [[remove curse]] effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times per week at 12th, and so forth).
 
-This substitution feature replaces the standard paladin's remove disease class feature.
+This substitution feature replaces the standard paladin's [[remove disease]] class feature.
 
 #### Pelor's Blessing
 
@@ -1933,7 +1935,7 @@ To take a paladin planar substitution level, a character must be about to take h
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1943,7 +1945,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Paladin planar substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (the planes) (Int).
+Paladin planar substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1973,7 +1975,7 @@ This benefit replaces the ability to turn undead gained by a standard paladin at
 
 The mount gains darkvision out to 60 feet, spell resistance equal to its Hit Dice + 5 (maximum 25), and resistance to acid, cold, and electricity 5 (or resistance 10 if it has 8 or more Hit Dice). If the mount has 4 or more Hit Dice, it also gains damage reduction (5/magic for Hit Dice 4 to 11, or 10/magic for Hit Dice 12 or more), and its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction. It also gains a smite evil attack, allowing it to deal extra damage once per day equal to its Hit Dice (maximum +20) with a single melee attack against an evil foe.
 
-This benefit replaces the remove disease class feature gained by a standard paladin at 6th level. From now on, whenever the paladin gains a standard paladin level that allows her to use remove disease more frequently, she gains the indicated number of uses per week minus 1 (1/week at 9th level, 2/week at 12th level, and so on).
+This benefit replaces the [[remove disease]] class feature gained by a standard paladin at 6th level. From now on, whenever the paladin gains a standard paladin level that allows her to use [[remove disease]] more frequently, she gains the indicated number of uses per week minus 1 (1/week at 9th level, 2/week at 12th level, and so on).
 
 **Alignment Purity (Ex)**: A 10th-level paladin who chooses this planar substitution benefit can ignore the penalty to Intelligence-, Wisdom-, and/or Charisma-based checks that she would normally take when on a plane that is chaotic- or evil-aligned. Her spirit and determination are so pure that she effectively brings her own planar alignment traits wherever she goes.
 
@@ -2017,11 +2019,11 @@ Members of the Order of the Red Falcon serve the Red Knight and have earned fame
 
 ##### Requirements
 
-To take a Red Falcon substitution level, a character must have the Red Knight as her patron deity, be a member of the Order of the Red Falcon, have 1 rank in [[Knowledge]] (religion), and be about to take her 2nd, 4th, or 6th level of paladin.
+To take a Red Falcon substitution level, a character must have the Red Knight as her patron deity, be a member of the Order of the Red Falcon, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 2nd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
-Red Falcon substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (history).
+Red Falcon substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (history).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -2031,9 +2033,9 @@ Red Falcon substitution levels have the class skills of the standard paladin cla
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|2nd|+2|+3|+0|+0|Brilliant strategy, lay on hands, military [[Knowledge]]|—|
-|4th|+4|+4|+1|+1|Expanded spell list, military [[Knowledge]], turn undead|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Military [[Knowledge]], remove disease 1/week, spontaneous extend spell, trained militia|See text|
+|2nd|+2|+3|+0|+0|Brilliant strategy, lay on hands, military [[Compendium/Basics/Skills/Knowledge]]|—|
+|4th|+4|+4|+1|+1|Expanded spell list, military [[Compendium/Basics/Skills/Knowledge]], turn undead|Same as paladin|
+|6th|+6/+1|+5|+2|+2|Military [[Compendium/Basics/Skills/Knowledge]], [[remove disease]] 1/week, spontaneous extend spell, trained militia|See text|
 
 ##### Class Features
 
@@ -2043,9 +2045,9 @@ All of the following are features of the Red Falcon substitution levels.
 
 This benefit replaces the standard paladin's divine grace class feature.
 
-**Expanded Spell List**: At 4th level, a Red Falcon adds augury (2nd level), deathwatch (1st level), and status (2nd level) to her paladin spell list.
+**Expanded Spell List**: At 4th level, a Red Falcon adds [[augury]] (2nd level), [[deathwatch]] (1st level), and status (2nd level) to her paladin spell list.
 
-**Military [[Knowledge]] (Ex)**: Each time a Red Falcon substitution level is taken, the character gains a cumulative +2 competence bonus on [[Knowledge]] checks concerning military history or strategy.
+**Military [[Compendium/Basics/Skills/Knowledge]] (Ex)**: Each time a Red Falcon substitution level is taken, the character gains a cumulative +2 competence bonus on [[Compendium/Basics/Skills/Knowledge]] checks concerning military history or strategy.
 
 **Turn Undead (Su)**: A Red Falcon is not as skilled at turning undead as a normal paladin. She can only use this ability a number of times per day equal to her Charisma modifier.
 
@@ -2063,7 +2065,7 @@ Members of Sune's order of paladins, the Sisters and Brothers of the Ruby Rose, 
 
 ##### Requirements
 
-To take a Ruby Rose Knight substitution level, a character must have Sune as her patron, be a member of the Sisters and Brothers of the Ruby Rose, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 6th, or 12th level of paladin.
+To take a Ruby Rose Knight substitution level, a character must have Sune as her patron, be a member of the Sisters and Brothers of the Ruby Rose, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 6th, or 12th level of paladin.
 
 ##### Class Skills
 
@@ -2078,7 +2080,7 @@ Ruby Rose Knight substitution levels have the class skills of the standard palad
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
 |3rd|+3|+3|+1|+1|Aura of courage, enduring personality, expanded spell list|—|
-|6th|+6/+1|+5|+2|+2|Heroism 1/week|Same as paladin|
+|6th|+6/+1|+5|+2|+2|[[Heroism]] 1/week|Same as paladin|
 |12th|+12/+7/+2|+8|+4|+4|Heroic rapture|See text|
 
 ##### Class Features
@@ -2091,9 +2093,9 @@ This benefit replaces the standard paladin's divine health class feature.
 
 **Expanded Spell List**: At 3rd level, a Ruby Rose Knight adds love bite to her paladin spell list (even though she can't actually cast the spell herself until at least 4th level).
 
-**Heroism (Sp)**: At 6th level, a Ruby Rose Knight can use a heroism effect once per week, using her class level as her caster level. She can't use this spell-like ability on herself, only on another creature.
+**[[Heroism]] (Sp)**: At 6th level, a Ruby Rose Knight can use a heroism effect once per week, using her class level as her caster level. She can't use this spell-like ability on herself, only on another creature.
 
-This benefit replaces the remove disease class feature gained by a standard paladin. If she would later gain extra weekly uses of remove disease, a Ruby Rose Knight instead gains extra weekly uses of heroism.
+This benefit replaces the [[remove disease]] class feature gained by a standard paladin. If she would later gain extra weekly uses of [[remove disease]], a Ruby Rose Knight instead gains extra weekly uses of heroism.
 
 **Heroic Rapture (Su)**: At 12th level, once per day a Ruby Rose Knight can spend a full-round action embracing another creature to grant it great bravery. The affected creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and a number of temporary hit points equal to the Ruby Rose Knight's paladin level. The effect lasts for 1 minute.
 
@@ -2113,7 +2115,7 @@ Sentinels are always neutral good. They usually worship good deities that have l
 
 ##### Class Skills
 
-The sentinel's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Listen]] (Wis), [[Profession]] (Wis). Search (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), and [[Survival]] (Wis).
+The sentinel's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Listen]] (Wis), [[Profession]] (Wis). Search (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -2126,26 +2128,26 @@ The sentinel's class skills (and the key ability for each skill) are [[Concentra
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spells per Day|   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |1st|2nd|3rd|4th|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, smite evil 1/day|—|—|—|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], smite evil 1/day|—|—|—|—|
 |2nd|+2|+3|+0|+0|Divine grace, resist fiendish lure|—|—|—|—|
 |3rd|+3|+3|+1|+1|Aura of courage, celestial fortitude|—|—|—|—|
 |4th|+4|+4|+1|+1|Turn outsider|0|—|—|—|
 |5th|+5|+4|+1|+1|Smite evil 2/day, celestial minion|0|—|—|—|
 |6th|+6/+1|+5|+2|+2||1|—|—|—|
 |7th|+7/+2|+5|+2|+2||1|—|—|—|
-|8th|+8/+3|+6|+2|+2|Dispel evil 1/week|1|0|—|—|
+|8th|+8/+3|+6|+2|+2|[[Dispel evil]] 1/week|1|0|—|—|
 |9th|+9/+4|+6|+3|+3||1|0|—|—|
 |10th|+10/+5|+7|+3|+3|Smite evil 3/day|1|1|—|—|
 |11th|+11/+6/+1|+7|+3|+3||1|1|0|—|
-|12th|+12/+7/+2|+8|+4|+4|Dispel evil 1/week|1|1|1|—|
+|12th|+12/+7/+2|+8|+4|+4|[[Dispel evil]] 1/week|1|1|1|—|
 |13th|+13/+8/+3|+8|+4|+4||1|1|1|—|
 |14th|+14/+9/+4|+9|+4|+4||2|1|1|0|
 |15th|+15/+10/+5|+9|+5|+5|Smite evil 4/day|2|1|1|1|
-|16th|+16/+11/+6/+1|+10|+5|+5|Dispel evil 3/week|2|2|1|1|
+|16th|+16/+11/+6/+1|+10|+5|+5|[[Dispel evil]] 3/week|2|2|1|1|
 |17th|+17/+12/+7/+2|+10|+5|+5||2|2|2|1|
 |18th|+18/+13/+8/+3|+11|+6|+6||3|2|2|1|
 |19th|+19/+14/+9/+4|+11|+6|+6||3|3|3|2|
-|20th|+20/+15/+10/+5|+12|+6|+6|Dispel evil 4/week, smite evil 5/day|3|3|3|3|
+|20th|+20/+15/+10/+5|+12|+6|+6|[[Dispel evil]] 4/week, smite evil 5/day|3|3|3|3|
 
 ##### Class Features
 
@@ -2153,9 +2155,9 @@ All of the following are class features of the sentinel.
 
 **Weapon and Armor Proficiency**: Sentinels are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Good (Ex)**: The power of a sentinel's aura of good (see the detect good spell) is equal to his sentinel level, just like the aura of a cleric of a good deity.
+**Aura of Good (Ex)**: The power of a sentinel's aura of good (see the [[detect good]] spell) is equal to his sentinel level, just like the aura of a cleric of a good deity.
 
-**Detect Evil (Sp)**: At will, a sentinel can detect evil, as the spell.
+**[[Detect Evil]] (Sp)**: At will, a sentinel can [[detect evil]], as the spell.
 
 **Smite Evil (Su)**: A sentinel's smite targets all evil creatures, which functions as the paladin ability of the same name.
 
@@ -2171,7 +2173,7 @@ All of the following are class features of the sentinel.
 
 **Celestial Minion (Sp)**: Upon reaching 5th level, a sentinel gains the ability to summon a Medium or smaller size celestial animal (with the celestial creature template) as a standard action usable once a day. This celestial minion carries the same responsibilities as a paladin's special mount and gains the same bonuses to its HD, natural armor, Strength, Intelligence, and other special abilities that a paladin's special mount gains as the sentinel increases in level. Unlike the paladin's special mount, the celestial minion only remains for 1 hour/level before returning to the outer plane from whence it came.
 
-**Dispel Evil (Sp)**: At 8th level, a sentinel gains the ability to dispel evil, as the spell, once per week. He may use this ability an additional time each week every additional four levels, to a maximum of 4 times a week at 20th level.
+**[[Dispel Evil]] (Sp)**: At 8th level, a sentinel gains the ability to [[dispel evil]], as the spell, once per week. He may use this ability an additional time each week every additional four levels, to a maximum of 4 times a week at 20th level.
 
 ##### Code of Conduct
 
@@ -2185,13 +2187,13 @@ A sentinel can adventure with characters of any non-evil alignment but remains s
 
 Sentinels choose their spells from the following list:
 
-_1st Level_: Bless, bless water, bless weapon. cure light wounds, detect poison, divine favor, endure elements, hold portal, magic weapon, protection from evil, protection from good, remove fear, shield of faith, summon monster I.
+_1st Level_: Bless, [[bless water]], [[bless weapon]]. [[cure light wounds]], [[detect poison]], [[divine favor]], [[endure elements]], [[hold portal]], magic weapon, [[protection from evil]], [[protection from good]], [[remove fear]], shield of faith, [[summon monster I]].
 
-_2nd Level_: Align weapon, bear's endurance, bull's strength, consecrate, eagle's splendor, lesser restoration, shield other, spiritual weapon, summon monster II.
+_2nd Level_: [[Align weapon]], [[Bears Endurance|bear's endurance]], [[Bulls Strength|bull's strength]], [[consecrate]], [[Eagles Splendor|eagle's splendor]], [[Restoration Lesser|lesser restoration]], shield other, [[spiritual weapon]], [[summon monster II]].
 
-_3rd Level_: Cure moderate wounds, daylight, dispel magic, invisibility purge, magic circle against evil, prayer, remove blindness/deafness, remove curse, remove disease, summon monster III.
+_3rd Level_: [[Cure moderate wounds]], daylight, [[dispel magic]], [[invisibility purge]], [[magic circle against evil]], [[prayer]], [[Remove Blindness_Deafness|remove blindness/deafness]], [[remove curse]], [[remove disease]], [[summon monster III]].
 
-_4th Level_: Break enchantment, cure serious wounds, death ward, dimensional anchor, dismissal, freedom of movement, holy sword, neutralize poison, restoration, summon monster IV.
+_4th Level_: [[Break enchantment]], [[cure serious wounds]], [[death ward]], [[dimensional anchor]], [[dismissal]], [[freedom of movement]], [[holy sword]], [[neutralize poison]], [[restoration]], [[summon monster IV]].
 
 #### Shadow Cloak Knight
 
@@ -2201,7 +2203,7 @@ For many decades, the gnome paladins belonging to the Knights of the Shadowy Clo
 
 ##### Requirements
 
-To take a Shadow Cloak Knight substitution level, a character must be a gnome, a member of the Knights of the Shadowy Cloak, have 1 rank in [[Knowledge]] (religion), and about to take her 4th, 6th, or 9th level of paladin.
+To take a Shadow Cloak Knight substitution level, a character must be a gnome, a member of the Knights of the Shadowy Cloak, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and about to take her 4th, 6th, or 9th level of paladin.
 
 ##### Class Skills
 
@@ -2286,7 +2288,7 @@ The list below is a compilation of all creatures eligible to be chosen as specia
 
 |5th Level or higher|   |   |
 |---|---|---|
-|Baazrag1|Camel|Diprotodon|
+|Baazrag1|[[Camel]]|Diprotodon|
 |Dog, riding1|Hippocampus2|Kank|
 |Monstrous spider, Medium1|Porpoise12|Riding bird (Chocobo)|
 |Sea tiger2|Shark, Medium12|Velociraptor1|
@@ -2296,20 +2298,20 @@ The list below is a compilation of all creatures eligible to be chosen as specia
 |6th Level or higher(Level -1)|   |   |
 |---|---|---|
 |Celestial dog, riding1|Celestial warhorse, heavy|Celestial warhorse, light|
-|Celestial warpony1|Deinonychus|Dire badger1|
+|Celestial warpony1|[[Dinosaur_Deinonychus|Deinonychus]]|Dire badger1|
 |Dire bat1|Dire weasel1|Dire wolf|
 |Hippogriff|Lizard, monitor1|Monstrous spider, Large|
 |Shark, Large2|Unicorn3||
 
 |7th Level or higher(Level -2)|   |   |
 |---|---|---|
-|Dire boar|Dire wolverine|Giant eagle|
-|Giant owl|Guardian steed|Pegasus|
-|Rhinoceros|Sea cat2|Terror bird|
+|[[Boar Dire|Dire boar]]|Dire wolverine|Giant eagle|
+|Giant owl|Guardian steed|[[Pegasus]]|
+|[[Rhinoceros]]|Sea cat2|Terror bird|
 
 |8th Level or higher(Level -3)|   |   |
 |---|---|---|
-|Dire lion|Griffon||
+|Dire lion|[[Griffon]]||
 
 |9th Level or higher(Level -4)|   |   |
 |---|---|---|
@@ -2322,7 +2324,7 @@ The list below is a compilation of all creatures eligible to be chosen as specia
 |12th Level or higher(Level -7)|   |   |
 |---|---|---|
 |Mastodon|Quetzalcoatlus|Triceratops|
-|Tyrannosaurus|||
+|[[Dinosaur_Tyrannosaurus|Tyrannosaurus]]|||
 
 1 _Small rider._
 
@@ -2371,11 +2373,11 @@ If you dedicate yourself to overcoming evil in the Underdark, you might find lit
 
 **Benefit**: Whenever you are underground, you can draw upon the earth to gain the following abilities. At 5th level, your base speed increases by 10 feet, and you gain a +2 circumstance bonus on [[Balance]], [[Climb]], and [[Jump]] checks. You also gain low-light vision that functions as long as you remain underground. If you already had low-light vision, you instead gain darkvision out to 60 feet while underground; if you already had darkvision, add 30 feet to its range.
 
-At 7th level, you can use spike stones once per day, as the spell. This is a spell-like ability with caster level equal to your character level.
+At 7th level, you can use [[spike stones]] once per day, as the spell. This is a spell-like ability with caster level equal to your character level.
 
 At 12th level, you gain the earth glide extraordinary ability, which enables you to move through stone, dirt, or almost any other sort of earth except metal as easily as a fish moves through water (MM 98). If you end your movement inside earth or stone, however, you begin to suffocate (DMG 304).
 
-At 15th level, you can use dimension door, as the spell, once per day for every five paladin levels you possess. You must begin and end any such movement in contact with stone or earth. This is a spell-like ability with caster level equal to your character level.
+At 15th level, you can use [[dimension door]], as the spell, once per day for every five paladin levels you possess. You must begin and end any such movement in contact with stone or earth. This is a spell-like ability with caster level equal to your character level.
 
 #### Vigilant Eye of Helm
 
@@ -2385,7 +2387,7 @@ This paladin order of Helm is growing rapidly and impressing the common folk wit
 
 ##### Requirements
 
-To take a Vigilant Eye substitution level, a character must have Helm as her patron deity, be a member of the Vigilant Eyes of the God order, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 3rd, or 4th level of paladin.
+To take a Vigilant Eye substitution level, a character must have Helm as her patron deity, be a member of the Vigilant Eyes of the God order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 3rd, or 4th level of paladin.
 
 ##### Class Skills
 
@@ -2409,9 +2411,9 @@ All of the following are features of the Vigilant Eye substitution levels.
 
 **Know Greatest Enemy (Su)**: A Vigilant Eye automatically knows which enemy in her presence is the most powerful (in game terms, which enemy has the highest CR). This benefit applies only to enemies that she can see that are within 60 feet of her. She does not need to use an action to know this, and this sense updates automatically if current foes leave or die or if new opponents arrive. She doesn't know why the most powerful enemy is such (for example, she wouldn't know that the most powerful orc in a patrol was a 3rd-level barbarian), just that it is so. She doesn't know exactly how tough this enemy is, but does know if that enemy is significantly more powerful than her (in game terms, if its CR is 4 or more above her effective character level).
 
-This benefit replaces the standard paladin's detect evil class feature.
+This benefit replaces the standard paladin's [[detect evil]] class feature.
 
-**Expanded Spell List**: A Vigilant Eye adds see invisibility (2nd level) to her paladin spell list.
+**Expanded Spell List**: A Vigilant Eye adds [[see invisibility]] (2nd level) to her paladin spell list.
 
 **Vigilant Aid (Su)**: Starting at 3rd level, when a Vigilant Eye uses the aid another special attack in melee combat to give an ally a bonus to his AC, she only has to spend a move action rather than a standard action. She can use more than one aid another special attack in a single round, but no ally can be aided more than once per round in this fashion.
 
@@ -2427,9 +2429,9 @@ The lightbringer paladin is a special, favored warrior of light. The gods protec
 
 **Level**: 6th.
 
-**Replaces**: One weekly use of remove disease.
+**Replaces**: One weekly use of [[remove disease]].
 
-**Benefit**: In addition to the standard qualities of a special mount, a lightbringer paladin's mount is immune to all death spells, magical death effects, energy drain, and any negative energy effects (such as from inflict spells or chill touch).
+**Benefit**: In addition to the standard qualities of a special mount, a lightbringer paladin's mount is immune to all death spells, magical death effects, energy drain, and any negative energy effects (such as from inflict spells or [[chill touch]]).
 
 
 
@@ -2446,7 +2448,7 @@ To take a warforged paladin substitution level, a character must be a warforged 
 
 ##### Class Skills
 
-Warforged paladin substitution levels grant the following class skills: Concentration, Craft, [[Knowledge]] (nobility and royalty), [[Knowledge]] (religion), Profession, and Ride.
+Warforged paladin substitution levels grant the following class skills: Concentration, Craft, [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty), [[Compendium/Basics/Skills/Knowledge]] (religion), Profession, and Ride.
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -2476,7 +2478,7 @@ This substitution feature replaces the standard paladin's divine health ability.
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, detect evil, smite construct, smite evil 1/day|—|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], smite construct, smite evil 1/day|—|
 |2nd|+2|+3|+0|+0|Durable will, repair damage|—|
 |3rd|+3|+3|+1|+1|Aura of courage, immunity to stunning|—|
 
@@ -2494,11 +2496,11 @@ This variant paladin gains all the normal class features of the paladin, with th
 
 **Divine Might (Su)**: At 11th level and higher, the paladin can use a standard action to add a +4 bonus to her Strength, Wisdom, or Charisma score. This ability may be used once per day, and its effect lasts for 1 minute per class level.
 
-**Tend to Mount (Su)**: A paladin of 13th level or higher who uses her lay on hands ability to heal her mount cures 5 points of damage per point of healing spent. In addition, the paladin may use her lay on hands ability to end any one of the following adverse conditions affecting her mount, at the cost of 5 points of healing per condition unless otherwise noted: ability damage (costs 1 point per ability point restored), blinded, confused, dazed, dazzled, deafened, diseased, exhausted, fatigued, feebleminded, insanity, nauseated, sickened, stunned, or poisoned.
+**Tend to Mount (Su)**: A paladin of 13th level or higher who uses her lay on hands ability to heal her mount cures 5 points of damage per point of healing spent. In addition, the paladin may use her lay on hands ability to end any one of the following adverse conditions affecting her mount, at the cost of 5 points of healing per condition unless otherwise noted: ability damage (costs 1 point per ability point restored), blinded, confused, dazed, dazzled, deafened, diseased, exhausted, fatigued, feebleminded, [[insanity]], nauseated, sickened, stunned, or poisoned.
 
 The paladin can remove adverse conditions at the same time that she heals damage, but any points of healing spent to end adverse conditions don't also cure hit point damage.
 
-**Holy Sword (Sp)**: At 16th level, a paladin gains the ability to use holy sword once per day, as a caster whose level is equal to one-half the paladin's class level.
+**[[Holy Sword]] (Sp)**: At 16th level, a paladin gains the ability to use [[holy sword]] once per day, as a caster whose level is equal to one-half the paladin's class level.
 
 #### Wary Swordknight
 
@@ -2508,7 +2510,7 @@ Members of Arvoreen's Marchers kept halfling villages safe during Tethyr's Inter
 
 ##### Requirements
 
-To take a Wary Swordknight substitution level, a character must be a halfling, have Arvoreen as her patron deity, be a member of the Arvoreen's Marchers order, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
+To take a Wary Swordknight substitution level, a character must be a halfling, have Arvoreen as her patron deity, be a member of the Arvoreen's Marchers order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -2524,7 +2526,7 @@ Wary Swordknight substitution levels have the class skills of the standard palad
 |---|---|---|---|---|---|---|
 |3rd|+3|+3|+1|+1|Divine health, tougher than small|—|
 |4th|+4|+4|+1|+1|Uncanny dodge|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Haste (self) 1/day|See text|
+|6th|+6/+1|+5|+2|+2|[[Haste]] (self) 1/day|See text|
 
 ##### Class Features
 
@@ -2538,9 +2540,9 @@ This benefit replaces the standard paladin's aura of courage class feature.
 
 This benefit replaces the standard paladin's turn undead class feature.
 
-**Haste (Sp)**: At 6th level, a Swordknight becomes able to use a haste effect on herself once per day. Her caster level for this ability is equal to one-half her paladin level.
+**[[Haste]] (Sp)**: At 6th level, a Swordknight becomes able to use a haste effect on herself once per day. Her caster level for this ability is equal to one-half her paladin level.
 
-This benefit replaces the 1st-level spell slot gained at 6th level, as well as the remove disease class feature normally gained at 6th level. From this point forward, a Wary Swordknight has one less weekly use of remove disease than normal.
+This benefit replaces the 1st-level spell slot gained at 6th level, as well as the [[remove disease]] class feature normally gained at 6th level. From this point forward, a Wary Swordknight has one less weekly use of [[remove disease]] than normal.
 
 #### Wayward Warden
 
@@ -2550,7 +2552,7 @@ Wayward Warden paladins dedicate their lives to defending halfling communities a
 
 ##### Requirements
 
-To take a Wayward Warden substitution level, a character must be a halfling, a member of the Wayward Wardens organization, have 1 rank in [[Knowledge]] (religion), and about to take her 3rd, 5th, or 10th level of paladin.
+To take a Wayward Warden substitution level, a character must be a halfling, a member of the Wayward Wardens organization, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and about to take her 3rd, 5th, or 10th level of paladin.
 
 ##### Class Skills
 
@@ -2588,13 +2590,12 @@ This benefit replaces the 3rd daily use of the smite evil ability that a standar
 
 While any paladin might fight a dragon in the course of her battles against evil, wyrmslayer paladins dedicate their lives to learning about these powerful creatures and how to combat them most effectively. With your DM's permission, you might consider making the following changes to emphasize a wyrmslayer paladin's special characteristics:
 
-**Class Skills**: Replace [[Knowledge]] (nobility and royalty) with [[Knowledge]] (arcana).
+**Class Skills**: Replace [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) with [[Compendium/Basics/Skills/Knowledge]] (arcana).
 
-**Resist Energy (Sp)**: Replace the ability to remove disease with the ability to cast resist energy 1/day with a caster level equal to your paladin level. Whenever you would gain an additional use of remove disease you instead gain an additional use of resist energy.
+**[[Resist Energy]] (Sp)**: Replace the ability to [[remove disease]] with the ability to cast [[resist energy]] 1/day with a caster level equal to your paladin level. Whenever you would gain an additional use of [[remove disease]] you instead gain an additional use of [[resist energy]].
 
 **Multiclassing**: A wyrmslayer paladin may multiclass freely in the ranger class, provided she selects dragons as her first favored enemy.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

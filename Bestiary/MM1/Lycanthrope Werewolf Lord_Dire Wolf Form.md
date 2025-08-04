@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Werewolf Lord, Dire Wolf Form]
+aliases:
+ - Lycanthrope
+ - Werewolf Lord
+ - Dire Wolf Form
 title: Bestiary/MM1/Lycanthrope, Werewolf Lord, Dire Wolf Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Werewolf Lord, Dire Wolf Form

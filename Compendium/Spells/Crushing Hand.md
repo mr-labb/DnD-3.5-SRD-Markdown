@@ -1,5 +1,6 @@
 ---
-aliases: [Crushing Hand]
+aliases:
+ - Crushing Hand
 title: Compendium/Basics/Spell/Crushing Hand
 tags:
   - 35E_SRD
@@ -53,9 +54,13 @@ This spell functions like [[Interposing Hand]], but the conjured hand may also p
 
 ---
 
-**Source:** PHB P203
+**Source :** PHB P203
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

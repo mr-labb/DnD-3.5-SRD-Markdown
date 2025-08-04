@@ -1,5 +1,6 @@
 ---
-aliases: [Cat's Grace]
+aliases:
+ - Cat's Grace
 title: Compendium/Basics/Spell/Cat's Grace
 tags: 
   - 35E_SRD
@@ -44,9 +45,13 @@ The transmuted creature becomes noticeably more agile, graceful, and coordinated
 
 *Material Component:* A pinch of cat fur.
 
-Source : PHB P208
+**Source :** PHB P208
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

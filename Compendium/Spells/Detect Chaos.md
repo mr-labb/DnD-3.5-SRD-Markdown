@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Chaos]
+aliases:
+ - Detect Chaos
 title: Compendium/Basics/Spell/Detect Chaos
 tags:
   - 35E_SRD
@@ -80,9 +81,13 @@ After the source of an Chaos aura is destroyed or dispelled, a lingering aura ma
 - The spell is blocked by 1 ft. of stone, 1 in. of metal, a thin sheet of lead, or 3 ft. of wood/dirt
 
 
-**Source:** PHB P218
+**Source :** PHB P218
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

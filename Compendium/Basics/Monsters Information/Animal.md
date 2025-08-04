@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Animal]
+aliases:
+ - Animal
 title: Compendium/Basics/Monsters Information/Animal
 tag: Monster, Animal
 ---
@@ -41,6 +42,5 @@ _Traits_: An animal possesses the following traits (unless otherwise noted in a 
     
 
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---

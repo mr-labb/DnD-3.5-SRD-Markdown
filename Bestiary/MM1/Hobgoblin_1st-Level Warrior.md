@@ -1,5 +1,7 @@
 ---
-aliases: [Hobgoblin, 1st-Level Warrior]
+aliases:
+ - Hobgoblin
+ - 1st-Level Warrior
 title: Bestiary/MM1/Hobgoblin, 1st-Level Warrior
 tags: [35E_SRD, Monster]
 Monster: Hobgoblin, 1st-Level Warrior

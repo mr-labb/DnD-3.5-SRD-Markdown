@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Vermin]
+aliases:
+ - Vermin
 title: Compendium/Basics/Monsters Information/Vermin
 tag: Monster, Vermin
 ---
@@ -23,7 +24,7 @@ _Features_: Vermin have the following features.
 - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit Die, if the vermin has an Intelligence score. However, most vermin are mindless and gain no skill points or feats.
     
 
-_Traits_: Vermin possess the following traits (unless otherwise noted in a creature’s entry).
+_Traits_: Vermin possess the following traits (unless otherwise noted in a creatureâ€™s entry).
 
 - Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
     
@@ -35,7 +36,6 @@ _Traits_: Vermin possess the following traits (unless otherwise noted in a creat
     
 - Vermin breathe, eat, and sleep.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

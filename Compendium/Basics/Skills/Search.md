@@ -1,5 +1,6 @@
 ---
-aliases: [Search]
+aliases:
+ - Search
 title: Compendium/Basics/skills/Search
 tags: skill
 ---
@@ -34,11 +35,11 @@ check to find that door.
 
 If you have the Investigator feat, you get a +2 bonus on Search checks.
 
-The spells *explosive runes, fire trap, glyph of warding, symbol,* and
-*teleportation circle* create magic traps that a rogue can find by
+The spells *[[explosive runes]], [[fire trap]], [[glyph of warding]], symbol,* and
+*[[teleportation circle]]* create magic traps that a rogue can find by
 making a successful Search check and then can attempt to disarm by using
 Disable Device. Identifying the location of a *snare* spell has a DC of
-23. *Spike growth* and *spike stones* create magic traps that can be
+23. *[[Spike growth]]* and *[[spike stones]]* create magic traps that can be
 found using Search, but against which Disable Device checks do not
 succeed. See the individual spell descriptions for details.
 
@@ -57,7 +58,7 @@ compartments.
 ### Restriction
 While anyone can use Search to find a trap whose DC is
 20 or lower, only a rogue can use Search to locate traps with higher
-DCs. (*Exception:* The spell *find traps* temporarily enables a cleric
+DCs. (*Exception:* The spell *[[find traps]]* temporarily enables a cleric
 to use the Search skill as if he were a rogue.)
 
 A dwarf, even one who is not a rogue, can use the Search skill to find a
@@ -67,5 +68,4 @@ stonecunning ability.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

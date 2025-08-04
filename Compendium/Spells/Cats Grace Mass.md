@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Cat's Grace]
+aliases:
+ - Mass Cat's Grace
 title: Compendium/Basics/Spell/Cat's Grace, Mass
 tags: 
   - 35E_SRD
@@ -33,11 +34,15 @@ As [[Cats Grace|Cat's Grace]], affects one subject/level.
 *   **Saving Throw:** Will negates (harmless)
 *   **Spell Resistance:** Yes
 
-This spell functions like *cat's grace*, except that it affects multiple creatures simultaneously. Each target receives a +4 enhancement bonus to Dexterity for the duration. The spell can affect up to one creature per caster level, and all targets must be within 30 feet of each other at the time of casting.
+This spell functions like *[[Cats Grace|cat's grace]]*, except that it affects multiple creatures simultaneously. Each target receives a +4 enhancement bonus to Dexterity for the duration. The spell can affect up to one creature per caster level, and all targets must be within 30 feet of each other at the time of casting.
 
-Source : PHB P208
+**Source :** PHB P208
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

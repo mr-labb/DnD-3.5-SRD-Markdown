@@ -1,5 +1,6 @@
 ---
-aliases: [Clenched Fist]
+aliases:
+ - Clenched Fist
 title: Compendium/Basics/Spell/Clenched Fist
 tags: 
   - 35E_SRD
@@ -34,15 +35,19 @@ This spell functions like _[[interposing hand]],_ except that the hand can int
 
 The hand attacks once per round, and its attack bonus equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for a wizard, cleric, or sorcerer, respectively), +11 for the hand's Strength score (33), -1 for being Large. The hand deals 1d8+11 points of damage on each attack, and any creature struck must make a Fortitude save (against this spell's save DC) or be stunned for 1 round. Directing the spell to a new target is a move action.
 
-The _clenched fist_ can also interpose itself as _interposing hand_ does, or it can bull rush an opponent as _forceful hand_ does, but at a +15 bonus on the Strength check.
+The _clenched fist_ can also interpose itself as _[[interposing hand]]_ does, or it can bull rush an opponent as _[[forceful hand]]_ does, but at a +15 bonus on the Strength check.
 
 Clerics who cast this spell name it for their deities.
 
 _Arcane Focus:_ A leather glove.
 
-Source : PHB P203
+**Source :** PHB P203
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

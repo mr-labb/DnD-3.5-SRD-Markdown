@@ -1,5 +1,6 @@
 ---
-aliases: [Alter Self]
+aliases:
+ - Alter Self
 title: Compendium/Basics/Spell/Alter Self
 tags: 
   - 35E_SRD
@@ -49,9 +50,13 @@ You can freely designate the new form's minor physical qualities (such as hair c
 
 When the change occurs, your equipment, if any, either remains worn or held by the new form (if it is capable of wearing or holding the item), or melds into the new form and becomes nonfunctional. When you revert to your true form, any objects previously melded into the new form reappear in the same location on your body they previously occupied and are once again functional. Any new items you wore in the assumed form and can't wear in your normal form fall off and land at your feet; any that you could wear in either form or carry in a body part common to both forms at the time of reversion are still held in the same way. Any part of the body or piece of equipment that is separated from the whole reverts to its true form.
 
-Source : PHB P197
+**Source :** PHB P197
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

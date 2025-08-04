@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Staggered]
+aliases:
+ - Staggered
 title: Compendium\Basics\Abilities and Conditions\Staggered
 tag: Conditions
 ---
@@ -12,11 +13,9 @@ A character whose nonlethal damage exactly equals his current hit points is stag
 
 A character whose current hit points exceed his nonlethal damage is no longer staggered; a character whose nonlethal damage exceeds his hit points becomes [[unconscious]].
 
-**If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
+**If more than one condition affects a character, apply them all. If certain effects canâ€™t combine, apply the most severe effect.
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

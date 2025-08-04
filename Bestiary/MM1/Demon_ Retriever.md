@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Retriever]
+aliases:
+ - Demon
+ - Retriever
 title: Bestiary/MM1/Demon, Retriever
 tags: [35E_SRD, Monster]
 Monster: Demon, Retriever

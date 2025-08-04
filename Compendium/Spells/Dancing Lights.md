@@ -1,5 +1,6 @@
 ---
-aliases: [Dancing Lights]
+aliases:
+ - Dancing Lights
 title: Compendium/Basics/Spell/Dancing Lights
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ The lights:
 [[Dancing Lights]] can be made permanent with a [[Permanency]] spell.
 
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

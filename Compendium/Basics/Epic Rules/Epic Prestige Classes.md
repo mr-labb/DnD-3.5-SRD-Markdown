@@ -658,14 +658,14 @@ Knowledge (the planes) (Int), Listen (Wis), Search (Int), and Spot
   ------- --------------------------------------- ----------------------------
   Level   Special                                 Spells per Day
   1st     *Uncanny location,*tracking bonus +10   +1 level of existing class
-  2nd     *Plane shift* 1/day                     +1 level of existing class
+  2nd     *[[Plane shift]]* 1/day                     +1 level of existing class
   3rd     *Force sphere* 1/day                    +1 level of existing class
-  4th     *Ethereal jaunt* 1/day                  +1 level of existing class
+  4th     *[[Ethereal jaunt]]* 1/day                  +1 level of existing class
   5th     Bonus feat                              +1 level of existing class
   6th     Tracking bonus +20                      +1 level of existing class
-  7th     *Plane shift* 2/day                     +1 level of existing class
+  7th     *[[Plane shift]]* 2/day                     +1 level of existing class
   8th     *Force sphere* 2/day                    +1 level of existing class
-  9th     *Ethereal jaunt* 2/day                  +1 level of existing class
+  9th     *[[Ethereal jaunt]]* 2/day                  +1 level of existing class
   10th    Bonus feat                              +1 level of existing class
   ------- --------------------------------------- ----------------------------
 
@@ -695,7 +695,7 @@ for the purpose of determining spells per day.
 When a agent retriever spends one day
 attuning him or herself to a person or object he or she is seeking, he
 or she automatically determines that person's or item's location as the
-*discern location* spell. Once he or she has established a sense of the
+*[[discern location]]* spell. Once he or she has established a sense of the
 location, the agent retriever can maintain this uncanny link even if the
 target moves, but only so long as he or she hunts down this person or
 item to the exclusion of all other pursuits. If he or she ever turns
@@ -709,7 +709,7 @@ on Wilderness Lore checks to track the quarry. This bonus increases by
 +10 every five levels thereafter.
 
 ### *Plane Shift* (Sp)
-The agent retriever can use *plane shift* as a
+The agent retriever can use *[[plane shift]]* as a
 14th-level caster once per day starting at 2nd level, plus one
 additional time per day every five levels thereafter.
 
@@ -722,16 +722,16 @@ retriever + the agent retriever's Dexterity modifier). Those who fail
 are then encapsulated in a sphere of force with a radius of up to 50
 feet (the sphere is only as large as it needs to be, up to its maximum
 radius). Those trapped inside cannot escape except with methods that can
-bypass or destroy a *wall of force.*The sphere persists as long as the
+bypass or destroy a *[[wall of force]].*The sphere persists as long as the
 agent retriever desires, up to a maximum of seven days. A captured
 target does not count toward the capacity of the agent retriever's
-*plane shift* ability, and the agent retriever can plane shift with the
+*[[plane shift]]* ability, and the agent retriever can plane shift with the
 target despite the presence of the *force sphere.* The agent retriever
 can use this power once per day at 3rd level, plus one additional time
 per day every five levels thereafter.
 
-### *Ethereal Jaunt* (Sp)
-The agent retriever can use *ethereal jaunt*
+### *[[Ethereal Jaunt]]* (Sp)
+The agent retriever can use *[[ethereal jaunt]]*
 as a 14th-level caster once per day at 4th level, plus one additional
 time per day every five levels thereafter.
 
@@ -765,7 +765,7 @@ Spell Focus (Conjuration).
 Energy Resistance.
 
 ### Spells
-Ability to cast *gate* plus any *planar ally* or *planar
+Ability to cast *gate* plus any *[[planar ally]]* or *planar
 binding* spell.
 
 ### Special
@@ -822,8 +822,8 @@ the purpose of determining spells per day.
 ### Superior Planar Summoning (Ex)
 Beginning at 1st level, the cosmic
 descryer can increase the power of any of the following
-spells---*elemental swarm, gate, greater planar ally, greater planar
-binding, summon monster IX,* or *summon nature's ally IX---to*affect or
+spells---*[[elemental swarm]], gate, [[Planar Ally Greater|greater planar ally]], greater planar
+binding, [[summon monster IX]],* or *[[Summon Natures Ally IX|summon nature's ally IX]]---to*affect or
 summon outsiders of 4 Hit Dice higher than the spell's normal limit or
 conjure creatures with 4 Hit Dice of advancement. Every four levels
 thereafter, the cosmic descryer can increase the number of extra Hit
@@ -918,7 +918,7 @@ Spellcraft (Int), Spot (Wis), and Use Magic Device (Cha).
   Level   Special
   1st     *Divine inspiration* 1/day, granted domain
   2nd     Extra smite 2/day
-  3rd     *Greater planar ally* 1/day
+  3rd     *[[Planar Ally Greater|Greater planar ally]]* 1/day
   4th     *Divine inspiration* 2/day
   5th     Extra smite 3/day
   6th     Bonus feat
@@ -973,7 +973,7 @@ levels thereafter. To determine the damage with any smite attack, a
 divine emissary adds together his or her divine emissary levels and
 class levels that originally conferred the smite ability.
 
-### *Greater Planar Ally* (Sp)
+### *[[Planar Ally Greater|Greater Planar Ally]]* (Sp)
 The emissary can call a *greater planar
 ally* (as the spell) once per day at 3rd level, plus one additional time
 per day every ten levels thereafter. The ally does not request a return
@@ -1041,7 +1041,7 @@ Sleight of Hand (Dex), and Spot (Wis).
   Level   Special
   1st     Improved cover identity (3), sneak attack +1d6
   2nd     Specialist training
-  3rd     Read thoughts 1/day, *mind blank* 1/day
+  3rd     Read thoughts 1/day, *[[mind blank]]* 1/day
   4th     Far senses 1/day, sneak attack +2d6
   5th     Specialist training, improved cover identity (4)
   6th     Far senses 2/day
@@ -1075,7 +1075,7 @@ Bluff and Gather Information checks while operating in that identity. A
 specific cover identity may be improved multiple times, each time adding
 +2 to the bonuses. It is impossible to detect the epic infiltrator's
 alignment with any form of divination. This ability functions exactly
-like an *undetectable alignment* spell, except that it is always active
+like an *[[undetectable alignment]]* spell, except that it is always active
 as a supernatural ability. Only divinations are confounded; spells that
 function only against certain alignments affect the epic infiltrator
 normally. Should the epic infiltrator wish to "retire" a cover identity
@@ -1131,7 +1131,7 @@ Motive.
 
 ### Read Thoughts (Su)
 Beginning at 3rd level, the epic infiltrator can
-*detect thoughts* as the spell cast by a 15th-level caster, except that
+*[[detect thoughts]]* as the spell cast by a 15th-level caster, except that
 it targets a single mind. Every four levels thereafter, the epic
 infiltrator can per-form this ability one additional time per day.
 
@@ -1146,15 +1146,15 @@ darkvision function normally if the epic infiltrator has one or both of
 those abilities. Far senses can also apply to the epic infiltrator's
 read thoughts ability. Every two levels beyond 4th the epic infiltrator
 can perform this ability one additional time per day. This ability
-functions as the *clairaudience/clairvoyance* spell cast by a 15th-level
+functions as the *[[Clairaudience_Clairvoyance|clairaudience/clairvoyance]]* spell cast by a 15th-level
 caster, except for the limit on range, the need to know the locale
 beforehand, and the ability to use the read thoughts ability.
 
-### *Mind Blank* (Sp)
+### *[[Mind Blank]]* (Sp)
 At 3rd level, the epic infiltrator can become
 immune to all mind-affecting spells and divinations once per day, plus
 one additional time per day every eight levels thereafter. This ability
-works as the *mind blank* spell cast by a 15th-level caster.
+works as the *[[mind blank]]* spell cast by a 15th-level caster.
 
 ## Guardian Paramount
 
@@ -1282,7 +1282,7 @@ attack roll, check, or save is known.
 On reaching 6th level, the guardian paramount
 gains the ability to return a dead creature that he or she has
 previously used any of his or her other class abilities on back to life,
-as if he or she had cast *true resurrection* as a 20th-level cleric. The
+as if he or she had cast *[[true resurrection]]* as a 20th-level cleric. The
 character can use this ability once per day, plus one additional time
 per day every six levels.
 
@@ -1325,15 +1325,15 @@ skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal
   ------- ----------------------------------- ---------------------------------------
   Level   Special                             Spells per Day
   1st     *Proselytize* 1/day                 
-  2nd     *Heal* 1/day                        +1 level of divine spellcasting class
+  2nd     *[[Heal]]* 1/day                        +1 level of divine spellcasting class
   3rd     *Proselytize (deific touch)*1/day   
   4th     Bonus feat                          +1 level of divine spellcasting class
   5th     *Proselytize (deific word)*1/day    
-  6th     *Heal* 2/day                        +1 level of divine spellcasting class
+  6th     *[[Heal]]* 2/day                        +1 level of divine spellcasting class
   7th     *Proselytize (deific face)*1/day    
   8th     Bonus feat                          +1 level of divine spellcasting class
   9th     *Proselytize (deific aura)*1/day    
-  10th    *Heal* 3/day                        +1 level of divine spellcasting class
+  10th    *[[Heal]]* 3/day                        +1 level of divine spellcasting class
   ------- ----------------------------------- ---------------------------------------
 
   : Table: The High Proselytizer
@@ -1367,10 +1367,10 @@ one additional time per day per ten class levels thereafter.
 
 *Proselytize* has three effects. First, any time the high proselytizer
 is speaking in this manner, he or she is treated as though affected by a
-*sanctuary* spell. Second, his or her voice can be heard clearly by
+*[[sanctuary]]* spell. Second, his or her voice can be heard clearly by
 anyone within a radius of 100 feet plus 50 feet per class level,
 regardless of background noise, and his or her speech can be understood
-as though the audience were affected by a *comprehend languages* spell.
+as though the audience were affected by a *[[comprehend languages]]* spell.
 Finally, everyone in the range of the high proselytizer's voice
 immediately has a chance of becoming enraptured:
 
@@ -1383,7 +1383,7 @@ immediately has a chance of becoming enraptured:
 
 Enraptured audience members act as though affected by a *symbol of
 persuasion*, changing alignment as appropriate and otherwise functioning
-according to the *charm person* spell. The high proselytizer can inspire
+according to the *[[charm person]]* spell. The high proselytizer can inspire
 the crowd to take any of a number of actions, depending on his or her
 alignment. Any suicidal suggestion grants audience members a new saving
 throw to break the rapture (with the exception of low-level followers of
@@ -1405,7 +1405,7 @@ ability lasts.
 At 5th level, the *proselytize* ability includes *deific word* once per
 day, plus one additional time per day per ten levels thereafter. The
 words spoken by the high proselytizer can, if he or she chooses,
-function as a triple-strength *sound burst* spell (3d8 points of sonic
+function as a triple-strength *[[sound burst]]* spell (3d8 points of sonic
 damage and a Will save to avoid being stunned for 3 rounds) to all who
 are not enraptured, as the spell cast by a 20th-level cleric. The
 *deific word* can occur at any point during his or her *proselytize*
@@ -1415,7 +1415,7 @@ At 7th level, the *proselytize* ability includes *deific face* once per
 day, plus one additional time per day per ten levels thereafter. When
 the high proselytizer speaks, he or she can cause a blinding burst to
 shine from his or her face. *Deific face* functions against all in the
-audience who are not enraptured as the *sunburst* spell cast by a
+audience who are not enraptured as the *[[sunburst]]* spell cast by a
 20th-level cleric. The *deific face* can occur at any point during his
 or her speech.
 
@@ -1423,14 +1423,14 @@ At 9th level, the *proselytize* ability includes *deific aura* once per
 day, plus one additional time per day per ten levels thereafter. When
 the high proselytizer speaks, he or she can cause a rolling wave of
 deific power to spring from his or her body that functions as either a
-*blasphemy, dictum, holy word,* or *word of chaos* spell (as appropriate
+*[[blasphemy]], [[dictum]], [[holy word]],* or *[[word of chaos]]* spell (as appropriate
 for his or her alignment), affecting only those in the audience who have
 resisted becoming enraptured. *Deific aura* otherwise functions as the
 relevant spell cast by a 20th-level cleric. The *deific aura* can occur
 at any point during his or her speech.
 
 ### *Heal* (Sp)
-At 2nd level, the high proselytizer can use *heal* on
+At 2nd level, the high proselytizer can use *[[heal]]* on
 his or herself or another creature once per day, plus one additional
 time per day per four levels thereafter.
 
@@ -1588,12 +1588,12 @@ Use Rope (Dex).
 
   ------- ----------------------------
   Level   Special
-  1st     Greater invisibility 1/day
+  1st     [[Invisibility Greater|Greater invisibility]] 1/day
   2nd     Improved legerdemain 1/day
   3rd     Incorporeal 1/day
   4th     Shadow form 1/day
   5th     Bonus feat
-  6th     Greater invisibility 2/day
+  6th     [[Invisibility Greater|Greater invisibility]] 2/day
   7th     Improved legerdemain 2/day
   8th     Incorporeal 2/day
   9th     Shadow form 2/day
@@ -1612,7 +1612,7 @@ with any weapons, armor, or shields.
 
 ### Greater Invisibility (Su)
 Starting at 1st level, the perfect wight
-gains the benefit of *greater invisibility* once per day, plus one
+gains the benefit of *[[Invisibility Greater|greater invisibility]]* once per day, plus one
 additional time per day every five levels thereafter. The *greater
 invisibility* is as the spell cast by a 20th-level caster.
 
@@ -1715,16 +1715,16 @@ Sense Motive (Wis), and Spot (Wis).
 
   ------- ------------------------------------------------------------------------------
   Level   Special
-  1st     *Sending* 1/day, *shield of law* 1/day
-  2nd     *Freedom* 1/day, *knock* 1/day
-  3rd     *Dimensional anchor* 1/day
+  1st     *[[Sending]]* 1/day, *shield of law* 1/day
+  2nd     *Freedom* 1/day, *[[knock]]* 1/day
+  3rd     *[[Dimensional anchor]]* 1/day
   4th     Portal guardian 1/day, *shield of law* 2/day
-  5th     *Forcecage* 1/day
-  6th     *Dimensional anchor* 2/day, *knock* 2/day
-  7th     *Imprisonment* 1/day, *shield of law* 3/day
-  8th     *Freedom* 2/day, *sending* 2/day
-  9th     *Dimensional anchor* 3/day
-  10th    *Knock* 3/day, *forcecage* 2/day, portal guardian 2/day, shield of law 4/day
+  5th     *[[Forcecage]]* 1/day
+  6th     *[[Dimensional anchor]]* 2/day, *[[knock]]* 2/day
+  7th     *[[Imprisonment]]* 1/day, *shield of law* 3/day
+  8th     *Freedom* 2/day, *[[sending]]* 2/day
+  9th     *[[Dimensional anchor]]* 3/day
+  10th    *[[Knock]]* 3/day, *[[forcecage]]* 2/day, portal guardian 2/day, shield of law 4/day
   ------- ------------------------------------------------------------------------------
 
   : Table: The Union Sentinel
@@ -1757,13 +1757,13 @@ functions as the spell cast by an 18th-level caster.
 
 ### *Knock* (Sp)
 At 2nd level, the Union Sentinel gains the use of the
-*knock* spell as a spell-like ability once per day, plus one additional
+*[[knock]]* spell as a spell-like ability once per day, plus one additional
 time per day every four levels thereafter. This ability functions as the
 spell cast by a 15th-level caster.
 
 ### *Dimensional Anchor* (Sp)
 At 3rd level, the Union Sentinel gains
-the use of the *dimensional anchor* spell as a spell-like ability once
+the use of the *[[dimensional anchor]]* spell as a spell-like ability once
 per day, plus one additional time per day every three levels thereafter.
 This ability functions as the spell cast by a 15th-level caster.
 
@@ -1779,19 +1779,22 @@ This ability only functions against portals and the *gate* spell, not
 against creatures with other spell-like or supernatural interplanar
 traveling abilities.
 
-### *Forcecage* (Sp)
+### *[[Forcecage]]* (Sp)
 At 5th level, the Union Sentinel gains the use of
-the *forcecage* spell as a spell-like ability once per day, plus one
+the *[[forcecage]]* spell as a spell-like ability once per day, plus one
 additional time per day every five levels thereafter. This ability
 functions as the spell cast by a 20th-level caster.
 
 ### *Imprisonment* (Sp)
 At 7th level, the Union Sentinel gains the use
-of the *imprisonment* spell as a spell-like ability once per week, plus
+of the *[[imprisonment]]* spell as a spell-like ability once per week, plus
 one additional time per week every five levels thereafter. This ability
 functions as the spell cast by a 20th-level caster.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

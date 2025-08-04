@@ -1,5 +1,6 @@
 ---
-aliases: [Bless Weapon]
+aliases:
+ - Bless Weapon
 title: Compendium/Basics/Spell/Bless Weapon
 tags: 
   - 35E_SRD
@@ -43,9 +44,13 @@ Additionally, all critical hit rolls against evil foes are automatically success
 - Every threat becomes a confirmed critical hit
 - This does *not* apply to weapons with magical effects related to crits (e.g. *keen*, *vorpal*)
 
-Source : PHB P205
+**Source :** PHB P205
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

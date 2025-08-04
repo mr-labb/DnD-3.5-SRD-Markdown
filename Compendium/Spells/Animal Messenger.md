@@ -1,5 +1,6 @@
 ---
-aliases: [Animal Messenger]
+aliases:
+ - Animal Messenger
 title: Compendium/Basics/Spell/Animal Messenger
 tags: 
   - 35E_SRD
@@ -40,9 +41,13 @@ During this period of waiting, the messenger allows others to approach it and re
 
 *Material Component:* A morsel of food the animal likes.
 
-Source : PHB P198
+**Source :** PHB P198
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Open Lock]
+aliases:
+ - Open Lock
 title: Compendium/Basics/skills/Open Lock
 tags: skill
 ---
@@ -33,5 +34,4 @@ successfully force them open.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

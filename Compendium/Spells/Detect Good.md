@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Good]
+aliases:
+ - Detect Good
 title: Compendium/Basics/Spell/Detect Good
 tags:
   - 35E_SRD
@@ -81,9 +82,13 @@ After the source of an good aura is destroyed or dispelled, a lingering aura may
 - Each round, you may scan a new direction  
 - The spell is blocked by 1 ft. of stone, 1 in. of metal, a thin sheet of lead, or 3 ft. of wood/dirt
 
-**Source:** PHB P219
+**Source :** PHB P219
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Cure Serious Wounds]
+aliases:
+ - Cure Serious Wounds
 title: Compendium/Basics/Spell/Cure Serious Wounds
 tags:
   - 35E_SRD
@@ -48,9 +49,13 @@ When laying your hand upon a living creature, you channel positive energy that c
 
 ---
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

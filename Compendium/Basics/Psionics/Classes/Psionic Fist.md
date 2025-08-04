@@ -52,7 +52,7 @@ Still mind class feature.
 
 #### Class Skills
 
-The Psionic Fist’s class skills (and the key ability for each skill) are [[Autohypnosis]] (Wis), [[Concentration]] (Con), [[Craft]] (Int), [[Escape Artist]] (Dex), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (psionics) (Int), [[Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Psicraft]] (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), [[Tumble]] (Dex).
+The Psionic Fist’s class skills (and the key ability for each skill) are [[Autohypnosis]] (Wis), [[Concentration]] (Con), [[Craft]] (Int), [[Escape Artist]] (Dex), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (psionics) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Psicraft]] (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), [[Tumble]] (Dex).
 
 ##### Skill Points at Each Level
 
@@ -99,5 +99,8 @@ A [[monk]] who becomes a Psionic Fist may continue advancing as a monk.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,7 @@
 ---
-aliases: [Inevitable, Marut]
+aliases:
+ - Inevitable
+ - Marut
 title: Bestiary/MM1/Inevitable, Marut
 tags: [35E_SRD, Monster]
 Monster: Inevitable, Marut

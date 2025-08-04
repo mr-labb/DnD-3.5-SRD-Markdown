@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Bone (osyluth)]
+aliases:
+ - Devil
+ - Bone (osyluth)
 title: Bestiary/MM1/Devil, Bone (osyluth)
 tags: [35E_SRD, Monster]
 Monster: Devil, Bone (osyluth)

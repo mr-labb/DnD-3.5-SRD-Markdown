@@ -1,5 +1,6 @@
 ---
-aliases: [Dispel Law]
+aliases:
+ - Dispel Law
 title: Compendium/Basics/Spell/Dispel Law
 tags:
   - 35E_SRD
@@ -53,9 +54,13 @@ This spell functions like [[Dispel Evil]], but its chaotic nature targets **lawf
 
 ---
 
-**Source:** PHB P223
+**Source :** PHB P223
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

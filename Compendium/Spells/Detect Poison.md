@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Poison]
+aliases:
+ - Detect Poison
 title: Compendium/Basics/Spell/Detect Poison
 tags:
   - 35E_SRD
@@ -44,7 +45,7 @@ Detects poison in one creature or object.
 You determine whether a creature, object, or area has been poisoned or is inherently poisonous.
 
 - With a **DC 20 Wisdom check**, you can identify the **exact type of poison**.
-- If the Wisdom check fails, a character proficient in **Craft (alchemy)** may attempt a **DC 20 Craft (alchemy) check** instead—or even before the Wisdom check.
+- If the Wisdom check fails, a character proficient in **Craft (alchemy)** may attempt a **DC 20 Craft (alchemy) check** insteadâ€”or even before the Wisdom check.
 
 ### Barrier Limitations
 
@@ -55,9 +56,13 @@ The spell can penetrate barriers, but is blocked by:
 - **A thin sheet of lead**  
 - **3 feet of wood or dirt**
 
-**Source:** PHB P219
+**Source :** PHB P219
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

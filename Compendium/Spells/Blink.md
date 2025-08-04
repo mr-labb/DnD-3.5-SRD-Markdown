@@ -1,5 +1,6 @@
 ---
-aliases: [Blink]
+aliases:
+ - Blink
 title: Compendium/Basics/Spell/Blink
 tags: 
   - 35E_SRD
@@ -55,9 +56,13 @@ An ethereal creature can see and hear the Material Plane, but everything looks g
 
 Force effects and abjurations affect you normally. Their effects extend onto the Ethereal Plane from the Material Plane, but not vice versa. An ethereal creature can't attack material creatures, and spells you cast while ethereal affect only other ethereal things. Certain material creatures or objects have attacks or effects that work on the Ethereal Plane. Treat other ethereal creatures and objects as material.
 
-Source : PHB P206
+**Source :** PHB P206
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

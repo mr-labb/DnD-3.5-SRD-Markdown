@@ -1,5 +1,6 @@
 ---
-aliases: [Speak Language]
+aliases:
+ - Speak Language
 title: Compendium/Basics/skills/Speak Language
 tags: skill
 ---
@@ -13,7 +14,7 @@ tags: skill
   Auran                                  Air-based creatures                         Draconic
   Celestial                              Good outsiders                              Celestial
   Common                                 Humans, halflings, half-elves, half-orcs    Common
-  Draconic                               Kobolds, troglodytes, lizardfolk, dragons   Draconic
+  Draconic                               Kobolds, troglodytes, [[lizardfolk]], dragons   Draconic
   Druidic                                Druids (only)                               Druidic
   Dwarven                                Dwarves                                     Dwarven
   Elven                                  Elves                                       Elven
@@ -55,5 +56,4 @@ as follows.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

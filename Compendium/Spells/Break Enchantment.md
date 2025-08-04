@@ -1,5 +1,6 @@
 ---
-aliases: [Break Enchantment]
+aliases:
+ - Break Enchantment
 title: Compendium/Basics/Spell/Break Enchantment
 tags: 
   - 35E_SRD
@@ -38,13 +39,17 @@ Frees subjects from enchantments, alterations, curses, and petrification.
 
 This spell frees victims from enchantments, transmutations, and curses. _Break enchantment_ can reverse even an instantaneous effect. For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a cursed magic item, the DC is 25.
 
-If the spell is one that cannot be dispelled by _dispel magic_, _break enchantment_ works only if that spell is 5th level or lower.
+If the spell is one that cannot be dispelled by _[[dispel magic]]_, _break enchantment_ works only if that spell is 5th level or lower.
 
 If the effect comes from some permanent magic item _break enchantment_ does not remove the curse from the item, but it does frees the victim from the item's effects.
 
-Source : PHB P207
+**Source :** PHB P207
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

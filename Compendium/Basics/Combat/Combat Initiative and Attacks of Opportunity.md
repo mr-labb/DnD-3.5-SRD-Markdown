@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Combat Initiative and Attacks of Opportunity
 ---
 
@@ -56,7 +57,4 @@ _Combat Reflexes and Additional Attacks of Opportunity_: If you have the Combat 
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

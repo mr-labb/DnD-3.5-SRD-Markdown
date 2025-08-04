@@ -1,5 +1,6 @@
 ---
-aliases: [Dimension Door]
+aliases:
+ - Dimension Door
 title: Compendium/Basics/Spell/Dimension Door
 tags:
   - 35E_SRD
@@ -61,9 +62,13 @@ If still no space within 1,000 ft:
 
 ---
 
-**Source:** PHB P221
+**Source :** PHB P221
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

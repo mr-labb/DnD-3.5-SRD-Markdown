@@ -1,7 +1,11 @@
 ---
-aliases: [Sympathetic Vibration]
+aliases:
+ - Sympathetic Vibration
 title: Compendium/Basics/Spell/Sympathetic Vibration
-tags: [35E_SRD, Spell, Bard]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Bard  
 Spell Name: Sympathetic Vibration
 School: Evocation
 Subschool: 
@@ -11,28 +15,37 @@ Level:
 Source: PHB
 ---
 
-
 ## Sympathetic Vibration
 
 Deals 2d10 damage/round to freestanding structure.
 
-*   Evocation [Sonic]
-*   **Level:** Brd 6
-*   **Components:** V, S, F
-*   **Casting Time:** 10 minutes
-*   **Range:** Touch
-*   **Effect:** One freestanding structure
-*   **Duration:** Up to 1 round/level
-*   **Saving Throw:** None; see text
-*   **Spell Resistance:** Yes
+- **School:** Evocation [Sonic]  
+- **Level:** Brd 6  
+- **Components:** V, S, F  
+- **Casting Time:** 10 minutes  
+- **Range:** Touch  
+- **Effect:** One freestanding structure  
+- **Duration:** Up to 1 round/level  
+- **Saving Throw:** None (see text)  
+- **Spell Resistance:** Yes  
 
-<p>By attuning yourself to a freestanding structure such you can create a damaging vibration within it. Once it begins, the vibration deals 2d10 points of damage per round to the target structure. (Hardness has no effect on the spell's damage.) You can choose at the time of casting to limit the duration of the spell; otherwise it lasts for 1 round/ level. If the spell is cast upon a target that is not freestanding the surrounding stone dissipates the effect and no damage occurs.</p><p><i>Sympathetic vibration</i> cannot affect creatures (including constructs). Since a structure is an unattended object, it gets no saving throw to resist the effect.</p><p><i>Focus:</i> A tuning fork.</p>
+By attuning yourself to a **freestanding structure**, you generate a damaging vibration within it. Once activated, it deals **2d10 damage per round** for up to 1 round/level. **Hardness does not reduce the damage**.
 
-Source : PHB P291
+- You may choose a shorter duration at casting.
+- The spell only affects **freestanding structures**; surrounding stone cancels the effect if the target is embedded.
+- Cannot affect **creatures or constructs**.
+- Objects do **not receive saving throws**, being unattended.
+
+**Focus:** A tuning fork.
+
+
+**Source :** PHB p.291
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

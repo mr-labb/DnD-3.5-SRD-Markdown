@@ -1,5 +1,8 @@
 ---
-aliases: [Planetouched, Tiefling, 1st-level Warrior]
+aliases:
+ - Planetouched
+ - Tiefling
+ - 1st-level Warrior
 title: Bestiary/MM1/Planetouched, Tiefling, 1st-level Warrior
 tags: [35E_SRD, Monster]
 Monster: Planetouched, Tiefling, 1st-level Warrior

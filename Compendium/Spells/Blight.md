@@ -1,5 +1,6 @@
 ---
-aliases: [Blight]
+aliases:
+ - Blight
 title: Compendium/Basics/Spell/Blight
 tags: 
   - 35E_SRD
@@ -37,9 +38,13 @@ If the target is a non-creature plant, it receives no saving throw and immediate
 
 This spell does not affect surrounding plant life or soil.
 
-Source : PHB P206
+**Source :** PHB P206
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

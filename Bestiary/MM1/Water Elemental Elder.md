@@ -1,5 +1,8 @@
 ---
-aliases: [Elemental, Water, Elder]
+aliases:
+ - Elemental
+ - Water
+ - Elder
 title: Bestiary/MM1/Elemental, Water, Elder
 tags: [35E_SRD, Monster]
 Monster: Elemental, Water, Elder

@@ -1,5 +1,6 @@
 ---
-aliases: [Desecrate]
+aliases:
+ - Desecrate
 title: Compendium/Basics/Spell/Desecrate
 tags:
   - 35E_SRD
@@ -44,7 +45,7 @@ Desecrate imbues an area with **negative energy**, enhancing undead and weakenin
 - Bonuses to undead increase to **+2**
 - HP bonus increases to **+2 per HD**
 
-**Animate Dead Bonus:**
+**[[Animate Dead]] Bonus:**
 - Doubles undead creation: **4 HD per caster level** instead of 2
 
 **Desecrate vs. Other Deities:**
@@ -59,9 +60,13 @@ Desecrate imbues an area with **negative energy**, enhancing undead and weakenin
 - **25 gp of silver dust** (5 pounds), spread around the area
 
 
-**Source:** PHB P218
+**Source :** PHB P218
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

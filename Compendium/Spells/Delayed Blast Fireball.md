@@ -1,5 +1,6 @@
 ---
-aliases: [Delayed Blast Fireball]
+aliases:
+ - Delayed Blast Fireball
 title: Compendium/Basics/Spell/Delayed Blast Fireball
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ This spell is a more potent version of [[Fireball]] with a flexible detonation t
   - Trigger the explosion with a **25% chance** if handled within 1 round of detonation
 
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

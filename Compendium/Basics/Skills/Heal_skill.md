@@ -1,5 +1,6 @@
 ---
-aliases: [Heal]
+aliases:
+ - Heal
 title: Compendium/Basics/skills/Heal
 tags: skill
 ---
@@ -12,7 +13,7 @@ The DC and effect depend on the task you attempt.
   Task Heal                                                     DC
   First aid                                                     15
   Long-term care                                                15
-  Treat wound from caltrop, *spike growth,* or *spike stones*   15
+  Treat wound from caltrop, *[[spike growth]],* or *[[spike stones]]*   15
   Treat poison                                                  Poison's save DC
   Treat disease                                                 Disease's save DC
   ------------------------------------------------------------- -------------------
@@ -35,11 +36,11 @@ supplies (bandages, salves, and so on) that are easy to come by in
 settled lands. Giving long-term care counts as light activity for the
 healer. You cannot give long-term care to yourself.
 
-*Treat Wound from Caltrop, Spike Growth, or Spike Stones:* A creature
+*Treat Wound from Caltrop, [[Spike Growth]], or [[Spike Stones]]:* A creature
 wounded by stepping on a caltrop moves at one-half normal speed. A
 successful Heal check removes this movement penalty.
 
-A creature wounded by a *spike growth* or *spike stones* spell must
+A creature wounded by a *[[spike growth]]* or *[[spike stones]]* spell must
 succeed on a Reflex save or take injuries that reduce his speed by
 one-third. Another character can remove this penalty by taking 10
 minutes to dress the victim's injuries and succeeding on a Heal check
@@ -60,7 +61,7 @@ result or his or her saving throw, whichever is higher.
 ### Action
 Providing first aid, treating a wound, or treating poison is
 a standard action. Treating a disease or tending a creature wounded by a
-*spike growth* or *spike stones* spell takes 10 minutes of work.
+*[[spike growth]]* or *[[spike stones]]* spell takes 10 minutes of work.
 Providing long-term care requires 8 hours of light activity.
 
 ### Try Again
@@ -77,5 +78,4 @@ A healer's kit gives you a +2 circumstance bonus on Heal checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

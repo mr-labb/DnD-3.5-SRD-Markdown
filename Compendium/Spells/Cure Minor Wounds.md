@@ -1,5 +1,6 @@
 ---
-aliases: [Cure Minor Wounds]
+aliases:
+ - Cure Minor Wounds
 title: Compendium/Basics/Spell/Cure Minor Wounds
 tags:
   - 35E_SRD
@@ -40,9 +41,13 @@ When laying your hand upon a living creature, you channel positive energy that c
 - Undead creatures may apply **spell resistance** and attempt a **Will save** to take **half damage**.
 
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

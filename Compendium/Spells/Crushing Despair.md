@@ -1,5 +1,6 @@
 ---
-aliases: [Crushing Despair]
+aliases:
+ - Crushing Despair
 title: Compendium/Basics/Spell/Crushing Despair
 tags:
   - 35E_SRD
@@ -36,7 +37,7 @@ Subjects take -2 on attack rolls, damage rolls, saves, and checks.
 ### Description
 
 An invisible cone of despair causes great sadness in the subjects.  
-Each affected creature takes a **–2 penalty** on:
+Each affected creature takes a **â€“2 penalty** on:
 - Attack rolls  
 - Saving throws  
 - Ability checks  
@@ -50,9 +51,13 @@ Each affected creature takes a **–2 penalty** on:
 - A vial of tears
 
 
-**Source:** PHB P215
+**Source :** PHB P215
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

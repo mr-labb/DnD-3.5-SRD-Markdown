@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Rogue]
+aliases:
+ - Rogue
 title: Compendium/Basics/Classe/Rogue
 tag: Class, Rogue
 ---
@@ -9,7 +10,8 @@ tag: Class, Rogue
 
 ### ROGUE
 
-
+<br><br>Rogues share little in common with each other. Some are stealthy thieves. Others are silver-tongued tricksters. Still others are scouts, infiltrators, spies, diplomats, or thugs. What they share is versatility, adaptability, and resourcefulness. In general, rogues are skilled at getting what others don't want them to get: entrance into a locked treasure vault, safe passage past a deadly trap, secret battle plans, a guard's trust, or some random person's pocket money.<br><br>Rogues adventure for the same reason they do most things: to get what they can get. Some are after loot; others want experience. Some crave fame; others seek infamy. Quite a few also enjoy a challenge. Figuring out how to thwart a trap or avoid an alarm is great fun for many rogues.<br><br>Rogues are highly skilled, and they can concentrate on developing any of several categories of skills. While not equal to members of many other classes in combat, a rogue knows how to hit where it hurts, and she can dish out a lot of damage with a sneak attack. Rogues have a sixth sense when it comes to avoiding danger. Experienced rogues develop mystical powers and skills as they master the arts of stealth, evasion, and sneak attacks. In addition, while not capable of casting spells on their own, rogues can "fake it" well enough to cast spells from scrolls, activate wands, and use just about any other magic item.<br><br>Rogues follow opportunity, not ideals. They are more likely to be chaotic than lawful, they are a diverse bunch, so they may be of any alignment.<br><br>Although they are not renowned for their piety, most rogues revere Olidammara (god of thieves). Evil rogues might secretly worship Nerull (god of death), or Erythnul (god of slaughter). Since rogues are so diverse, however, many of them worship other deities, or none at all.<br><br>Some rogues are officially inducted into an organized fellowship of rogues or "guild of thieves." Some are self taught; others learned their skills from independent mentors. Often, an experienced rogue needs an assistant for scams, second-story jobs, or just for watching her back. She recruits a likely youngster, who then learns the skills of the trade on the job. Eventually, the trainee is ready to move on, perhaps because the mentor has run afoul of the law, or perhaps because the trainee has double-crossed her mentor and needs some "space." Rogues do not see each other as fellows unless they happen to be members of the same guild or students of the same mentor. In fact, rogues trust other rogues less than they trust anyone else. They're no fools.<br><br>Adaptable and often unprincipled, humans take to the rogue's life with ease. Halflings, elves, and half-elves also find themselves well suited to the demands of the career. Dwarf and gnome rogues, while less common, are renowned as experts with locks and traps. Half-orc rogues tend toward thuggery. Rogues are common among brutal humanoids, especially goblins and bugbears. Rogues who learn their arts in savage lands, however, generally don't have much experience with complex mechanisms such as traps and locks.<br><br>Rogues love and hate working with members of other classes. They excel when protected by warriors and supported by spellcasters. There are plenty of times, however, that they wish everyone else was as quiet, guileful, and patient as they. Rogues are particularly wary of paladins, so they endeavor to prove themselves useful when contact with paladins is unavoidable.<br><br>The rogue's role in a group can vary dramatically based on her skill selection - from charismatic con artist to cunning burglar to agile combatant - but most rogues share certain aspects. They aren't capable of prolonged melee combat, so they focus on opportunistic sneak attacks or ranged attacks. The rogue's stealth and her trapfinding ability make her one of the best scouts in the game.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: Any.
 
@@ -17,7 +19,7 @@ tag: Class, Rogue
 
 ###### Class Skills
 
-The rogue's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Balance]] (Dex), [[Bluff]] (Cha), [[Climb]] (Str), [[Craft]] (Int), [[Decipher Script]] (Int), [[Diplomacy]] (Cha), [[#Disable Device]] (Int), [[Disguise]] (Cha), [[Escape Artist]] (Dex), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Knowledge]] (local) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Open Lock]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Search]] (Int), [[Sense Motive]] (Wis), [[Sleight of Hand]] (Dex), [[Spot]] (Wis), [[Swim]] (Str), [[Tumble]] (Dex), [[Use Magic Device]] (Cha), and [[Use Rope]] (Dex).
+The rogue's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Balance]] (Dex), [[Bluff]] (Cha), [[Climb]] (Str), [[Craft]] (Int), [[Decipher Script]] (Int), [[Diplomacy]] (Cha), [[#Disable Device]] (Int), [[Disguise]] (Cha), [[Escape Artist]] (Dex), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (local) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Open Lock]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Search]] (Int), [[Sense Motive]] (Wis), [[Sleight of Hand]] (Dex), [[Spot]] (Wis), [[Swim]] (Str), [[Tumble]] (Dex), [[Use Magic Device]] (Cha), and [[Use Rope]] (Dex).
 
 **Skill Points at 1st Level**: (8 + Int modifier) x 4.
 
@@ -64,9 +66,9 @@ With a sap (blackjack) or an unarmed strike, a rogue can make a sneak attack tha
 
 A rogue can sneak attack only living creatures with discernible anatomies - undead, constructs, oozes, plants, and [[incorporeal]] creatures lack vital areas to attack. Any creature that is immune to critical hits is not vulnerable to sneak attacks. The rogue must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A rogue cannot sneak attack while striking a creature with concealment or striking the limbs of a creature whose vitals are beyond reach.
 
-**Trapfinding**: Rogues (and only rogues) can use the Search skill to locate traps when the task has a Difficulty Class higher than 20. Finding a nonmagical trap has a DC of at least 20, or higher if it is well hidden. Finding a magic trap has a DC of 25 + the level of the spell used to create it.
+**Trapfinding**: Rogues (and only rogues) can use the Search skill to locate traps when the task has a Difficulty Class higher than 20. Finding a nonmagical trap has a DC of at least 20, or higher if it is well hidden. Finding a [[magic trap]] has a DC of 25 + the level of the spell used to create it.
 
-Rogues (and only rogues) can use the Disable Device skill to disarm magic traps. A magic trap generally has a DC of 25 + the level of the spell used to create it.
+Rogues (and only rogues) can use the Disable Device skill to disarm magic traps. A [[magic trap]] generally has a DC of 25 + the level of the spell used to create it.
 
 A rogue who beats a trap's DC by 10 or more with a Disable Device check can study a trap, figure out how it works, and bypass it (with her party) without disarming it.
 
@@ -124,7 +126,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 #### Antiquarian
 
-You are incredibly [[Knowledge]]able about artifacts, relics, and antiques - especially those that are religious in nature.
+You are incredibly [[Compendium/Basics/Skills/Knowledge]]able about artifacts, relics, and antiques - especially those that are religious in nature.
 
 **Level**: 1st.
 
@@ -132,7 +134,7 @@ You are incredibly [[Knowledge]]able about artifacts, relics, and antiques - esp
 
 **Benefit**: When examining divine items and religious relics, you gain a bonus equal to your Wisdom modifier on all Appraise checks as an extraordinary ability.
 
-In addition, if you examine a magic item created using a spell from the cleric or paladin list, or an item with special religious significance, you can attempt a [[Knowledge]] (religion) check (DC 10 + the item's caster level) to identify it exactly as a spell-like ability. This works like the identify spell (caster level equals your rogue level) but requires no material component and can be performed as a full round action. You can use this ability on only one item per day.
+In addition, if you examine a magic item created using a spell from the cleric or paladin list, or an item with special religious significance, you can attempt a [[Compendium/Basics/Skills/Knowledge]] (religion) check (DC 10 + the item's caster level) to identify it exactly as a spell-like ability. This works like the identify spell (caster level equals your rogue level) but requires no material component and can be performed as a full round action. You can use this ability on only one item per day.
 
 #### Breathstealer
 
@@ -160,7 +162,7 @@ To take a changeling rogue substitution level, a character must be a changeling 
 
 ##### Class Skills
 
-Changeling rogue substitution levels have the class skills of the standard rogue class, plus one [[Knowledge]] skill chosen when the first racial substitution level is taken. Once this selection is made, it cannot be changed.
+Changeling rogue substitution levels have the class skills of the standard rogue class, plus one [[Compendium/Basics/Skills/Knowledge]] skill chosen when the first racial substitution level is taken. Once this selection is made, it cannot be changed.
 
 **Skill Points at Each Level**: 10 + Int modifier (or four times this number as a beginning character).
 
@@ -180,13 +182,13 @@ All the following are features of the changeling rogue's racial substitution lev
 
 **Social Intuition (Ex)**: A changeling rogue has an uncanny awareness of the tone of any social situation in which he finds himself. This grants benefits to a number of his skill checks.
 
-- Making a Gather Information check to gain [[Knowledge]] takes a changeling rogue only 1d4+1 × 10 minutes, instead of the normal 1d4+1 hours.
+- Making a Gather Information check to gain [[Compendium/Basics/Skills/Knowledge]] takes a changeling rogue only 1d4+1 × 10 minutes, instead of the normal 1d4+1 hours.
 - A gut assessment of a social situation with a Sense Motive check can be made as a full-round action instead of taking a full minute.
 - A changeling rogue can take 10 on Bluff, Diplomacy, Gather Information, Intimidate, and Sense Motive checks, even if stress or distraction would normally prevent him from doing so.
 
 This substitution feature replaces the standard rogue's trapfinding ability. A changeling rogue without trapfinding can still use the Search skill to find a trap whose DC is 20 or lower, and can still disarm mundane (but not magic) traps with Disable Device, just as any other character without trapfinding.
 
-**Minor Lore (Ex)**: Thanks to his varied personas and pursuits, a changeling rogue picks up bits of stray [[Knowledge]]. Beginning at 3rd level, he gains a +1 bonus on all [[Knowledge]] checks (though this bonus doesn't change an untrained check to a trained check), improving by +1 every three levels thereafter (to +2 at 6th level, +3 at 9th, and so on). In addition, whenever the rogue successfully aids another character's [[Knowledge]] check, that character can apply this bonus on his check result (in addition to the normal bonus granted by the rogue's aid another attempt).
+**Minor Lore (Ex)**: Thanks to his varied personas and pursuits, a changeling rogue picks up bits of stray [[Compendium/Basics/Skills/Knowledge]]. Beginning at 3rd level, he gains a +1 bonus on all [[Compendium/Basics/Skills/Knowledge]] checks (though this bonus doesn't change an untrained check to a trained check), improving by +1 every three levels thereafter (to +2 at 6th level, +3 at 9th, and so on). In addition, whenever the rogue successfully aids another character's [[Compendium/Basics/Skills/Knowledge]] check, that character can apply this bonus on his check result (in addition to the normal bonus granted by the rogue's aid another attempt).
 
 This substitution feature replaces the standard rogue's trap sense ability, which can never be gained at later levels.
 
@@ -306,7 +308,7 @@ You can channel the power of your faith when making sneak attacks against undead
 
 #### Disruptive Attack
 
-More than perhaps any other character, a rogue's ability to fully contribute to a fight varies dramatically based on the enemies she faces. Against a mummy, flesh golem, or shambling mound, the rogue's damage-dealing drops precipitously. The disruptive attack alternative class feature allows a rogue to be effective in combat against such creatures by making them vulnerable to the attacks of her and her allies. It's also useful against creatures vulnerable to your sneak attacks, creating interesting tactical decisions for you in such fights.
+More than perhaps any other character, a rogue's ability to fully contribute to a fight varies dramatically based on the enemies she faces. Against a mummy, [[Golem_Flesh|flesh golem]], or [[shambling mound]], the rogue's damage-dealing drops precipitously. The disruptive attack alternative class feature allows a rogue to be effective in combat against such creatures by making them vulnerable to the attacks of her and her allies. It's also useful against creatures vulnerable to your sneak attacks, creating interesting tactical decisions for you in such fights.
 
 **Level**: 4th.
 
@@ -342,7 +344,7 @@ To take a dwarf rogue substitution level, a character must be a dwarf about to t
 
 ##### Class Skills
 
-Dwarf rogue substitution levels grant class skills as the base rogue class, plus [[Knowledge]] (architecture and engineering).
+Dwarf rogue substitution levels grant class skills as the base rogue class, plus [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering).
 
 **Skill Points at each Level**: 8 + Int modifier (or four times this number as a beginning character).
 
@@ -366,13 +368,13 @@ This substitution replaces the rogue's normal +1d6 points of sneak attack damage
 
 **Expert Demolitionist (Ex)**: At 3rd level, the rogue deals +2d6 points of damage against constructs and objects. This bonus does not ignore hardness or damage reduction.
 
-In addition, she gains a +2 competence bonus on Craft, Disable Device, or [[Knowledge]] (architecture and engineering) checks made to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so.
+In addition, she gains a +2 competence bonus on Craft, Disable Device, or [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) checks made to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so.
 
 This substitution replaces the rogue's normal +2d6 points of sneak attack damage at 3rd level.
 
 **Rapid Demolitionist (Su)**: A 5th-level, the rogue deals +3d6 points of damage against constructs and objects. This bonus does not ignore hardness or damage reduction.
 
-It takes less time for a rogue to use her Craft, Disable Device, or [[Knowledge]] (architecture and engineering) checks in order to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so. If the task ordinarily takes more than 1 minute to complete, it instead takes half as long. A 1-minute task requires only 5 rounds. Tasks that require a full-round action take only a standard action, and those that begin as a standard action only need a move action. A task that takes a move action or free action does not change.
+It takes less time for a rogue to use her Craft, Disable Device, or [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) checks in order to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so. If the task ordinarily takes more than 1 minute to complete, it instead takes half as long. A 1-minute task requires only 5 rounds. Tasks that require a full-round action take only a standard action, and those that begin as a standard action only need a move action. A task that takes a move action or free action does not change.
 
 This substitution replaces the rogue's normal +3d6 points of sneak attack damage at 5th level.
 
@@ -388,9 +390,9 @@ A clever villain has many contingencies in place, so that if a plan goes awry, h
 
 **Benefit**: As an immediate action, you can enter a catatonic state in which you appear to be dead. While feigning death, you cannot see or feel anything, but you retain the ability to smell, hear, and otherwise follow what is going on around you.
 
-While under the effect of this ability, you are immune to all mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, ability drain, negative levels, and death effects. Attempts to resuscitate you, such as raise dead or reincarnation, automatically fail, though resurrection and true resurrection immediately end your feign death ability.
+While under the effect of this ability, you are immune to all mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, ability drain, negative levels, and death effects. Attempts to resuscitate you, such as [[raise dead]] or reincarnation, automatically fail, though resurrection and [[true resurrection]] immediately end your feign death ability.
 
-Spells and other effects that assess your current condition, such as status and deathwatch, indicate that you are dead. However, a character who succeeds on a Heal check (DC 15 + 1/2 your level + your Con modifier) can discern that you are actually alive.
+Spells and other effects that assess your current condition, such as status and [[deathwatch]], indicate that you are dead. However, a character who succeeds on a Heal check (DC 15 + 1/2 your level + your Con modifier) can discern that you are actually alive.
 
 You can remain in the catatonic state indefinitely, though you still require food, water, and air. Emerging from feigned death is a standard action.
 
@@ -418,7 +420,7 @@ The Golden Hands of Vergadain defend the interests of the dwarves, particularly 
 
 ##### Requirements
 
-To take a Golden Hands substitution level, a character must be a dwarf, be a member of the Golden Hands of Vergadain, have 1 rank in [[Knowledge]] (religion), and be about to take his 2nd, 3rd, or 6th level of rogue.
+To take a Golden Hands substitution level, a character must be a dwarf, be a member of the Golden Hands of Vergadain, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 2nd, 3rd, or 6th level of rogue.
 
 ##### Class Skills
 
@@ -486,11 +488,11 @@ All the following are features of the goliath rogue's racial substitution levels
 
 If the goliath rogue makes a successful Fortitude saving throw that would normally reduce a spell's effect, she suffers no effect from the spell at all. Only those spells with a Saving Throw entry of "Fortitude partial," "Fortitude half," or similar entries can be negated through this ability.
 
-If the goliath rogue later gains improved evasion as a rogue special ability, her mettle of mountains ability improves instead. Now, while she still suffers no effect on a successful Fortitude saving throw against a spell or ability as described above, a failed Fortitude save results in the effect that a successful Fortitude save would normally bring about. For instance, a goliath rogue would take no damage from a disintegrate spell if she succeeded on her Fortitude save, and would only take 5d6 points of damage if she failed the save.
+If the goliath rogue later gains improved evasion as a rogue special ability, her mettle of mountains ability improves instead. Now, while she still suffers no effect on a successful Fortitude saving throw against a spell or ability as described above, a failed Fortitude save results in the effect that a successful Fortitude save would normally bring about. For instance, a goliath rogue would take no damage from a [[disintegrate]] spell if she succeeded on her Fortitude save, and would only take 5d6 points of damage if she failed the save.
 
 This benefit replaces the standard rogue's 2nd-level evasion ability.
 
-**Wild Sense (Ex)**: A goliath rogue who takes the 3rd-level racial substitution level becomes more in tune with her natural surroundings. She gains a +1 bonus on [[Knowledge]] (nature) checks and Survival checks in aboveground natural environments. This bonus increases to +2 when the goliath rogue reaches 6th level, to +3 when she reaches 9th level, to +4 when she reaches 12th level, to +5 at 15th level, and to +6 at 18th level.
+**Wild Sense (Ex)**: A goliath rogue who takes the 3rd-level racial substitution level becomes more in tune with her natural surroundings. She gains a +1 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) checks and Survival checks in aboveground natural environments. This bonus increases to +2 when the goliath rogue reaches 6th level, to +3 when she reaches 9th level, to +4 when she reaches 12th level, to +5 at 15th level, and to +6 at 18th level.
 
 This benefit replaces the standard rogue's 3rd-level trap sense ability, as well as the higher-level improvements of the ability.
 
@@ -544,7 +546,7 @@ This substitution feature replaces the standard rogue's special ability gained a
 
 #### Holy Stalker
 
-When you give up one of your high-level special abilities, you gain a link to divine power that helps you destroy undead. This divine energy comes to you through your religious beliefs but is tied to your own natural abilities in subterfuge.
+When you give up one of your high-level special abilities, you gain a link to [[divine power]] that helps you destroy undead. This divine energy comes to you through your religious beliefs but is tied to your own natural abilities in subterfuge.
 
 **Levels**: 10th, 13th, 16th, or 19th.
 
@@ -566,7 +568,7 @@ To take a kobold rogue substitution level, a character must be a kobold about to
 
 ##### Class Skills
 
-Kobold rogue substitution levels have the class skills of the standard rogue class, plus [[Knowledge]] (dungeoneering).
+Kobold rogue substitution levels have the class skills of the standard rogue class, plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering).
 
 **Skill Points at Each Level**: 8 + Int modifier (or four times this number as a beginning character).
 
@@ -598,7 +600,7 @@ This extra bonus is lost, reducing the kobold rogue's trap sense bonus to the no
 
 **Evasive Skitter (Ex)**: A kobold rogue who takes the 8th-level racial substitution level gains the ability to move out of the area of dangerous spells and effects. A kobold rogue who succeeds on a Reflex save against a spell or effect gains the normal benefit for the successful save, and she can choose to move out of the area of the spell or effect. She must take the shortest path available to her, and she can't move farther than her speed. If more than one path of equal distance is available, she can choose which path to use. If no such path is available, the kobold rogue can't use this ability. This movement provokes attacks of opportunity as normal for movement.
 
-For example, a kobold rogue with a speed of 30 feet is within the area of a fireball spell. She successfully saves against the spell, so she takes no damage from the blast and can move out of the spell's area by the shortest route available.
+For example, a kobold rogue with a speed of 30 feet is within the area of a [[fireball]] spell. She successfully saves against the spell, so she takes no damage from the blast and can move out of the spell's area by the shortest route available.
 
 This substitution feature replaces the standard 8th-level rogue's improved uncanny dodge class feature.
 
@@ -646,11 +648,11 @@ All of the following are features of the lunar rogue's substitution levels.
 
 This ability replaces the standard rogue's uncanny dodge ability.
 
-**Changing Rogue (Su)**: At 8th level, a lunar rogue learns one of the moon's secrets, gaining the ability to use either greater invisibility or polymorph as a spell-like ability once per day (choose one - you cannot later change your selection). This ability may only target the lunar rogue. The caster level for this spell-like ability is equal to her rogue class level.
+**Changing Rogue (Su)**: At 8th level, a lunar rogue learns one of the moon's secrets, gaining the ability to use either [[Invisibility Greater|greater invisibility]] or [[Compendium/Spells/Polymorph|polymorph]] as a spell-like ability once per day (choose one - you cannot later change your selection). This ability may only target the lunar rogue. The caster level for this spell-like ability is equal to her rogue class level.
 
 This ability replaces the standard rogue's improved uncanny dodge ability.
 
-**Empowered Rogue (Su)**: At 10th level, a lunar rogue discovers the moon's true power and gains the ability to use either dominate person or true seeing as a spell-like ability once per day (choose one - you cannot later change your selection). The true seeing ability may only target the lunar rogue. The caster level for this spell-like ability equals her rogue class level. A saving throw against the dominate person has a DC of 10 + 1/2 the rogue's class level + her Charisma modifier.
+**Empowered Rogue (Su)**: At 10th level, a lunar rogue discovers the moon's true power and gains the ability to use either [[dominate person]] or [[true seeing]] as a spell-like ability once per day (choose one - you cannot later change your selection). The [[true seeing]] ability may only target the lunar rogue. The caster level for this spell-like ability equals her rogue class level. A saving throw against the [[dominate person]] has a DC of 10 + 1/2 the rogue's class level + her Charisma modifier.
 
 This ability replaces the standard rogue's special ability at 10th level. Additional special abilities gained by a rogue after 10th level are treated as normal.
 
@@ -666,9 +668,9 @@ Many villains specialize in avoiding detection so that they can work behind the 
 
 **Replaces**: If you select this feature, you do not gain the trapfinding ability.
 
-**Benefit**: Once per day, you can use disguise self as a caster whose level equals your class level. At 3rd level and every three levels thereafter, you can reduce your bonus on trap sense by 1 to gain an additional use of mimic.
+**Benefit**: Once per day, you can use [[disguise self]] as a caster whose level equals your class level. At 3rd level and every three levels thereafter, you can reduce your bonus on trap sense by 1 to gain an additional use of mimic.
 
-At your discretion, when using disguise self, you can spend two uses of the spell-like ability to produce the effect as a swift action rather than a standard action.
+At your discretion, when using [[disguise self]], you can spend two uses of the spell-like ability to produce the effect as a swift action rather than a standard action.
 
 #### Penetrating Strike
 
@@ -694,7 +696,7 @@ To take a rogue planar substitution level, a character must be about to take her
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -704,7 +706,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Rogue planar substitution levels have the class skills of the standard rogue class plus [[Knowledge]] (the planes) (Int).
+Rogue planar substitution levels have the class skills of the standard rogue class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 8 + Int modifier.
 
@@ -716,13 +718,13 @@ Rogue planar substitution levels have the class skills of the standard rogue cla
 |---|---|---|---|---|---|
 |6th|+4|+2|+5|+2|Breach sense|
 |10th|+7/+2|+3|+7|+3|Slip the bonds|
-|16th|+12/+7/+2|+5|+10|+5|Blink|
+|16th|+12/+7/+2|+5|+10|+5|[[Blink]]|
 
 ##### Class Features
 
 All of the following are features of the rogue's planar substitution levels.
 
-**Breach Sense (Ex)**: A 6th-level planar rogue gains an intuitive sense that alerts her of the imminent opening of a nearby conduit between the planes. She automatically detects the activation of any portal or the opening of any planar breach within 30 feet of her, as well as any spell or effect that crosses over or through the planes (such as summon monster, teleport, or plane shift) used within 30 feet of her. The rogue may immediately attempt a DC 25 Spot check to pinpoint the exact location of the portal, breach, or effect, as long as she has line of sight to it.
+**Breach Sense (Ex)**: A 6th-level planar rogue gains an intuitive sense that alerts her of the imminent opening of a nearby conduit between the planes. She automatically detects the activation of any portal or the opening of any planar breach within 30 feet of her, as well as any spell or effect that crosses over or through the planes (such as summon monster, [[teleport]], or [[plane shift]]) used within 30 feet of her. The rogue may immediately attempt a DC 25 Spot check to pinpoint the exact location of the portal, breach, or effect, as long as she has line of sight to it.
 
 For example, a planar rogue would detect a demon teleporting to a spot within 30 feet of her, and with a DC 25 Spot check could even pinpoint the precise location where the demon appeared (though she would lose this precision as soon as the demon moved).
 
@@ -732,7 +734,7 @@ This benefit replaces the improvement to the trap sense class feature gained by 
 
 This benefit replaces the special ability gained by a standard rogue at 10th level.
 
-**Blink (Sp)**: By 16th level, a planar rogue's understanding of how to skirt the periphery of a plane is such that she can use a blink effect on herself once per day. This effect lasts for a number of rounds equal to 1/2 her rogue level (rounded down).
+**[[Blink]] (Sp)**: By 16th level, a planar rogue's understanding of how to skirt the periphery of a plane is such that she can use a [[blink]] effect on herself once per day. This effect lasts for a number of rounds equal to 1/2 her rogue level (rounded down).
 
 This benefit replaces the special ability gained by a standard rogue at 16th level.
 
@@ -778,7 +780,7 @@ Rilkan rogue substitution levels grant the same class skills as the standard rog
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|
 |---|---|---|---|---|---|
 |1st|+0|+0|+2|+0|Trapfinding, improved flanking|
-|3rd|+2|+1|+3|+1|Sneak attack +1d6, bardic [[Knowledge]], bonus feat|
+|3rd|+2|+1|+3|+1|Sneak attack +1d6, bardic [[Compendium/Basics/Skills/Knowledge]], bonus feat|
 |10th|+7/+2|+3|+7|+3|Fortunate reflexes|
 
 ##### Class Features
@@ -789,7 +791,7 @@ All of the following are features of the rilkan rogue racial substitution levels
 
 This benefit replaces a standard rogue's sneak attack ability gained at 1st level. Instead, a rilkan rogue gains sneak attack at 3rd level and reduces the extra damage dice indicated by 1d6.
 
-**Bardic [[Knowledge]] (Ex)**: A rilkan rogue picks up a lot of stray [[Knowledge]] while interacting with others. Starting at 3rd level, she can make a special bardic [[Knowledge]] check with a bonus equal to her rogue level plus her Intelligence modifier to see whether she knows some relevant information about local notable people, legendary items, or significant places. This is otherwise identical to the bard's class feature of the same name.
+**Bardic [[Compendium/Basics/Skills/Knowledge]] (Ex)**: A rilkan rogue picks up a lot of stray [[Compendium/Basics/Skills/Knowledge]] while interacting with others. Starting at 3rd level, she can make a special bardic [[Compendium/Basics/Skills/Knowledge]] check with a bonus equal to her rogue level plus her Intelligence modifier to see whether she knows some relevant information about local notable people, legendary items, or significant places. This is otherwise identical to the bard's class feature of the same name.
 
 This benefit replaces the standard rogue's trap sense class feature gained at 3rd level. A rilkan rogue who selects this substitution feature never gains trap sense from her rogue levels.
 
@@ -829,13 +831,13 @@ _Enriched Bone Marrow (Ex)_: The rogue's recovery from near-fatal blood loss lef
 
 Prerequisite: Constitution must have been reduced below 3 by blood-draining attacks.
 
-_Façade (Ex)_: When the rogue disguises himself, he delves so deeply into character that he fools even divination magic. Whenever a creature casts a divination spell (or uses an ability that reproduces the effect of such a spell) that affects the rogue while he's disguised, the creature must make a Spot check opposed by the rogue's Disguise check. If the Spot check fails, the divination spell perceives the rogue as radiating the aura and thoughts that the rogue wishes the effect to detect. For instance, a rogue disguised as a zombie might radiate a neutral evil aura, detect as undead, and would have no discernible thoughts for a detect thoughts spell to pick up. Such a rogue would not suffer any ill effects from such a perfect disguise, such as extra harm from a holy or bane weapons.
+_Façade (Ex)_: When the rogue disguises himself, he delves so deeply into character that he fools even divination magic. Whenever a creature casts a divination spell (or uses an ability that reproduces the effect of such a spell) that affects the rogue while he's disguised, the creature must make a Spot check opposed by the rogue's Disguise check. If the Spot check fails, the divination spell perceives the rogue as radiating the aura and thoughts that the rogue wishes the effect to detect. For instance, a rogue disguised as a [[zombie]] might radiate a neutral evil aura, detect as undead, and would have no discernible thoughts for a [[detect thoughts]] spell to pick up. Such a rogue would not suffer any ill effects from such a perfect disguise, such as extra harm from a holy or bane weapons.
 
 _Face in the Crowd (Ex)_: The rogue develops an uncanny ability to blend in while among large numbers of people. When within a crowd, the rogue may use the Hide skill even while being observed. For the purposes of this effect, a crowd consists of at least ten creatures at least half the rogue's size within a 10-foot radius of the rogue.
 
 _Fear Mirror (Su)_: Having faced and overcome the most terrifying thing she can imagine, the rogue may reflect similar horrors back at her foes. When targeted by a fear effect the rogue instinctively projects the attack back to its source. Both the rogue and the source of the fear effect must make any applicable saving throws to resist the effects of the attack. Any immunities possessed by the source of the attack still apply.
 
-Prerequisite: Must have succeeded at a Fortitude save to resist phantasmal killer.
+Prerequisite: Must have succeeded at a Fortitude save to resist [[phantasmal killer]].
 
 _Frostfell Terrain Mastery (Ex)_: The rogue can move about in frostfell environments with great ease and quickness. As long as she is in a cold terrain or region of frostfell (or in a city located in such a region), the rogue gains a +2 competence bonus on initiative checks and a +10-foot bonus to her land speed. She loses these bonuses when she is wearing medium or heavy armor, or is carrying a medium or heavy load.
 
@@ -869,11 +871,11 @@ _Knockout Blow (Ex)_: When a rogue would make a sneak attack that deals nonletha
 
 _Light Sleeper (Ex)_: The rogue's sensitivity to the slightest sound becomes so acute that it is almost impossible for him to fail to react to danger. The rogue no longer suffers a -10 penalty to Listen checks while asleep.
 
-_Painful Strike_: The rogue's [[Knowledge]] of anatomy allows her to inflict tremendous pain. The rogue must make a sneak attack attempt with an unarmed strike. If she hits, her target must make a Fortitude save (DC 10 + 1 per die of sneak attack damage + Intelligence modifier). If the target fails this save, he must make a Concentration check (DC 15 + 1 per die of sneak attack damage + spell level) to cast a spell or use a spell-like ability for the next 1d6 rounds. The target suffers only normal damage for the unarmed strike, not sneak attack damage, when a rogue uses this ability.
+_Painful Strike_: The rogue's [[Compendium/Basics/Skills/Knowledge]] of anatomy allows her to inflict tremendous pain. The rogue must make a sneak attack attempt with an unarmed strike. If she hits, her target must make a Fortitude save (DC 10 + 1 per die of sneak attack damage + Intelligence modifier). If the target fails this save, he must make a Concentration check (DC 15 + 1 per die of sneak attack damage + spell level) to cast a spell or use a spell-like ability for the next 1d6 rounds. The target suffers only normal damage for the unarmed strike, not sneak attack damage, when a rogue uses this ability.
 
 _Rainbow Stare (Su)_: Somehow, while enduring a nearly overwhelming array of colors and light the rogue learned how to screen out dangerous images. She gains a +2 bonus on saving throws against figments and glamers and is completely immune to patterns.
 
-Prerequisite: Must have survived passing through at least four layers of either a prismatic sphere or a prismatic wail.
+Prerequisite: Must have survived passing through at least four layers of either a [[prismatic sphere]] or a prismatic wail.
 
 _Saboteur (Ex)_: The rogue's perception becomes so honed that he instantly notices even the most minute flaws in objects, enabling him to strike at their vulnerable points. When attacking objects or making a sunder attack action, the rogue may ignore an amount of hardness up to half his rogue class level. Further, constructs are no longer immune to the rogue's sneak attacks.
 
@@ -893,17 +895,17 @@ Many masters of stealth share the signature talent to avoid explosive blasts of 
 
 **Level**: 2nd (monk or rogue), 5th (scout), or 9th (ranger).
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain evasion. (If you would later gain improved evasion as a special ability, you gain evasion instead.)
 
 **Benefit**: You gain the supernatural ability to reflect magical attacks back on their caster. If an enemy misses with a spell or spell-like ability aimed at you, you can use an immediate action to redirect the effect back at its originator. The spell or ability attacks the original caster (who makes a new attack roll using the same modifier as the original attack). If it hits, the caster is subject to the normal effect of the spell or ability.
 
-For example, if a 3rd-level wizard missed you with a scorching ray, you could use an immediate action to redirect the ray back to the wizard. The wizard would immediately make a new ranged attack roll (using the same modifier) against his own touch AC; if the attack succeeds, the scorching ray deals its normal damage to the wizard.
+For example, if a 3rd-level wizard missed you with a [[scorching ray]], you could use an immediate action to redirect the ray back to the wizard. The wizard would immediately make a new ranged attack roll (using the same modifier) against his own touch AC; if the attack succeeds, the [[scorching ray]] deals its normal damage to the wizard.
 
 This effect applies only to spells and spell-like abilities that require an attack roll. Other spells and spell-like abilities that affect a target aren't subject to this reflection.
 
-If a single spell or ability misses you more than once at the same time (such as scorching ray cast by a high-level caster), you can redirect each portion of the spell that missed. Using the example above, if you were missed by two of the three rays from an 11th-level wizard's scorching ray spell, you could redirect only those two rays (but not the one that hit).
+If a single spell or ability misses you more than once at the same time (such as [[scorching ray]] cast by a high-level caster), you can redirect each portion of the spell that missed. Using the example above, if you were missed by two of the three rays from an 11th-level wizard's [[scorching ray]] spell, you could redirect only those two rays (but not the one that hit).
 
 You can use this ability a number of times per day equal to 1 + your Dex modifier (minimum 1/day).
 
@@ -915,7 +917,7 @@ Most barbarians and rogues have a preternatural awareness of danger, whether the
 
 **Level**: 3rd.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the trap sense class feature (or any later improvements to that class feature).
 
@@ -943,7 +945,7 @@ The wilderness rogue prefers to put her skills to use in the great outdoors, rat
 
 Remove the following rogue class skills from the wilderness rogue's class skill list: [[Appraise]], [[Diplomacy]], [[Decipher Script]], [[Forgery]], and [[Gather Information]].
 
-Add the following skills to the wilderness rogue's class skill list: [[Handle Animal]], [[Knowledge]] (geography), [[Knowledge]] (nature), [[Ride]], and [[Survival]].
+Add the following skills to the wilderness rogue's class skill list: [[Handle Animal]], [[Compendium/Basics/Skills/Knowledge]] (geography), [[Compendium/Basics/Skills/Knowledge]] (nature), [[Ride]], and [[Survival]].
 
 ##### Class Features
 
@@ -953,5 +955,4 @@ The wilderness rogue has all the standard rogue class features, except as noted 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

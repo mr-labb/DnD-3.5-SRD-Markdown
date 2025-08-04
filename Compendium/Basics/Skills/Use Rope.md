@@ -1,5 +1,6 @@
 ---
-aliases: [Use Rope]
+aliases:
+ - Use Rope
 title: Compendium/Basics/skills/Use Rope
 tags: skill
 ---
@@ -46,7 +47,7 @@ minutes. Binding a character takes 1 minute.
 
 ### Special
 A silk rope gives you a +2 circumstance bonus on Use Rope
-checks. If you cast an *animate rope* spell on a rope, you get a +2
+checks. If you cast an *[[animate rope]]* spell on a rope, you get a +2
 circumstance bonus on any Use Rope checks you make when using that rope.
 
 These bonuses stack.
@@ -66,5 +67,4 @@ checks made to bind someone.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

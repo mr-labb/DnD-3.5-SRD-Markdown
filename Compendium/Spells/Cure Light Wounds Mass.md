@@ -1,5 +1,6 @@
 ---
-aliases: [Mass Cure Light Wounds]
+aliases:
+ - Mass Cure Light Wounds
 title: Compendium/Basics/Spell/Cure Light Wounds, Mass
 tags:
   - 35E_SRD
@@ -39,12 +40,16 @@ Cures 1d8 damage +1/level for many creatures.
 
 You channel positive energy to cure **1d8 points of damage +1 point per caster level** (maximum +25) in each selected creature.
 
-- As with other [[Cure]] spells, this spell deals damage to undead within the area.  
+- As with other Cure spells, this spell deals damage to undead within the area.  
 - Each affected undead creature may attempt a **Will save for half damage**.
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

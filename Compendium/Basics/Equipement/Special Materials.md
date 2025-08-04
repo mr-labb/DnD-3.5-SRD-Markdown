@@ -75,5 +75,4 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

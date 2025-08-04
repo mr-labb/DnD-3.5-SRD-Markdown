@@ -1,5 +1,7 @@
 ---
-aliases: [Elf, 1st-Level Warrior]
+aliases:
+ - Elf
+ - 1st-Level Warrior
 title: Bestiary/MM1/Elf, 1st-Level Warrior
 tags: [35E_SRD, Monster]
 Monster: Elf, 1st-Level Warrior

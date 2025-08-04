@@ -1,5 +1,6 @@
 ---
-aliases: [Alarm]
+aliases:
+ - Alarm
 title: Compendium/Basics/Spell/Alarm
 tags: 
   - 35E_SRD
@@ -43,13 +44,17 @@ In quiet conditions, the ringing can be heard faintly as far as 180 feet away. T
 
 Ethereal or astral creatures do not trigger the *alarm*.
 
-*Alarm* can be made permanent with a *permanency* spell.
+*Alarm* can be made permanent with a *[[permanency]]* spell.
 
 *Arcane Focus:* A tiny bell and a piece of very fine silver wire
 
-Source : PHB P197
+**Source :** PHB P197
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

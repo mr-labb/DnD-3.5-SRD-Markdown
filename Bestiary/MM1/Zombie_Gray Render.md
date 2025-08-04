@@ -1,9 +1,12 @@
 ---
-aliases: [Zombie, Gray Render]
+aliases:
+ - Zombie Gray Render
 title: Bestiary/MM1/Zombie, Gray Render
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Zombie, Gray Render
-Size: Unknown
+Size: 
 Type: 
 Subtype: 
 CR: 6
@@ -12,70 +15,83 @@ Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Zombie, Gray Render
+image: [[Zombie, Gray Render.PNG]]
 race: Zombie, Gray Render
 class: 
 level: 
-size: Unknown
+size: 
 type: 
 subtype: 
 alignment: Always neutral evil
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "16 (-1 size, -1 Dex, +8 natural) touch 8, flat-footed 16"
+ac: 16
 touch: 8
-flat_footed: 16
-hit_point:
-  - name: hp
-    desc: "133 ; 20d8+3"
-speed: 30 ft. (6 squares; can't run)
-
-abilities: [25, 8, -, -, 10, 1]
-saves:
-  - Fort: +6
-  - Ref: +5
-  - Will: +12
-damage_resist: 5/slashing
-spell_resist: 
+flatfooted: 16
+AC_desc: -1 size, -1 Dex, +8 natural
+hp: 133
+hit_dice: 20d8+3
 initiative: -1
+speed: 30 ft. (6 squares; can't run)
 space/reach: 
-cr: 6
+stats:
+  - 25
+  - 8
+  - 0
+  - 0
+  - 10
+  - 1
+saves:
+ - Fortitude : 6
+ - Reflex : 5
+ - Will : 12
+skillsaves:
+ - Aucun
 base_attack/grapple: +10/+21
-attack: Bite +16 melee (2d6+7) or slam +16 melee (1d8+10)
-full_attack: Bite +16 melee (2d6+7) or slam +16 melee (1d8+10)
-special_attacks: -
-
-special_qualities:
-  - name: 
-    desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
-
-skills:
-  - Aucun
-feats: [[Toughness]]
-weak: 
 environment: Temperate marshes
 organization: Any
 treasure: None
 advancement: None
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 5/slashing
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 6
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
+actions:
+  - name: Full Attack
+    desc: "Bite +16 melee (2d6+7) or slam +16 melee (1d8+10)"
+  - name: Attack
+    desc: "Bite +16 melee (2d6+7) or slam +16 melee (1d8+10)"
+  - name: special attacks
+    desc: "-"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Toughness
+combat_gear:  
 ```
 
-## Description
 
-<p>Zombies are corpses reanimated through dark and sinister magic.</p>
-<p>Because of their utter lack of intelligence, the instructions given to a newly created zombie must be very simple.</p>
+Zombies are corpses reanimated through dark and sinister magic.
+
+Because of their utter lack of intelligence, the instructions given to a newly created zombie must be very simple.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Horned (cornugon)]
+aliases:
+ - Devil
+ - Horned (cornugon)
 title: Bestiary/MM1/Devil, Horned (cornugon)
 tags: [35E_SRD, Monster]
 Monster: Devil, Horned (cornugon)

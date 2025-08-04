@@ -1,6 +1,6 @@
 ## Fungus
 
-| |Shrieker Medium Plant| |Violet Fungus Medium Plant|
+| |Shrieker Medium Plant| |[[Violet Fungus]] Medium Plant|
 |---|---|---|---|
 |**Hit Dice:**|2d8+2 (11 hp)||2d8+6 (15 hp)|
 |**Initiative:**|-5||-1|
@@ -26,7 +26,7 @@
 
 #### Combat
 
-Shriekers and violet fungi often work together to attract and kill prey. When the shriekers' hellish racket attracts a curious creature, the violet fungus tries to kill it. Both creatures enjoy the fruits of a successful hunt. 
+Shriekers and violet fungi often work together to attract and kill prey. When the shriekers' hellish racket attracts a curious creature, the [[violet fungus]] tries to kill it. Both creatures enjoy the fruits of a successful hunt. 
 
 ### Shrieker
 
@@ -49,12 +49,15 @@ A violet fungi's coloration ranges from purple overall to dull gray or violet co
 
 #### Combat
 
-A violet fungus flails about with its tentacles at living creatures that come within its reach. 
+A [[violet fungus]] flails about with its tentacles at living creatures that come within its reach. 
 
 #### Poison (Ex)
 Injury, Fortitude DC 14, initial and secondary damage 1d4 Str and 1d4 Con. The save DC is Constitution-based.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

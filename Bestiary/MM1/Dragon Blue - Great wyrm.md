@@ -1,5 +1,6 @@
 ---
-aliases: [Blue Dragon - Great wyrm]
+aliases:
+ - Blue Dragon - Great wyrm
 title: Bestiary/MM1/Dragon, Blue - Great wyrm
 tags: [35E_SRD, Monster]
 Monster: Dragon Blue - Great wyrm

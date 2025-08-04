@@ -1,5 +1,6 @@
 ---
-aliases: [Displacement]
+aliases:
+ - Displacement
 title: Compendium/Basics/Spell/Displacement
 tags:
   - 35E_SRD
@@ -40,16 +41,20 @@ This spell cloaks the subject in an illusory effect that makes it appear to be a
 - Grants a **50% miss chance** on attacks targeting the creature  
   - Similar to **total concealment**, but attackers can still target normally  
 - Does **not affect** spell targeting or area effects  
-- Creatures with **True Seeing** can perceive the actual location
+- Creatures with **[[True Seeing]]** can perceive the actual location
 
 ### Material Component
 
 - A small strip of **leather twisted into a loop**
 
 
-**Source:** PHB P223
+**Source :** PHB P223
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

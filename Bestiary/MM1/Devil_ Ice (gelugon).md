@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Ice (gelugon)]
+aliases:
+ - Devil
+ - Ice (gelugon)
 title: Bestiary/MM1/Devil, Ice (gelugon)
 tags: [35E_SRD, Monster]
 Monster: Devil, Ice (gelugon)

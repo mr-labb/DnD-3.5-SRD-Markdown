@@ -1,5 +1,6 @@
 ---
-aliases: [Delay Poison]
+aliases:
+ - Delay Poison
 title: Compendium/Basics/Spell/Delay Poison
 tags:
   - 35E_SRD
@@ -47,9 +48,13 @@ Stops poison from harming subject for 1 hour/level.
 - **After the duration expires**, the poisons begin to take effect as normal.
 - This spell does **not heal damage** previously dealt by poison.
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

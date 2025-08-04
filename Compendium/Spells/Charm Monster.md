@@ -1,5 +1,6 @@
 ---
-aliases: [Charm Monster]
+aliases:
+ - Charm Monster
 title: Compendium/Basics/Spell/Charm Monster
 tags: 
   - 35E_SRD
@@ -33,9 +34,13 @@ Makes monster believe it is your ally.
 
 This spell functions like [[Charm Person]], except that it is not restricted by creature type or size. It can affect any living creature, making it regard you as a trusted friend and ally.
 
-Source : PHB P209
+**Source :** PHB P209
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

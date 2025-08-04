@@ -106,42 +106,74 @@ Deities add their divine rank as a **divine bonus** on:
 For every **20 extra skill ranks**, synergy bonuses (if applicable) increase by +2.
 
 ### Armor Class
-A field of divine energy encompasses a deity's body, granting it a divine Armor Class bonus equal to its divine rank. This bonus stacks with all other Armor Class bonuses and is effective against touch attacks and incorporeal touch attacks.
+A field of divine energy encompasses a deity's body,
+granting it a divine Armor Class bonus equal to its divine rank. This
+bonus stacks with all other Armor Class bonuses and is effective against
+touch attacks and incorporeal touch attacks.
 
-Most deities (all those with 20 outsider Hit Dice) have a natural armor bonus of their divine rank +13. All deities also have a deflection bonus to their AC equal to their Charisma bonus (if any).
+Most deities (all those with 20 outsider Hit Dice) have a natural armor
+bonus of their divine rank +13. All deities also have a deflection bonus
+to their AC equal to their Charisma bonus (if any).
 
-Deities who aren't outsiders have their normal natural armor bonus + their divine rank.
+Deities who aren't outsiders have their normal natural armor bonus +
+their divine rank.
 
 Many deities have other Armor Class bonuses as noted in their individual
 descriptions.
 
 ### Attacks
-A deity's Hit Dice and type and character level determine its base attack bonus. In addition to the figures for weapon attacks, this section of the statistics block also includes melee touch attack and ranged touch attack bonuses, to be used when the deity casts a spell or uses a spell-like ability that requires a touch attack to affect its target. A deity gets its divine rank as a divine bonus on all attack rolls. Deities of rank 1 or higher do not automatically fail on a natural attack roll of 1.
+A deity's Hit Dice and type and character level determine
+its base attack bonus. In addition to the figures for weapon attacks,
+this section of the statistics block also includes melee touch attack
+and ranged touch attack bonuses, to be used when the deity casts a spell
+or uses a spell-like ability that requires a touch attack to affect its
+target. A deity gets its divine rank as a divine bonus on all attack
+rolls. Deities of rank 1 or higher do not automatically fail on a
+natural attack roll of 1.
 
-*Bypassing Damage Reduction:* As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing damage reduction. 
+*Bypassing Damage Reduction:* As outsiders with alignment subtypes, the
+natural attacks of deities, as well as any weapons they wield, are
+considered aligned the same as the deity for the purposes of bypassing
+damage reduction.
 
 ### Always Maximize Roll
-*Bypassing Damage Reduction:* As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing damage reduction.Greater deities (rank 16--20) automatically get the best result possible on any check, saving throw, attack roll, or damage roll. Calculate success, failure, or other effects accordingly. When a greater deity makes a check, attack, or save assume a 20 was rolled and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit. This quality means that greater deities never need the Maximize Spell feat, because their spells have maximum effect already. 
+Greater deities (rank 16--20) automatically
+get the best result possible on any check, saving throw, attack roll, or
+damage roll. Calculate success, failure, or other effects accordingly.
+When a greater deity makes a check, attack, or save assume a 20 was
+rolled and calculate success or failure from there. A d20 should still
+be rolled and used to check for a threat of a critical hit. This quality
+means that greater deities never need the Maximize Spell feat, because
+their spells have maximum effect already.
 
 ### Saving Throws
-A deity's outsider Hit Dice and character level determine its base saving throw bonuses. A deity gets its divine rank as a divine bonus on all saving throws. Deities of rank 1 or higher do not automatically fail on a natural saving throw roll of 1. 
+A deity's outsider Hit Dice and character level
+determine its base saving throw bonuses. A deity gets its divine rank as
+a divine bonus on all saving throws. Deities of rank 1 or higher do not
+automatically fail on a natural saving throw roll of 1.
 
 ### Checks
-A deity gets its divine rank as a divine bonus on all skill checks, ability checks, caster level checks, and turning checks. Lesser deities (rank 6--10) may take 10 on any check, provided they need to make a check at all. Intermediate and greater deities (rank 11--20) always get a result of 20 on any check, provided they need to make a check at all.
+A deity gets its divine rank as a divine bonus on all skill
+checks, ability checks, caster level checks, and turning checks. Lesser
+deities (rank 6--10) may take 10 on any check, provided they need to
+make a check at all. Intermediate and greater deities (rank 11--20)
+always get a result of 20 on any check, provided they need to make a
+check at all.
 
-
-*Deities and Synergy Bonuses*: For every 20 extra ranks a deity has in a skill, the deity's synergy bonus from the skill (if any) increases by +2.
+*Deities and Synergy Bonuses*: For every 20 extra ranks a deity has in a
+skill, the deity's synergy bonus from the skill (if any) increases by
++2.
 
 ### Immunities
 
 Deities possess the following immunities, with stronger deities gaining additional protections. These do not apply against deities of equal or higher rank unless specified.
 
-- **Transmutation:** Immune to polymorph, petrification, or other form-altering effects. They can still shape-change themselves normally.
+- **Transmutation:** Immune to [[Compendium/Spells/Polymorph|polymorph]], petrification, or other form-altering effects. They can still shape-change themselves normally.
 - **Energy Drain / Ability Drain / Ability Damage:** Fully immune.
 - **Mind-Affecting Effects:** Immune to charms, compulsions, phantasms, patterns, and morale effects.
 - **Energy Immunity:** Deities of rank 1+ are immune to electricity, cold, and acid. Some may be immune to more energy types.
 - **Disease, Poison, Stunning, Sleep, Paralysis, Death Effects, Disintegration:** Immunity begins at rank 1.
-- **Imprisonment and Banishment (rank 6+):** Immune to effects such as *banishment, binding, dimensional anchor, dismissal, imprisonment, repulsion, soul bind, temporal stasis, trap the soul*, and turning/rebuking.
+- **Imprisonment and Banishment (rank 6+):** Immune to effects such as *banishment, [[binding]], [[dimensional anchor]], [[dismissal]], [[imprisonment]], [[repulsion]], [[soul bind]], [[temporal stasis]], [[trap the soul]]*, and turning/rebuking.
 
 ### Damage Reduction
 
@@ -267,7 +299,7 @@ The presence of a deity of rank 1+ exerts a powerful aura that affects mortals a
 | 16–20       | 1 mile / rank              |
 
 **Aura Effects (choose one per round):**
-- **Daze:** Creatures stare in awe; they can defend but not act.
+- **[[Daze]]:** Creatures stare in awe; they can defend but not act.
 - **Fright:** Creatures become shaken (–2 penalty on attacks, saves, checks) and flee.
 - **Resolve:** Allies gain +4 morale bonus on attacks, saves, checks; foes take –4 penalty.
 
@@ -303,7 +335,7 @@ Messages may cross planes and bypass all barriers except those placed by equal/h
 
 ### Godly Realm
 
-Deities of rank 1+ possess a personal domain that serves as residence, sanctuary, and seat of power. They exert environmental control based on rank and plane location.
+Deities of rank 1+ possess a personal domain that serves as residence, [[sanctuary]], and seat of power. They exert environmental control based on rank and plane location.
 
 | Divine Rank | Control Radius (Outer Plane) | Control Radius (Material Plane) |
 |-------------|-------------------------------|----------------------------------|
@@ -329,8 +361,8 @@ Deities of rank 1+ possess a personal domain that serves as residence, sanctuary
 ### Travel
 
 Deities of rank 1+ can use:
-- *Teleport without error* at will (self + 100 lb. of objects per rank)
-- Rank 6+: *Plane shift* at will (same weight limit)
+- *[[Teleport]] without error* at will (self + 100 lb. of objects per rank)
+- Rank 6+: *[[Plane shift]]* at will (same weight limit)
 - Companions (familiar, mount, intelligent weapon) may travel with the deity if touched
 
 ### Familiar
@@ -340,5 +372,8 @@ Deities of rank 1+ with sorcerer or wizard levels can treat any one creature wit
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

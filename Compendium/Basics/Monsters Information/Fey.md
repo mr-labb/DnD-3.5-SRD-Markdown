@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Fey]
+aliases:
+ - Fey
 title: Compendium/Basics/Monsters Information/Fey
 tag: Monster, Fey
 ---
@@ -22,7 +23,7 @@ _Features_: A fey has the following features.
 - Skill points equal to (6 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit Die.
     
 
-_Traits_: A fey possesses the following traits (unless otherwise noted in a creature’s entry).
+_Traits_: A fey possesses the following traits (unless otherwise noted in a creatureâ€™s entry).
 
 - Low-light vision.
     
@@ -32,7 +33,6 @@ _Traits_: A fey possesses the following traits (unless otherwise noted in a crea
     
 - Fey eat, sleep, and breathe.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

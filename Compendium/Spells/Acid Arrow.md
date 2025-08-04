@@ -1,5 +1,6 @@
 ---
-aliases: [Acid Arrow]
+aliases:
+ - Acid Arrow
 title: Compendium/Basics/Spell/Acid Arrow
 tags: 
   - 35E_SRD
@@ -35,9 +36,12 @@ A magical arrow of acid springs from your hand and speeds to its target. You mus
 
 *Focus:* A dart.
 
-Source : PHB P253
+**Source :** PHB P253
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

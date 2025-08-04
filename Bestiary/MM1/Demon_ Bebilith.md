@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Bebilith]
+aliases:
+ - Demon
+ - Bebilith
 title: Bestiary/MM1/Demon, Bebilith
 tags: [35E_SRD, Monster]
 Monster: Demon, Bebilith

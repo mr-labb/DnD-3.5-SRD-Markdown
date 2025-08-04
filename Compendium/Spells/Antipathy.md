@@ -1,5 +1,6 @@
 ---
-aliases: [Antipathy]
+aliases:
+ - Antipathy
 title: Compendium/Basics/Spell/Antipathy
 tags: 
   - 35E_SRD
@@ -37,13 +38,17 @@ Creatures of the designated kind or alignment feel an overpowering urge to leave
 
 A compulsion forces them to abandon the area or item, shunning it and never willingly returning to it while the spell is in effect. A creature that makes a successful saving throw can stay in the area or touch the item but feels uncomfortable doing so. This distracting discomfort reduces the creature's Dexterity score by 4 points.
 
-*Antipathy* counters and dispels *sympathy*.
+*Antipathy* counters and dispels *[[sympathy]]*.
 
 *Arcane Material Component:* A lump of alum soaked in vinegar.
 
-Source : PHB P200
+**Source :** PHB P200
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

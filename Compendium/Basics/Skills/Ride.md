@@ -1,5 +1,6 @@
 ---
-aliases: [Ride]
+aliases:
+ - Ride
 title: Compendium/Basics/skills/Ride
 tags: skill
 ---
@@ -62,7 +63,7 @@ deals twice as much damage to the mount as the previous round (2 points,
 4 points, 8 points, and so on).
 
 *Control Mount in Battle:* As a move action, you can attempt to control
-a light horse, pony, heavy horse, or other mount not trained for combat
+a light horse, [[pony]], heavy horse, or other mount not trained for combat
 riding while in battle. If you fail the Ride check, you can do nothing
 else in that round. You do not need to roll for warhorses or warponies.
 
@@ -98,5 +99,4 @@ bonus on Ride checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

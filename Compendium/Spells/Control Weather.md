@@ -1,5 +1,6 @@
 ---
-aliases: [Control Weather]
+aliases:
+ - Control Weather
 title: Compendium/Basics/Spell/Control Weather
 tags:
   - 35E_SRD
@@ -59,9 +60,13 @@ You can also **eliminate existing atmospheric phenomena** as part of your influe
 **Druid Bonus:**  
 Druids double the duration and affect a **3-mile radius**.
 
-Source : PHB P214
+**Source :** PHB P214
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

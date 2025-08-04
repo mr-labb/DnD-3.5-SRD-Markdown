@@ -1,5 +1,7 @@
 ---
-aliases: [Arrowhawk, Elder]
+aliases:
+ - Arrowhawk
+ - Elder
 title: Bestiary/MM1/Arrowhawk, Elder
 tags: [35E_SRD, Monster]
 Monster: Arrowhawk, Elder

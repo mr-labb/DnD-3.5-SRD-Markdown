@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Hezrou]
+aliases:
+ - Demon
+ - Hezrou
 title: Bestiary/MM1/Demon, Hezrou
 tags: [35E_SRD, Monster]
 Monster: Demon, Hezrou

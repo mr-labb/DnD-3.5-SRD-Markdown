@@ -4,8 +4,7 @@ title: Compendium / Basic Rules and Legal / Feats
 Tag: feat
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # FEATS
 
@@ -309,5 +308,4 @@ you decide whether to acquire the feat.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

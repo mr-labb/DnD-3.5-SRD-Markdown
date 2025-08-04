@@ -1,5 +1,6 @@
 ---
-aliases: [Aid]
+aliases:
+ - Aid
 title: Compendium/Basics/Spell/Aid
 tags: 
   - 35E_SRD
@@ -32,9 +33,13 @@ Source: PHB
 
 *Aid* grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).
 
-Source : PHB P196
+**Source :** PHB P196
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

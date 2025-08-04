@@ -1,5 +1,6 @@
 ---
-aliases: [Martial Lore]
+aliases:
+ - Martial Lore
 title: Compendium/Basics/skills/Martial Lore
 tags: skill
 ---
@@ -43,5 +44,4 @@ If you have the Stealthy feat, you get a +2 bonus on Move Silently checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

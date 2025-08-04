@@ -1,5 +1,6 @@
 ---
-aliases: [Contingency]
+aliases:
+ - Contingency
 title: Compendium/Basics/Spell/Contingency
 tags:
   - 35E_SRD
@@ -37,12 +38,16 @@ You can place another spell on yourself that activates when a specified conditio
 - **Overly complex** conditions can cause the spell combination to **fail**.
 - You may maintain **only one contingency** at a time; casting a second dispels the first.
 
-**Material Component:** The component of the companion spell, plus **quicksilver** and an **eyelash of an ogre mage, rakshasa, or similar spell-using creature**  
+**Material Component:** The component of the companion spell, plus **quicksilver** and an **eyelash of an ogre mage, [[rakshasa]], or similar spell-using creature**  
 **Focus:** A **statuette of yourself** carved from **elephant ivory** and inlaid with gems (worth at least **1,500 gp**), which you must carry for the spell to function.
 
-Source : PHB P213
+**Source :** PHB P213
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

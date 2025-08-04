@@ -1,5 +1,7 @@
 ---
-aliases: [Demon, Nalfeshnee]
+aliases:
+ - Demon
+ - Nalfeshnee
 title: Bestiary/MM1/Demon, Nalfeshnee
 tags: [35E_SRD, Monster]
 Monster: Demon, Nalfeshnee

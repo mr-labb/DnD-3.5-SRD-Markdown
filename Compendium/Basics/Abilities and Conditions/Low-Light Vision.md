@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Low-Light Vision]
+aliases:
+ - Low-Light Vision
 title: Compendium\Basics\Abilities and Conditions\Low-Light Vision
 tag: Abilities, Conditions
 ---
@@ -23,9 +24,7 @@ It retains the ability to distinguish color and detail under these conditions.
 **Extraordinary Abilities [[Special Abilities#Extraordinary Abilities (Ex)|(Ex)]]**: Extraordinary abilities are nonmagical. They are, however, not something that just anyone can do or even learn to do without extensive training. Effects or areas that negate or disrupt magic have no effect on extraordinary abilities.
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

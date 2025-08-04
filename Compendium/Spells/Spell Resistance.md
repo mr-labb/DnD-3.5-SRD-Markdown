@@ -1,11 +1,15 @@
 ---
-aliases: [Spell Resistance]
+aliases:
+ - Spell Resistance
 title: Compendium/Basics/Spell/Spell Resistance
-tags: [35E_SRD, Spell, Cleric]
+tags:
+  - 35E_SRD
+  - Spell
+  - Cleric
 Spell Name: Spell Resistance
 School: Abjuration
-Subschool: 
-Descriptor: 
+Subschool:
+Descriptor:
 Level:
   - Clr 5
   - Magic 5
@@ -13,28 +17,32 @@ Level:
 Source: PHB
 ---
 
-
 ## Spell Resistance
 
-Subject gains SR 12 + level.
+Subject gains SR equal to 12 + caster level.
 
-*   Abjuration
-*   **Level:** Clr 5, Magic 5, Protection 5
-*   **Components:** V, S, DF
-*   **Casting Time:** 1 standard action
-*   **Range:** Touch
-*   **Effect:** Creature touched
-*   **Duration:** 1 min./level
-*   **Saving Throw:** Will negates (harmless)
-*   **Spell Resistance:** Yes (harmless)
+- **School:** Abjuration  
+- **Level:** Clr 5, Magic 5, Protection 5  
+- **Components:** V, S, DF  
+- **Casting Time:** 1 standard action  
+- **Range:** Touch  
+- **Effect:** Creature touched  
+- **Duration:** 1 min./level  
+- **Saving Throw:** Will negates (harmless)  
+- **Spell Resistance:** Yes (harmless)  
 
-<p>The creature gains spell resistance equal to 12 + your caster level.</p>
+The touched creature gains **Spell Resistance** (SR) equal to **12 + your caster level**. This resistance applies to spells and spell-like abilities that allow SR, making it harder for foes' spells to affect the creature.
 
-Source : PHB P282
+Useful for mid-level encounters where enemy casters are numerous and you need reliable magical protection without specifying which spells to resist.
+
+**Source :** PHB P282
 
 ---
 
----
 
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

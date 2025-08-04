@@ -1,5 +1,6 @@
 ---
-aliases: [Circle of Death]
+aliases:
+ - Circle of Death
 title: Compendium/Basics/Spell/Circle of Death
 tags: 
   - 35E_SRD
@@ -41,9 +42,13 @@ You release a burst of deathly energy that instantly slays weaker living creatur
 
 **Material Component:** Powder from a crushed black pearl (minimum value **500 gp**).
 
-Source : PHB P209
+**Source :** PHB P209
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

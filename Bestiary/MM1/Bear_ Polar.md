@@ -1,5 +1,7 @@
 ---
-aliases: [Bear, Polar]
+aliases:
+ - Bear
+ - Polar
 title: Bestiary/MM1/Bear, Polar
 tags: [35E_SRD, Monster]
 Monster: Bear, Polar

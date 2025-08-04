@@ -351,7 +351,7 @@ You can use this power in one of two ways: to disguise the subject's aura (align
 
 *Disguise:* If you use this power to disguise the subject's alignment and level, the power has a duration of 10 minutes per level. You can change the subject's alignment by only one step. You can adjust the subject's apparent level up or down by a number equal to one-half your own level (rounded down) or less.
 
-*Remove Compulsion:* If you use this power to attempt to cleanse the subject's aura of a baleful or controlling effect, the duration is instantaneous. This power can remove the compulsion of a curse or a *geas/quest* effect. It can also negate any charm and compulsion powers of 6th level or lower, such as *crisis of breath* or *death urge.* When *aura alteration* is manifested for this purpose, the subject gains another saving throw to remove the compulsion afflicting it against the original save DC, but with a +2 bonus.
+*Remove Compulsion:* If you use this power to attempt to cleanse the subject's aura of a baleful or controlling effect, the duration is instantaneous. This power can remove the compulsion of a curse or a *[[Geas_Quest|geas/quest]]* effect. It can also negate any charm and compulsion powers of 6th level or lower, such as *crisis of breath* or *death urge.* When *aura alteration* is manifested for this purpose, the subject gains another saving throw to remove the compulsion afflicting it against the original save DC, but with a +2 bonus.
 
 ### Augment
 You can augment this power in one or both of the following ways.
@@ -506,7 +506,7 @@ Yes
 -   Duplicate any other power (but not a spell) of 5th level or lower, provided the power is not of a discipline prohibited to you.
 -   Duplicate any psion power of 5th level or lower, even if it's of a prohibited discipline.
 -   Duplicate any other power (but not a spell) of 4th level or lower, even if it's of a prohibited discipline.
--   Undo the harmful effects of many powers, such as *psionic dominate, geas/quest,* or *insanity*.
+-   Undo the harmful effects of many powers, such as *psionic dominate, [[Geas_Quest|geas/quest]],* or *[[insanity]]*.
 -   Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a --8 penalty on its next saving throw.
 
 A duplicated power allows saving throws and power resistance as normal (but the save DC is for a 8th-level power).
@@ -917,7 +917,7 @@ Yes
 -   ### Power Points
 1
 
-As the *charm person* spell, except as noted here.
+As the *[[charm person]]* spell, except as noted here.
 
 ### Augment
 You can augment this power in one or more of the following ways.
@@ -1817,7 +1817,7 @@ Yes
 -   ### Power Points
 13
 
-With *decerebrate,* you selectively remove a portion of the subject's brain stem. The creature loses all cerebral function, vision, hearing, and other sensory abilities, and all voluntary motor activity. The subject becomes limp and unresponsive. Without extreme measures, such as *greater restoration* or some other suitable effect of 7th level or higher, the creature perishes in 1d4 days.
+With *decerebrate,* you selectively remove a portion of the subject's brain stem. The creature loses all cerebral function, vision, hearing, and other sensory abilities, and all voluntary motor activity. The subject becomes limp and unresponsive. Without extreme measures, such as *[[Restoration Greater|greater restoration]]* or some other suitable effect of 7th level or higher, the creature perishes in 1d4 days.
 
 ### DÉJà Vu
 
@@ -2167,7 +2167,7 @@ Yes (object)
 -   ### Power Points
 7
 
-As the *dimensional anchor* spell, except as noted here.
+As the *[[dimensional anchor]]* spell, except as noted here.
 
 ### Disable
 
@@ -2257,7 +2257,7 @@ Yes
 -   ### Power Points
 7
 
-As the *dismissal* spell, except as noted here.
+As the *[[dismissal]]* spell, except as noted here.
 
 ### Dismiss Ectoplasm
 
@@ -2358,7 +2358,7 @@ Yes (harmless, object)
 -   ### Power Points
 11
 
-You create a psychokinetic shield around the subject that improves the chance that any powers affecting the subject will resist a *dispel psionics* power (or a *dispel magic* spell) or a negation effect that targets a specific power (such as *shatter mind blank*). When *dispelling buffer* is manifested on a creature or object, add +5 to the DC of the dispel check for each ongoing effect that is subject to being dispelled.
+You create a psychokinetic shield around the subject that improves the chance that any powers affecting the subject will resist a *dispel psionics* power (or a *[[dispel magic]]* spell) or a negation effect that targets a specific power (such as *shatter mind blank*). When *dispelling buffer* is manifested on a creature or object, add +5 to the DC of the dispel check for each ongoing effect that is subject to being dispelled.
 
 *Dispel psionics* can negate *dispelling buffer*, but against a targeted dispel, *dispelling buffer* is always checked last (with the same +5 bonus). Against an area dispel, *dispelling buffer* is checked in the order according to its level (with the same +5 bonus).
 
@@ -2539,7 +2539,7 @@ Yes
 -   ### Power Points
 7
 
-As the *dominate person* spell, except as noted here.
+As the *[[dominate person]]* spell, except as noted here.
 
 ### Augment
 You can augment this power in one or more of the following ways.
@@ -3559,7 +3559,7 @@ You
 -   ### Power Points
 13
 
-As the *ethereal jaunt* spell, except as noted here.
+As the *[[ethereal jaunt]]* spell, except as noted here.
 
 ### Etherealness, Psionic
 
@@ -3581,7 +3581,7 @@ Yes (harmless)
 -   ### Power Points
 17
 
-As the *etherealness* spell, except as noted here.
+As the *[[Compendium/Spells/Etherealness|etherealness]]* spell, except as noted here.
 
 ### Evade Burst
 
@@ -3692,7 +3692,7 @@ No
 -   ### Power Points
 7
 
-As the *fabricate* spell, except as noted here.
+As the *[[fabricate]]* spell, except as noted here.
 
 ### Fabricate, Greater Psionic
 
@@ -3870,7 +3870,7 @@ Instantaneous and up to one day; see text
 -   ### Power Points
 9
 
-You use your mastery of energy to cheat death. If you are within 30 feet of an open flame, you can use this power. Any damage that would reduce you to 0 hit points or lower instead has a chance to discorporate you. You attempt a Will save (DC 5 + damage dealt); if it succeeds, you simply break apart into dozens of flitting tongues of flame and vanish, along with all your gear and anything you are holding or carrying.
+You use your mastery of energy to cheat death. If you are within 30 feet of an open flame, you can use this power. Any damage that would reduce you to 0 hit points or lower instead has a chance to discorporate you. You attempt a Will save (DC 5 + damage dealt); if it succeeds, you simply break apart into dozens of flitting [[tongues]] of flame and vanish, along with all your gear and anything you are holding or carrying.
 
 One day later, you reappear adjacent to an open flame nearest to the place where you discorporated, seeming to materialize from the fire (you choose where you appear along the perimeter of that open flame). While discorporated, you do not exist---you can do nothing, nor can any of your enemies do anything to you.
 
@@ -3992,7 +3992,7 @@ You gain the frightful presence extraordinary ability, which takes effect automa
 
 Your horrific form grants you a natural armor bonus of +5, damage reduction 5/--, and a +4 bonus to your Strength score. In addition, you gain +10 feet to your land speed as well as a +10 bonus on Climb and Jump checks.
 
-A nest of violently flailing black tentacles sprout from your hair and back. You can make up to four additional attacks with these tentacles in addition to your regular melee attacks in each round that you take a full attack action. You can make tentacle attacks within the space you normally threaten. If you make your tentacle attacks in addition to you regular melee attacks, each tentacle attacks at your highest base attack bonus with a --5 penalty. If you forgo all your other attacks, making only tentacle attacks, you make your tentacle attacks at your highest base attack bonus with no penalty. These tentacles deal 2d8 points of damage plus one-half your Strength bonus on each successful strike.
+A nest of violently flailing [[black tentacles]] sprout from your hair and back. You can make up to four additional attacks with these tentacles in addition to your regular melee attacks in each round that you take a full attack action. You can make tentacle attacks within the space you normally threaten. If you make your tentacle attacks in addition to you regular melee attacks, each tentacle attacks at your highest base attack bonus with a --5 penalty. If you forgo all your other attacks, making only tentacle attacks, you make your tentacle attacks at your highest base attack bonus with no penalty. These tentacles deal 2d8 points of damage plus one-half your Strength bonus on each successful strike.
 
 This power functions only while you inhabit your base form (for instance, you can't be metamorphed or polymorphed into another form, though you can use *breath of the black dragon, claws of the beast*, and *bite of the wolf* in conjunction with this power for your regular attacks), and while your mind resides within your own body.
 
@@ -4120,7 +4120,7 @@ demiplane is created, you can travel to it using *astral caravan*,
 for separately.
 
 You determine the environment within the demiplane when you manifest
-*genesis,* reflecting most any desire you can visualize. You determine
+*[[genesis]],* reflecting most any desire you can visualize. You determine
 factors such as atmosphere, water, temperature, and the general shape of
 the terrain. This power cannot create life (including vegetation), nor
 can it create construction (such as buildings, roads, wells, dungeons,
@@ -4192,12 +4192,12 @@ normally relies.
 
 While your hand is grafted to a weapon, you lose the use of that hand
 and take a --2 penalty on all skill checks requiring the use of hands.
-Powers that temporarily polymorph or metamorph you can ignore the
+Powers that temporarily [[Compendium/Spells/Polymorph|polymorph]] or metamorph you can ignore the
 grafted weapon or alter it normally, at your discretion. If the weapon
 takes damage, you take damage as well. If you are healed, so is your
 grafted weapon. If your weapon is destroyed, you permanently lose 2
 points of Constitution; the ability drain persists until you can restore
-your natural anatomy (by means of *regenerate* or a similar effect).
+your natural anatomy (by means of *[[regenerate]]* or a similar effect).
 
 When this power's duration expires, the grafted weapon falls to the
 ground and your hand returns.
@@ -4224,7 +4224,7 @@ No
 -   ### Power Points
 1
 
-As the *grease* spell, except as noted here.
+As the *[[grease]]* spell, except as noted here.
 
 Sometimes this power is referred to as *ectoplasmic sheen.*
 
@@ -4745,7 +4745,7 @@ You
 -   ### Power Points
 15
 
-As the *iron body* spell, except as noted here.
+As the *[[iron body]]* spell, except as noted here.
 
 ### Keen Edge, Psionic
 
@@ -4770,7 +4770,7 @@ Yes (harmless, object)
 -   ### Power Points
 5
 
-As the *keen edge* spell, except as noted here.
+As the *[[keen edge]]* spell, except as noted here.
 
 ### Knock, Psionic
 
@@ -4795,7 +4795,7 @@ No
 -   ### Power Points
 3
 
-As the *knock* spell, except as noted here.
+As the *[[knock]]* spell, except as noted here.
 
 ### Know Direction and Location
 
@@ -4885,7 +4885,7 @@ Yes (harmless, object)
 -   ### Power Points
 3
 
-As the *levitate* spell, except as noted here.
+As the *[[levitate]]* spell, except as noted here.
 
 ### Special
 When a psion, wilder, or a psychic warrior manifests this
@@ -4906,7 +4906,7 @@ See spell text
 -   ### Power Points
 9
 
-As the *major creation* spell, except as noted here.
+As the *[[major creation]]* spell, except as noted here.
 
 ### Matter Agitation
 
@@ -5457,7 +5457,7 @@ with negative hit points count as having 0 hit points.)
 Manifesting *microcosm* a second time on an affected creature turns its
 sensory pathways outward once more. Otherwise, only very potent powers
 (such as *psychic chirurgery* or *reality revision*) or similar effects
-(such as *miracle* or *wish*) can undo the mental crosswiring that this
+(such as *[[miracle]]* or *wish*) can undo the mental crosswiring that this
 power brings about.
 
 ### Augment
@@ -5509,13 +5509,13 @@ Yes (harmless)
 The subject is protected from all devices, powers, and spells that
 detect, influence, or read emotions or thoughts. This power protects
 against powers with the mind-affecting or scrying descriptors. *Psionic
-mind blank* even foils *bend reality, limited wish, miracle, reality
+mind blank* even foils *bend reality, [[limited wish]], [[miracle]], reality
 revision,* and *wish* when they are used in such a way as to affect the
 subject's mind or to gain information about it (however, *metafaculty*
 can pierce the protective quality of *psionic mind blank*). In the case
-of *remote viewing* or scrying that scans an area the creature is in,
+of *remote viewing* or [[scrying]] that scans an area the creature is in,
 the effect works but the creature simply isn't detected. *Remote
-viewing* (scrying) attempts that are targeted specifically at the
+viewing* ([[scrying]]) attempts that are targeted specifically at the
 subject do not work at all.
 
 ### Mind Probe
@@ -5604,7 +5604,7 @@ own new experiences. Thus, the subject is not your slave or servant, but
 instead a nonplayer character in its own right that shares your earlier
 memories.
 
-*Protection from evil* or a similar spell or power can prevent you from
+*[[Protection from evil]]* or a similar spell or power can prevent you from
 implanting *mind seed,* or prevent a seed from germinating while the
 protective power lasts. Otherwise, a germinating seed can be removed
 (prior to germination) only by *psychic chirurgery, reality revision*,
@@ -5673,7 +5673,7 @@ unavailable in your new form.
 
 If either body is killed while the power is in effect, the other
 participant also dies when the power ends. If one participant's body
-becomes petrified, imprisoned by *temporal stasis* or *imprisonment,* or
+becomes petrified, imprisoned by *[[temporal stasis]]* or *[[imprisonment]],* or
 incapacitated in some other way, the other participant will be
 incapacitated in that way when the power ends.
 
@@ -5706,7 +5706,7 @@ Yes
 As *mind switch,* except as noted here. You permanently exchange bodies
 with the subject. Since this power's duration is instantaneous, you
 cannot be forced to return to your natural body by means of *dispel
-psionics,* an *antimagic field,* or a similar effect. If the subject's
+psionics,* an *[[antimagic field]],* or a similar effect. If the subject's
 body dies while you are in it, you are dead. The subject immediately
 loses one level, but otherwise survives the experience in your natural
 body. If your natural body dies while the subject is in it, you
@@ -5812,7 +5812,7 @@ Yes (harmless)
 -   ### Power Points
 1
 
-You forge a telepathic bond with your target. You can communicate
+You forge a [[telepathic bond]] with your target. You can communicate
 telepathically through the bond even if you do not share a common
 language. No special power or influence is established as a result of
 the bond. Once the bond is formed, it works over any distance (although
@@ -5823,7 +5823,7 @@ You can augment this power in one or both of the following
 ways.
 
 1\. If you spend 4 additional power points, you can attempt to create a
-telepathic bond with a creature that is not willing (Will save negates).
+[[telepathic bond]] with a creature that is not willing (Will save negates).
 
 2\. For every additional power point you spend, this power can affect an
 additional target. Any additional target cannot be more than 15 feet
@@ -5931,7 +5931,7 @@ No
 -   ### Power Points
 1
 
-As the *minor creation* spell, except as noted here.
+As the *[[minor creation]]* spell, except as noted here.
 
 ### Missive
 
@@ -6020,7 +6020,7 @@ Yes
 -   ### Power Points
 7
 
-As the *modify memory* spell, except as noted here.
+As the *[[modify memory]]* spell, except as noted here.
 
 ### Moment of Prescience, Psionic
 
@@ -6040,7 +6040,7 @@ You
 -   ### Power Points
 13
 
-As the *moment of prescience* spell, except as noted here.
+As the *[[moment of prescience]]* spell, except as noted here.
 
 ### My Light
 
@@ -6258,7 +6258,7 @@ You
 -   ### Power Points
 11
 
-As the *overland flight* spell, except as noted here.
+As the *[[overland flight]]* spell, except as noted here.
 
 ### Painful Strike
 
@@ -6335,7 +6335,7 @@ saving throws fail, then this power ends and the creature is affected by
 the charm or compulsion effect.
 
 The parasitic personality does not gain any advantages if the main
-personality is subjected to a *haste* or *schism* effect.
+personality is subjected to a *[[haste]]* or *schism* effect.
 
 ### Phase Door, Psionic
 
@@ -6360,7 +6360,7 @@ No
 -   ### Power Points
 13
 
-As the *phase door* spell, except as noted here. This power is subject
+As the *[[phase door]]* spell, except as noted here. This power is subject
 to *dispel psionics.*
 
 ### Plane Shift, Psionic
@@ -6382,7 +6382,7 @@ Instantaneous
 -   ### Power Points
 9
 
-As the *plane shift* spell, except as noted here.
+As the *[[plane shift]]* spell, except as noted here.
 
 ### Power Leech
 
@@ -7199,7 +7199,7 @@ revision* can produce any one of the following effects.
     prohibited to you.
 
 -   Undo the harmful effects of many other powers, such as *microcosm,
-    geas/quest,* or *insanity*.
+    [[Geas_Quest|geas/quest]],* or *[[insanity]]*.
 
 -   Create a nonpsionic item of up to 25,000 gp in value.
 
@@ -7232,7 +7232,7 @@ revision* can produce any one of the following effects.
     </div>
 
 -   Revive the dead. *Reality revision* can bring a dead creature back
-    to life by duplicating a *resurrection* spell. This power can revive
+    to life by duplicating a *[[resurrection]]* spell. This power can revive
     a dead creature whose body has been destroyed, but the task takes
     two manifestations of *reality revision*, one to recreate the body
     and another to infuse the body with life again. *Reality revision*
@@ -7365,7 +7365,7 @@ No
 11
 
 When others use *clairvoyant sense*, *remote viewing*, or other means of
-scrying you from afar, your prepared trap gives them a nasty surprise.
+[[scrying]] you from afar, your prepared trap gives them a nasty surprise.
 If the scryer fails its saving throw, you are undetected. Moreover, the
 would-be observer takes 8d6 points of electricity damage. If the scryer
 makes its saving throw, it takes only 4d6 points of electricity damage
@@ -7757,7 +7757,7 @@ No or Yes (object)
 -   ### Power Points
 13, XP
 
-As the *sequester* spell, except as noted here.
+As the *[[sequester]]* spell, except as noted here.
 
 *XP Cost:* 75 XP.
 
@@ -7895,7 +7895,7 @@ affecting the target. If the target fails its save and does not overcome
 your attempt with its power resistance, you can shatter the mind blank
 by making a successful check (1d20 + your manifester level, maximum +20)
 against a DC equal to 11 + the manifester level of the creator of the
-*mind blank* effect. If you succeed, the *psionic mind blank* or
+*[[mind blank]]* effect. If you succeed, the *psionic mind blank* or
 *personal mind blank* ends, allowing you to affect the target thereafter
 with mind-affecting powers.
 
@@ -8344,7 +8344,7 @@ Yes (object)
 -   ### Power Points
 15
 
-As the *telekinetic sphere* spell, except as noted here.
+As the *[[telekinetic sphere]]* spell, except as noted here.
 
 ### Telekinetic Thrust
 
@@ -8458,7 +8458,7 @@ Psion/wilder 8
 -   ### Power Points
 15
 
-As the *greater teleport* spell, except as noted here.
+As the *[[Teleport Greater|greater teleport]]* spell, except as noted here.
 
 ### Teleportation Circle, Psionic
 
@@ -8482,7 +8482,7 @@ Yes
 -   ### Power Points
 17
 
-As the *teleportation circle* spell, except as noted here.
+As the *[[teleportation circle]]* spell, except as noted here.
 
 ### Teleport Trigger
 
@@ -8789,7 +8789,7 @@ You
 -   ### Power Points
 3
 
-As the *tongues* spell, except as noted here. This power does not enable
+As the *[[tongues]]* spell, except as noted here. This power does not enable
 you to speak with creatures immune to mind-affecting powers.
 
 ### Tornado Blast
@@ -9271,5 +9271,8 @@ in the touched weapon.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

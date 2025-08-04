@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Aberration]
+aliases:
+ - Aberration
 title: Compendium/Basics/Monsters Information/aberration
 tag: Monster, Aberration
 ---
@@ -22,7 +23,7 @@ _Features_: An aberration has the following features.
 - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit Die.
     
 
-_Traits_: An aberration possesses the following traits (unless otherwise noted in a creature’s entry).
+_Traits_: An aberration possesses the following traits (unless otherwise noted in a creatureâ€™s entry).
 
 - Darkvision out to 60 feet.
     
@@ -32,11 +33,8 @@ _Traits_: An aberration possesses the following traits (unless otherwise noted i
     
 - Aberrations eat, sleep, and breathe.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
----
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

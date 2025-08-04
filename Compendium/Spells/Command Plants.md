@@ -1,5 +1,6 @@
 ---
-aliases: [Command Plants]
+aliases:
+ - Command Plants
 title: Compendium/Basics/Spell/Command Plants
 tags:
   - 35E_SRD
@@ -35,9 +36,13 @@ This spell allows you some degree of control over one or more plant creatures. A
 
 You can affect a number of plant creatures whose combined level or HD do not exceed twice your level.
 
-Source : PHB P211
+**Source :** PHB P211
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

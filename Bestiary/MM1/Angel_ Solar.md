@@ -1,5 +1,7 @@
 ---
-aliases: [Angel, Solar]
+aliases:
+ - Angel
+ - Solar
 title: Bestiary/MM1/Angel, Solar
 tags: [35E_SRD, Monster]
 Monster: Angel, Solar

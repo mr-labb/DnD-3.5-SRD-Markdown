@@ -1,46 +1,70 @@
 ---
-aliases: [Geas/Quest]
+aliases:
+ - Geas/Quest
 title: Compendium/Basics/Spell/Geas/Quest
-tags: [35E_SRD, Spell, Sorcerer, Wizard, Cleric, Bard]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Sorcerer  
+  - Wizard  
+  - Cleric  
+  - Bard  
 Spell Name: Geas/Quest
 School: Enchantment
 Subschool: (Compulsion)
 Descriptor: [Language-Dependent, Mind-Affecting]
-Level:
-  - Brd 6
-  - Clr 6
-  - Sor/Wiz 6
+Level:  
+  - Brd 6  
+  - Clr 6  
+  - Sor/Wiz 6  
 Source: PHB
 ---
 
-
 ## Geas/Quest
 
-As Lesser Geas, plus it affects any creature.
+As [[Geas Lesser|lesser geas]], plus it affects any creature.
 
-*   Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
-*   **Level:** Brd 6, Clr 6, Sor/Wiz 6
-*   **Components:** V
-*   **Casting Time:** 10 minutes
-*   **Range:** Close (25 ft. + 5 ft./2 levels)
-*   **Effect:** One living creature
-*   **Duration:** One day/level or until discharged (D)
-*   **Saving Throw:** None
-*   **Spell Resistance:** Yes
+### Spell Details
 
-This spell functions similarly to [[Geas Lesser|lesser geas]], except that it affects a creature of any HD and allows no saving throw.
+- **School:** Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
+- **Level:** Brd 6, Clr 6, Sor/Wiz 6  
+- **Components:** V  
+- **Casting Time:** 10 minutes  
+- **Range:** Close (25 ft. + 5 ft./2 levels)  
+- **Effect:** One living creature  
+- **Duration:** One day/level or until discharged (D)  
+- **Saving Throw:** None  
+- **Spell Resistance:** Yes  
 
-Instead of taking penalties to ability scores (as with lesser geas), the subject takes 3d6 points of damage each day it does not attempt to follow the geas/quest. Additionally, each day it must make a Fortitude saving throw or become sickened. These effects end 24 hours after the creature attempts to resume the geas/ quest.
+### Description
 
-A remove curse spell ends a geas/quest spell only if its caster level is at least two higher than your caster level. Break enchantment does not end a geas/quest, but limited wish, miracle, and wish do.
+This spell functions similarly to [[Geas Lesser|lesser geas]], but it can affect **any creature regardless of Hit Dice**, and **no saving throw is allowed**.
 
-Bards, sorcerers, and wizards usually refer to this spell as geas, while clerics call the same spell quest.
+If the target **fails to follow** the geas/quest:
+- It takes **3d6 damage** each day  
+- Must make a **Fortitude save daily** or become **sickened**  
+- These effects end **24 hours after** the subject resumes its obedience
 
-Source : PHB P234
+### Ending the Spell
+
+- [[Remove Curse]] ends it **only if the caster level is at least two higher** than the original caster's  
+- [[Break Enchantment]] does **not end** the effect  
+- [[Limited Wish]], [[Miracle]], and [[Wish]] **do end** the effect
+
+### Notes
+
+- Bards, sorcerers, and wizards call this spell **geas**  
+- Clerics refer to the same spell as **quest**
+
+
+
+**Source :** PHB P234
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

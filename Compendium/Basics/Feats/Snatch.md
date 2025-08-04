@@ -1,5 +1,6 @@
 ---
-aliases: [Snatch]
+aliases:
+ - Snatch
 title: Snatch
 tags: Feat, Monster_Feat, General_Feat
 ---
@@ -23,5 +24,4 @@ this amount or falling damage, whichever is greater.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

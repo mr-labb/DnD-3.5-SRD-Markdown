@@ -140,7 +140,7 @@ host of spells at a rapid rate.
 The cacophony of speech emanating from the scores of
 mouths that make up the orb forces all within 60 feet of the creature to
 succeed at a Will save each round (DC 40) or suffer the effects of an
-*insanity* spell.
+*[[insanity]]* spell.
 
 ### Improved Grab (Ex)
 To use this ability, the gibbering orb must hit
@@ -174,13 +174,13 @@ gibbering orb can never aim more than five rays at any single target,
 due to limitations of aiming. All rays have a range of 150 feet. Each of
 these effects functions as a ray, regardless of the normal parameters of
 the spell it resembles. That is, each is usable against a single target
-and requires a ranged touch attack. The eye rays are: *cone of cold,
-disintegrate, dominate monster, energy drain, feeblemind, finger of
-death, flesh to stone, greater dispelling, harm, hold monster, horrid
-wilting, implosion, inflict critical wounds, lightning bolt, magic
-missile, mage's disjunction, irresistible dance, polymorph any object,
-power word blind, power word kill, power word stun, prismatic spray,
-slay living,* and *temporal stasis.*
+and requires a ranged touch attack. The eye rays are: *[[cone of cold]],
+[[disintegrate]], [[dominate monster]], [[Compendium/Spells/Energy Drain|energy drain]], [[feeblemind]], finger of
+death, [[flesh to stone]], greater dispelling, harm, [[hold monster]], horrid
+wilting, [[implosion]], [[inflict critical wounds]], [[lightning bolt]], magic
+missile, mage's disjunction, [[irresistible dance]], [[polymorph any object]],
+[[power word blind]], [[power word kill]], [[power word stun]], [[prismatic spray]],
+slay living,* and *[[temporal stasis]].*
 
 ### Spell-Like Abilities
 At will---Two stolen spells or spell-like
@@ -193,7 +193,7 @@ racial bonus on Spot and Search checks.
 ### Flight (Ex)
 The gibbering orb's body is naturally buoyant. This
 buoyancy allows it to fly as the spell, as a free action, at a speed of
-20 feet. This buoyancy also grants it a permanent *feather fall* effect
+20 feet. This buoyancy also grants it a permanent *[[feather fall]]* effect
 with personal range.
 
 ### Amorphous (Ex)
@@ -258,7 +258,7 @@ something that scrapes on the floor or by sounding a chime). The gloom
 can lower this effect at will.
 
 ### Spell-Like Abilities
-At will---*shadow walk;* 3/day--- *true
+At will---*[[shadow walk]];* 3/day--- *true
 strike.* Caster level 20th; save DC 20 + spell level. The DC is
 Charisma-based.
 
@@ -336,7 +336,7 @@ standard action (either before or after its other actions in the round).
 ### Magic Immunity (Ex)
 A mithral golem is immune to all magical and
 supernatural effects, except as follows. A *slow* spell negates its
-alacrity for 1d4 rounds, while a *haste* spell restores 1d6 hit points
+alacrity for 1d4 rounds, while a *[[haste]]* spell restores 1d6 hit points
 per level of the caster (maximum 10d6) or restores its alacrity, if
 previously negated by a *slow* spell. Multiple *slow* spells simply
 extend the duration of the effect.
@@ -344,13 +344,13 @@ extend the duration of the effect.
 ### Construction
 
 A mithral golem's body is sculpted from 8 1/2 tons of pure iron and is
-then polymorphed into mithral (using *polymorph any object).*A mithral
+then polymorphed into mithral (using *[[polymorph any object]]).*A mithral
 golem costs 250,000 gold pieces to create, which includes 5,000 gp for
 the body. Assembling the body requires a successful Craft
 (armorsmithing) or Craft (weaponsmithing) check (DC 30). The creator
 must be 25th level, have the Craft Epic Magic Arms and Armor feat, and
 be able to cast arcane spells. Completing the ritual drains 5,000 XP
-from the creator and requires *geas/quest, haste,* and *wish.*
+from the creator and requires *[[Geas_Quest|geas/quest]], [[haste]],* and *[[wish]].*
 
 ### Adamantine Golem
 
@@ -377,13 +377,13 @@ and supernatural effects.
 #### Construction
 
 An adamantine golem's body is sculpted from 45,000 pounds of pure iron
-and is then polymorphed into adamantine (using *polymorph any
+and is then polymorphed into adamantine (using *[[Compendium/Spells/Polymorph|polymorph]] any
 object).*The golem costs 500,000 gold pieces to create, which includes
 25,000 gp for the body. Assembling the body requires a successful Craft
 (armorsmithing) or Craft (weaponsmithing) check (DC 40). The creator
 must be 30th level, have the Craft Epic Magic Arms and Armor feat, and
 be able to cast arcane spells. Completing the ritual drains 10,000 XP
-from the creator and requires *crushing hand, geas/quest,* and *wish.*
+from the creator and requires *[[crushing hand]], [[Geas_Quest|geas/quest]],* and *[[wish]].*
 
 ## Ha-Naga
 
@@ -421,7 +421,7 @@ As per the *fly* spell, 120 ft. (perfect). This ability
 gives the ha-naga a +6 circumstance bonus on Move Silently checks.
 
 ### Charming Gaze (Su)
-As *mass charm monster,* 90 ft., Will save (DC
+As *[[Charm Monster Mass|mass charm monster]],* 90 ft., Will save (DC
 33). The DC is Charisma-based.
 
 ### Chameleon Ability (Ex)
@@ -478,8 +478,8 @@ overcoming damage reduction.
 ### Combat
 
 ### Psionics (Sp)
-At will *---detect thoughts, dimension door, ethereal
-jaunt, knock, nondetection, plane shift, suggestion.*Caster level 20th,
+At will *---[[detect thoughts]], dimension door, ethereal
+jaunt, knock, [[nondetection]], [[plane shift]], suggestion.*Caster level 20th,
 save DC 22.
 
 ### Destabilize Form (Su)
@@ -550,7 +550,7 @@ appropriate to the attack type.
 
   Special Qualities:      Cold immunity, fire     Cold immunity, fire
                           vulnerability, SR 36,   vulnerability, air
-                          DR 10/epic and cold     walk, astral projection
+                          DR 10/epic and cold     walk, [[astral projection]]
                           iron                    and etherealness, magic
                                                   circle against good,
                                                   misty breath, SR 20, DR
@@ -616,11 +616,11 @@ heightened to 16th level (DC 30) into a diamond at the end of the
 sword's hilt.
 
 ### Spell-Like Abilities
-At will---*discern location, true strike, fog
-cloud, hold monster, plane shift;* 3/day---*dimensional anchor, dominate
-monster, greater dispel magic;* 1/day---mage's *disjunction, contingent
-recall and resurrection\*.* Caster level 23rd; save DC 18 + spell level.
-*\*Contingent recall and resurrection* is a variation on an epic spell.
+At will---*[[discern location]], [[true strike]], fog
+cloud, [[hold monster]], [[plane shift]];* 3/day---*[[dimensional anchor]], dominate
+monster, [[Dispel Magic Greater|greater dispel magic]];* 1/day---mage's *disjunction, contingent
+recall and [[resurrection]]\*.* Caster level 23rd; save DC 18 + spell level.
+*\*Contingent recall and [[resurrection]]* is a variation on an epic spell.
 When slain, the hoary hunter is actually transported, with its mount,
 back to the fey realm, where it is resurrected. The only way to truly
 slay the hoary hunter is to defeat it in its home realm after this epic
@@ -633,11 +633,11 @@ overcoming damage reduction.
 
 #### Combat
 
-### Air Walk (Su)
+### [[Air Walk]] (Su)
 A hoary steed can ride through the air as well as on
-the ground, as though affected by a permanent *air walk* spell.
+the ground, as though affected by a permanent *[[air walk]]* spell.
 
-### Astral Projection and Etherealness (Su)
+### [[Astral Projection]] and Etherealness (Su)
 These abilities function
 just like the spells of the same names as cast by a 20th-level caster.
 
@@ -647,7 +647,7 @@ the effects of the spell. A hoary steed cannot suppress this ability.
 
 ### Misty Breath (Su)
 The breath of a hoary steed functions like a
-constant *obscuring mist* spell.
+constant *[[obscuring mist]]* spell.
 
 ### Immunities (Ex)
 A hoary steed is immune to all *charm* and *hold*
@@ -671,7 +671,7 @@ spells or abilities.
   Abilities:             Str 47, Dex 35, Con --, Int 18, Wis 38, Cha 36
   Skills:                Concentration +66, Jump +46, Knowledge (religion, the planes) +57, Listen +67, Search +57, Sense Motive +67, Spellcraft +57, Spot +67
   Feats:                 Cleave, Combat Reflexes, Dodge, Expertise, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Disarm, Improved Initiative, Lightning Reflexes, Mobility, Power Attack, Toughness, Weapon Focus (slam)
-  Epic Feats:            Devastating Critical (slam), Overwhelming Critical (slam), Spell Stowaway *(greater teleport*)
+  Epic Feats:            Devastating Critical (slam), Overwhelming Critical (slam), Spell Stowaway *([[Teleport Greater|greater teleport]]*)
   Climate/Terrain:       Any
   Organization:          Solitary, pair, or court (5--9)
   Challenge Rating:      25
@@ -698,18 +698,18 @@ incubation period instantaneous; Damage 1d6 temporary Con. Unlike normal
 diseases, hunefer rot requires a victim to make a successful saving
 throw every round or take another 1d6 points of temporary Constitution
 Damage. The rot continues until the victim reaches Constitution 0 (and
-dies) or receives a *remove disease* spell or similar magic. An
+dies) or receives a *[[remove disease]]* spell or similar magic. An
 afflicted creature that dies shrivels away into sand unless both *remove
-disease* and *raise dead* (or better) are cast on the remains within 2
+disease* and *[[raise dead]]* (or better) are cast on the remains within 2
 rounds. If the remains are not so treated, on the third round the dust
 swirls and forms an 18 HD mummy with the dead foe's equipment under the
 hunefer's command. (The *mummy dust* epic spell has statistics for an 18
 HD mummy.)
 
 ### Spell-Like Abilities
-At will---*chain lightning, displacement,
-haste, knock, greater dispel magic, passwall, scrying, greater teleport,
-true seeing, unholy aura, weird;* 1/day---*ruin* (epic spell). Caster
+At will---*[[chain lightning]], [[displacement]],
+haste, knock, [[Dispel Magic Greater|greater dispel magic]], [[passwall]], [[scrying]], [[Teleport Greater|greater teleport]],
+[[true seeing]], [[unholy aura]], [[weird]];* 1/day---*ruin* (epic spell). Caster
 level 27th; save DC 23 + spell level. The DC is Charisma-based.
 
 ### Undead Traits
@@ -717,9 +717,9 @@ Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual dam-age, ability Damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
+ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Negative energy heals. Not at risk of
 death from massive Damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
+Darkvision 60 ft. Cannot be raised; [[resurrection]] works only if creature
 is willing.
 
 ## Lavawight
@@ -772,8 +772,8 @@ of the victim. Hit points lost to the blazefire never heal naturally and
 cannot be magically restored---they are gone for good.
 
 ### Spell-Like Abilities
-At will--- *dimension door, flame arrow, spell
-immunity (sleet storm*), *fireball, wall of fire.* Caster level 22nd;
+At will--- *[[dimension door]], [[flame arrow]], spell
+immunity (sleet storm*), *fireball, [[wall of fire]].* Caster level 22nd;
 save DC 19 + spell level. The DC is Charisma-based.
 
 ### Undead Traits
@@ -781,9 +781,9 @@ Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
+ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Negative energy heals. Not at risk of
 death from massive Damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
+Darkvision 60 ft. Cannot be raised; [[resurrection]] works only if creature
 is willing.
 
 ### Heat Aura (Su)
@@ -929,9 +929,9 @@ overcoming damage reduction.
 ### Combat
 
 ### Spell-Like Abilities
-At will---*alter self, detect thoughts,
-displacement, freedom, greater dispelling, heal, greater invisibility,
-knock, speak with plants, spell turning, greater teleport, water
+At will---*[[alter self]], [[detect thoughts]],
+[[displacement]], freedom, greater dispelling, heal, [[Invisibility Greater|greater invisibility]],
+knock, [[speak with plants]], [[spell turning]], [[Teleport Greater|greater teleport]], water
 breathing.* Caster level 28th; save DC 28 + spell level. The DCs are
 Charisma-based.
 
@@ -952,7 +952,7 @@ with two weapons.
 
 ### Gaze (Su)
 All creatures within 30 feet who meet the gaze of a
-leShay become affected as if by *charm monster.*A Will save (DC 53)
+leShay become affected as if by *[[charm monster]].*A Will save (DC 53)
 negates the effect. Each opponent within range of a gaze attack must
 attempt a saving throw each round at the beginning of his or her turn in
 the initiative order. A leShay can also actively gaze as an attack
@@ -995,7 +995,7 @@ as bonus feats; +2 racial bonus on Listen, Spot, and Search checks
   ---------------------- -----------------------------------------------------------------------------------------
 
 To access a vault, its creator must call the vault from where it is
-sequestered through the use of a *sending* spell. The vault has no
+sequestered through the use of a *[[sending]]* spell. The vault has no
 obvious opening; however, items can be stored and retrieved by naming
 them (the living vault provides an inventory to its creator on request).
 The item to be stored appears to sink into the living vault's form as if
@@ -1013,14 +1013,14 @@ overcoming damage reduction.
 ### *Imprisonment* (Sp)
 As a free action twice per day, a living vault
 can project a 60-foot cone. Creatures caught in the cone must make a
-Will save (DC 58) or be affected as by the *imprisonment* spell, except
+Will save (DC 58) or be affected as by the *[[imprisonment]]* spell, except
 creatures are stored within the vault's interior. The living vault can
 hold two Gargantuan creatures, eight Huge creatures, thirty-two Large
 creatures, one hundred twenty-eight Medium-size creatures, and so on.
 This assumes that the rest of the vault is also relatively empty, so a
 large hoard of treasure reduces the number of creatures a living vault
 can hold at any one time. If *freedom* is later cast upon the very spot
-where the victim of *imprisonment* disappeared, the victim is freed,
+where the victim of *[[imprisonment]]* disappeared, the victim is freed,
 though it doesn't appear where it disappeared, but in a space adjacent
 to wherever the living vault is currently physically located.
 
@@ -1029,20 +1029,20 @@ Once made, a living vault responds only to its
 owner; no other being can access the vault's interior. The vault is not
 fooled by disguised creatures, and can distinguish between its true
 master and false duplicates, even penetrating disguises used in
-conjunction with *shapechange, alter self, disguise self, polymorph,
+conjunction with *[[shapechange]], [[alter self]], [[disguise self]], [[Compendium/Spells/Polymorph|polymorph]],
 seeming,* and *simulacrum* and similar effects. The vault does, however,
-respond to the product of a *clone* spell.
+respond to the product of a *[[clone]]* spell.
 
 ### *Safekeeping* (Sp)
 At will, a living vault can use a power that
-combines the effects of *sequester* and *plane shift* to render the
+combines the effects of *[[sequester]]* and *[[plane shift]]* to render the
 vault invisible to any form of sight or divination, and at the same time
 transfer it to a random portion of the Astral Plane. When in safekeeping
-mode, the living vault responds to a *sending* by its master, returning
+mode, the living vault responds to a *[[sending]]* by its master, returning
 to the location from which it left and becoming tangible once again.
 Creatures and objects that are stored within the vault are treated as if
-under the effects of *sequester,* whether the vault itself is or not.
-Often, creatures are brought into the vault via *imprisonment,* but
+under the effects of *[[sequester]],* whether the vault itself is or not.
+Often, creatures are brought into the vault via *[[imprisonment]],* but
 sometimes unconscious or otherwise subdued creatures are stored as an
 object, in which case they receive no saving throw to resist the effect.
 
@@ -1053,14 +1053,14 @@ compulsions, phantasms, patterns, and morale effects), and to poison,
 effects, and any effect that requires a Fortitude save unless it also
 works on objects. Cannot heal Damage (though regeneration and fast
 healing still apply, if present). Not subject to critical hits, subdual
-Damage, ability Damage, ability drain, or energy drain. Not at risk of
+Damage, ability Damage, ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Not at risk of
 death from massive Damage, but destroyed when reduced to 0 hit points or
 less; cannot be raised or resurrected. Darkvision 60 ft.
 
 ### Magic Immunity (Ex)
 A living vault is immune to all magical and
 supernatural effects, except as follows. A *freedom* spell cast on it
-causes it to defer the use of its own *imprisonment* power for 10
+causes it to defer the use of its own *[[imprisonment]]* power for 10
 rounds.
 
 ## Mercane
@@ -1095,8 +1095,8 @@ other languages.
 ### Combat
 
 ### Spell-Like Abilities
-3/day---*dimension door, invisibility;*
-1/day---*secret chest, plane shift.* Caster level 14th; save DC 12 +
+3/day---*[[dimension door]], invisibility;*
+1/day---*[[secret chest]], [[plane shift]].* Caster level 14th; save DC 12 +
 spell level.
 
 ### Telepathy (Su)
@@ -1197,7 +1197,7 @@ polymorphing; not subject to critical hits or mind-affecting effects.
                          Huge Aberration (Extraplanar, Incorporeal)
   Hit Dice:              32d8+192 (336 hp)
   Initiative:            +12 (+4 Dex, +8 Superior Initiative)
-  Speed:                 60 ft. or via *dimension door*
+  Speed:                 60 ft. or via *[[dimension door]]*
   AC:                    35 (--2 size, +4 Dex, +3 deflection, +20 insight)
   Base Attack/Grapple:   +24/--
   Attack:                Bite +26 (4d10 + 12 plus poison) melee
@@ -1246,7 +1246,7 @@ that, if successful, causes the target to dehydrate and wither (2d10
 points of desiccation Damage). In addition, each successful tentacle
 attack drains 1 point of Strength, 1 point of Dexterity, and 1 point of
 Constitution. This is permanent ability drain and may only be reversed
-by spells such as *restoration* and *greater restoration.*It can bring
+by spells such as *[[restoration]]* and *[[Restoration Greater|greater restoration]].*It can bring
 all ten tentacles to bear on a single target facing it or divide its
 attacks against up to ten targets that it threatens.
 
@@ -1254,7 +1254,7 @@ attacks against up to ten targets that it threatens.
 Once every 1d4 rounds, as a full-round
 action, a brain collector can extract the brain from a target creature
 in line of sight. This attack is psionic in nature and can be blocked by
-a *dimensional anchor* currently in force on the target. The target gets
+a *[[dimensional anchor]]* currently in force on the target. The target gets
 a Will save (DC 31) to resist the extraction. The save DC is
 Intelligence-based. If the save fails, his or her brain is drawn out
 intact through the skull by extradimensional means and sucked up by the
@@ -1275,9 +1275,9 @@ modifier, for a skill it has no ranks in).
 
 ### *Dimensional Travel* (Sp)
 A brain collector's preferred method of
-locomotion is via *dimension door,* which it can do as a quickened
-action, once per round. It can also use *teleport without error* or
-*plane shift* at will as a move-equivalent action.
+locomotion is via *[[dimension door]],* which it can do as a quickened
+action, once per round. It can also use *[[teleport]] without error* or
+*[[plane shift]]* at will as a move-equivalent action.
 
 ### Spells (Sp)
 A fully grown brain collector can cast arcane spells as
@@ -1347,7 +1347,7 @@ be applied to a given special ability once.
 If the base creature has
 spell-like abilities, it gains +15 to its caster level to use those
 abilities. A paragon creature also gains the ability to use *greater
-dispel magic, haste,* and *see invisibility* three times per day, even
+[[dispel magic]], [[haste]],* and *[[see invisibility]]* three times per day, even
 if it did not have spell-like abilities before, at 15th caster level.
 
 ### Special Qualities
@@ -1431,13 +1431,13 @@ Same as the base creature.
 ### Prismatic Emanations (Su)
 The reflected and refracted light from
 the prismasaurus's crystalline ridge functions very similarly to the
-*prismatic spray* spell. Any creature of less than 8 HD that is within
+*[[prismatic spray]]* spell. Any creature of less than 8 HD that is within
 30 feet of the creature is automatically blinded for 2d4 rounds. In
 addition, any creature within 20 feet of the prismasaurus is randomly
 struck by one or more rays of light, as determined by the table that
-accompanies the *prismatic spray* spell. This effect is as the
-*prismatic spray* spell in a 30-foot-radius spread, but is otherwise as
-cast by a 20th-level caster. The save DC for the *prismatic spray*
+accompanies the *[[prismatic spray]]* spell. This effect is as the
+*[[prismatic spray]]* spell in a 30-foot-radius spread, but is otherwise as
+cast by a 20th-level caster. The save DC for the *[[prismatic spray]]*
 effects is 49.
 
 ### Immunities (Su)
@@ -1514,8 +1514,8 @@ portion regrows in 1 minute. The creature can reattach the severed
 member instantly by holding it to the stump.
 
 ### Spell-Like Abilities
-At will---*blur, dimension door, shield,
-unhallow.* Caster level 20th; save DC 8 + spell level. The DC is
+At will---*[[blur]], [[dimension door]], shield,
+[[unhallow]].* Caster level 20th; save DC 8 + spell level. The DC is
 Charisma-based.
 
 ### Alternate Form (Su)
@@ -1576,8 +1576,8 @@ rounds permanently drains 2d4 points of Constitution. At the same time,
 the creature regains 10 lost hit points.
 
 ### Spell-Like Abilities
-At will---*blur, dimension door, shield,
-unhallow.* Caster level 20th. The DCs are Charisma-based.
+At will---*[[blur]], [[dimension door]], shield,
+[[unhallow]].* Caster level 20th. The DCs are Charisma-based.
 
 ### Special Qualities
 A pseudonatural creature retains all the special
@@ -1710,7 +1710,7 @@ dying state by damage. Also, they cannot be tripped, grappled, or bull
 rushed, and they cannot grapple another.
 
 A swarm is immune to any spell or effect that targets a specific number
-of creatures (including single-target spells such as *disintegrate*),
+of creatures (including single-target spells such as *[[disintegrate]]*),
 with the exception of mind-affecting effects if the swarm has an
 intelligence score and a hive mind. A swarm takes a --10 penalty on
 saving throws against spells or effects that affect an area, such as
@@ -1780,7 +1780,7 @@ though they do possess general knowledge of the slain creature. This
 knowledge is used for evil purposes, if possible.
 
 ### Spell-Like Abilities
-3/day---*deeper darkness, freezing sphere.*
+3/day---*[[deeper darkness]], [[freezing sphere]].*
 Caster level 24th; save DC 20 + spell level. The save DC is
 Charisma-based.
 
@@ -1795,9 +1795,9 @@ Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
+ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Negative energy heals. Not at risk of
 death from massive Damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
+Darkvision 60 ft. Cannot be raised; [[resurrection]] works only if creature
 is willing.
 
 ### Cold Subtype
@@ -1866,7 +1866,7 @@ of fire that created them and remain enslaved until its death. They do
 not possess any of the abilities they had in life.
 
 ### Spell-Like Abilities
-3/day---*fire storm, incendiary cloud.* Caster
+3/day---*[[fire storm]], [[incendiary cloud]].* Caster
 level 24th; save DC 20 + spell level. The save DC is Charisma-based.
 
 ### Incorporeal Traits
@@ -1880,9 +1880,9 @@ Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
+ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Negative energy heals. Not at risk of
 death from massive Damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
+Darkvision 60 ft. Cannot be raised; [[resurrection]] works only if creature
 is willing.
 
 **Fire Subtype:**Immunity to fire. Vulnerability to cold (takes half
@@ -2041,9 +2041,9 @@ can also rake.
   AC:                    42 (+14 Dex, +18 natural)
   Base Attack/Grapple:   +21/+27
   Attack:                Forelimb +36 (0 plus ability drain) melee touch
-  Full Attack:           2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch
+  Full Attack:           2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus [[Compendium/Spells/Energy Drain|energy drain]]) melee touch
   Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Ability drain, energy drain, cocoon
+  Special Attacks:       Ability drain, [[Compendium/Spells/Energy Drain|energy drain]], cocoon
   Special Qualities:     DR 10/epic, darkvision 240 ft., scent, SR 34, fire resistance 30
   Saves:                 Fort +21, Ref +25, Will +25
   Abilities:             Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31
@@ -2134,13 +2134,13 @@ overcoming damage reduction.
 ### Combat
 
 ### Spell-Like Abilities
-At will---*alter self, analyze dweomer,
-commune with nature, cure critical wounds, eyebite, freedom of movement,
-fly, fog cloud, produce flame, protection from energy, read magic,
-remove curse, sanctuary, sending, speak with animals, soften earth and
-stone, speak with plants, summon monster VI, greater teleport, wind
-wall;* 3/day---*antilife shell, astral projection, contact other plane,
-greater dispel magic, greater scrying, invisibility purge, plane shift.*
+At will---*[[alter self]], [[analyze dweomer]],
+[[commune with nature]], [[cure critical wounds]], [[eyebite]], [[freedom of movement]],
+fly, [[fog cloud]], [[produce flame]], [[protection from energy]], [[read magic]],
+[[remove curse]], [[sanctuary]], [[sending]], [[speak with animals]], soften earth and
+stone, [[speak with plants]], [[summon monster VI]], [[Teleport Greater|greater teleport]], wind
+wall;* 3/day---*[[antilife shell]], [[astral projection]], [[contact other plane]],
+[[Dispel Magic Greater|greater dispel magic]], [[Scrying Greater|greater scrying]], [[invisibility purge]], [[plane shift]].*
 Caster level 29th; save DC 18 + spell level. The save DCs are
 Charisma-based.
 
@@ -2211,9 +2211,9 @@ Elder treants receive skills as though they were fey. \*They
 have a +24 racial bonus on Hide checks made in forested areas.
 
 ### Spell-Like Abilities
-At will---*animal messenger, command plants,
-speak with plants, stone tell;* 3/day---mass cure light wounds(plants
-only), *plant growth, sunburst, wall of thorns;* 1/day---*shambler.*
+At will---*[[animal messenger]], [[command plants]],
+[[speak with plants]], [[stone tell]];* 3/day---[[Cure Light Wounds Mass|mass cure light wounds]](plants
+only), *[[plant growth]], [[sunburst]], [[wall of thorns]];* 1/day---*[[shambler]].*
 Caster level 23rd; save DC 22 + spell level. The save DCs are
 Charisma-based.
 
@@ -2278,7 +2278,7 @@ is immune to because of its construct traits, it is immune to
 
 ### Planar Travel (Ex)
 A blackball can fold space at will, allowing it
-to use *ethereal jaunt, dimension door, greater teleport,* or *plane
+to use *[[ethereal jaunt]], [[dimension door]], [[Teleport Greater|greater teleport]],* or *plane
 shift* at will as a standard action.
 
 ### Construct Traits
@@ -2288,7 +2288,7 @@ compulsions, phantasms, patterns, and morale effects), and to poison,
 effects, and any effect that requires a Fortitude save unless it also
 works on objects. Cannot heal Damage (though regeneration and fast
 healing still apply, if present). Not subject to critical hits, subdual
-Damage, ability Damage, ability drain, or energy drain. Not at risk of
+Damage, ability Damage, ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Not at risk of
 death from massive Damage, but destroyed when reduced to 0 hit points or
 less; cannot be raised or resurrected. Darkvision 60 ft.
 
@@ -2310,7 +2310,7 @@ less; cannot be raised or resurrected. Darkvision 60 ft.
   Abilities:             Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46
   Skills:                Balance +18, Climb +32, Concentration +58, Craft (alchemy) +52, Diplomacy +22, Escape Artist +55, Gather Information +22, Hide +51, Intimidate +59, Jump +69, Knowledge (arcana, history, local, religion, the planes) +52, Listen +55, Move Silently +55, Search +52, Sense Motive +55, Spellcraft +56, Spot +55, Swim +55, Tumble +59
   Feats:                 Cleave, Combat Casting, Combat Reflexes, Great Cleave, Improved Critical (head spike), Lightning Reflexes, Power Attack
-  Epic Feats:            Epic Reflexes, Improved Combat Reflexes, Spell Stowaway *(time stop*), Tenacious Magic *(haste*), Tenacious Magic *(displacement*), Tenacious Magic *(stoneskin*)
+  Epic Feats:            Epic Reflexes, Improved Combat Reflexes, Spell Stowaway *([[time stop]]*), Tenacious Magic *([[haste]]*), Tenacious Magic *([[displacement]]*), Tenacious Magic *([[stoneskin]]*)
   Climate/Terrain:       Any
   Organization:          Solitary, pair, or madness (3--6)
   Challenge Rating:      27
@@ -2329,7 +2329,7 @@ purpose of overcoming damage reduction.
 
 ### Confusion Aura (Su)
 This ability operates continuously, as the
-*confusion* spell but with a 30-foot radius. Potential victims can make
+*[[confusion]]* spell but with a 30-foot radius. Potential victims can make
 a Will save (DC 47) to resist confusion. Those affected by the aura can
 make a new save every 4 rounds to throw off the effect. Once it has
 successfully resisted, a subject remains immune to that uvuudaum's
@@ -2345,13 +2345,13 @@ hit points last a maximum of 1 hour. An opponent can avoid the Wisdom
 drain with a Fortitude save (DC 47). The save DC is Charisma-based.
 
 ### Spell-Like Abilities
-At will---*confusion, dimension door, greater
-dispel magic, displacement, haste, invisibility, lightning bolt, magic
-missile, mage armor, polymorph, shield, stoneskin, true strike, web;*
-3/day---*chain lightning, cone of cold, disintegrate, dominate person,
-plane shift, prismatic spray, scrying, greater teleport, wall of force;*
-1/day---*contingent resurrection, nailed to the sky, time duplicate*
-(epic spells), *time stop.* Caster level 27th; save DC 28 + spell level.
+At will---*[[confusion]], [[dimension door]], greater
+[[dispel magic]], [[displacement]], [[haste]], invisibility, [[lightning bolt]], magic
+missile, [[mage armor]], [[Compendium/Spells/Polymorph|polymorph]], shield, [[stoneskin]], [[true strike]], web;*
+3/day---*[[chain lightning]], [[cone of cold]], [[disintegrate]], [[dominate person]],
+[[plane shift]], [[prismatic spray]], [[scrying]], [[Teleport Greater|greater teleport]], [[wall of force]];*
+1/day---*contingent [[resurrection]], nailed to the sky, time duplicate*
+(epic spells), *[[time stop]].* Caster level 27th; save DC 28 + spell level.
 The save DCs are Charisma-based.
 
 ### Regeneration (Ex)
@@ -2474,9 +2474,9 @@ slain by blightfire, only icy fragments of the victim remain. The save
 DC is Charisma-based.
 
 ### Spell-Like Abilities
-At will---*cone of cold, control weather,
-dimension door, spell immunity (fireball*), *sleet storm* (a winterwight
-is immune to the effects of a *sleet storm* spell), *wall of ice.*Caster
+At will---*[[cone of cold]], [[control weather]],
+[[dimension door]], [[Compendium/Spells/Spell Immunity|spell immunity]] ([[fireball]]*), *sleet storm* (a winterwight
+is immune to the effects of a *sleet storm* spell), *[[wall of ice]].*Caster
 level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.
 
 ### Undead Traits
@@ -2484,9 +2484,9 @@ Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
 and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual Damage, ability Damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
+ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Negative energy heals. Not at risk of
 death from massive Damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
+Darkvision 60 ft. Cannot be raised; [[resurrection]] works only if creature
 is willing.
 
 **Cold Subtype:**Immunity to cold. Vulnerability to fire (takes half
@@ -2539,13 +2539,13 @@ character. This sample worm was a 23rd-level wizard (spells per day:
 meta-magic spells.
 
 ### Spell-Like Abilities
-1/day---*animal growth* (vermin), *animal
-messenger* (vermin), *animal shapes* (vermin), *animal trance* (vermin),
-*colossal vermin* (as *giant vermin,*but it can increase the creature's
+1/day---*[[animal growth]]* (vermin), *animal
+messenger* (vermin), *[[animal shapes]]* (vermin), *[[animal trance]]* (vermin),
+*colossal vermin* (as *[[giant vermin]],*but it can increase the creature's
 size from Large to Gargantuan and from Huge to Colossal), *creeping
-doom, giant vermin, summon swarm* (vermin), *summon vermin* (as *summon
+doom, [[giant vermin]], [[summon swarm]]* (vermin), *summon vermin* (as *summon
 nature's ally,* except it summons 10 HD of vermin per level), and
-*vermin plague* (as *insect plague).*Caster level 20th; save DC 9 +
+*vermin plague* (as *[[insect plague]]).*Caster level 20th; save DC 9 +
 spell level. The save DCs are Charisma-based.
 
 ### Engulf (Ex)
@@ -2591,9 +2591,9 @@ is not subject to critical hits or flanking.
 
 ### Possessions
 Scrolls of *fireball* (10th-level caster), greater
-*teleport, acid fog, incendiary cloud, shapechange, wail of the banshee,
-clenched fist, horrid wilting, maze, summon monster IX;potions of cure
-serious wounds, alter self, haste, fly.* Other magic gear: *amulet of
+*[[teleport]], [[acid fog]], [[incendiary cloud]], [[shapechange]], [[wail of the banshee]],
+[[clenched fist]], [[horrid wilting]], maze, [[summon monster IX]];potions of cure
+serious wounds, [[alter self]], [[haste]], fly.* Other magic gear: *amulet of
 natural armor +2, bracers of armor +8, ring of protection +3, +4 staff*,
 *rod of absorption, gloves of Dexterity +4, headband of intellect +6,
 pink Ioun stone, wings of flying.*
@@ -2635,13 +2635,13 @@ A worm that walks can cast any spells it could cast as a
 living character.
 
 ### Spell-Like Abilities
-1/day--- *animal growth* (vermin), *animal
-messenger* (vermin), *animal shapes* (vermin), *animal trance* (vermin),
-*colossal vermin* (as *giant vermin,*but it can increase the creature's
+1/day--- *[[animal growth]]* (vermin), *animal
+messenger* (vermin), *[[animal shapes]]* (vermin), *[[animal trance]]* (vermin),
+*colossal vermin* (as *[[giant vermin]],*but it can increase the creature's
 size from Large to Gargantuan and from Huge to Colossal), *creeping
-doom, giant vermin, summon swarm* (vermin), *summon vermin* (as *summon
+doom, [[giant vermin]], [[summon swarm]]* (vermin), *summon vermin* (as *summon
 nature's ally,* except it summons 10 HD of vermin per level), and
-*vermin plague* (as *insect plague).*Caster level 20th.
+*vermin plague* (as *[[insect plague]]).*Caster level 20th.
 
 ### Special Qualities
 A worm that walks retains any special abilities
@@ -2719,8 +2719,8 @@ ground. The body is buried in an elaborate ritual that, the spellcaster
 hopes, will attract a critical mass of worms or maggots. The spellcaster
 performing the ritual must spend 10,000 gp in rare reagents for the
 ceremony. Furthermore, the ritual drains 2,000 XP from the spell-caster
-and requires the following spells: *limited wish, polymorph any object,
-summon swarm* (heightened to 7th level),and *sympathy.* Even if the
+and requires the following spells: *[[limited wish]], [[polymorph any object]],
+[[summon swarm]]* (heightened to 7th level),and *[[sympathy]].* Even if the
 ritual is performed correctly, there is only a chance that the deceased
 spellcaster will arise as a worm that walks. For each prepared but
 uncast arcane spell the deceased had at the moment of death (or unused
@@ -2770,5 +2770,8 @@ worm that walks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Diplomacy]
+aliases:
+ - Diplomacy
 title: Compendium/Basics/skills/Diplomacy
 tags: skill
 ---
@@ -28,7 +29,7 @@ Optional, but not recommended because retries usually do not work. Even if the i
 If you have the [[Negotiator]] feat, you get a +2 bonus on Diplomacy checks.
 
 ### Synergy : 
-If you have 5 or more ranks in [[Bluff]], [[Knowledge]] (nobility and royalty), or [[Sense Motive]], you get a +2 bonus on Diplomacy checks.
+If you have 5 or more ranks in [[Bluff]], [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty), or [[Sense Motive]], you get a +2 bonus on Diplomacy checks.
 
 If you have 5 or more ranks in Diplomacy, you gain a +2 bonus on rally checks.
 
@@ -51,7 +52,7 @@ Use the table below to determine the effectiveness of Diplomacy checks (or Chari
 |Unfriendly|Wishes you ill|Mislead, gossip, avoid, watch suspiciously, insult|
 |Indifferent|Doesn't much care|Socially expected interaction|
 |Friendly|Wishes you well|Chat, advise, offer limited help, advocate|
-|Helpful|Will take risks to help you|Protect, back up, heal, aid|
+|Helpful|Will take risks to help you|Protect, back up, [[heal]], [[aid]]|
 |Fanatic|Will give life to serve you|Fight to the death against overwhelming odds, throw self in front of onrushing dragon|
 
 _Fanatic:_ In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a -1 penalty to AC whenever fighting for you or your cause. This attitude will remain for one day plus one day per point of your Charisma modifier, at which point the NPC's attitude will revert to its original attitude (or indifferent, if no attitude is specified).
@@ -60,5 +61,4 @@ Treat the fanatic attitude as a mind-affecting enchantment effect for purposes o
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

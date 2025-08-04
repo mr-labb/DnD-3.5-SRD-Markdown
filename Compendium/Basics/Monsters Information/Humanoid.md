@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Humanoid]
+aliases:
+ - Humanoid
 title: Compendium/Basics/Monsters Information/Humanoid
 tag: Monster, Humanoid
 ---
@@ -35,7 +36,6 @@ _Traits_: A humanoid possesses the following traits (unless otherwise noted in a
     
 - Humanoids breathe, eat, and sleep.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

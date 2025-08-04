@@ -1,5 +1,6 @@
 ---
-aliases: [Demand]
+aliases:
+ - Demand
 title: Compendium/Basics/Spell/Demand
 tags:
   - 35E_SRD
@@ -49,9 +50,13 @@ This powerful spell establishes telepathic contact like [[Sending]], but adds a 
 
 ---
 
-**Source:** PHB P217
+**Source :** PHB P217
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

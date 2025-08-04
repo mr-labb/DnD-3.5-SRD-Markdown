@@ -1,5 +1,6 @@
 ---
-aliases: [Dispel Magic]
+aliases:
+ - Dispel Magic
 title: Compendium/Basics/Spell/Dispel Magic
 tags:
   - 35E_SRD
@@ -73,9 +74,13 @@ You can end ongoing magical effects, temporarily suppress magic items, or counte
 - **Does not affect artifacts or deities**
 
 
-**Source:** PHB P223
+**Source :** PHB P223
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

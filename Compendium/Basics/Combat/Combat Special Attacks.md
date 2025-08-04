@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Combat Special Attacks
 ---
 
@@ -201,7 +202,7 @@ When you are grappling with multiple opponents, you choose one opponent to make 
 
 Your mount acts on your initiative count as you direct it. You move at its speed, but the mount uses its action to move.
 
-A horse (not a pony) is a Large creature and thus takes up a space 10 feet (2 squares) across. For simplicity, assume that you share your mount’s space during combat.
+A horse (not a [[pony]]) is a Large creature and thus takes up a space 10 feet (2 squares) across. For simplicity, assume that you share your mount’s space during combat.
 
 **Combat while Mounted**: With a DC 5 Ride check, you can guide your mount with your knees so as to use both hands to attack or defend yourself. This is a free action.
 
@@ -278,7 +279,7 @@ A splash weapon is a ranged weapon that breaks on impact, splashing or scatterin
 
 You can instead target a specific grid intersection. Treat this as a ranged attack against AC 5. However, if you target a grid intersection, creatures in all adjacent squares are dealt the splash damage, and the direct hit damage is not dealt to any creature. (You can’t target a grid intersection occupied by a creature, such as a Large or larger creature; in this case, you’re aiming at the creature.)
 
-If you miss the target (whether aiming at a creature or a grid intersection), roll 1d8. This determines the misdirection of the throw, with 1 being straight back at you and 2 through 8 counting clockwise around the grid intersection or target creature. Then, count a number of squares in the indicated direction equal to the range increment of the throw.
+If you miss the target (whether aiming at a creature or a grid intersection), roll 1d8. This determines the [[misdirection]] of the throw, with 1 being straight back at you and 2 through 8 counting clockwise around the grid intersection or target creature. Then, count a number of squares in the indicated direction equal to the range increment of the throw.
 
 After you determine where the weapon landed, it deals splash damage to all creatures in adjacent squares.
 
@@ -388,7 +389,4 @@ If you wield a second weapon in your off hand, you can get one extra attack per 
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

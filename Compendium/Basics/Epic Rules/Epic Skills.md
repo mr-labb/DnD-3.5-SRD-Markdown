@@ -7,8 +7,7 @@ tags:
   - Epic
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # EPIC SKILLS
 
@@ -36,9 +35,9 @@ The character can sense magical auras in objects.
   Detect magic   50
   -------------- ----
 
-**Detect Magic:**The character can sense if an item has a magical aura.
+**[[Detect Magic]]:**The character can sense if an item has a magical aura.
 He or she can then use Spellcraft to learn more about the item as if he
-or she had already cast *detect magic* on the item. This requires a
+or she had already cast *[[detect magic]]* on the item. This requires a
 full-round action.
 
 ## Balance
@@ -80,7 +79,7 @@ awake. Setting or changing a false alignment requires a full-round
 action.
 
 **Disguise Surface Thoughts:**The character can fool spells such as
-*detect thoughts* (or similar effects) by displaying false surface
+*[[detect thoughts]]* (or similar effects) by displaying false surface
 thoughts. While the character can't completely mask the presence of his
 or her thoughts, he or she can change his or her apparent Intelligence
 score (and thus the character's apparent mental strength) by as much as
@@ -173,7 +172,7 @@ The character can decipher magic scrolls.
 
   ----------------------------------------------------------------------------------------- --------------------------
   Task                                                                                      DC
-  Decipher a written spell (such as a scroll) without using *read magic.*One try per day.   50 + 5 times spell level
+  Decipher a written spell (such as a scroll) without using *[[read magic]].*One try per day.   50 + 5 times spell level
   ----------------------------------------------------------------------------------------- --------------------------
 
 ## Diplomacy
@@ -254,12 +253,12 @@ change of this degree.
 ## Escape Artist
 
 The character can pass through spaces smaller than his or her head, or
-even through a *wall of force.*
+even through a *[[wall of force]].*
 
   ----- ------------------------------
   DC    Task
   80    Extremely tight space
-  120   Pass through *wall of force*
+  120   Pass through *[[wall of force]]*
   ----- ------------------------------
 
 **Extremely Tight Space:**This is the DC for getting through a space
@@ -269,9 +268,9 @@ category less than Medium-size; double it for each size category greater
 than Medium-size. If the space is long, such as in a chimney, multiple
 checks may be called for.
 
-### Pass through *Wall of Force*
+### Pass through *[[Wall of Force]]*
 This allows a character to find a gap
-of weakness in a *wall of force* (or similar force effect) and squeeze
+of weakness in a *[[wall of force]]* (or similar force effect) and squeeze
 through it.
 
 ## Forgery
@@ -498,7 +497,7 @@ penalties to actions while doing so.
 
 ### Unconscious Control
 As a free action, the character can attempt to
-control a light horse, pony, or heavy horse while in combat. If the
+control a light horse, [[pony]], or heavy horse while in combat. If the
 character fails, he or she controls the mount as a move-equivalent
 action. A character does not need to roll for warhorses or warponies.
 
@@ -773,7 +772,7 @@ escape these bindings.
 
 ### Animate Held Rope
 The character can command any rope he or she
-holds as if it had the *animate rope* spell cast upon it (except that
+holds as if it had the *[[animate rope]]* spell cast upon it (except that
 using the skill in this way doesn't grant any bonus on Use Rope checks
 made with the animated rope). Each command requires a separate Use Rope
 check. Because the effect isn't magical, it can't be dispelled.
@@ -841,9 +840,9 @@ Mortal wounds are less lethal for the character.
 
 ### *Scrying* Spells
 
-To attempt any of these tasks, the *scrying* spell must be on your class
+To attempt any of these tasks, the *[[scrying]]* spell must be on your class
 spell list (though it need not be among your spells known). If you have
-any bonuses that would apply to the caster level of your *scrying*
+any bonuses that would apply to the caster level of your *[[scrying]]*
 spell, add these to your caster level check.
 
   ---------------- ----------------------------
@@ -861,8 +860,8 @@ successful, you learn the name, race, and location of the scryer.
 ### Return Scrying
 If you determine that you're being scried upon, you
 can look back through the sensor at the scryer with a DC 50 caster level
-check. This allows you to spy on the scrying being as if you had cast a
-*scrying* spell upon that person. This return scrying can be detected by
+check. This allows you to spy on the [[scrying]] being as if you had cast a
+*[[scrying]]* spell upon that person. This return scrying can be detected by
 your target as normal.
 
 ### Break Scrying
@@ -875,5 +874,8 @@ Intelligence modifier (minimum 1).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

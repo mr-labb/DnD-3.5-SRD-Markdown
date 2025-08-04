@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Evasion And Improved Evasion]
+aliases:
+ - Evasion And Improved Evasion
 title: Compendium\Basics\Abilities and Conditions\Evasion And Improved Evasion
 tag: Abilities
 ---
@@ -22,9 +23,7 @@ Improved evasion is like evasion, except that even on a failed saving throw the 
 
 
 <br><br>
----
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

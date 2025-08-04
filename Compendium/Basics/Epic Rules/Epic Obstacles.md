@@ -27,10 +27,10 @@ of mithral, adamantine, or even pure force.
   Mithral                                                                        3in.                46         15         90hp           70
   Adamantine                                                                     3in.                66         20         120hp          70
   Magically treated\*\*                                                          ---                 20         x2         x2†            ---
-  Wall of force                                                                  1in.                n/a        n/a        n/a            70
-  Wall of ice                                                                    1in./lvl            15+1/in.   0          3hp/in.        25
-  Wall of iron                                                                   1in./4lvls          25+2/in.   10         30hp/in.       25
-  Wall of stone                                                                  1in./4lvls          20+2/in.   8          15hp/in.       22
+  [[Wall of force]]                                                                  1in.                n/a        n/a        n/a            70
+  [[Wall of ice]]                                                                    1in./lvl            15+1/in.   0          3hp/in.        25
+  [[Wall of iron]]                                                                   1in./4lvls          25+2/in.   10         30hp/in.       25
+  [[Wall of stone]]                                                                  1in./4lvls          20+2/in.   8          15hp/in.       22
   \*Per 10-ft.-by-10-ft. section.                                                                                                         
   \*\*These modifiers can be applied to any of the other categories and types.                                                            
   †Or 50, whichever is greater.                                                                                                           
@@ -62,16 +62,16 @@ of mithral, adamantine, or even pure force.
   ------------------------------ -----------------------------------------------------------------------------------------------------------------
   Obstacle/Hazard                Effect
   Acid tank                      1d6 damage per round, or 10d6 per round for total immersion; plus poison fumes.
-  Antimagic field                Negates all spells or magical effects.
-  *Dimensional anchor* trap      Blocks bodily extradimensional travel.
+  [[Antimagic field]]                Negates all spells or magical effects.
+  *[[Dimensional anchor]]* trap      Blocks bodily extradimensional travel.
   Hurricane-force winds          Ranged attacks impossible, flight virtually impossible.
   Lava pit                       2d6 damage per round, or 20d6 per round for total immersion; plus continuing damage.
-  Permanent *prismatic sphere*   Requires seven different spells to bypass.
-  Permanent *solid fog*          Move at one-tenth normal speed, --2 penalty on attack and damage (good when coupled with incorporeal monsters).
-  Permanent *wall of force*      Blocks most spells and ethereal travel, can't be *dispelled*.
+  Permanent *[[prismatic sphere]]*   Requires seven different spells to bypass.
+  Permanent *[[solid fog]]*          Move at one-tenth normal speed, --2 penalty on attack and damage (good when coupled with incorporeal monsters).
+  Permanent *[[wall of force]]*      Blocks most spells and ethereal travel, can't be *dispelled*.
   Three-dimensional dungeons     Levitation/flying required to move between areas.
   Unconnected rooms              Teleportation required to move between areas.
-  Variable gravity               As *reverse gravity*, but direction random each round.
+  Variable gravity               As *[[reverse gravity]]*, but direction random each round.
   ------------------------------ -----------------------------------------------------------------------------------------------------------------
 
 ## Slimes, Molds, and Fungi
@@ -89,8 +89,8 @@ may even appear in midair. As the slime flows, it settles and fills the
 area around the origin point.
 
 Flux slime seems to be an inert substance, devoid of sentience. It is
-not caustic or toxic, but it radiates an *antimagic field* within a
-radius of 10 feet. This *antimagic field* has a caster level of 21. Any
+not caustic or toxic, but it radiates an *[[antimagic field]]* within a
+radius of 10 feet. This *[[antimagic field]]* has a caster level of 21. Any
 quantity of slime that is removed from the main mass yellows and hardens
 in a matter of minutes, turning into a flaky material that will not
 adhere to anything.
@@ -98,10 +98,10 @@ adhere to anything.
 In reality, flux slime is a growth with a ravenous appetite for magical
 forces. It is a natural draining phenomenon: Magical energy drains
 through the origin point in one direction in exchange for the residue on
-the far side. The *antimagic field* a flux slime generates is actually
+the far side. The *[[antimagic field]]* a flux slime generates is actually
 the byproduct of the consumption of magical energy.
 
-In addition to the *antimagic field's*effects, magic items that come
+In addition to the *[[antimagic field]]'s*effects, magic items that come
 into contact with flux slime permanently lose their magical abilities;
 creatures with spell-like or super-natural abilities that come into
 contact with it take 2d6 points of temporary Constitution damage per
@@ -122,19 +122,19 @@ Fortitude saving throw (DC 29).
 
   -------- --------------------------------------------------------------------------------------------------------------------------
   d%       Result
-  01--10   Blindness (as blindness/deafness spell)
-  11--16   Cursed (as bestow curse spell; --4 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks)
-  17--26   Deafness (as blindness/deafness spell)
-  27--32   Disintegrate (subject is destroyed by a disintegrate spell)
-  33--40   Etherealness (as etherealness spell)
-  41--48   Gaseous (as gaseous form spell)
-  49--54   Iron body (as iron body spell)
-  55--60   Petrification (as flesh to stone spell)
-  61--68   Plane shift (subject instantly transports to a random plane)
-  69--74   Polymorph (as polymorph other spell; choose form randomly)
-  75--80   Reverse gravity (flux slime becomes the center of a reverse gravity spell).
-  81--88   Teleport (each subject teleports to a different, random location)
-  89--94   Temporal stasis (as temporal stasis spell)
+  01--10   Blindness (as [[Blindness_Deafness|blindness/deafness]] spell)
+  11--16   Cursed (as [[bestow curse]] spell; --4 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks)
+  17--26   Deafness (as [[Blindness_Deafness|blindness/deafness]] spell)
+  27--32   [[Disintegrate]] (subject is destroyed by a [[disintegrate]] spell)
+  33--40   [[Compendium/Spells/Etherealness|Etherealness]] (as [[Compendium/Spells/Etherealness|etherealness]] spell)
+  41--48   Gaseous (as [[Compendium/Spells/Gaseous Form|gaseous form]] spell)
+  49--54   [[Iron body]] (as [[iron body]] spell)
+  55--60   Petrification (as [[flesh to stone]] spell)
+  61--68   [[Plane shift]] (subject instantly transports to a random plane)
+  69--74   [[Compendium/Spells/Polymorph|Polymorph]] (as [[Compendium/Spells/Polymorph|polymorph]] other spell; choose form randomly)
+  75--80   [[Reverse gravity]] (flux slime becomes the center of a [[reverse gravity]] spell).
+  81--88   [[Teleport]] (each subject teleports to a different, random location)
+  89--94   [[Temporal stasis]] (as [[temporal stasis]] spell)
   95--00   Reverse aging (subject gets younger each year, disappearing at moment of "birth")
   -------- --------------------------------------------------------------------------------------------------------------------------
 
@@ -142,5 +142,8 @@ After the burst, the extradimensional origin point is sealed.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

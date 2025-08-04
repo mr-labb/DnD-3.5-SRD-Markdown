@@ -1,5 +1,8 @@
 ---
-aliases: [Elemental, Water, Huge]
+aliases:
+ - Elemental
+ - Water
+ - Huge
 title: Bestiary/MM1/Elemental, Water, Huge
 tags: [35E_SRD, Monster]
 Monster: Elemental, Water, Huge

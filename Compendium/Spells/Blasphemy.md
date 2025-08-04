@@ -1,5 +1,6 @@
 ---
-aliases: [Blasphemy]
+aliases:
+ - Blasphemy
 title: Compendium/Basics/Spell/Blasphemy
 tags: 
   - 35E_SRD
@@ -49,9 +50,13 @@ If you cast *blasphemy* on your home plane, nonevil extraplanar creatures within
 
 Creatures with Hit Dice **higher than your caster level** are **unaffected**.
 
-Source : PHB P205
+**Source :** PHB P205
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Aquatic]
+aliases:
+ - Aquatic
 title: Compendium/Basics/Monsters Information/Aquatic
 tag: Monster, Aquatic
 ---
@@ -14,5 +15,4 @@ tag: Monster, Aquatic
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

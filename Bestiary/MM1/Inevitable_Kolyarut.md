@@ -1,5 +1,7 @@
 ---
-aliases: [Inevitable, Kolyarut]
+aliases:
+ - Inevitable
+ - Kolyarut
 title: Bestiary/MM1/Inevitable, Kolyarut
 tags: [35E_SRD, Monster]
 Monster: Inevitable, Kolyarut

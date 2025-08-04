@@ -1,5 +1,6 @@
 ---
-aliases: [Use Magic Device]
+aliases:
+ - Use Magic Device
 title: Compendium/Basics/skills/Use Magic Device
 tags: skill
 ---
@@ -131,5 +132,4 @@ Spellcraft checks made to decipher spells on scrolls.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

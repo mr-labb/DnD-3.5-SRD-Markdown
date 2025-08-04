@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium / Basic Rules / Basics and Ability Scores
 ---
 
@@ -130,7 +131,7 @@ You apply your character’s Intelligence modifier to:
 
 - The number of languages your character knows at the start of the game.
 - The number of skill points gained each level. (But your character always gets at least 1 skill point per level.)
-- [[Appraise]], [[Craft]], [[Decipher Script]], [[Disable Device]], [[Forgery]], [[Knowledge]], [[Search]], and [[Spellcraft]] checks. These are the skills that have Intelligence as their key ability.
+- [[Appraise]], [[Craft]], [[Decipher Script]], [[Disable Device]], [[Forgery]], [[Compendium/Basics/Skills/Knowledge]], [[Search]], and [[Spellcraft]] checks. These are the skills that have Intelligence as their key ability.
 
 A [[wizards]] gains bonus spells based on her Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell’s level.
 
@@ -142,7 +143,7 @@ Wisdom describes a character’s willpower, common sense, perception, and intuit
 
 You apply your character’s Wisdom modifier to:
 
-- Will saving throws (for negating the effect of charm person and other spells).
+- Will saving throws (for negating the effect of [[charm person]] and other spells).
 - [Heal]], [[Listen]], [[Profession]], [[Sense Motive]], [[Spot]], and [[Survival]] checks. These are the skills that have Wisdom as their key ability.
 
 [[clerics]], [[druids]], [[paladins]], and [[rangers]] get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, paladin, or ranger spell is 10 + the spell’s level.
@@ -163,5 +164,4 @@ When an ability score changes, all attributes associated with that score change 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

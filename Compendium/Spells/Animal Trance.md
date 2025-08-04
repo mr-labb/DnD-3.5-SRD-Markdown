@@ -1,5 +1,6 @@
 ---
-aliases: [Animal Trance]
+aliases:
+ - Animal Trance
 title: Compendium/Basics/Spell/Animal Trance
 tags: 
   - 35E_SRD
@@ -34,9 +35,13 @@ Your swaying motions and music (or singing, or chanting) compel animals and magi
 
 A magical beast, a dire animal, or an animal trained to attack or guard is allowed a saving throw; an animal not trained to attack or guard is not.
 
-Source : PHB P198
+**Source :** PHB P198
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

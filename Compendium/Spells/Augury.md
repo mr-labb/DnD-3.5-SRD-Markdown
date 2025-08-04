@@ -1,5 +1,6 @@
 ---
-aliases: [Augury]
+aliases:
+ - Augury
 title: Compendium/Basics/Spell/Augury
 tags: 
   - 35E_SRD
@@ -43,9 +44,13 @@ The *augury* can see into the future only about half an hour, so anything that m
 *Material Component:* Incense worth at least 25 gp.  
 *Focus:* A set of marked sticks, bones, or similar tokens of at least 25 gp value.
 
-Source : PHB P202
+**Source :** PHB P202
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

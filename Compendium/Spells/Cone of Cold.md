@@ -1,5 +1,6 @@
 ---
-aliases: [Cone of Cold]
+aliases:
+ - Cone of Cold
 title: Compendium/Basics/Spell/Cone of Cold
 tags:
   - 35E_SRD
@@ -35,9 +36,13 @@ Source: PHB
 **Material Component:**  
 A very small crystal or glass cone.
 
-Source : PHB P212
+**Source :** PHB P212
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Diminish Plants]
+aliases:
+ - Diminish Plants
 title: Compendium/Basics/Spell/Diminish Plants
 tags:
   - 35E_SRD
@@ -50,7 +51,7 @@ Shrinks normal vegetation within long range (400 ft. + 40 ft./level) to approxim
 
 #### Stunt Growth
 
-Targets normal plants within a range of **½ mile**, reducing their **productivity** over the following year to **one-third** below normal.
+Targets normal plants within a range of **Â½ mile**, reducing their **productivity** over the following year to **one-third** below normal.
 
 ### Additional Notes
 
@@ -58,9 +59,13 @@ Targets normal plants within a range of **½ mile**, reducing their **productivi
 - Has **no effect** on **plant creatures**
 
 
-**Source:** PHB P221
+**Source :** PHB P221
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

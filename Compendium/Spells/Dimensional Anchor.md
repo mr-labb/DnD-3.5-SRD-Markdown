@@ -1,5 +1,6 @@
 ---
-aliases: [Dimensional Anchor]
+aliases:
+ - Dimensional Anchor
 title: Compendium/Basics/Spell/Dimensional Anchor
 tags:
   - 35E_SRD
@@ -58,9 +59,13 @@ It also disables [[Gate]] and [[Teleportation Circle]] for the duration.
 - Does **not prevent** **summoned creatures** from disappearing at the end of a summoning duration
 
 
-**Source:** PHB P221
+**Source :** PHB P221
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

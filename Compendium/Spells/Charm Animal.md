@@ -1,5 +1,6 @@
 ---
-aliases: [Charm Animal]
+aliases:
+ - Charm Animal
 title: Compendium/Basics/Spell/Charm Animal
 tags: 
   - 35E_SRD
@@ -34,11 +35,15 @@ This spell functions like [[Charm Person]], except that it affects one **creatur
 
 - The animal regards you as a trusted friend and ally.
 - It will follow your suggestions and cooperate unless harmed or endangered.
-- Intelligence 1–2 animals only; does not affect magical beasts or higher-intelligence creatures.
+- Intelligence 1â€“2 animals only; does not affect magical beasts or higher-intelligence creatures.
 
-Source : PHB P208
+**Source :** PHB P208
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

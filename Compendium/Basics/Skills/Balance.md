@@ -1,5 +1,6 @@
 ---
-aliases: [Balance]
+aliases:
+ - Balance
 title: Compendium/Basics/skills/Balance
 tags: skill
 ---
@@ -122,5 +123,4 @@ If you have the [[Agile]] feat, you get a +2 bonus on Balance checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

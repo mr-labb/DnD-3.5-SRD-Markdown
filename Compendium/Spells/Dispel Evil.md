@@ -1,5 +1,6 @@
 ---
-aliases: [Dispel Evil]
+aliases:
+ - Dispel Evil
 title: Compendium/Basics/Spell/Dispel Evil
 tags:
   - 35E_SRD
@@ -54,9 +55,13 @@ You are surrounded by shimmering **white, holy energy** that grants the followin
    - This use **discharges** the spell.
 
 
-**Source:** PHB P222
+**Source :** PHB P222
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,5 +1,6 @@
 ---
-aliases: [Cleric Domains]
+aliases:
+ - Cleric Domains
 title: Compendium/Basics/Spell/Cleric Domains
 tags: 
   - 35E_SRD

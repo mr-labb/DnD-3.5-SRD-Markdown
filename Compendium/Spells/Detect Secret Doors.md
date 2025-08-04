@@ -1,5 +1,6 @@
 ---
-aliases: [Detect Secret Doors]
+aliases:
+ - Detect Secret Doors
 title: Compendium/Basics/Spell/Detect Secret Doors
 tags:
   - 35E_SRD
@@ -51,9 +52,13 @@ You may turn each round to search a new area. The spell penetrates most barriers
 - A thin sheet of lead  
 - 3 feet of wood or dirt
 
-**Source:** PHB P220
+**Source :** PHB P220
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,38 +1,80 @@
 ---
-aliases: [Mage's Sword]
+aliases:
+ - Mage's Sword
 title: Compendium/Basics/Spell/Mage's Sword
-tags: [35E_SRD, Spell, Sorcerer, Wizard]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Sorcerer  
+  - Wizard  
 Spell Name: Mage's Sword
 School: Evocation
 Subschool: 
 Descriptor: [Force]
-Level:
-  - Sor/Wiz 7
+Level:  
+  - Sor/Wiz 7  
 Source: PHB
 ---
-
 
 ## Mage's Sword
 
 Floating magic blade strikes opponents.
 
-*   Evocation [Force]
-*   **Level:** Sor/Wiz 7
-*   **Components:** V, S, F
-*   **Casting Time:** 1 standard action
-*   **Range:** Close (25 ft. + 5 ft./2 levels)
-*   **Effect:** One sword
-*   **Duration:** 1 round/level (D)
-*   **Saving Throw:** None
-*   **Spell Resistance:** Yes
+### Spell Details
 
-<p>This spell brings into being a shimmering, swordlike plane of force. The sword strikes at any opponent within its range, as you desire, starting in the round that you cast the spell. The sword attacks its designated target once each round on your turn. Its attack bonus is equal to your caster level + your Int bonus or your Cha bonus (for wizards or sorcerers, respectively) with an additional +3 enhancement bonus. As a force effect, it can strike ethereal and incorporeal creatures. It deals 4d6+3 points of force damage, with a threat range of 19-20 and a critical multiplier of x2.</p><p>The sword always strikes from your direction. It does not get a bonus for flanking or help a combatant get one. If the sword goes beyond the spell range from you, if it goes out of your sight, or if you are not directing it, the sword returns to you and hovers.</p><p>Each round after the first, you can use a standard action to switch the sword to a new target. If you do not, the sword continues to attack the previous round's target.</p><p>The sword cannot be attacked or harmed by physical attacks, but <i>dispel magic</i>, <i>disintegrate</i>, a <i>sphere of annihilation</i>, or a <i>rod of cancellation</i> affects it. The sword's AC is 13 (10, +0 size bonus for Medium object, +3 deflection bonus).</p><p>If an attacked creature has spell resistance, the resistance is checked the first time <i>Mage's sword</i> strikes it. If the sword is successfully resisted, the spell is dispelled. If not, the sword has its normal full effect on that creature for the duration of the spell.</p><p><i>Focus:</i> A miniature platinum sword with a grip and pommel of copper and zinc. It costs 250 gp to construct.</p>
+- **School**: Evocation [Force]  
+- **Level**: Sor/Wiz 7  
+- **Components**: V, S, F  
+- **Casting Time**: 1 standard action  
+- **Range**: Close (25 ft. + 5 ft./2 levels)  
+- **Effect**: One sword  
+- **Duration**: 1 round/level (D)  
+- **Saving Throw**: None  
+- **Spell Resistance**: Yes  
 
-Source : PHB P256
+### Description
+
+This spell creates a shimmering, swordlike plane of force.  
+- The sword attacks any opponent within range, starting the round it is cast  
+- It attacks once per round on your turn  
+- **Attack bonus**: caster level + Int bonus (Wizard) or Cha bonus (Sorcerer) +3 enhancement bonus  
+- Can strike **ethereal and incorporeal** creatures  
+- Deals **4d6+3 force damage**  
+  - Threat range: 19–20  
+  - Critical multiplier: ×2  
+
+Combat notes:
+- Always strikes from your direction  
+- Does not flank or provide flanking bonus  
+- If it leaves range, moves out of sight, or is not directed, it returns to you and hovers  
+- You may use a **standard action** each round after the first to change targets  
+  - Otherwise, it continues attacking the previous target
+
+The sword is **immune to physical attacks**, but vulnerable to:
+- [[Dispel Magic]]  
+- [[Disintegrate]]  
+- Sphere of Annihilation  
+- Rod of Cancellation  
+
+- **AC**: 13 (10 base +0 size bonus +3 deflection bonus)  
+
+If the target has spell resistance:
+- Resistance is checked on the **first strike**  
+- If successful, spell is **dispelled**  
+- Otherwise, sword functions normally for full duration
+
+### Focus
+
+A miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp.
+
+
+**Source :** PHB P256
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
+This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

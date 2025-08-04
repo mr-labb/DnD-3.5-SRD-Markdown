@@ -3,8 +3,7 @@ lang: en
 title: Compendium/Basics/ Combat
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ### HOW COMBAT WORKS
 
@@ -131,7 +130,4 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

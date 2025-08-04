@@ -1,5 +1,6 @@
 ---
-aliases: [Divine Power]
+aliases:
+ - Divine Power
 title: Compendium/Basics/Spell/Divine Power
 tags:
   - 35E_SRD
@@ -47,9 +48,13 @@ You gain:
 This spell transforms you into a front-line force, especially potent when cast by divine casters who normally rely less on physical combat. It's one of the core martial buffs for war-priests and combat-ready clerics.
 
 
-**Source:** PHB P224
+**Source :** PHB P224
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

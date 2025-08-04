@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Baatezu]
+aliases:
+ - Baatezu
 title: Compendium/Basics/Monsters Information/Baatezu
 tag: Monster, Baatezu
 ---
@@ -10,7 +11,7 @@ tag: Monster, Baatezu
 
 ###### SUBTYPES
 
-**Baatezu Traits**: Most baatezu possesses the following traits (unless otherwise noted in a creature’s entry).
+**Baatezu Traits**: Most baatezu possesses the following traits (unless otherwise noted in a creatureâ€™s entry).
 
 - Immunity to fire and poison.
     
@@ -27,5 +28,4 @@ Except when otherwise noted, devils speak Infernal, Celestial, and Draconic.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Plant]
+aliases:
+ - Plant
 title: Compendium/Basics/Monsters Information/Plant
 tag: Monster, Plant
 ---
@@ -24,13 +25,13 @@ _Features_: A plant creature has the following features.
 - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit Die, if the plant creature has an Intelligence score. However, some plant creatures are mindless and gain no skill points or feats.
     
 
-_Traits_: A plant creature possesses the following traits (unless otherwise noted in a creature’s entry).
+_Traits_: A plant creature possesses the following traits (unless otherwise noted in a creatureâ€™s entry).
 
 - Low-light vision.
     
 - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
     
-- Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
+- Immunity to poison, sleep effects, paralysis, [[Compendium/Spells/Polymorph|polymorph]], and stunning.
     
 - Not subject to critical hits.
     
@@ -40,7 +41,6 @@ _Traits_: A plant creature possesses the following traits (unless otherwise note
     
 - Plants breathe and eat, but do not sleep.
     
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 ---
   

@@ -1,5 +1,6 @@
 ---
-aliases: [Dominate Animal]
+aliases:
+ - Dominate Animal
 title: Compendium/Basics/Spell/Dominate Animal
 tags:
   - 35E_SRD
@@ -51,9 +52,13 @@ You enchant an **animal** to obey your silent commands via a mental link. Valid 
 Dominate Animal is a versatile tool in a druid’s arsenal—turning the wilds into your tactical allies.
 
 
-**Source:** PHB P224
+**Source :** PHB P224
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

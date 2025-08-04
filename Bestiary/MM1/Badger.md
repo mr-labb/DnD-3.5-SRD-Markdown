@@ -1,25 +1,27 @@
 ---
-aliases: [Badger]
+aliases:
+ - Badger
 title: Bestiary/MM1/Badger
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: Badger
 Size: Small
 Type: Animal
 Subtype: 
-CR: 0.5
+CR: 0
 Environnent: Temperate forests
 Source: MM1
 ---
 
 ```statblock
-layout: dnd 35e layout
+statblock: true
+layout: Basic 3.5e Layout
 columns: 2
 forceColumns: true
-columnHeight: 750px
-columnWidth: 415px
-image: [[Monsters.png]]
-source: MM1
+source: MM1 
 name: Badger
+image: [[Badger.PNG]]
 race: Badger
 class: 
 level: 
@@ -27,62 +29,79 @@ size: Small
 type: Animal
 subtype: 
 alignment: 
-aura: 
-
-armorclass:
-  - name: AC
-    desc: "15 (+1 size, +3 Dex, +1 natural), touch 14, flat-footed 12"
+ac: 15
 touch: 14
-flat_footed: 12
-hit_point:
-  - name: hp
-    desc: "6 ; 1d8+2"
-speed: 30 ft. (6 squares), burrow 10 ft.
-
-abilities: [8, 17, 15, 2, 12, 6]
-saves:
-  - Fort: +4
-  - Ref: +5
-  - Will: +1
-damage_resist: 
-spell_resist: 
+flatfooted: 12
+AC_desc: +1 size, +3 Dex, +1 natural
+hp: 6
+hit_dice: 1d8+2
 initiative: 3
+speed: 30 ft. (6 squares), burrow 10 ft.
 space/reach: 5 ft./5 ft.
-CR: 0.5
+stats:
+  - 8
+  - 17
+  - 15
+  - 2
+  - 12
+  - 6
+saves:
+ - Fortitude : 4
+ - Reflex : 5
+ - Will : 1
+skillsaves:
+ - Escape Artist: +7
+ - Listen: +3
+ - Spot: +3
 base_attack/grapple: +0/-5
-attack: Claw +4 melee (1d2-1)
-full_attack: 2 claws +4 melee (1d2-1) and bite -1 melee (1d3-1)
-special_attacks: Rage
-
-special_qualities:
-  - name: 
-    desc: Low-light vision, scent
-
-skills:
-  - Escape Artist: +7
-  - Listen: +3
-  - Spot: +3
-feats: [[Track (B)]], [[Weapon Finesse]]
-weak: 
 environment: Temperate forests
 organization: Solitary, pair, or cete (3-5)
 treasure: 
 advancement: 2 HD (Small)
 level_adjustment: -
-immune: 
+damage_vulnerabilities: ""
+damage_resistances: 
+spell_resist: 
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: ""
+cr: 0
+aura: ""
+spell-like_abilities:
+ - name: 
+   desc: 
+special_qualities:
+ - name:
+   desc: Low-light vision, scent
+actions:
+  - name: Full Attack
+    desc: "2 claws +4 melee (1d2-1) and bite -1 melee (1d3-1)"
+  - name: Attack
+    desc: "Claw +4 melee (1d2-1)"
+  - name: special attacks
+    desc: "Rage"
+spells:
+  - ""
+traits:
+   - name: Feats
+     desc: Track (B), Weapon Finesse
+combat_gear:  
 ```
 
-## Description
 
-<p>The badger is a furry animal with a squat, powerful body. Its strong forelimbs are armed with long claws for digging. An adult badger is 2 to 3 feet long and weighs 25 to 35 pounds.</p>
-<p>Combat</p>
-<p>Badgers attack with their sharp claws and teeth.</p>
-<p>
-            <b>Rage (Ex):</b> A badger that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and -2 to Armor Class. The creature cannot end its rage voluntarily.</p>
-<p>
-            <b>Skills:</b> A badger has a +4 racial bonus on Escape Artist checks.</p>
+The badger is a furry animal with a squat, powerful body. Its strong forelimbs are armed with long claws for digging. An adult badger is 2 to 3 feet long and weighs 25 to 35 pounds.
+
+Combat
+
+Badgers attack with their sharp claws and teeth.
+
+
+**Rage (Ex):** A badger that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and -2 to Armor Class. The creature cannot end its rage voluntarily.
+
+
+**Skills:** A badger has a +4 racial bonus on Escape Artist checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

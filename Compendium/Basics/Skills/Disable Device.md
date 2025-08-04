@@ -1,5 +1,6 @@
 ---
-aliases: [Disable Device]
+aliases:
+ - Disable Device
 title: Compendium/Basics/skills/Disable Device
 tags: skill
 ---
@@ -42,9 +43,9 @@ Varies. You can retry if you have missed the check by 4 or less, though you must
 
 A rogue who beats a trap's DC by 10 or more can study the trap, figure out how it works, and bypass it (along with her companions) without disarming it.
 
-**Restriction**: Rogues (and other characters with the trapfinding class feature) can disarm magic traps. A magic trap generally has a DC of 25 + the spell level of the magic used to create it.
+**Restriction**: Rogues (and other characters with the trapfinding class feature) can disarm magic traps. A [[magic trap]] generally has a DC of 25 + the spell level of the magic used to create it.
 
-The spells fire trap, glyph of warding, symbol, and teleportation circle also create traps that a rogue can disarm with a successful Disable Device check. Spike growth and spike stones, however, create magic traps against which Disable Device checks do not succeed. See the individual spell descriptions for details.
+The spells [[fire trap]], [[glyph of warding]], symbol, and [[teleportation circle]] also create traps that a rogue can disarm with a successful Disable Device check. [[Spike growth]] and [[spike stones]], however, create magic traps against which Disable Device checks do not succeed. See the individual spell descriptions for details.
 
 ### Other Ways to Beat a Trap
 
@@ -56,9 +57,8 @@ It's possible to ruin many traps without making a Disable Device check.
 
 **Pits**: Disabling a pit trap generally ruins only the trapdoor, making it an uncovered pit. Filling in the pit or building a makeshift bridge across it is an application of manual labor, not the Disable Device skill. Characters could neutralize any spikes at the bottom of a pit by attacking them - they break just as daggers do.
 
-**Magic Traps**: Dispel magic helps here. Someone who succeeds on a caster level check against the level of the trap's creator suppresses the trap for 1d4 rounds. This works only with a targeted dispel magic, not the area version (see the spell description).
+**Magic Traps**: [[Dispel magic]] helps here. Someone who succeeds on a caster level check against the level of the trap's creator suppresses the trap for 1d4 rounds. This works only with a targeted [[dispel magic]], not the area version (see the spell description).
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

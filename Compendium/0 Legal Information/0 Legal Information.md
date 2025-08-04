@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Legal Information]
+aliases:
+ - Legal Information
 title: Compendium / Basic Rules / Legal Information
 tag: Legal
 ---

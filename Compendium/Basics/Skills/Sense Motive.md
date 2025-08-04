@@ -1,5 +1,6 @@
 ---
-aliases: [Sense Motive]
+aliases:
+ - Sense Motive
 title: Compendium/Basics/skills/Sense Motive
 tags: skill
 ---
@@ -26,7 +27,7 @@ Alternatively, you can get the feeling that someone is trustworthy.
 *Sense Enchantment:* You can tell that someone's behavior is being
 influenced by an enchantment effect (by definition, a mind-affecting
 effect),even if that person isn't aware of it. The usual DC is 25, but
-if the target is dominated (see *dominate person*), the DC is only 15
+if the target is dominated (see *[[dominate person]]*), the DC is only 15
 because of the limited range of the target's activities.
 
 *Discern Secret Message:* You may use Sense Motive to detect that a
@@ -63,5 +64,4 @@ bonus on Diplomacy checks.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

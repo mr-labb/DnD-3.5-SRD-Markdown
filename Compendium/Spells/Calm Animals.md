@@ -1,5 +1,6 @@
 ---
-aliases: [Calm Animals]
+aliases:
+ - Calm Animals
 title: Compendium/Basics/Spell/Calm Animals
 tags: 
   - 35E_SRD
@@ -35,9 +36,13 @@ This spell soothes and quiets animals, rendering them docile and harmless. Only 
 
 The affected creatures remain where they are and do not attack or flee. They are not helpless and defend themselves normally if attacked. Any threat breaks the spell on the threatened creatures.
 
-Source : PHB P207
+**Source :** PHB P207
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -1,11 +1,11 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Actions in Combat
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ##### THE COMBAT ROUND
 
@@ -41,7 +41,7 @@ Some full-round actions can be taken as standard actions, but only in situations
 
 Casting a quickened spell is a swift action (instead of a free action, as stated in the Quicken Spell feat description in the Player's Handbook). In addition, casting any spell with a casting time of 1 swift action (such as aiming at the target) is a swift action. Casting a spell with a casting time of 1 swift action does not provoke attacks of opportunity.
 
-**Immediate Action**: Much like a swift action, an immediate action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. How- ever, unlike a swift action, an immediate action can be performed at any time even if it's not your turn. Casting feather fall is an immediate action (instead of a free action, as stated in the spell description in the Player's Handbook), since the spell can be cast at any time.
+**Immediate Action**: Much like a swift action, an immediate action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. How- ever, unlike a swift action, an immediate action can be performed at any time even if it's not your turn. Casting [[feather fall]] is an immediate action (instead of a free action, as stated in the spell description in the Player's Handbook), since the spell can be cast at any time.
 
 Using an immediate action on your turn is the same as using a swift action, and counts as your swift action for that turn. You cannot use another immediate action or a swift action until after your next turn if you have used an immediate action when it is not currently your turn (effectively, using an immediate action before your turn is equivalent to using your swift action for the coming turn). You also cannot use an immediate action if you are currently flat-footed.
 
@@ -242,7 +242,7 @@ Many magic items don’t need to be activated. However, certain magic items need
 
 **Spell Completion Items**: Activating a spell completion item is the equivalent of casting a spell. It requires concentration and provokes attacks of opportunity. You lose the spell if your concentration is broken, and you can attempt to activate the item while on the defensive, as with casting a spell.
 
-**Spell Trigger, Command Word, or Use-Activated Items**: Activating any of these kinds of items does not require concentration and does not provoke attacks of opportunity.
+**Spell Trigger, [[Command]] Word, or Use-Activated Items**: Activating any of these kinds of items does not require concentration and does not provoke attacks of opportunity.
 
 ###### Use Special Ability
 
@@ -418,10 +418,6 @@ Certain feats let you take special actions in combat. Other feats do not require
 
 Most skill uses are standard actions, but some might be move actions, full-round actions, free actions, or something else entirely. The individual skill descriptions tell you what sorts of actions are required to perform skills.
 
-
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

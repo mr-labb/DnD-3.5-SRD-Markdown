@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Bearded (barbazu)]
+aliases:
+ - Devil
+ - Bearded (barbazu)
 title: Bestiary/MM1/Devil, Bearded (barbazu)
 tags: [35E_SRD, Monster]
 Monster: Devil, Bearded (barbazu)

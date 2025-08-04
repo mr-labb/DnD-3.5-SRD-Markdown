@@ -1,13 +1,13 @@
 ---
 lang: en
-aliases: []
+aliases:
+ - 
 title: Compendium/Basics/ Traps
 tag: Traps
 ---
 
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 ## Traps
@@ -30,7 +30,7 @@ A character with the trap sense class feature who succeeds on a DC 21 (or higher
 
 Many spells can be used to create dangerous traps. Unless the spell or item description states otherwise, assume the following to be true.
 
-- A successful [[Search]] check (DC 25 + spell level) made by a rogue (and only a rogue) detects a magic trap before it goes off. Other characters have no chance to find a magic trap with a Search check.
+- A successful [[Search]] check (DC 25 + spell level) made by a rogue (and only a rogue) detects a [[magic trap]] before it goes off. Other characters have no chance to find a [[magic trap]] with a Search check.
     
 - Magic traps permit a saving throw in order to avoid the effect (DC 10 + spell level x 1.5).
     
@@ -49,21 +49,21 @@ A trap’s trigger determines how it is sprung.
 
 **Proximity**: This trigger activates the trap when a creature approaches within a certain distance of it. A proximity trigger differs from a location trigger in that the creature need not be standing in a particular square. Creatures that are flying can spring a trap with a proximity trigger but not one with a location trigger. Mechanical proximity triggers are extremely sensitive to the slightest change in the air. This makes them useful only in places such as crypts, where the air is unusually still.
 
-The proximity trigger used most often for magic device traps is the alarm spell. Unlike when the spell is cast, an alarm spell used as a trigger can have an area that’s no larger than the area the trap is meant to protect.
+The proximity trigger used most often for magic device traps is the [[alarm]] spell. Unlike when the spell is cast, an [[alarm]] spell used as a trigger can have an area that’s no larger than the area the trap is meant to protect.
 
-Some magic device traps have special proximity triggers that activate only when certain kinds of creatures approach. For example, a detect good spell can serve as a proximity trigger on an evil altar, springing the attached trap only when someone of good alignment gets close enough to it.
+Some magic device traps have special proximity triggers that activate only when certain kinds of creatures approach. For example, a [[detect good]] spell can serve as a proximity trigger on an evil altar, springing the attached trap only when someone of good alignment gets close enough to it.
 
-**Sound**: This trigger springs a magic trap when it detects any sound. A sound trigger functions like an ear and has a +15 bonus on [[Listen]] checks. A successful [[Move Silently]] check, magical silence, and other effects that would negate hearing defeat it. A trap with a sound trigger requires the casting of clairaudience during its construction.
+**Sound**: This trigger springs a [[magic trap]] when it detects any sound. A sound trigger functions like an ear and has a +15 bonus on [[Listen]] checks. A successful [[Move Silently]] check, magical silence, and other effects that would negate hearing defeat it. A trap with a sound trigger requires the casting of clairaudience during its construction.
 
-**Visual**: This trigger for magic traps works like an actual eye, springing the trap whenever it “sees” something. A trap with a visual trigger requires the casting of arcane eye, clairvoyance, or true seeing during its construction. Sight range and the [[Spot]] bonus conferred on the trap depend on the spell chosen, as shown.
+**Visual**: This trigger for magic traps works like an actual eye, springing the trap whenever it “sees” something. A trap with a visual trigger requires the casting of [[arcane eye]], clairvoyance, or [[true seeing]] during its construction. Sight range and the [[Spot]] bonus conferred on the trap depend on the spell chosen, as shown.
 
 |Spell|Sight Range|Spot Bonus|
 |---|---|---|
-|arcane eye|Line of sight (unlimited range)|+20|
+|[[arcane eye]]|Line of sight (unlimited range)|+20|
 |clairvoyance|One preselected location|+15|
-|true seeing|Line of sight (up to 120 ft.)|+30|
+|[[true seeing]]|Line of sight (up to 120 ft.)|+30|
 
-If you want the trap to “see” in the dark, you must either choose the true seeing option or add darkvision to the trap as well. (Darkvision limits the trap’s sight range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can fool the visual trigger as well.
+If you want the trap to “see” in the dark, you must either choose the [[true seeing]] option or add darkvision to the trap as well. (Darkvision limits the trap’s sight range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can fool the visual trigger as well.
 
 **Touch**: A touch trigger, which springs the trap when touched, is one of the simplest kinds of trigger to construct. This trigger may be physically attached to the part of the mechanism that deals the damage or it may not. You can make a magic touch trigger by adding alarm to the trap and reducing the area of the effect to cover only the trigger spot.
 
@@ -101,11 +101,11 @@ If the builder of a trap wants to be able to move past the trap after it is crea
 
 ###### Search and Disable Device DCs
 
-The builder sets the [[Search]] and [[Disable Device]] DCs for a mechanical trap. For a magic trap, the values depend on the highest-level spell used.
+The builder sets the [[Search]] and [[Disable Device]] DCs for a mechanical trap. For a [[magic trap]], the values depend on the highest-level spell used.
 
 **Mechanical Trap**: The base DC for both Search and Disable Device checks is 20. Raising or lowering either of these DCs affects the base cost (Table: Cost Modifiers for Mechanical Traps) and possibly the CR (Table: CR Modifiers for Mechanical Traps).
 
-**Magic Trap**: The DC for both Search and Disable Device checks is equal to 25 + the spell level of the highest-level spell used. Only characters with the trap sense class feature can attempt a Search check or a Disable Device check involving a magic trap. These DCs do not affect the trap’s cost or CR.
+**[[Magic Trap]]**: The DC for both Search and Disable Device checks is equal to 25 + the spell level of the highest-level spell used. Only characters with the trap sense class feature can attempt a Search check or a Disable Device check involving a [[magic trap]]. These DCs do not affect the trap’s cost or CR.
 
 ###### Attack Bonus/Saving Throw DC
 
@@ -213,11 +213,11 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Bricks from Ceiling**: CR 2; mechanical; touch trigger; repair reset; Atk +12 melee (2d6, bricks); multiple targets (all targets in two adjacent 5-ft. squares); Search DC 20; Disable Device DC 20. Market Price: 2,400 gp.
 
-**Burning Hands Trap**: CR 2; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 1st-level wizard, 1d4 fire, DC 11 Reflex save half damage); Search DC 26; Disable Device DC 26. Cost: 500 gp, 40 XP.
+**Burning Hands Trap**: CR 2; magic device; proximity trigger (alarm); automatic reset; spell effect ([[burning hands]], 1st-level wizard, 1d4 fire, DC 11 Reflex save half damage); Search DC 26; Disable Device DC 26. Cost: 500 gp, 40 XP.
 
 **Camouflaged Pit Trap**: CR 2; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 24; Disable Device DC 19. Market Price: 3,400 gp.
 
-**Inflict Light Wounds Trap**: CR 2; magic device; touch trigger; automatic reset; spell effect (inflict light wounds, 1st-level cleric, 1d8+1, DC 11 Will save half damage); Search DC 26; Disable Device DC 26. Cost: 500 gp, 40 XP.
+**[[Inflict Light Wounds]] Trap**: CR 2; magic device; touch trigger; automatic reset; spell effect ([[inflict light wounds]], 1st-level cleric, 1d8+1, DC 11 Will save half damage); Search DC 26; Disable Device DC 26. Cost: 500 gp, 40 XP.
 
 **Javelin Trap**: CR 2; mechanical; location trigger; manual reset; Atk +16 ranged (1d6+4, javelin); Search DC 20; Disable Device DC 18. Market Price: 4,800 gp.
 
@@ -235,21 +235,21 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 ###### CR 3 Traps
 
-**Burning Hands Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 5th-level wizard, 5d4 fire, DC 11 Reflex save half damage); Search DC 26; Disable Device DC 26. Cost: 2,500 gp, 200 XP.
+**Burning Hands Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; spell effect ([[burning hands]], 5th-level wizard, 5d4 fire, DC 11 Reflex save half damage); Search DC 26; Disable Device DC 26. Cost: 2,500 gp, 200 XP.
 
 **Camouflaged Pit Trap**: CR 3; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 30 ft. deep (3d6, fall); multiple targets (first target in each of two adjacent squares); Search DC 24; Disable Device DC 18. Market Price: 4,800 gp.
 
 **Ceiling Pendulum**: CR 3; mechanical; timed trigger; automatic reset; Atk +15 melee (1d12+8/x3, greataxe); Search DC 15; Disable Device DC 27. Market Price: 14,100 gp.
 
-**Fire Trap**: CR 3; spell; spell trigger; no reset; spell effect (fire trap, 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Search DC 27; Disable Device DC 27. Cost: 85 gp to hire NPC spellcaster.
+**[[Fire Trap]]**: CR 3; spell; spell trigger; no reset; spell effect ([[fire trap]], 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Search DC 27; Disable Device DC 27. Cost: 85 gp to hire NPC spellcaster.
 
-**Extended Bane Trap**: CR 3; magic device; proximity trigger (detect good); automatic reset; spell effect (extended bane, 3rd-level cleric, DC 13 Will save negates); Search DC 27; Disable Device DC 27. Cost: 3,500 gp, 280 XP.
+**Extended Bane Trap**: CR 3; magic device; proximity trigger ([[detect good]]); automatic reset; spell effect (extended bane, 3rd-level cleric, DC 13 Will save negates); Search DC 27; Disable Device DC 27. Cost: 3,500 gp, 280 XP.
 
-**Ghoul Touch Trap**: CR 3; magic device; touch trigger; automatic reset; spell effect (ghoul touch, 3rd-level wizard, DC 13 Fortitude save negates); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP.
+**[[Ghoul Touch]] Trap**: CR 3; magic device; touch trigger; automatic reset; spell effect ([[ghoul touch]], 3rd-level wizard, DC 13 Fortitude save negates); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP.
 
 **Hail of Needles**: CR 3; mechanical; location trigger; manual reset; Atk +20 ranged (2d4); Search DC 22; Disable Device DC 22. Market Price: 5,400 gp.
 
-**Acid Arrow Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; Atk +2 ranged touch; spell effect (acid arrow, 3rd-level wizard, 2d4 acid/round for 2 rounds); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP.
+**[[Acid Arrow]] Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; Atk +2 ranged touch; spell effect ([[acid arrow]], 3rd-level wizard, 2d4 acid/round for 2 rounds); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP.
 
 **Pit Trap**: CR 3; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); Search DC 20; Disable Device DC 20. Market Price: 3,000 gp.
 
@@ -261,21 +261,21 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 ###### CR 4 Traps
 
-**Bestow Curse Trap**: CR 4; magic device; touch trigger (detect chaos); automatic reset; spell effect (bestow curse, 5th-level cleric, DC 14 Will save negates); Search DC 28; Disable Device DC 28. Cost: 8,000 gp, 640 XP.
+**[[Bestow Curse]] Trap**: CR 4; magic device; touch trigger ([[detect chaos]]); automatic reset; spell effect ([[bestow curse]], 5th-level cleric, DC 14 Will save negates); Search DC 28; Disable Device DC 28. Cost: 8,000 gp, 640 XP.
 
 **Camouflaged Pit Trap**: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 25; Disable Device DC 17. Market Price: 6,800 gp.
 
 **Collapsing Column**: CR 4; mechanical; touch trigger (attached); no reset; Atk +15 melee (6d6, stone blocks); Search DC 20; Disable Device DC 24. Market Price: 8,800 gp.
 
-**Glyph of Warding (Blast)**: CR 4; spell; spell trigger; no reset; spell effect (glyph of warding [blast], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Search DC 28; Disable Device DC 28. Cost: 350 gp to hire NPC spellcaster.
+**[[Glyph of Warding]] (Blast)**: CR 4; spell; spell trigger; no reset; spell effect ([[glyph of warding]] [blast], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Search DC 28; Disable Device DC 28. Cost: 350 gp to hire NPC spellcaster.
 
-**Lightning Bolt Trap**: CR 4; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 5th-level wizard, 5d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 7,500 gp, 600 XP.
+**Lightning Bolt Trap**: CR 4; magic device; proximity trigger (alarm); automatic reset; spell effect ([[lightning bolt]], 5th-level wizard, 5d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 7,500 gp, 600 XP.
 
 **Pit Trap**: CR 4; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall); Search DC 20; Disable Device DC 20. Market Price: 4,000 gp.
 
 **Poisoned Dart Trap**: CR 4; mechanical; location trigger; manual reset; Atk +15 ranged (1d4+4 plus poison, dart); multiple targets (1 dart per target in a 10-ft.-by-10-ft. area); poison (Small monstrous centipede poison, DC 10 Fortitude save resists, 1d2 Dex/1d2 Dex); Search DC 21; Disable Device DC 22. Market Price: 12,090 gp.
 
-**Sepia Snake Sigil Trap**: CR 4; spell; spell trigger; no reset; spell effect (sepia snake sigil, 5th-level wizard, DC 14 Reflex save negates); Search DC 28; Disable Device DC 28. Cost: 650 gp to hire NPC spellcaster.
+**[[Sepia Snake Sigil]] Trap**: CR 4; spell; spell trigger; no reset; spell effect ([[sepia snake sigil]], 5th-level wizard, DC 14 Reflex save negates); Search DC 28; Disable Device DC 28. Cost: 650 gp to hire NPC spellcaster.
 
 **Spiked Pit Trap**: CR 4; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC 20; Disable Device DC 20. Market Price: 4,000 gp.
 
@@ -293,9 +293,9 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Falling Block Trap**: CR 5; mechanical; location trigger; manual reset; Atk +15 melee (6d6); multiple targets (can strike all characters in two adjacent specified squares); Search DC 20; Disable Device DC 25. Market Price: 15,000 gp.
 
-**Fire Trap**: CR 5; spell; spell trigger; no reset; spell effect (fire trap, 7th-level wizard, 1d4+7 fire, DC 16 Reflex save half damage); Search DC 29; Disable Device DC 29. Cost: 305 gp to hire NPC spellcaster.
+**[[Fire Trap]]**: CR 5; spell; spell trigger; no reset; spell effect ([[fire trap]], 7th-level wizard, 1d4+7 fire, DC 16 Reflex save half damage); Search DC 29; Disable Device DC 29. Cost: 305 gp to hire NPC spellcaster.
 
-**Fireball Trap**: CR 5; magic device; touch trigger; automatic reset; spell effect (fireball, 8th-level wizard, 8d6 fire, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 12,000 gp, 960 XP.
+**Fireball Trap**: CR 5; magic device; touch trigger; automatic reset; spell effect ([[fireball]], 8th-level wizard, 8d6 fire, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 12,000 gp, 960 XP.
 
 **Flooding Room Trap**: CR 5; mechanical; proximity trigger; automatic reset; no attack roll necessary (see note below); Search DC 20; Disable Device DC 25. Note: Room floods in 4 rounds. Market Price: 17,500 gp.
 
@@ -303,7 +303,7 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Moving Executioner Statue**: CR 5; mechanical; location trigger; automatic reset; hidden switch bypass (Search DC 25); Atk +16 melee (1d12+8/x3, greataxe); multiple targets (both arms attack); Search DC 25; Disable Device DC 18. Market Price: 22,500 gp.
 
-**Phantasmal Killer Trap**: CR 5; magic device; proximity trigger (alarm covering the entire room); automatic reset; spell effect (phantasmal killer, 7th-level wizard, DC 16 Will save for disbelief and DC 16 Fort save for partial effect); Search DC 29; Disable Device DC 29. Cost: 14,000 gp, 1,120 XP.
+**[[Phantasmal Killer]] Trap**: CR 5; magic device; proximity trigger (alarm covering the entire room); automatic reset; spell effect ([[phantasmal killer]], 7th-level wizard, DC 16 Will save for disbelief and DC 16 Fort save for partial effect); Search DC 29; Disable Device DC 29. Cost: 14,000 gp, 1,120 XP.
 
 **Pit Trap**: CR 5; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Search DC 20; Disable Device DC 20. Market Price: 5,000 gp.
 
@@ -321,13 +321,13 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Compacting Room**: CR 6; mechanical; timed trigger; automatic reset; hidden switch bypass (Search DC 25); walls move together (12d6, crush); multiple targets (all targets in a 10-ft.-by- 10-ft. room); never miss; onset delay (4 rounds); Search DC 20; Disable Device DC 22. Market Price: 25,200 gp.
 
-**Flame Strike Trap**: CR 6; magic device; proximity trigger (detect magic); automatic reset; spell effect (flame strike, 9th-level cleric, 9d6 fire, DC 17 Reflex save half damage); Search DC 30; Disable Device DC 30. Cost: 22,750 gp, 1,820 XP.
+**Flame Strike Trap**: CR 6; magic device; proximity trigger ([[detect magic]]); automatic reset; spell effect (flame strike, 9th-level cleric, 9d6 fire, DC 17 Reflex save half damage); Search DC 30; Disable Device DC 30. Cost: 22,750 gp, 1,820 XP.
 
 **Fusillade of Spears**: CR 6; mechanical; proximity trigger; repair reset; Atk +21 ranged (1d8, spear); multiple targets (1d6 spears per target in a 10 ft.-by-10-ft. area); Search DC 26; Disable Device DC 20. Market Price: 31,200 gp.
 
 **Glyph of Warding (Blast)**: CR 6; spell; spell trigger; no reset; spell effect (glyph of warding [blast], 16th-level cleric, 8d8 sonic, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Search DC 28; Disable Device DC 28. Cost: 680 gp to hire NPC spellcaster.
 
-**Lightning Bolt Trap**: CR 6; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 10th-level wizard, 10d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 15,000 gp, 1,200 XP.
+**Lightning Bolt Trap**: CR 6; magic device; proximity trigger (alarm); automatic reset; spell effect ([[lightning bolt]], 10th-level wizard, 10d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 15,000 gp, 1,200 XP.
 
 **Spiked Blocks from Ceiling**: CR 6; mechanical; location trigger; repair reset; Atk +20 melee (6d6, spikes); multiple targets (all targets in a 10-ft.-by-10-ft. area); Search DC 24; Disable Device DC 20. Market Price: 21,600 gp.
 
@@ -341,21 +341,21 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 ###### CR 7 Traps
 
-**Acid Fog Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (acid fog, 11th-level wizard, 2d6/round acid for 11 rounds); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
+**[[Acid Fog]] Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect ([[acid fog]], 11th-level wizard, 2d6/round acid for 11 rounds); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
 
-**Blade Barrier Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (blade barrier, 11th-level cleric, 11d6 slashing, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
+**[[Blade Barrier]] Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect ([[blade barrier]], 11th-level cleric, 11d6 slashing, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
 
 **Burnt Othur Vapor Trap**: CR 7; mechanical; location trigger; repair reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); poison (burnt othur fumes, DC 18 Fortitude save resists, 1 Con drain/3d6 Con); Search DC 21; Disable Device DC 21. Market Price: 17,500 gp.
 
 **Chain Lightning Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (chain lightning, 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
 
-**Black Tentacles Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (black tentacles, 7th-level wizard, 1d4+7 tentacles, Atk +7 melee [1d6+4, tentacle]); multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares); Search DC 29; Disable Device DC 29. Cost: 1,400 gp, 112 XP.
+**[[Black Tentacles]] Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect ([[black tentacles]], 7th-level wizard, 1d4+7 tentacles, Atk +7 melee [1d6+4, tentacle]); multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares); Search DC 29; Disable Device DC 29. Cost: 1,400 gp, 112 XP.
 
 **Fusillade of Greenblood Oil Darts**: CR 7; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1 plus poison, dart); poison (greenblood oil, DC 13 Fortitude save resists, 1 Con/ 1d2 Con); multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); Search DC 25; Disable Device DC 25. Market Price: 33,000 gp.
 
 **Lock Covered in Dragon Bile**: CR 7; mechanical; touch trigger (attached); no reset; poison (dragon bile, DC 26 Fortitude save resists, 3d6 Str/0); Search DC 27; Disable Device DC 16. Market Price: 11,300 gp.
 
-**Summon Monster VI Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (summon monster VI, 11th-level wizard), Search DC 31; Disable Device DC 31. Cost: 3,300 gp, 264 XP.
+**[[Summon Monster VI]] Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect ([[summon monster VI]], 11th-level wizard), Search DC 31; Disable Device DC 31. Cost: 3,300 gp, 264 XP.
 
 **Water-Filled Room**: CR 7; mechanical; location trigger; manual reset; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); water; Search DC 20; Disable Device DC 25. Market Price: 21,000 gp.
 
@@ -367,21 +367,21 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Destruction Trap**: CR 8; magic device; touch trigger (alarm); automatic reset; spell effect (destruction, 13th-level cleric, DC 20 Fortitude save for 10d6 damage); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Earthquake Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (earthquake, 13th-level cleric, 65-ft. radius, DC 15 or 20 Reflex save, depending on terrain); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
+**[[Earthquake]] Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect ([[earthquake]], 13th-level cleric, 65-ft. radius, DC 15 or 20 Reflex save, depending on terrain); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
 
 **Insanity Mist Vapor Trap**: CR 8; mechanical; location trigger; repair reset; gas; never miss; onset delay (1 round); poison (insanity mist, DC 15 Fortitude save resists, 1d4 Wis/2d6 Wis); multiple targets (all targets in a 10-ft.-by-10-ft. room); Search DC 25; Disable Device DC 20. Market Price: 23,900 gp.
 
-**Acid Arrow Trap**: CR 8; magic device; visual trigger (true seeing); automatic reset; multiple traps (two simultaneous acid arrow traps); Atk +9 ranged touch and +9 ranged touch; spell effect (acid arrow, 18th-level wizard, 2d4 acid damage for 7 rounds); Search DC 27; Disable Device DC 27. Cost: 83,500 gp, 4,680 XP. Note: This trap is really two CR 6 acid arrow traps that fire simultaneously, using the same trigger and reset.
+**[[Acid Arrow]] Trap**: CR 8; magic device; visual trigger ([[true seeing]]); automatic reset; multiple traps (two simultaneous [[acid arrow]] traps); Atk +9 ranged touch and +9 ranged touch; spell effect ([[acid arrow]], 18th-level wizard, 2d4 acid damage for 7 rounds); Search DC 27; Disable Device DC 27. Cost: 83,500 gp, 4,680 XP. Note: This trap is really two CR 6 [[acid arrow]] traps that fire simultaneously, using the same trigger and reset.
 
-**Power Word Stun Trap**: CR 8; magic device; touch trigger; no reset; spell effect (power word stun, 13th-level wizard), Search DC 32; Disable Device DC 32. Cost: 4,550 gp, 364 XP.
+**[[Power Word Stun]] Trap**: CR 8; magic device; touch trigger; no reset; spell effect ([[power word stun]], 13th-level wizard), Search DC 32; Disable Device DC 32. Cost: 4,550 gp, 364 XP.
 
-**Prismatic Spray Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (prismatic spray, 13th-level wizard, DC 20 Reflex, Fortitude, or Will save, depending on effect); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
+**[[Prismatic Spray]] Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect ([[prismatic spray]], 13th-level wizard, DC 20 Reflex, Fortitude, or Will save, depending on effect); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Reverse Gravity Trap**: CR 8; magic device; proximity trigger (alarm, 10-ft. area); automatic reset; spell effect (reverse gravity, 13th-level wizard, 6d6 fall [upon hitting the ceiling of the 60-ft.- high room], then 6d6 fall [upon falling 60 ft. to the floor when the spell ends], DC 20 Reflex save avoids damage); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
+**[[Reverse Gravity]] Trap**: CR 8; magic device; proximity trigger (alarm, 10-ft. area); automatic reset; spell effect ([[reverse gravity]], 13th-level wizard, 6d6 fall [upon hitting the ceiling of the 60-ft.- high room], then 6d6 fall [upon falling 60 ft. to the floor when the spell ends], DC 20 Reflex save avoids damage); Search DC 32; Disable Device DC 32. Cost: 45,500 gp, 3,640 XP.
 
 **Well-Camouflaged Pit Trap**: CR 8; mechanical; location trigger; repair reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Search DC 27; Disable Device DC 18. Market Price: 16,000 gp.
 
-**Word of Chaos Trap**: CR 8; magic device; proximity trigger (detect law); automatic reset; spell effect (word of chaos, 13th-level cleric); Search DC 32; Disable Device DC 32. Cost: 46,000 gp, 3,680 XP.
+**[[Word of Chaos]] Trap**: CR 8; magic device; proximity trigger ([[detect law]]); automatic reset; spell effect ([[word of chaos]], 13th-level cleric); Search DC 32; Disable Device DC 32. Cost: 46,000 gp, 3,680 XP.
 
 ###### CR 9 Traps
 
@@ -389,7 +389,7 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Dropping Ceiling**: CR 9; mechanical; location trigger; repair reset; ceiling moves down (12d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (1 round); Search DC 20; Disable Device DC 16. Market Price: 12,600 gp.
 
-**Incendiary Cloud Trap**: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Search DC 33; Disable Device DC 33. Cost: 60,000 gp, 4,800 XP.
+**[[Incendiary Cloud]] Trap**: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect ([[incendiary cloud]], 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Search DC 33; Disable Device DC 33. Cost: 60,000 gp, 4,800 XP.
 
 **Wide-Mouth Pit Trap**: CR 9; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Search DC 25; Disable Device DC 25. Market Price: 40,500 gp.
 
@@ -401,19 +401,19 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Crushing Wall Trap**: CR 10; mechanical; location trigger; automatic reset; no attack roll required (18d6, crush); Search DC 20; Disable Device DC 25. Market Price: 25,000 gp.
 
-**Energy Drain Trap**: CR 10; magic device; visual trigger (true seeing); automatic reset; Atk +8 ranged touch; spell effect (energy drain, 17th-level wizard, 2d4 negative levels for 24 hours, DC 23 Fortitude save negates); Search DC 34; Disable Device DC 34. Cost: 124,000 gp, 7,920 XP.
+**Energy Drain Trap**: CR 10; magic device; visual trigger ([[true seeing]]); automatic reset; Atk +8 ranged touch; spell effect (energy drain, 17th-level wizard, 2d4 negative levels for 24 hours, DC 23 Fortitude save negates); Search DC 34; Disable Device DC 34. Cost: 124,000 gp, 7,920 XP.
 
-**Forcecage and Summon Monster VII trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; multiple traps (one forcecage trap and one summon monster VII trap that summons a hamatula); spell effect (forcecage, 13th-level wizard), spell effect (summon monster VII, 13th-level wizard, hamatula); Search DC 32; Disable Device DC 32. Cost: 241,000 gp, 7,280 XP. Note: This trap is really one CR 8 trap that creates a forcecage and a second CR 8 trap that summons a hamatula in the same area. If both succeed, the hamatula appears inside the forcecage. These effects are independent of each other.
+**[[Forcecage]] and [[Summon Monster VII]] trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; multiple traps (one [[forcecage]] trap and one [[summon monster VII]] trap that summons a hamatula); spell effect ([[forcecage]], 13th-level wizard), spell effect ([[summon monster VII]], 13th-level wizard, hamatula); Search DC 32; Disable Device DC 32. Cost: 241,000 gp, 7,280 XP. Note: This trap is really one CR 8 trap that creates a [[forcecage]] and a second CR 8 trap that summons a hamatula in the same area. If both succeed, the hamatula appears inside the [[forcecage]]. These effects are independent of each other.
 
 **Poisoned Spiked Pit Trap**: CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Search DC 25, Open Lock DC 30); DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); Search DC 16; Disable Device DC 25. Market Price: 19,700 gp.
 
-**Wail of the Banshee Trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; spell effect (wail of the banshee, 17th-level wizard, DC 23 Fortitude save negates); multiple targets (up to 17 creatures); Search DC 34; Disable Device DC 34. Cost: 76,500 gp, 6,120 XP.
+**[[Wail of the Banshee]] Trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; spell effect ([[wail of the banshee]], 17th-level wizard, DC 23 Fortitude save negates); multiple targets (up to 17 creatures); Search DC 34; Disable Device DC 34. Cost: 76,500 gp, 6,120 XP.
 
 ##### DESIGNING A TRAP
 
 **Mechanical Traps**: Simply select the elements you want the trap to have and add up the adjustments to the trap’s Challenge Rating that those elements require (see Table: CR Modifiers for Mechanical Traps) to arrive at the trap’s final CR. From the CR you can derive the DC of the [[Craft]] (trapmaking) checks a character must make to construct the trap.
 
-**Magic Traps**: As with mechanical traps, you don’t have to do anything other than decide what elements you want and then determine the CR of the resulting trap (see Table: CR Modifiers for Magic Traps). If a player character wants to design and construct a magic trap, he must have the [[Craft Wondrous Item]] feat. In addition, he must be able to cast the spell or spells that the trap requires—or, failing that, he must be able to hire an NPC to cast the spells for him.
+**Magic Traps**: As with mechanical traps, you don’t have to do anything other than decide what elements you want and then determine the CR of the resulting trap (see Table: CR Modifiers for Magic Traps). If a player character wants to design and construct a [[magic trap]], he must have the [[Craft Wondrous Item]] feat. In addition, he must be able to cast the spell or spells that the trap requires—or, failing that, he must be able to hire an NPC to cast the spells for him.
 
 ###### Challenge Rating of a Trap
 
@@ -421,7 +421,7 @@ To calculate the Challenge Rating of a trap, add all the CR modifiers (see the t
 
 **Mechanical Trap**: The base CR for a mechanical trap is 0. If your final CR is 0 or lower, add features until you get a CR of 1 or higher.
 
-**Magic Trap**: For a spell trap or magic device trap, the base CR is 1. The highest-level spell used modifies the CR (see Table: CR Modifiers for Magic Traps).
+**[[Magic Trap]]**: For a spell trap or magic device trap, the base CR is 1. The highest-level spell used modifies the CR (see Table: CR Modifiers for Magic Traps).
 
 **Average Damage**: If a trap (either mechanical or magic) does hit point damage, calculate the average damage for a successful hit and round that value to the nearest multiple of 7. Use this value to adjust the Challenge Rating of the trap, as indicated on the tables below. Damage from poisons and pit spikes does not count toward this value, but damage from a high strength rating and extra damage from multiple attacks does.
 
@@ -600,7 +600,4 @@ Once you know the Challenge Rating of a trap determine the [[Craft]] (trapmaking
 
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

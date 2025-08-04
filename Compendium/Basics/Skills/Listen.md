@@ -1,5 +1,6 @@
 ---
-aliases: [Listen]
+aliases:
+ - Listen
 title: Compendium/Basics/skills/Listen
 tags: skill
 ---
@@ -66,5 +67,4 @@ successful check awakens the sleeper.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

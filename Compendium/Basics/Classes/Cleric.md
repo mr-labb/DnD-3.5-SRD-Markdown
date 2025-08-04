@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Cleric]
+aliases:
+ - Cleric
 title: Compendium/Basics/Classe/Cleric
 tag: Class, Cleric
 ---
@@ -9,7 +10,8 @@ tag: Class, Cleric
 
 ### CLERIC
 
-
+<br><br>The handiwork of the gods is everywhere - in places of natural beauty, in mighty crusades, in soaring temples, and in the hearts of worshipers. Like people, gods run the gamut from benevolent to malicious, reserved to intrusive, simple to inscrutable. The gods, however, work mostly through intermediaries - their clerics. Good clerics heal, protect, and avenge. Evil clerics pillage, destroy, and sabotage. A cleric uses the power of his god to make his god's will manifest. And if a cleric uses his god's power to improve his own lot, that's to be expected, too.<br><br>Ideally, a cleric's adventures support his god's causes, at least in a general way. A good cleric, for example, helps those in need. If, through noble acts, he can improve the reputation to his god or temple, that's even better. An evil cleric seeks to increase his own power and that of his deity, so that others will respect and fear both.<br><br>Clerics sometimes receive orders, or at least suggestions, from their ecclesiastical superiors, directing them to undertake missions for the church. The clerics and their companions are compensated fairly for these missions, and the church may be especially generous with the casting of needed spells or divine magic items as payment. Of course, clerics are people, too, and they may have any or all the more common motivations for adventuring.<br><br>Clerics are masters of divine magic, which is especially good at healing. Even an inexperienced cleric can bring people back from the brink of death, and an experienced cleric can bring back people who have crossed over that brink. As channelers of divine energy, clerics can affect undead creatures. A good cleric can turn away or even destroy undead; an evil cleric can bring undead under his control. Clerics have some combat training. They can use simple weapons, and they are trained in the use of armor, since armor does not interfere with divine spells the way it does with arcane spells.<br><br>Alignment: Like the gods they serve, clerics can be of any alignment. Because people more readily worship good deities than neutral or evil ones, there are more good than evil clerics. Clerics also tend toward law instead of chaos, since lawful religions tend to be more structured and better able to recruit and train clerics than chaotic ones.<br><br>Typically, a cleric is the same alignment as his deity, though some clerics are one step away from their respective deities in alignment. For example, most clerics of Heironeous, the god of valor (who is lawful good) are lawful good, but some are lawful neutral or neutral good. Additionally, a cleric may not be neutral (that is, neutral on both the good-evil axis and the lawful-chaotic axis) unless his deity is neutral.<br><br>Every reasonably well-known deity has clerics devoted to him or her, so clerics can be of any religion. The deity most common worshiped by human clerics in civilized lands is Pelor (god of the sun). The majority of nonhuman clerics are devoted to the chief god of the appropriate racial pantheon. Most clerics are officially ordained members of religious organizations, commonly called churches. Each has sworn to uphold the ideals of his church. Some clerics devote themselves not to a god but to a cause or a source of [[divine power]]. These characters wield magic the way clerics devoted to individual gods do, but they are not associated with any religious institution or any particular practice of worship. A cleric devoted to good and law, for example, may be on friendly terms with the clerics of lawful and good deities and may extol the virtues of a good and lawful life, but he is not a functionary in a church hierarchy.<br><br>Most clerics join their churches as young adults, though some are devoted to a god's service from a young age, and a few feel the call later in life. While some clerics are tightly bound to their churches' activities on a daily basis, others have more freedom to conduct their lives as they please, as long as they do so in accordance with their gods' wishes.<br><br>Clerics of a given religion are all supposed to get along, though schisms within a church are often more bitter than conflicts between religions. Clerics who share some basic ideals, such as goodness or lawfulness, may find common cause with each other and see themselves as part of an order or body that supersedes any given religion. Clerics of opposed goals, however, are sworn enemies. In civilized lands, open warfare between religions occurs only during civil wars and similar social upheavals, but vicious politicking between opposed churches is common.<br><br>All the common races are represented in this class, since the need for religion and divine magic is universal. The clerics of most races, however, are too focused on their religious duties to undertake an adventurer's life. Crusading, adventuring clerics most often come from the human and dwarf races. Among the savage humanoids, clerics are less common. The exception is troglodytes, who take well to divine magic and are often led by priests, who make a practice of sacrificing and devouring captives.<br><br>In an adventuring party, the cleric is everybody's friend and often the glue that holds the party together. As the one who can channel divine energy, a cleric is a capable healer, and adventurers of every class appreciate being put back together after they've taken some hard knocks. Clerics sometimes clash with druids, since druids represent an older, more primal relationship between the mortal and the divine. Mostly, though, the religion of a cleric determines how he gets along with others. A cleric of Olidammara (god of thieves), gets along fine with rogues and ne'er-do-wells, for example, while a cleric of Heironeous (god of valor) rankles at such company.<br><br>The cleric serves as a typical group's primary healer, diviner, and defensive specialist. He can hold his own in a fight but usually isn't well served by charging to the front of combat. The cleric's domains and spell selection can greatly affect his role as well.|
+||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 **Alignment**: A cleric's alignment must be within one step of his deity's (that is, it may be one step away on either the lawful-chaotic axis or the good-evil axis, but not both). A cleric may not be neutral unless his deity's alignment is also neutral.
 
@@ -17,7 +19,7 @@ tag: Class, Cleric
 
 ###### Class Skills
 
-The cleric's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]](arcana) (Int), [[Knowledge]](history) (Int), [[Knowledge]](religion) (Int), [[Knowledge]](the planes) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
+The cleric's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]](arcana) (Int), [[Compendium/Basics/Skills/Knowledge]](history) (Int), [[Compendium/Basics/Skills/Knowledge]](religion) (Int), [[Compendium/Basics/Skills/Knowledge]](the planes) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -60,7 +62,7 @@ All of the following are class features of the cleric.
 
 A cleric who chooses the [[War]] domain receives the [[Weapon Focus]] feat related to his deity's weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
-**Aura (Ex)**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment (see the detect evil spell for details). Clerics who don't worship a specific deity but choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura of the corresponding alignment.
+**Aura (Ex)**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity's alignment (see the [[detect evil]] spell for details). Clerics who don't worship a specific deity but choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura of the corresponding alignment.
 
 **Spells**: A cleric casts divine spells, which are drawn from the [[cleric spells list]]. However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must choose and prepare his spells in advance (see below).
 
@@ -88,13 +90,13 @@ A cleric who is neither good nor evil and whose deity is neither good nor evil c
 
 A good cleric (or a neutral cleric who worships a good deity) can turn or destroy undead creatures. An evil cleric (or a neutral cleric who worships an evil deity) instead rebukes or commands such creatures. A neutral cleric of a neutral deity must choose whether his turning ability functions as that of a good cleric or an evil cleric. Once this choice is made, it cannot be reversed. This decision also determines whether the cleric can cast spontaneous cure or inflict spells (see above).
 
-A cleric may attempt to [[turn undead]] a number of times per day equal to 3 + his Charisma modifier. A cleric with 5 or more ranks in [[Knowledge]] (religion) gets a +2 bonus on turning checks against undead.
+A cleric may attempt to [[turn undead]] a number of times per day equal to 3 + his Charisma modifier. A cleric with 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (religion) gets a +2 bonus on turning checks against undead.
 
 **Bonus Languages**: A cleric's bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race.
 
 ###### Ex-Clerics
 
-A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. He cannot thereafter gain levels as a cleric of that god until he atones (see the atonement spell description).
+A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. He cannot thereafter gain levels as a cleric of that god until he atones (see the [[atonement]] spell description).
 
 ### CLERIC VARIANTS
 
@@ -116,7 +118,7 @@ Many cultures, both primitive and surprisingly advanced, give their religious de
 
 ##### Class Skills
 
-The ancestral speaker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (history) (Int), [[Knowledge]] (local) (Int), [[Knowledge]] (religion) (Int), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[SpellCraft]] (Int). Further, an ancestral speaker may choose any two cross-class skills to become class skills; these were taught to him by his ancestors during communion over the course of his training to become an ancestral speaker.
+The ancestral speaker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (local) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[SpellCraft]] (Int). Further, an ancestral speaker may choose any two cross-class skills to become class skills; these were taught to him by his ancestors during communion over the course of his training to become an ancestral speaker.
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -156,7 +158,7 @@ All of the following are class features of the ancestral speaker.
 
 **Weapon and Armor Proficiency**: The ancestral speaker is proficient with all simple weapons, with light and medium armor, and with shields (except tower shields).
 
-**Ancestral Communion (Ex)**: In addition to spells, the ancestral speaker may pray to his ancestors for advice or [[Knowledge]]. At 1st level, the ancestral speaker may request a bonus on any one specific skill, once per day. The ancestors grant him temporary [[Knowledge]] of that skill, bestowing a competence bonus equal to the ancestral speaker's Charisma modifier plus his class level. It does not matter if the speaker already possesses any ranks in this skill or not; the ancestral speaker can use the skill even if he is untrained in its use or cannot normally use it. The bonus lasts for a number of rounds equal to 1 plus the ancestral speaker's Charisma bonus. At 5th level and every 5 levels thereafter, the ancestral speaker may use this power an additional time per day.
+**Ancestral Communion (Ex)**: In addition to spells, the ancestral speaker may pray to his ancestors for advice or [[Compendium/Basics/Skills/Knowledge]]. At 1st level, the ancestral speaker may request a bonus on any one specific skill, once per day. The ancestors grant him temporary [[Compendium/Basics/Skills/Knowledge]] of that skill, bestowing a competence bonus equal to the ancestral speaker's Charisma modifier plus his class level. It does not matter if the speaker already possesses any ranks in this skill or not; the ancestral speaker can use the skill even if he is untrained in its use or cannot normally use it. The bonus lasts for a number of rounds equal to 1 plus the ancestral speaker's Charisma bonus. At 5th level and every 5 levels thereafter, the ancestral speaker may use this power an additional time per day.
 
 At 9th level, the ancestral speaker may choose to ask the ancestors' advice, rather than seeking their aid with skills. Instead of a skill bonus, he may choose to ask them questions, as per the commune spell cast by a cleric of his level. He may do this only once per day; any other uses of ancestral communion during that day must be requests for help with a skill.
 
@@ -174,7 +176,7 @@ Many worlds have gods of magic and clerics who worship them. Some clerics, howev
 
 ##### Class Skills
 
-The arcane disciple's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Profession]] (Wis), [[SpellCraft]] (Int), and Use Magic Device (Cha).
+The arcane disciple's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Profession]] (Wis), [[SpellCraft]] (Int), and Use Magic Device (Cha).
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -226,7 +228,7 @@ Among some religious orders, the goal of the initiates is not to serve the gods 
 
 ##### Class Skills
 
-The aspirant's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The aspirant's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -288,7 +290,7 @@ To take an azurin cleric substitution level, a character must be an azurin about
 
 ##### Class Skills
 
-Azurin cleric substitution levels grant the same class skills as the standard cleric class, plus [[Knowledge]] (the planes).
+Azurin cleric substitution levels grant the same class skills as the standard cleric class, plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -340,7 +342,7 @@ In many cultures, the primary function of the cleric is to bless the undertaking
 
 ##### Class Skills
 
-The benevolent's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The benevolent's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -382,25 +384,25 @@ All of the following are class features of the benevolent.
 
 **Spontaneous Casting (Ex)**: The benevolent has a wider range of spontaneous spells than the standard cleric, although they are all geared toward aiding others. The benevolent may lose any prepared spell of equal or higher level in exchange for any of the following spells:
 
-_0_ - cure minor wounds, guidance, resistance;
+_0_ - [[cure minor wounds]], guidance, resistance;
 
-_1st_ - bless, cure light wounds, sanctuary;
+_1st_ - [[bless]], [[cure light wounds]], [[sanctuary]];
 
-_2nd_ - aid, cure moderate wounds, shield other;
+_2nd_ - aid, [[cure moderate wounds]], shield other;
 
-_3rd_ - cure serious wounds, prayer, remove curse;
+_3rd_ - [[cure serious wounds]], [[prayer]], [[remove curse]];
 
-_4th_ - cure critical wounds, restoration, spell immunity;
+_4th_ - [[cure critical wounds]], restoration, [[Compendium/Spells/Spell Immunity|spell immunity]];
 
-_5th_ - atonement, mass cure light wounds;
+_5th_ - [[atonement]], [[Cure Light Wounds Mass|mass cure light wounds]];
 
-_6th_ - mass cure moderate wounds, heal;
+_6th_ - [[Cure Moderate Wounds Mass|mass cure moderate wounds]], heal;
 
-_7th_ - greater restoration, mass cure serious wounds;
+_7th_ - [[Restoration Greater|greater restoration]], [[Cure Serious Wounds Mass|mass cure serious wounds]];
 
-_8th_ - mass cure critical wounds;
+_8th_ - [[Cure Critical Wounds Mass|mass cure critical wounds]];
 
-_9th_ - mass heal.
+_9th_ - [[Heal Mass|mass heal]].
 
 **Luck of the Gods (Sp)**: Starting at 4th level, the benevolent can, with a brief benediction, bestow good fortune upon others. The recipient of this prayer may, any time within the next 24 hours, reroll any single die roll, as per the granted power for the Luck Domain. If the blessing is not used within 24 hours, it is lost. Additionally, the recipient may add a luck bonus equal to the benevolent's Charisma bonus to any single roll during that 24-hour period. These two effects can be applied to the same roll. The benevolent may not use this power on himself, and he may use it only upon someone within one alignment step of his deity. Multiple applications of luck of the gods do not stack. This power may be used once per day at 4th level, twice per day at 8th level, three times per day at 12th level, four times per day at 16th level, and five times per day at 20th level.
 
@@ -418,7 +420,7 @@ Not all evil deities or fiendish powers are concerned with undead. Some grant th
 
 **Benefit**: You can call upon your evil master to smite your enemies. All good creatures within 30 feet must succeed on Fortitude saves (DC 10 + 1/2 your caster level + your Cha modifier) or become sickened for a number of rounds equal to your Charisma modifier (minimum 1 round).
 
-You can utter a blasphemous incantation a number of times per day equal to 3 + your Cha modifier. If you have 5 or more ranks in [[Knowledge]] (religion), the DC of the Fortitude save increases by 2.
+You can utter a blasphemous incantation a number of times per day equal to 3 + your Cha modifier. If you have 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (religion), the DC of the Fortitude save increases by 2.
 
 Blasphemous incantation is a supernatural ability.
 
@@ -434,7 +436,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 #### Cloistered Cleric
 
-The cloistered cleric spends more time than other clerics in study and prayer and less in martial training. He gives up some of the cleric's combat prowess in exchange for greater skill access and a wider range of spells devoted to [[Knowledge]] (and the protection of [[Knowledge]]).
+The cloistered cleric spends more time than other clerics in study and prayer and less in martial training. He gives up some of the cleric's combat prowess in exchange for greater skill access and a wider range of spells devoted to [[Compendium/Basics/Skills/Knowledge]] (and the protection of [[Compendium/Basics/Skills/Knowledge]]).
 
 Most cloistered clerics are nonchaotic, since they believe that a disciplined lifestyle lends itself better to learning.
 
@@ -444,7 +446,7 @@ Most cloistered clerics are nonchaotic, since they believe that a disciplined li
 
 ##### Class Skills
 
-The cloistered cleric's class skill list includes [[Decipher Script]], [[Speak Language]], and all [[Knowledge]] skills (from the [[Knowledge]] domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number × 4 at 1st level).
+The cloistered cleric's class skill list includes [[Decipher Script]], [[Speak Language]], and all [[Compendium/Basics/Skills/Knowledge]] skills (from the [[Compendium/Basics/Skills/Knowledge]] domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number × 4 at 1st level).
 
 ##### Class Features
 
@@ -452,11 +454,11 @@ The cloistered cleric has all the standard cleric class features, except as note
 
 **Weapon and Armor Proficiency**: Cloistered clerics are proficient with [[simple weapons]] and with [[light armor]].
 
-**Lore (Ex)**: Thanks to long hours of study, a cloistered cleric has a wide range of stray [[Knowledge]]. This ability is identical to the bard's [[bardic [[Knowledge]] class feature, using the cloistered cleric's class level in place of the bard level.
+**Lore (Ex)**: Thanks to long hours of study, a cloistered cleric has a wide range of stray [[Compendium/Basics/Skills/Knowledge]]. This ability is identical to the bard's [[bardic [[Compendium/Basics/Skills/Knowledge]] class feature, using the cloistered cleric's class level in place of the bard level.
 
-**Deity, Domains, and Domain Spells**: Most cloistered clerics worship deities associated with [[Knowledge]] and learning.
+**Deity, Domains, and Domain Spells**: Most cloistered clerics worship deities associated with [[Compendium/Basics/Skills/Knowledge]] and learning.
 
-In addition to any domains selected from his deity's list, a cloistered cleric automatically gains the [[Knowledge]] domain]] as a bonus domain (even if the [[Knowledge]] domain is not normally available to clerics of that deity). He gains the [[Knowledge]] domain granted power and may select his bonus domain spell from the [[Knowledge]] domain or from one of his two regular domains.
+In addition to any domains selected from his deity's list, a cloistered cleric automatically gains the [[Compendium/Basics/Skills/Knowledge]] domain]] as a bonus domain (even if the [[Compendium/Basics/Skills/Knowledge]] domain is not normally available to clerics of that deity). He gains the [[Compendium/Basics/Skills/Knowledge]] domain granted power and may select his bonus domain spell from the [[Compendium/Basics/Skills/Knowledge]] domain or from one of his two regular domains.
 
 **Spellcasting**: Add the following spells to the cloistered cleric's class spell list:
 
@@ -484,7 +486,7 @@ The crusader is a holy warrior, a martial priest dedicated to battling the enemi
 
 ##### Class Skills
 
-The crusader's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), Ride, (Dex), and [[SpellCraft]] (Int).
+The crusader's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), Ride, (Dex), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) × 4.
 
@@ -526,7 +528,7 @@ All of the following are class features of the crusader.
 
 **Deific Foe (Ex)**: At 1st level and every 5 levels thereafter, a crusader must choose a deity opposed to her own god. The crusader gains a +4 morale bonus to attack and damage rolls against worshipers of the chosen deific foe.
 
-**Turn Foe's Followers (Su)**: Starting at ist level, the crusader may turn or destroy worshipers of her deific foe. This is resolved just like a normal cleric's turn undead ability, except that the ability only affects worshipers of the deific foe. A crusader can use this ability a number of times per day equal to 3 + her Charisma modifier. A crusader with 5 or more ranks of [[Knowledge]] (religion) gains a +2 bonus on turning checks against worshipers of her deific foe.
+**Turn Foe's Followers (Su)**: Starting at ist level, the crusader may turn or destroy worshipers of her deific foe. This is resolved just like a normal cleric's turn undead ability, except that the ability only affects worshipers of the deific foe. A crusader can use this ability a number of times per day equal to 3 + her Charisma modifier. A crusader with 5 or more ranks of [[Compendium/Basics/Skills/Knowledge]] (religion) gains a +2 bonus on turning checks against worshipers of her deific foe.
 
 **Bonus Feats**: The crusader gains a bonus feat at 3rd level and every five levels thereafter. These feats must come from the fighter's bonus feat list, with the following alteration: Remove Weapon Specialization and Greater Weapon Specialization from the list (as clerics cannot take those feats), and replace it with Combat Casting.
 
@@ -536,7 +538,7 @@ All of the following are class features of the crusader.
 
 The cleric has nineteen dead levels, but this is mitigated by their one and only special ability: turn or rebuke undead. The turning damage for this ability steadily increases every level (2d6 + the cleric's level + the cleric's Charisma modifier). Still, a prestige class that grants +1 level of divine spellcasting, normal turn or rebuke undead advancement, and special abilities at every level opens the door for a minor dead level ability.
 
-**Undead Intuition (Ex)**: Starting at 2nd level, a cleric can identify undead creatures during an encounter from any distance. The cleric gains a +2 bonus on [[Knowledge]] (religion) checks to identify undead creatures, but gains no insight about their special powers or vulnerabilities. See the [[Knowledge]] skill description. Moreover, the cleric can make these [[Knowledge]] (undead) checks untrained. This bonus increases by +1 for each cleric level the character takes after 2nd level.
+**Undead Intuition (Ex)**: Starting at 2nd level, a cleric can identify undead creatures during an encounter from any distance. The cleric gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks to identify undead creatures, but gains no insight about their special powers or vulnerabilities. See the [[Compendium/Basics/Skills/Knowledge]] skill description. Moreover, the cleric can make these [[Compendium/Basics/Skills/Knowledge]] (undead) checks untrained. This bonus increases by +1 for each cleric level the character takes after 2nd level.
 
 
 
@@ -564,21 +566,21 @@ Although the ability to turn undead is arguably a defining cleric characteristic
 
 **Level**: 1st (cleric) or 4th (paladin).
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the ability to turn or rebuke undead.
 
-**Benefit**: You gain the supernatural ability to counter another spellcaster's magic through pure force of will. This ability functions just as if you were using dispel magic to counter the spell, except that you add your cleric level (instead of your caster level) to the d20 roll. You don't need to identify the spell the opposing spellcaster is casting to make the attempt.
+**Benefit**: You gain the supernatural ability to counter another spellcaster's magic through pure force of will. This ability functions just as if you were using [[dispel magic]] to counter the spell, except that you add your cleric level (instead of your caster level) to the d20 roll. You don't need to identify the spell the opposing spellcaster is casting to make the attempt.
 
 If you don't have a cleric level, use your effective cleric level for the purpose of turning undead. For example, a paladin would normally turn undead as a cleric of three levels lower; her effective cleric level for counterspelling is equal to her paladin level - 3.
 
 You can attempt to counterspell a number of times per day equal to 1 + your Cha modifier.
 
-A character with 5 or more ranks in [[Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
+A character with 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
 
 #### Divine Magician
 
-Deities influence the world through the divine spells they grant their worshipers. Some clerics, however, choose to explore magical powers beyond those commonly provided by the gods. By giving up some of their divine power, these clerics gain access to spells normally beyond their abilities.
+Deities influence the world through the divine spells they grant their worshipers. Some clerics, however, choose to explore magical powers beyond those commonly provided by the gods. By giving up some of their [[divine power]], these clerics gain access to spells normally beyond their abilities.
 
 This class feature can be chosen only once.
 
@@ -586,7 +588,7 @@ This class feature can be chosen only once.
 
 **Level**: 1st.
 
-**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You gain only one domain (including spells and granted power) at 1st level, rather than two.
 
@@ -600,9 +602,9 @@ When you or your teammates lose your strength in the middle of a dungeon, you ca
 
 **Replaces**: If you select this alternative class feature, you sacrifice one of your domain granted powers.
 
-**Benefit**: At 3rd level, select one of your chosen cleric domains. You can still select and cast spells from that domain list, but you no longer can use the domain's granted power. Instead, you gain the ability to spontaneously cast lesser restoration, restoration, or greater restoration by sacrificing a prepared spell of the same level.
+**Benefit**: At 3rd level, select one of your chosen cleric domains. You can still select and cast spells from that domain list, but you no longer can use the domain's granted power. Instead, you gain the ability to spontaneously cast [[Restoration Lesser|lesser restoration]], [[restoration]], or [[Restoration Greater|greater restoration]] by sacrificing a prepared spell of the same level.
 
-For example, Jozan is 3rd level and selects this alternate class feature. He had chosen the Healing and Protection domains at 1st level. He gives up the Healing domain granted power. He no longer casts healing spells at +1 caster level, but he can sacrifice a prepared 2nd-level spell to spontaneously cast lesser restoration. At 7th level, he'll be able to sacrifice a 4th-level spell to cast restoration, and at 13th level, a 7th-level spell to cast greater restoration.
+For example, Jozan is 3rd level and selects this alternate class feature. He had chosen the Healing and Protection domains at 1st level. He gives up the Healing domain granted power. He no longer casts healing spells at +1 caster level, but he can sacrifice a prepared 2nd-level spell to spontaneously cast [[Restoration Lesser|lesser restoration]]. At 7th level, he'll be able to sacrifice a 4th-level spell to cast [[restoration]], and at 13th level, a 7th-level spell to cast [[Restoration Greater|greater restoration]].
 
 **Special**: When spontaneously casting a restoration spell, you must still expend the required components.
 
@@ -654,11 +656,11 @@ A half-dragon who takes one or more of these substitution levels must choose the
 
 A dragonblood cleric who doesn't take the 1st-level racial substitution level can expend turn undead uses in place of turn energy uses if she takes the 5th- or 9th-level racial substitution levels.
 
-**Turn Energy (Su)**: Starting at 1st level, a dragonblood cleric can channel the elemental power of dragons to grant her and her allies protection from energy a number of times per day equal to 3 + her Charisma modifier.
+**Turn Energy (Su)**: Starting at 1st level, a dragonblood cleric can channel the elemental power of dragons to grant her and her allies [[protection from energy]] a number of times per day equal to 3 + her Charisma modifier.
 
 Using this ability is a standard action that does not provoke attacks of opportunity. The cleric and all allies within 30 feet gain temporary immunity to the specified energy type. Each protected ally remains immune until the effect protects him from 5 points of energy damage per cleric level, after which the effect is discharged for that ally. If it is not discharged, the benefit of the effect fades after 1 minute per cleric level. The cleric can exclude herself and any allies she chooses from the effect.
 
-Turn energy overlaps and does not stack with the effect of the resist energy spell. If a character is warded by both this effect and resist energy, this effect absorbs damage until it is discharged. Turn energy stacks with the effect of the protection from energy spell.
+Turn energy overlaps and does not stack with the effect of the [[resist energy]] spell. If a character is warded by both this effect and [[resist energy]], this effect absorbs damage until it is discharged. Turn energy stacks with the effect of the [[protection from energy]] spell.
 
 This substitution level class feature replaces the standard cleric's turn or rebuke undead class feature. For a dragonblood cleric, turn energy counts as turn or rebuke undead for the purpose of meeting prerequisites for feats, prestige classes, and so on.
 
@@ -694,7 +696,7 @@ In addition, as you attain higher levels, your husk grants you increasing resist
 
 Your dragonscale husk is treated as medium armor for the purpose of determining your speed and whether you can use class features or other special abilities. It allows a maximum Dexterity bonus to Armor Class of +2 and has an armor check penalty of -4. You can sleep in your husk without penalty. You cannot wear any other armor while your husk is present.
 
-Your husk isn't treated as armor for the purpose of being affected by spells or other abilities. You can't grant it an enhancement bonus with magic vestment, nor can you imbue it with special properties, as you could a normal suit of armor.
+Your husk isn't treated as armor for the purpose of being affected by spells or other abilities. You can't grant it an enhancement bonus with [[magic vestment]], nor can you imbue it with special properties, as you could a normal suit of armor.
 
 You can't take off your dragonscale husk, but you can choose to shed it. Doing this requires 10 minutes of concentration and results in your sloughing off a pile of scales that crumble to dust if handled.
 
@@ -726,7 +728,7 @@ To take a dwarf cleric substitution level, a character must be a dwarf about to 
 
 ##### Class Skills
 
-Dwarf cleric substitution levels have the class skills of the standard cleric class plus [[Knowledge]] (dungeoneering) (Int).
+Dwarf cleric substitution levels have the class skills of the standard cleric class plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -754,7 +756,7 @@ This racial substitution level is only available to dwarf clerics who follow Mor
 
 This benefit replaces the 2nd-level spell slot gained by a standard cleric at 4th level. From now on, the cleric can prepare one fewer 2nd-level cleric spell than indicated on Table: The Cleric.
 
-**Earthen Spell Power (Ex)**: A dwarf cleric who takes the 8th-level racial substitution level draws power from the earth when casting certain spells. When she is in contact with the ground, the cleric's effective caster level when casting spells with the earth descriptor (or any spell from the Earth domain, such as stoneskin) increases by one. This increase applies when determining level-dependent spell variables and on caster level checks. This increase stacks with other spell power abilities, such as from the hierophant prestige class.
+**Earthen Spell Power (Ex)**: A dwarf cleric who takes the 8th-level racial substitution level draws power from the earth when casting certain spells. When she is in contact with the ground, the cleric's effective caster level when casting spells with the earth descriptor (or any spell from the Earth domain, such as [[stoneskin]]) increases by one. This increase applies when determining level-dependent spell variables and on caster level checks. This increase stacks with other spell power abilities, such as from the hierophant prestige class.
 
 This benefit replaces the 4th-level spell slot gained by a standard cleric at 8th level. From now on, the cleric can prepare one fewer 4th-level cleric spell than indicated on Table: The Cleric.
 
@@ -766,7 +768,7 @@ Variably respected, scorned, or feared by other clerics, the evangelist has an i
 
 ##### Class Skills
 
-The evangelist's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Heal]] (Wis), [[Knowledge]] (local) (lnt), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The evangelist's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (local) (lnt), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) × 4.
 
@@ -871,7 +873,7 @@ Chose one of your domains. Through your long devotion and hours of study, you ha
 _Magic Item_: Temples have long known the secret of forging special holy symbols that enhance the tie between a cleric and his deity. These rare and valuable magic items bestow the improved granted power while worn (see Devoted Symbol below). Clerics who wear one of these symbols retain both of their granted domain abilities and chose domain spells normally.
 
 **DEVOTED SYMBOL**  
-These rare holy symbols enhance the bond between a cleric and his deity, granting access to one improved granted power. Devoted symbols are tied to one specific domain and only grant the power if the wearer already has that domain and is a follower of the same deity. A devoted symbol of Vecna tied to the [[Knowledge]] domain only grants the divine inspiration ability if the wearer is a cleric of Vecna with the [[Knowledge]] domain. Devoted symbols are worn around the neck, taking up the amulet slot, and can be used as a holy symbol for the purposes of turning or rebuking undead and as a spell focus.
+These rare holy symbols enhance the bond between a cleric and his deity, granting access to one improved granted power. Devoted symbols are tied to one specific domain and only grant the power if the wearer already has that domain and is a follower of the same deity. A devoted symbol of Vecna tied to the [[Compendium/Basics/Skills/Knowledge]] domain only grants the divine inspiration ability if the wearer is a cleric of Vecna with the [[Compendium/Basics/Skills/Knowledge]] domain. Devoted symbols are worn around the neck, taking up the amulet slot, and can be used as a holy symbol for the purposes of turning or rebuking undead and as a spell focus.
 
 Moderate divination; CL 7th; Craft Wondrous Item, divination; Price 20,000 gp; Weight 1/2 lb.
 
@@ -893,7 +895,7 @@ The following powers represent all of the domains present in the Player's Handbo
 
 ##### ANIMAL
 
-**Totemic Spirit Companion (Sp)**: You can call upon the spirits of the natural world to aid you as a full-round action. This functions just like the spell summon nature's ally I using your cleric level as the caster level. All creatures summoned in this way have either the celestial or fiendish template as appropriate to the type of energy you channel. You may use this ability once per day for every two cleric levels you possess (minimum 1). Additional uses of this ability may be expended to summon more powerful creatures, with each additional use spent increasing the spell to the next highest level. For example, a 6th-level cleric could use this ability to cast summon nature's ally I three times per day or summon nature's ally III once per day (or any other combination).
+**Totemic Spirit Companion (Sp)**: You can call upon the spirits of the natural world to aid you as a full-round action. This functions just like the spell [[Summon Natures Ally I|summon nature's ally I]] using your cleric level as the caster level. All creatures summoned in this way have either the celestial or fiendish template as appropriate to the type of energy you channel. You may use this ability once per day for every two cleric levels you possess (minimum 1). Additional uses of this ability may be expended to summon more powerful creatures, with each additional use spent increasing the spell to the next highest level. For example, a 6th-level cleric could use this ability to cast [[Summon Natures Ally I|summon nature's ally I]] three times per day or [[Summon Natures Ally III|summon nature's ally III]] once per day (or any other combination).
 
 ##### CHAOS
 
@@ -901,7 +903,7 @@ The following powers represent all of the domains present in the Player's Handbo
 
 ##### DEATH
 
-**Call of the Grave (Su)**: Creatures near you feel the inevitability of death and resist attempts to keep them among the living. When activated, all conjuration spells of the healing subschool cast within 30 feet of you heal half as much damage as normal. In addition, spells that restore life, such as raise dead, reincarnate, and resurrection do not function when cast within 30 feet of you. You may use this ability 1 round per day per cleric level you possess. These rounds need not be consecutive.
+**Call of the Grave (Su)**: Creatures near you feel the inevitability of death and resist attempts to keep them among the living. When activated, all conjuration spells of the healing subschool cast within 30 feet of you heal half as much damage as normal. In addition, spells that restore life, such as [[raise dead]], [[reincarnate]], and [[resurrection]] do not function when cast within 30 feet of you. You may use this ability 1 round per day per cleric level you possess. These rounds need not be consecutive.
 
 ##### DESTRUCTION
 
@@ -927,9 +929,9 @@ The following powers represent all of the domains present in the Player's Handbo
 
 **Healing Light (Su)**: You may channel divine energy as a free action to enhance a spell of the healing subschool. When using this ability, such spells with a range of touch may be cast with a range of close (25 ft. + 5 ft./2 levels). You may use this ability a number of times per day equal to your cleric level.
 
-##### [[Knowledge]]
+##### [[Compendium/Basics/Skills/Knowledge]]
 
-**Divine Inspiration (Su)**: You can glimpse into the mind of your deity, granting you unsurpassed powers of recall and intuition. You can channel divine energy to take to on any [[Knowledge]] skill check as if you had ranks in it, even if you are untrained, as a free action. You may add your Charisma bonus to the check in addition to your Intelligence bonus. You may use this ability a number of times per day equal to you cleric level.
+**Divine Inspiration (Su)**: You can glimpse into the mind of your deity, granting you unsurpassed powers of recall and intuition. You can channel divine energy to take to on any [[Compendium/Basics/Skills/Knowledge]] skill check as if you had ranks in it, even if you are untrained, as a free action. You may add your Charisma bonus to the check in addition to your Intelligence bonus. You may use this ability a number of times per day equal to you cleric level.
 
 ##### LAW
 
@@ -949,7 +951,7 @@ The following powers represent all of the domains present in the Player's Handbo
 
 ##### STRENGTH
 
-**Tremendous Might (Su)**: You can channel divine power into feats of truly superhuman might. You may add a +6 morale bonus on any Strength-based skill check or Strength check required to break, lift, drag, or push on object. This does not apply to attack or damage rolls, including grapple, sunder, or bull rush attempts. You may use this ability a number of times per day equal to your cleric level.
+**Tremendous Might (Su)**: You can channel [[divine power]] into feats of truly superhuman might. You may add a +6 morale bonus on any Strength-based skill check or Strength check required to break, lift, drag, or push on object. This does not apply to attack or damage rolls, including grapple, sunder, or bull rush attempts. You may use this ability a number of times per day equal to your cleric level.
 
 ##### SUN
 
@@ -961,7 +963,7 @@ The following powers represent all of the domains present in the Player's Handbo
 
 ##### TRICKERY
 
-**Miraculous Deception (Su)**: You can channel divine power to improve the skills you naturally develop in service of your trickster deity. Using this ability grants you a +4 divine bonus on a single Bluff, Disguise, or Hide skill check. You may use this ability a number of times per day equal to your cleric level.
+**Miraculous Deception (Su)**: You can channel [[divine power]] to improve the skills you naturally develop in service of your trickster deity. Using this ability grants you a +4 divine bonus on a single Bluff, Disguise, or Hide skill check. You may use this ability a number of times per day equal to your cleric level.
 
 ##### WAR
 
@@ -969,7 +971,7 @@ The following powers represent all of the domains present in the Player's Handbo
 
 ##### WATER
 
-**Waves Protect Their Own (Su)**: When at least waist deep in water, you can summon a vortex of swift currents and crashing waves to aid your allies and buffet your enemies. Allies within 30 feet suffer no penalties for underwater combat (as if under a freedom of movement effect) and suffer no risk of drowning in even the roughest seas (although if they choose to dive below the waves they can hold their breath no longer than normal). Enemies in the area take a penalty on attack rolls equal to your Charisma modifier due to the impeding flow of the water (having a swim speed does not negate this penalty, although a freedom of movement effect does). You may use this ability 1 round per day per cleric level you possess. These rounds need not be consecutive.
+**Waves Protect Their Own (Su)**: When at least waist deep in water, you can summon a vortex of swift currents and crashing waves to aid your allies and buffet your enemies. Allies within 30 feet suffer no penalties for underwater combat (as if under a [[freedom of movement]] effect) and suffer no risk of drowning in even the roughest seas (although if they choose to dive below the waves they can hold their breath no longer than normal). Enemies in the area take a penalty on attack rolls equal to your Charisma modifier due to the impeding flow of the water (having a swim speed does not negate this penalty, although a [[freedom of movement]] effect does). You may use this ability 1 round per day per cleric level you possess. These rounds need not be consecutive.
 
 #### No Turning
 
@@ -983,7 +985,7 @@ You are secretly a worshiper of a dark god, plotting foul intrigues with others 
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on Bluff checks. As long as you carry your holy symbol, you are immune to magical attempts to uncover falsehoods, such as discern lies, zone of truth, and similar effects.
+**Benefit**: You gain a +2 bonus on Bluff checks. As long as you carry your holy symbol, you are immune to magical attempts to uncover falsehoods, such as [[discern lies]], [[zone of truth]], and similar effects.
 
 ##### EVANGELIST
 
@@ -993,7 +995,7 @@ You travel far and wide, making showy public sermons and seeking converts to you
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on diplomacy checks. An innate talent for magic grants you the following spell-like ability as a 1st-level caster: 2/day - comprehend languages. At 7th level, you gain the following spell-like ability as a 7th-level caster: 1/day - tongues.
+**Benefit**: You gain a +2 bonus on diplomacy checks. An innate talent for magic grants you the following spell-like ability as a 1st-level caster: 2/day - [[comprehend languages]]. At 7th level, you gain the following spell-like ability as a 7th-level caster: 1/day - [[tongues]].
 
 ##### FANATIC
 
@@ -1003,7 +1005,7 @@ You are willing to die in the name of your deity, but you're even quicker to kil
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on Intimidate checks. An innate talent for magic grants you the following spell-like ability as a 1st-level caster: 1/day - true strike.
+**Benefit**: You gain a +2 bonus on Intimidate checks. An innate talent for magic grants you the following spell-like ability as a 1st-level caster: 1/day - [[true strike]].
 
 ##### HEALER
 
@@ -1043,7 +1045,7 @@ Your church tasks you to hunt down and reclaim holy - or perhaps unholy - relics
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a bonus on Reflex saves made to avoid traps equal to 1 + your Wisdom modifier (minimum +1). Additionally, [[Knowledge]] (dungeoneering) and Search are always considered class skills for you.
+**Benefit**: You gain a bonus on Reflex saves made to avoid traps equal to 1 + your Wisdom modifier (minimum +1). Additionally, [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) and Search are always considered class skills for you.
 
 ##### SAGE
 
@@ -1053,7 +1055,7 @@ The keeper of ancient truths and lores, you frequently study the antiquarian wri
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on [[Knowledge]] (religion) checks. In addition, once per day, you may reroll a [[Knowledge]] check. You must take the second roll, even if it isn't as good as the original.
+**Benefit**: You gain a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks. In addition, once per day, you may reroll a [[Compendium/Basics/Skills/Knowledge]] check. You must take the second roll, even if it isn't as good as the original.
 
 ##### SCRIBE
 
@@ -1083,7 +1085,7 @@ You are a wise and respected philosopher, frequently meditating to comprehend th
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on [[Knowledge]] (religion) checks. As long as you conspicuously wear or carry your deity's holy symbol you gain a +2 bonus on saving throws made to resist divine spells, as well as the spells and spell-like abilities of outsiders.
+**Benefit**: You gain a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks. As long as you conspicuously wear or carry your deity's holy symbol you gain a +2 bonus on saving throws made to resist divine spells, as well as the spells and spell-like abilities of outsiders.
 
 ##### WANDERER
 
@@ -1093,7 +1095,7 @@ Never staying in one plate for long, you travel the world on an endless religiou
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: [[Knowledge]] (geography), [[Knowledge]] (local), Speak Language, and Survival are class skills for you. You gain Endurance as a bonus feat at 1st level.
+**Benefit**: [[Compendium/Basics/Skills/Knowledge]] (geography), [[Compendium/Basics/Skills/Knowledge]] (local), Speak Language, and Survival are class skills for you. You gain Endurance as a bonus feat at 1st level.
 
 ##### WARRIOR PRIEST
 
@@ -1117,7 +1119,7 @@ You have devoted yourself to the mastery of your deity's favored weapon.
 
 #### Peripheral Beliefs
 
-Religions are steeped in dogma and traditions. The dogma of a religion almost always comes directly from the deities whom the religion reveres. Traditions, on the other hand, sometimes form for reasons that have little to do with the faith's deity. This article presents five sample peripheral beliefs, from which you may choose up to two. If a cleric violates a belief for any reason he loses its benefit until he receives an atonement spell.
+Religions are steeped in dogma and traditions. The dogma of a religion almost always comes directly from the deities whom the religion reveres. Traditions, on the other hand, sometimes form for reasons that have little to do with the faith's deity. This article presents five sample peripheral beliefs, from which you may choose up to two. If a cleric violates a belief for any reason he loses its benefit until he receives an [[atonement]] spell.
 
 ##### DAILY PRAYER
 
@@ -1139,7 +1141,7 @@ Every seventh day, you must refrain from all physical activity, regardless of wh
 
 You believe a certain kind of food - such as all meat from a certain kind of animal or from any animal not slain in a specific way - is unclean. Any utensils or dishes used with unclean food themselves become unclean and taint any other food they touch.
 
-**Restrictions**: Any food prepared by someone other than a devout follower of the religion, or any potion that is not created by the cleric, violate these standards of cleanliness. (A detect poison spell can detect these foods, since the cleric perceives such fare as spiritual poison.)
+**Restrictions**: Any food prepared by someone other than a devout follower of the religion, or any potion that is not created by the cleric, violate these standards of cleanliness. (A [[detect poison]] spell can detect these foods, since the cleric perceives such fare as spiritual poison.)
 
 **Benefits**: Due to the careful choice of foods, the cleric is especially healthy and gains a +1 bonus on Fortitude saves against poisons and diseases.
 
@@ -1147,7 +1149,7 @@ You believe a certain kind of food - such as all meat from a certain kind of ani
 
 You consider some particular kind of animal sacred, such as cats, cows, or birds. You cannot harm or impede a sacred animal in any way and you must attempt to prevent others from harming or impeding one.
 
-**Restrictions**: You cannot attack the sacred creature, even in self-defense. If your allies choose to attack such a creature in self-defense, you must ensure the creature survives, such as binding its wounds once it goes unconscious. If your allies are the aggressors, you cannot cast beneficial spells on them for 24 hours after the combat ends.
+**Restrictions**: You cannot attack the sacred creature, even in self-defense. If your allies choose to attack such a creature in self-defense, you must ensure the creature survives, such as [[binding]] its wounds once it goes unconscious. If your allies are the aggressors, you cannot cast beneficial spells on them for 24 hours after the combat ends.
 
 **Benefits**: Animals of the sacred kind feel a special affinity for you and instinctively avoid attacking you unless in self-defense or under magical compulsion (this benefit does not extend to your allies). In addition, you gain a +4 bonus on all Charisma-based skill checks when interacting with such creatures.
 
@@ -1167,7 +1169,7 @@ Make a turning check as normal. The result indicates the most powerful outsider 
 
 Any outsider affected by the turning attempt is banished back to its home plane. (If it is already on its home plane, there is no effect.) Even if it has the ability to travel between planes, it cannot do so for 10 rounds (1 minute). If the cleric has twice as many levels (or more) as the outsider has effective Hit Dice, he destroys any outsiders that he would normally banish.
 
-If the cleric would normally turn or destroy undead, he has the ability to banish or destroy evil outsiders (that is, outsiders with the [[evil subtype]]). Characters who would normally rebuke or command undead instead gain the ability to banish or destroy good outsiders. As an additional option, the game master might allow clerics worshiping a lawful deity to banish or destroy chaotic outsiders, while clerics worshiping a chaotic deity could banish or destroy lawful outsiders. This ability would replace the ability to banish or destroy good or evil outsiders.
+If the cleric would normally turn or destroy undead, he has the ability to banish or destroy evil outsiders (that is, outsiders with the [[evil subtype]]). Characters who would normally rebuke or [[command undead]] instead gain the ability to banish or destroy good outsiders. As an additional option, the game master might allow clerics worshiping a lawful deity to banish or destroy chaotic outsiders, while clerics worshiping a chaotic deity could banish or destroy lawful outsiders. This ability would replace the ability to banish or destroy good or evil outsiders.
 
 If you use this variant, consider allowing clerics who can turn or rebuke [[elementals]] (that is, clerics with access to the Air, Earth, Fire, or Water domains) to instead banish elementals of the same element and banish or destroy elementals of the opposing element.
 
@@ -1187,7 +1189,7 @@ To take a cleric planar substitution level, a character must be about to take hi
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Knowledge]] (the planes).
+* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1205,7 +1207,7 @@ Cleric planar substitution levels have the class skills of the standard cleric c
 
 All of the following are features of the cleric's planar substitution levels.
 
-**Planar Dismissal (Su)**: By selecting this planar substitution benefit at 4th level, a cleric trades away some of his power over undead creatures to gain the ability to dismiss a summoned extraplanar creature (such as a fiendish wolf brought by a summon monster II spell) by channeling the power of his faith through his holy (or unholy) symbol.
+**Planar Dismissal (Su)**: By selecting this planar substitution benefit at 4th level, a cleric trades away some of his power over undead creatures to gain the ability to dismiss a summoned extraplanar creature (such as a fiendish wolf brought by a [[summon monster II]] spell) by channeling the power of his faith through his holy (or unholy) symbol.
 
 To attempt this, the cleric spends a turn/rebuke attempt and makes a level check (1d20 + cleric level) against a DC of 11 + the caster level of the summoner. If the summoning creature doesn't have a caster level, use its Hit Dice instead. The cleric gets a +2 bonus on this check if the summoned creature's alignment has at least one component opposed to his own (for instance, a lawful good cleric gets a +2 bonus if the creature's alignment includes either the chaotic or evil component, while a lawful neutral cleric gains the bonus only against chaotic summoned creatures.) Success indicates that the summoned creature is returned to its home plane.
 
@@ -1280,7 +1282,7 @@ The Followers of the Purple Staff are a group of divine spellcasters trying to c
 
 ##### Requirements
 
-To take a Purple Staff substitution level, a character must have Chauntea, Helm, Lathander, Nobanion, Selune, or Sune as his patron deity, be a member of the Fellowship of the Purple Staff, have 1 rank in [[Knowledge]] (religion), and be about to take his 4th, 6th, or 9th level of cleric.
+To take a Purple Staff substitution level, a character must have Chauntea, Helm, Lathander, Nobanion, Selune, or Sune as his patron deity, be a member of the Fellowship of the Purple Staff, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 4th, 6th, or 9th level of cleric.
 
 ##### Class Skills
 
@@ -1295,7 +1297,7 @@ Purple Staff substitution levels have the class skills of the standard cleric cl
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
 |4th|+3|+4|+1|+4|Spontaneous faith healing|See text|
-|6th|+4|+5|+2|+5|Imbue with spell ability|See text|
+|6th|+4|+5|+2|+5|[[Imbue with spell ability]]|See text|
 |9th|+6/+1|+6|+3|+6|Turn invader|See text|
 
 ##### Class Features
@@ -1306,7 +1308,7 @@ All of the following are features of the Purple Staff substitution levels.
 
 This class feature replaces the 2nd-level spell slot gained by a standard cleric at 4th level. From this point forward, a Purple Staff cleric has one less 2nd-level spell slot than normal.
 
-**Imbue with Spell Ability (Sp)**: At 6th level, a Purple Staff cleric can use an imbue with spell ability effect to imbue a creature with a single 0- or 1st-level spell she has prepared. She can use this ability a number of times per day equal to one-half her class level. With this power, an adventuring Purple Staff cleric can leave nonspellcaster lieutenants in town to act on her behalf in emergencies or to spread out her spells to help defend a larger area (though she is not limited to these purposes, of course).
+**[[Imbue with Spell Ability]] (Sp)**: At 6th level, a Purple Staff cleric can use an [[imbue with spell ability]] effect to imbue a creature with a single 0- or 1st-level spell she has prepared. She can use this ability a number of times per day equal to one-half her class level. With this power, an adventuring Purple Staff cleric can leave nonspellcaster lieutenants in town to act on her behalf in emergencies or to spread out her spells to help defend a larger area (though she is not limited to these purposes, of course).
 
 This class feature replaces the 3rd-level spell slot gained by a standard cleric at 6th level. From this point forward, a Purple Staff cleric has one less 3rd-level spell slot than normal.
 
@@ -1384,27 +1386,27 @@ This substitution feature replaces the standard cleric's heavy armor proficiency
 
 **Air Summoning Talent (Ex)**: Beginning at 3rd level, a raptoran cleric can summon certain creatures of air more easily than other clerics can. Add the following monsters to the list of creatures that the cleric can summon with the appropriate summon monster spell:
 
-_Summon monster II_: Small air elemental
+_[[Summon monster II]]_: [[Air Elemental_Small|Small air elemental]]
 
-_Summon monster III_: Air mephit
+_[[Summon monster III]]_: [[Mephit_Air|Air mephit]]
 
-_Summon monster IV_: Medium air elemental
+_[[Summon monster IV]]_: Medium air elemental
 
-_Summon monster V_: Large air elemental
+_[[Summon monster V]]_: Large air elemental
 
-_Summon monster VI_: Huge air elemental
+_[[Summon monster VI]]_: Huge air elemental
 
-_Summon monster VII_: Greater air elemental
+_[[Summon monster VII]]_: Greater air elemental
 
-_Summon monster VIII_: Elder air elemental
+_[[Summon monster VIII]]_: Elder air elemental
 
 This substitution feature removes all spells with the earth descriptor from the standard cleric's spell list. If a spell would only have the earth descriptor due to a particular version of the spell (such as a summon monster spell used to summon an earth elemental), the spell remains on the cleric's spell list but the version with the earth descriptor cannot be cast.
 
-**Open the Wind-Gate (Ex)**: A 7th-level raptoran cleric can use the planar ally spells to call a more powerful air elemental than would normally be allowed. The cleric can call an 8 HD Large air elemental with lesser planar ally, a single 16 HD Huge air elemental (or two 8 HD Large air elementals) with planar ally, or a single 24 HD elder air elemental (or multiple Large and/or Huge air elementals totaling 24 HD) with greater planar ally.
+**Open the Wind-Gate (Ex)**: A 7th-level raptoran cleric can use the [[planar ally]] spells to call a more powerful air elemental than would normally be allowed. The cleric can call an 8 HD Large air elemental with lesser [[planar ally]], a single 16 HD Huge air elemental (or two 8 HD Large air elementals) with [[planar ally]], or a single 24 HD elder air elemental (or multiple Large and/or Huge air elementals totaling 24 HD) with greater [[planar ally]].
 
 The costs associated with these spells remain the same. However, if any of the called air elementals die while in the service of the cleric, the cleric loses access to this ability for seven days and takes a -1 penalty on attack rolls, saves, and checks during that period.
 
-This substitution feature replaces the standard cleric's ability to call creatures other than air elementals with the various planar ally spells.
+This substitution feature replaces the standard cleric's ability to call creatures other than air elementals with the various [[planar ally]] spells.
 
 #### Rebuke Dragons
 
@@ -1438,7 +1440,7 @@ After a while, clerics can start looking very similar. Even with a variety of do
 
 In addition, when preparing spells you can choose to fill any or all of your domain spell slots with either cure or inflict spells (depending on whether you would normally convert prepared spells to cure or inflict spells) of the same level.
 
-For example, Crucius is a cleric of Heironeous with the Good and War domains. At 1st level, he chooses to spontaneously cast War domain spells. Thereafter, he can lose a prepared 1st-level spell to cast magic weapon, a prepared 2nd-level spell to cast spiritual weapon (or magic weapon), and so on. Furthermore, in each domain spell slot he can prepare a spell from the Good domain, a spell from the War domain, or a cure spell of the same level.
+For example, Crucius is a cleric of Heironeous with the Good and War domains. At 1st level, he chooses to spontaneously cast War domain spells. Thereafter, he can lose a prepared 1st-level spell to cast magic weapon, a prepared 2nd-level spell to cast [[spiritual weapon]] (or magic weapon), and so on. Furthermore, in each domain spell slot he can prepare a spell from the Good domain, a spell from the War domain, or a cure spell of the same level.
 
 #### True Daylight
 
@@ -1478,5 +1480,4 @@ For example, a 3rd-level cleric, faces three [[ghouls]] and a ghast. The cleric 
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

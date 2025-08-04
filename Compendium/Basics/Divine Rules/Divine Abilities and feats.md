@@ -18,7 +18,7 @@ Some salient divine abilities have prerequisites. Usually, the deity must have a
 Using a salient divine ability is a standard action unless otherwise noted in the ability description. Using a salient divine ability does not provoke an attack of opportunity.
 
 ### Salient Divine Abilities and Antimagic
-A salient divine ability functions normally within an antimagic field, and is never subject to spell resistance.
+A salient divine ability functions normally within an [[antimagic field]], and is never subject to spell resistance.
 
 ## Salient Divine Ability Descriptions
 
@@ -65,7 +65,7 @@ Nature, secrets, thieves.
 Cha 29.
 
 ### Benefit
-This ability is similar to the *wish* spell. The deity merely thinks of something and then makes it so. Doing this requires at least a standard action.
+This ability is similar to the *[[wish]]* spell. The deity merely thinks of something and then makes it so. Doing this requires at least a standard action.
 
 ### Notes
 The deity can duplicate any spell of 9th level or lower as a standard action. The duplicated spell has no material or XP component, and the DC of its saving throw (if one is allowed) is 20 + the deity's rank + the deity's Charisma modifier.
@@ -238,7 +238,7 @@ Any.
 Divine rank 6, Wis 29.
 
 ### Benefit
-The deity can see illusions, transmuted creatures and objects, and disguised creatures or objects for what they really are, provided they are within 10 feet per divine rank of the deity. This ability is similar to the *true seeing* spell, except that it does not reveal creatures' alignments and it does foil mundane disguises.
+The deity can see illusions, transmuted creatures and objects, and disguised creatures or objects for what they really are, provided they are within 10 feet per divine rank of the deity. This ability is similar to the *[[true seeing]]* spell, except that it does not reveal creatures' alignments and it does foil mundane disguises.
 
 ### Suggested Portfolio Elements
 Knowledge, truth.
@@ -246,9 +246,9 @@ Knowledge, truth.
 ## Command Plants
 
 ### Benefit
-The deity can make plants grow in a radius of up to one mile per divine rank once per day. The deity can use this ability even in a place where no plants grow, though in this case the plants wither and die after one day. This ability works like the *plant growth* spell, except that it cannot be countered except by a deity of higher rank than the deity using the ability. 
+The deity can make plants grow in a radius of up to one mile per divine rank once per day. The deity can use this ability even in a place where no plants grow, though in this case the plants wither and die after one day. This ability works like the *[[plant growth]]* spell, except that it cannot be countered except by a deity of higher rank than the deity using the ability. 
 
-Also once per day, the deity can charm plant creatures, animate plants, or make them entangle its foes. This ability functions like the *command plants* spell, except that its maximum duration is one day no matter which option the deity chooses. At any one time, the deity can charm a number of plant creatures equal to its divine rank with this ability, regardless of Hit Dice.
+Also once per day, the deity can charm plant creatures, [[animate plants]], or make them entangle its foes. This ability functions like the *[[command plants]]* spell, except that its maximum duration is one day no matter which option the deity chooses. At any one time, the deity can charm a number of plant creatures equal to its divine rank with this ability, regardless of Hit Dice.
 
 ### Suggested Portfolio Elements
 Agriculture, earth, fertility.
@@ -256,7 +256,7 @@ Agriculture, earth, fertility.
 ## Control Creatures
 
 ### Benefit
-The deity can command some kind of creature as noted in the deity's description. This ability is similar to the **dominate monster** spell, but it is not a mind-affecting ability (the deity seizes direct control over the creature's body). Each day the deity can attempt to control a number of creature equal to its divine rank. The deity can attempt to take control of that number all at once, or in smaller numbers. All creatures to be affected must be within the deity's line of sight when first affected. Once control is established, distance is not a factor and the deity can maintain control remotely, even across planes and through wards or barriers (except divine shields and warding spells cast by deities of higher rank than the deity using the ability). The subject is allowed a Will save (DC 10 + the deity's rank + the deity's Charisma modifier) to resist and is allowed a new save if the deity commands the subject to do something against its nature.
+The deity can command some kind of creature as noted in the deity's description. This ability is similar to the **[[dominate monster]]** spell, but it is not a mind-affecting ability (the deity seizes direct control over the creature's body). Each day the deity can attempt to control a number of creature equal to its divine rank. The deity can attempt to take control of that number all at once, or in smaller numbers. All creatures to be affected must be within the deity's line of sight when first affected. Once control is established, distance is not a factor and the deity can maintain control remotely, even across planes and through wards or barriers (except divine shields and warding spells cast by deities of higher rank than the deity using the ability). The subject is allowed a Will save (DC 10 + the deity's rank + the deity's Charisma modifier) to resist and is allowed a new save if the deity commands the subject to do something against its nature.
 
 At any given time, the deity cannot have more creatures under its control than 10 times its divine rank. If the deity already has the maximum number of creatures under its control, it can still attempt to take control of other creatures, but must first release one or more creatures already under its control.
 
@@ -383,10 +383,10 @@ Justice, vengeance, war.
 Cha 29.
 
 ### Benefit
-The deity can use this ability a number of times per day equal to 3 + its Charisma bonus. The ray created can extend up to one mile per rank (the deity chooses the length). Targets the ray strikes take 1d12 points of damage per rank of the deity, plus 1d12 points of damage per point of Charisma bonus the deity has. There is no saving throw, but the deity must make a ranged touch attack to hit a target. The deity can make the ray look, sound, smell, and feel like any-thing it desires. Despite the appearance of the ray, the damage it deals results directly from divine power and is therefore not subject to being reduced by *protection from elements* and similar magic.
+The deity can use this ability a number of times per day equal to 3 + its Charisma bonus. The ray created can extend up to one mile per rank (the deity chooses the length). Targets the ray strikes take 1d12 points of damage per rank of the deity, plus 1d12 points of damage per point of Charisma bonus the deity has. There is no saving throw, but the deity must make a ranged touch attack to hit a target. The deity can make the ray look, sound, smell, and feel like any-thing it desires. Despite the appearance of the ray, the damage it deals results directly from [[divine power]] and is therefore not subject to being reduced by *protection from elements* and similar magic.
 
 ### Notes
-The ray destroys a *wall of force, prismatic wall,* or *prismatic sphere* it hits (all layers in a prismatic effect are destroyed). The ray itself is unaffected and can strike a target behind the *wall of force* or prismatic effect.
+The ray destroys a *[[wall of force]], [[prismatic wall]],* or *[[prismatic sphere]]* it hits (all layers in a prismatic effect are destroyed). The ray itself is unaffected and can strike a target behind the *[[wall of force]]* or prismatic effect.
 
 A divine shield can stop the ray.
 
@@ -451,7 +451,7 @@ Dex 29.
 Any physical attack or individually targeted spell directed at the deity has a percent miss chance equal to 50 + the deity's rank. Area effects that include the deity have a similar chance to be ineffective.
 
 ### Notes
-The ability is similar to the *blink* spell, except that it is defensive only and the deity does not move to the Ethereal Plane, but simply exits from reality for a brief moment. This ability never interferes with the deity's own attacks. If an attack overcomes the miss chance, the deity still gets the benefit of a saving throw (if one is allowed).
+The ability is similar to the *[[blink]]* spell, except that it is defensive only and the deity does not move to the Ethereal Plane, but simply exits from reality for a brief moment. This ability never interferes with the deity's own attacks. If an attack overcomes the miss chance, the deity still gets the benefit of a saving throw (if one is allowed).
 
 ### Suggested Portfolio Elements
 Agility, gambling, luck, protection.
@@ -475,7 +475,7 @@ Nature.
 Earth domain.
 
 ### Benefit
-The deity gains a competence bonus on attack rolls, damage, and Armor Class equal to its divine rank if both the deity and its foe are touching the ground. The deity gains a burrow speed commensurate with its size (see Divine Characteristics), as well as the ability to glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. This burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. The deity has tremorsense, allowing it to automatically sense the location of anything within 10 feet per divine rank that is in contact with the ground. The deity has complete control over all things made of earth (including stone and metal). It can alter the form of any amount of earth as a free action. The deity can duplicate the effects of the *stone shape, move earth, rusting grasp, transmute rock to mud, transmute mud to rock,* and *disintegrate* spells, with any earth, stone, or metal object as a target. The deity can also transmute any object made of earth, stone, or metal into a different kind of earth, stone, or metal. The deity can affect any object it can see, but no more than one object per round.
+The deity gains a competence bonus on attack rolls, damage, and Armor Class equal to its divine rank if both the deity and its foe are touching the ground. The deity gains a burrow speed commensurate with its size (see Divine Characteristics), as well as the ability to glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. This burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. The deity has tremorsense, allowing it to automatically sense the location of anything within 10 feet per divine rank that is in contact with the ground. The deity has complete control over all things made of earth (including stone and metal). It can alter the form of any amount of earth as a free action. The deity can duplicate the effects of the *[[stone shape]], [[move earth]], [[rusting grasp]], [[transmute rock to mud]], [[transmute mud to rock]],* and *[[disintegrate]]* spells, with any earth, stone, or metal object as a target. The deity can also transmute any object made of earth, stone, or metal into a different kind of earth, stone, or metal. The deity can affect any object it can see, but no more than one object per round.
 
 ### Suggested Portfolio Elements
 Earth.
@@ -520,7 +520,7 @@ Fire.
 Cha 29, Bluff 40 ranks, Trickery domain.
 
 ### Benefit
-As a full-round action, the deity can speak and convince others to take some course of action. This works like a *mass suggestion* spell cast at a level equal to 10 + the deity's divine rank, except that it affects up to (10 + divine rank) creatures, no two of which can be more than (10 ×divine rank) feet apart. The save DC is 10 + the deity's Charisma modifier + the deity's divine rank.
+As a full-round action, the deity can speak and convince others to take some course of action. This works like a *[[Suggestion Mass|mass suggestion]]* spell cast at a level equal to 10 + the deity's divine rank, except that it affects up to (10 + divine rank) creatures, no two of which can be more than (10 ×divine rank) feet apart. The save DC is 10 + the deity's Charisma modifier + the deity's divine rank.
 
 ### Suggested Portfolio Elements
 Commerce, lies, thieves.
@@ -532,7 +532,7 @@ The deity can enchant creatures to create a specific emotion. The deity can affe
 
 *Courage:* The enchanted creatures become immune to fear effects and receive a +2 morale bonus on attack rolls, weapon damage rolls, skill checks, and Will saves.
 
-*Despair:* The enchanted creatures are affected as by an improved version of the *crushing despair* spell: affected creatures suffer a --4 penalty on attack rolls, damage rolls, saves, and checksunless they make a successful Will save (DC 10 + deity's Charisma modifier + deity's divine rank). The effect lasts one day.
+*Despair:* The enchanted creatures are affected as by an improved version of the *[[crushing despair]]* spell: affected creatures suffer a --4 penalty on attack rolls, damage rolls, saves, and checksunless they make a successful Will save (DC 10 + deity's Charisma modifier + deity's divine rank). The effect lasts one day.
 
 *Dread:* The enchanted creatures must make successful Wisdom checks (DC = the deity's divine rank) to attack or fight. If the check fails, the creature flees in panic for 1d4 rounds. If the check succeeds, the creature does not have to check again for 10 minutes. The enchanted creatures also suffer a --2 morale penalty on attack rolls, weapon damage rolls, skill checks, and Will saves.
 
@@ -978,7 +978,7 @@ Destruction, war.
 The deity restores the dead creature to life, no matter how long the creature has been dead or what the condition of the body.
 
 ### Notes
-This ability works like the *true resurrection* spell, except that there is no material component and the amount of time the subject has been dead is irrelevant.
+This ability works like the *[[true resurrection]]* spell, except that there is no material component and the amount of time the subject has been dead is irrelevant.
 
 This ability can restore a creature to life against its will, but only with the permission of whatever deity rules the underworld or the divine realm where the mortal's soul resides. This ability can resurrect an elemental or outsider and can resurrect a creature whose soul is trapped, provided the soul is not held by a deity of higher rank than the one using this ability.
 
@@ -990,7 +990,7 @@ Healing, life.
 ## Grow Creature
 
 ### Benefit
-This ability works like the *animal growth* spell, except that it can affect up to one creature of the specified type per divine rank each day, all of which must be within the deity's line of sight when first affected. The effect lasts one day.
+This ability works like the *[[animal growth]]* spell, except that it can affect up to one creature of the specified type per divine rank each day, all of which must be within the deity's line of sight when first affected. The effect lasts one day.
 
 ### Notes
 A deity can have this ability multiple times, choosing a different type of creature each time.
@@ -1072,7 +1072,7 @@ Magic.
 Divine rank 6, Dex 29.
 
 ### Benefit
-As a move action, the deity can travel up to 30 feet per divine rank, as though using the *dimension door* spell, except that the deity never appears within a solid object and can act immediately after teleporting.
+As a move action, the deity can travel up to 30 feet per divine rank, as though using the *[[dimension door]]* spell, except that the deity never appears within a solid object and can act immediately after teleporting.
 
 ### Suggested Portfolio Elements
 Travel.
@@ -1126,7 +1126,7 @@ Death.
 No secrets can be kept from the deity.
 
 ### Benefit
-The deity can learn a creature's entire history (including any embarrassing or vital secrets it might know) just by looking at it. This ability is similar to the *legend lore* spell, except that it delivers instant results and the subject is allowed a Will save (DC 10 + the deity's Charisma modifier + the deity's divine rank) to avoid the effect.
+The deity can learn a creature's entire history (including any embarrassing or vital secrets it might know) just by looking at it. This ability is similar to the *[[legend lore]]* spell, except that it delivers instant results and the subject is allowed a Will save (DC 10 + the deity's Charisma modifier + the deity's divine rank) to avoid the effect.
 
 ### Suggested Portfolio Elements
 Knowledge, secrets.
@@ -1134,7 +1134,7 @@ Knowledge, secrets.
 ## Lay Curse
 
 ### Benefit
-This ability works like the *bestow curse* spell, except that mortals get no save. Deities of equal or lesser rank are subject to this ability, but are allowed Will saves (DC 10 + the deity's Charisma modifier + the deity's divine rank) to resist. The curse can be removed only by a deity of equal or higher rank than the cursing deity.
+This ability works like the *[[bestow curse]]* spell, except that mortals get no save. Deities of equal or lesser rank are subject to this ability, but are allowed Will saves (DC 10 + the deity's Charisma modifier + the deity's divine rank) to resist. The curse can be removed only by a deity of equal or higher rank than the cursing deity.
 
 The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity's line of sight when first affected.
 
@@ -1144,7 +1144,7 @@ Evil.
 ## Lay Quest
 
 ### Benefit
-This ability works like the *geas/quest* spell, except that it works only on mortals and it can be removed only by a deity of equal or higher rank than the deity who lays the quest. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity's line of sight when first affected.
+This ability works like the *[[Geas_Quest|geas/quest]]* spell, except that it works only on mortals and it can be removed only by a deity of equal or higher rank than the deity who lays the quest. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity's line of sight when first affected.
 
 ### Suggested Portfolio Elements
 Justice, law.
@@ -1162,7 +1162,7 @@ This ability works across planar boundaries and penetrates any barrier except a 
 
 *destruction* spell, except that there is no material component or saving throw. The mortal cannot be raised or resurrected afterward, except by a deity of equal or higher rank using the Gift of Life or Life and Death salient divine ability.
 
-If the deity restores life to a mortal, this ability works like the *true resurrection* spell, except that there is no material component and the amount of time the subject has been dead is irrelevant.
+If the deity restores life to a mortal, this ability works like the *[[true resurrection]]* spell, except that there is no material component and the amount of time the subject has been dead is irrelevant.
 
 This ability cannot restore a creature to life against its will, but it can resurrect an elemental or outsider. It can resurrect a creature whose soul is trapped, provided the soul is not held by a deity of higher rank than the one using this ability.
 
@@ -1182,7 +1182,7 @@ Death, supreme.
 Death domain.
 
 ### Benefit
-As a free action, the deity can generate a cloud of darkness that rises from its body in a spread with a radius of 10 feet per divine rank and 10 feet high. The cloud blocks sight as a *deeper darkness* spell does, except that it cannot be countered by light effects (other than those cast by deities of higher rank). Living creatures must make Will saves (DC 10 + the deity's Charisma modifier + the deity's divine rank) or die. Even with a successful save, living creatures still gain two negative levels (the save DC to remove the negative levels is the same as the first Will save). A single creature can be drained by the cloud only once per day, but the cloud's darkness remains effective.
+As a free action, the deity can generate a cloud of darkness that rises from its body in a spread with a radius of 10 feet per divine rank and 10 feet high. The cloud blocks sight as a *[[deeper darkness]]* spell does, except that it cannot be countered by light effects (other than those cast by deities of higher rank). Living creatures must make Will saves (DC 10 + the deity's Charisma modifier + the deity's divine rank) or die. Even with a successful save, living creatures still gain two negative levels (the save DC to remove the negative levels is the same as the first Will save). A single creature can be drained by the cloud only once per day, but the cloud's darkness remains effective.
 
 ### Suggested Portfolio Elements
 Death, undead.
@@ -1293,7 +1293,7 @@ The deity can perform any of the following in a radius of one mile per divine ra
 
 -   Create or quell winds to produce anything from still air to tornado force winds.
 -   Set the temperature anywhere from --50°F to 120°F.
--   Shake the earth, as the *earthquake* spell.
+-   Shake the earth, as the *[[earthquake]]* spell.
 -   Create rain, sleet, hail, snow, or thunderstorms.
 
 These effects last as long as the deity concentrates and for up to 1 minute per divine rank afterward. The deity can end an effect as a free action.
@@ -1304,7 +1304,7 @@ Nature, sea, weather.
 ## Power of Truth
 
 ### Benefit
-The deity knows when anyone (other than a deity of equal or higher rank) deliberately lies. This ability works like the *discern lies* spell, except that it works continuously and applies to any creature the deity can perceive. The deity also can enchant creatures so they become truthful. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity's line of sight when first affected. The enchanted creatures become unable to utter any deliberate falsehoods or evasions of truth for one day. The subject is allowed a Will save (DC 10 + the deity's Charisma modifier + the deity's divine rank) to resist. Subjects who make successful saves become immune to this ability for one day.
+The deity knows when anyone (other than a deity of equal or higher rank) deliberately lies. This ability works like the *[[discern lies]]* spell, except that it works continuously and applies to any creature the deity can perceive. The deity also can enchant creatures so they become truthful. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity's line of sight when first affected. The enchanted creatures become unable to utter any deliberate falsehoods or evasions of truth for one day. The subject is allowed a Will save (DC 10 + the deity's Charisma modifier + the deity's divine rank) to resist. Subjects who make successful saves become immune to this ability for one day.
 
 ### Suggested Portfolio Elements
 Justice, law, truth.
@@ -1331,7 +1331,7 @@ Death, life, undead.
 Magic domain.
 
 ### Benefit
-This ability is similar to a constant *greater arcane sight* spell, except that it covers the whole area the deity can see, and the deity immediately knows the number of auras present along with their locations and strengths. The deity needs to make a Spellcraft check to identify the school of each aura, but most deities with this ability can use Spellcraft as a free action.
+This ability is similar to a constant *[[Arcane Sight Greater|greater arcane sight]]* spell, except that it covers the whole area the deity can see, and the deity immediately knows the number of auras present along with their locations and strengths. The deity needs to make a Spellcraft check to identify the school of each aura, but most deities with this ability can use Spellcraft as a free action.
 
 ### Suggested Portfolio Elements
 Magic.
@@ -1369,7 +1369,7 @@ Divine rank 6, Alter Size salient divine ability, Alter Form salient divine abil
 The deity can assume the form of another creature. The forms a deity can assume are limited and vary with each deity. The forms allowed are listed in the deity's description. The deity can remain in the assumed form indefinitely, but it resumes its own form if slain.
 
 ### Notes
-The deity acquires the physical, natural, and extraordinary abilities of the form it has assumed (but not spell-like or supernatural abilities) while retaining its own mind. Physical abilities include natural size and Strength, Dexterity, and Constitution scores. Natural abilities include armor, natural weapons (such as claws, bite, swoop and rake, and constriction; but not petrification, breath weapons, energy drain, energy effect, and the like), and similar gross physical qualities (presence or absence of wings, number of extremities, and so on). A body with extra limbs does not allow the deity to make more attacks (or more advantageous two-weapon attacks) than normal. Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings. The deity's speed is that of the assumed form or the deity's normal speed, whichever is higher.
+The deity acquires the physical, natural, and extraordinary abilities of the form it has assumed (but not spell-like or supernatural abilities) while retaining its own mind. Physical abilities include natural size and Strength, Dexterity, and Constitution scores. Natural abilities include armor, natural weapons (such as claws, bite, swoop and rake, and constriction; but not petrification, breath weapons, [[Compendium/Spells/Energy Drain|energy drain]], energy effect, and the like), and similar gross physical qualities (presence or absence of wings, number of extremities, and so on). A body with extra limbs does not allow the deity to make more attacks (or more advantageous two-weapon attacks) than normal. Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings. The deity's speed is that of the assumed form or the deity's normal speed, whichever is higher.
 
 In general, any part of the body or piece of equipment that is separated from the whole reverts to its original form. However, if the assumed form has an extraordinary ability that allows it to produce a substance or shed part of its body, then this ability also grants that ability.
 
@@ -1395,7 +1395,7 @@ Nature.
 ## Speak with Creatures
 
 ### Benefit
-The deity has the supernatural ability to converse with the specified creature. This ability works like a permanent *speak with animals* or *speak with plants* spell, or like a *tongues* spell that only allows the deity to converse with the specified type of creature.
+The deity has the supernatural ability to converse with the specified creature. This ability works like a permanent *[[speak with animals]]* or *[[speak with plants]]* spell, or like a *[[tongues]]* spell that only allows the deity to converse with the specified type of creature.
 
 ### Notes
 A deity can have this ability multiple times, choosing a different type of creature each time.
@@ -1433,7 +1433,7 @@ Travel.
 ## Sunder and Disjoin
 
 ### Benefit
-If any weapon or item is used against the deity in combat, the deity can destroy it with a touch. Treat a successful touch as a combination of a *disintegrate* spell and a *disjunction* spell, both targeted exclusively at the touched item. The save DC for both effects is 19 + the deity's Charisma modifier. Anitem remains vulnerable to this ability for up to one day after being used against the deity.
+If any weapon or item is used against the deity in combat, the deity can destroy it with a touch. Treat a successful touch as a combination of a *[[disintegrate]]* spell and a *disjunction* spell, both targeted exclusively at the touched item. The save DC for both effects is 19 + the deity's Charisma modifier. Anitem remains vulnerable to this ability for up to one day after being used against the deity.
 
 ### Suggested Portfolio Elements
 Victory, war.
@@ -1464,7 +1464,7 @@ Agility, thieves, war.
 Divine rank 11, Int 40, bardic knowledge or lore class feature and 10th level in the class that grants the ability, Knowledge domain.
 
 ### Benefit
-The deity never fails a bardic knowledge or lore check, no matter how obscure the knowledge involved. The deity speaks and understands all languages. The deity can use *legend lore* and *analyze dweomer* as free actions at will. These actions count against the deity's maximum number of free actions per round.
+The deity never fails a bardic knowledge or lore check, no matter how obscure the knowledge involved. The deity speaks and understands all languages. The deity can use *[[legend lore]]* and *[[analyze dweomer]]* as free actions at will. These actions count against the deity's maximum number of free actions per round.
 
 ### Suggested Portfolio Elements
 Knowledge.
@@ -1474,7 +1474,7 @@ Knowledge.
 This is an extraordinary ability.
 
 ### Prerequisites
-Divine rank 16, Alter Size salient divine ability, Alter Form salient divine ability, Shapechange salient divine ability.
+Divine rank 16, Alter Size salient divine ability, Alter Form salient divine ability, [[Shapechange]] salient divine ability.
 
 ### Benefit
 The deity can assume the form of any object or creature.
@@ -1512,14 +1512,14 @@ The deity gains the qualities of the undead type:
 - Darkvision out to 60 feet.
 - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 - Immunity to poison, sleep effects, paralysis, stunning, disease, and death effects.
-- Not subject to critical hits, nonlethal damage, ability drain, or energy drain. Immune to damage to its physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
+- Not subject to critical hits, nonlethal damage, ability drain, or [[Compendium/Spells/Energy Drain|energy drain]]. Immune to damage to its physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
 - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy can heal undead creatures. The fast healing special quality works regardless of the creature's Intelligence score.
 - Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
 - Uses its Charisma modifier for Concentration checks.
 - Not at risk of death from massive damage, but when reduced to 0 hit points or less, it is immediately destroyed.
-- Not affected by *raise dead* and *reincarnate* spells or abilities.
+- Not affected by *[[raise dead]]* and *[[reincarnate]]* spells or abilities.
 
-*Resurrection* and *true resurrection* can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
+*[[Resurrection]]* and *[[true resurrection]]* can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
 - Undead do not breathe, eat, or sleep.
 
 ### Suggested Portfolio Elements
@@ -1531,7 +1531,7 @@ Death, undead.
 Chaotic alignment.
 
 ### Benefit
-The deity can create a wave of mental force that extends from the deity in a spread with a radius of 10 feet per divine rank. Creatures within the spread must make Will saves (DC 10 + the deity's Charisma modifier + the deity's divine rank) or be forced to act unpredictably. This ability works like a *confusion* spell cast by a sorcerer of level 10 + the deity's divine rank.
+The deity can create a wave of mental force that extends from the deity in a spread with a radius of 10 feet per divine rank. Creatures within the spread must make Will saves (DC 10 + the deity's Charisma modifier + the deity's divine rank) or be forced to act unpredictably. This ability works like a *[[confusion]]* spell cast by a sorcerer of level 10 + the deity's divine rank.
 
 ### Suggested Portfolio Elements
 Chaos.
@@ -1670,15 +1670,15 @@ Whenever you deal 10 or more points of damage to your opponent in melee, you mak
 Extend Spell.
 
 ### Benefit
-A persistent spell has a duration of 24 hours. The persistent spell must have a personal range or a fixed range. Spells of instantaneous duration cannot be affected by this feat, nor can spells whose effects are discharged. You need not concentrate on spells such as *detect magic* or *detect thoughts* to be aware of the mere presence of absence of the things detected, but you must still concentrate to gain additional information as normal. Concentration on such a spell is a standard action that does not provoke an attack of opportunity. A persistent spell uses up a spell slot six levels higher than the spell's actual level.
+A persistent spell has a duration of 24 hours. The persistent spell must have a personal range or a fixed range. Spells of instantaneous duration cannot be affected by this feat, nor can spells whose effects are discharged. You need not concentrate on spells such as *[[detect magic]]* or *[[detect thoughts]]* to be aware of the mere presence of absence of the things detected, but you must still concentrate to gain additional information as normal. Concentration on such a spell is a standard action that does not provoke an attack of opportunity. A persistent spell uses up a spell slot six levels higher than the spell's actual level.
 
 ### Plant Control (featType:: General)
 
 ### Prerequisites
-Plant Defiance, ability to cast *speak with plants.*
+Plant Defiance, ability to cast *[[speak with plants]].*
 
 ### Benefit
-You can rebuke or command plant creatures as an evil cleric rebukes undead. To command a plant, you must be able to speak with it via a *speak with plants* effect, though it may do so mentally if desired. This ability is usable a total number of times per day equal to 3 + your Charisma modifier. You use your highest caster level to determine the level at which you rebuke plants.
+You can rebuke or command plant creatures as an evil cleric rebukes undead. To command a plant, you must be able to speak with it via a *[[speak with plants]]* effect, though it may do so mentally if desired. This ability is usable a total number of times per day equal to 3 + your Charisma modifier. You use your highest caster level to determine the level at which you rebuke plants.
 
 ### Plant Defiance (featType:: General)
 
@@ -1718,7 +1718,7 @@ A repeated spell is automatically cast again at the beginning of your next round
 ### Sacred Spell (featType:: Metamagic)
 
 ### Benefit
-Half of the damage dealt by a sacred spell results directly from divine power and is therefore not subject to being reduced by protection from elements or similar magic. The other half of the damage dealt by the spell is as normal. A sacred spell uses up a spell slot two levels higher than the spell's actual level. Only divine spells can be cast as sacred spells.
+Half of the damage dealt by a sacred spell results directly from [[divine power]] and is therefore not subject to being reduced by protection from elements or similar magic. The other half of the damage dealt by the spell is as normal. A sacred spell uses up a spell slot two levels higher than the spell's actual level. Only divine spells can be cast as sacred spells.
 
 ### Sharp-Shooting (featType:: General)
 
@@ -1754,6 +1754,10 @@ Int 13, Combat Expertise, base attack bonus +6.
 When you use the Combat Expertise feat to improve your Armor Class, the number you subtract from your attack and add to your AC can be any number that does not exceed your base attack bonus.
 
 This feat eliminates the +5 maximum for the Combat Expertise feat.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 

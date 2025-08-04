@@ -1,5 +1,6 @@
 ---
-aliases: [Acid Splash]
+aliases:
+ - Acid Splash
 title: Compendium/Basics/Spell/Acid Splash
 tags: 
   - 35E_SRD
@@ -31,9 +32,13 @@ Orb deals 1d3 acid damage.
 
 You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage.
 
-Source : PHB P196
+**Source :** PHB P196
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

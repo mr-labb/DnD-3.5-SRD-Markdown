@@ -1,5 +1,7 @@
 ---
-aliases: [Devil, Imp]
+aliases:
+ - Devil
+ - Imp
 title: Bestiary/MM1/Devil, Imp
 tags: [35E_SRD, Monster]
 Monster: Devil, Imp

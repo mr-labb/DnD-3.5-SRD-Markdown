@@ -1,6 +1,7 @@
 ---
 lang: en
-aliases: [Abomination]
+aliases:
+ - Abomination
 title: Compendium/Basics/Monsters Information/Abomination
 tag: Monster, Abomination
 ---
@@ -14,7 +15,7 @@ tag: Monster, Abomination
 
 Immunities (Ex): Abominations are immune to polymorphing, [[petrification]], or any form-altering attack. They are not subject to [[energy drain]], ability [[drain]], or ability [[damage]]. They are immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and are immune to one of five energy types (specific to the abomination).
 
-Resistances (Ex): Abominations have [[fire resistance]] 20, [[cold resistance]] 20, and [damage reduction] of at least 10/epic (certain abominations have higher damage reduction). Abominations all have significant [[spell resistance]]. Abominations resist detection, and are all treated as if affected by a nondetection spell of a caster level equal to the abomination’s HD.
+Resistances (Ex): Abominations have [[fire resistance]] 20, [[cold resistance]] 20, and [damage reduction] of at least 10/epic (certain abominations have higher damage reduction). Abominations all have significant [[spell resistance]]. Abominations resist detection, and are all treated as if affected by a [[nondetection]] spell of a caster level equal to the abomination’s HD.
 
 Special Qualities (Ex): All abominations have the spell-like ability to use [[true seeing]] at will. Abominations are not subject to death from massive damage, and they have maximum hit points per Hit Die. Abominations have the [[blindsight]] extraordinary ability to a range of 500 feet. Abominations can choose both nonepic and epic feats as part of their feat selection.
 
@@ -36,11 +37,8 @@ Abominations speak Abyssal, Celestial, Infernal, and often a language associated
 
   
   
-  This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
----
+  This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

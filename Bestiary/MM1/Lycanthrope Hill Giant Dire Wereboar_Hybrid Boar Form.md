@@ -1,5 +1,8 @@
 ---
-aliases: [Lycanthrope, Hill Giant Dire Wereboar, Hybrid Boar Form]
+aliases:
+ - Lycanthrope
+ - Hill Giant Dire Wereboar
+ - Hybrid Boar Form
 title: Bestiary/MM1/Lycanthrope, Hill Giant Dire Wereboar, Hybrid Boar Form
 tags: [35E_SRD, Monster]
 Monster: Lycanthrope, Hill Giant Dire Wereboar, Hybrid Boar Form

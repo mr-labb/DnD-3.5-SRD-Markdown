@@ -1,5 +1,6 @@
 ---
-aliases: [Antilife Shell]
+aliases:
+ - Antilife Shell
 title: Compendium/Basics/Spell/Antilife Shell
 tags: 
   - 35E_SRD
@@ -37,9 +38,13 @@ The effect hedges out animals, aberrations, dragons, fey, giants, humanoids, mag
 
 This spell may be used only defensively, not aggressively. Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier.
 
-Source : PHB P199
+**Source :** PHB P199
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

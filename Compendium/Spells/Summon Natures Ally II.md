@@ -1,41 +1,65 @@
 ---
-aliases: [Summon Nature's Ally II]
+aliases:
+ - Summon Nature's Ally II
 title: Compendium/Basics/Spell/Summon Nature's Ally II
-tags: [35E_SRD, Spell, Druid, Ranger]
+tags:  
+  - 35E_SRD  
+  - Spell  
+  - Druid  
+  - Ranger
 Spell Name: Summon Nature's Ally II
 School: Conjuration
 Subschool: (Summoning)
 Descriptor: 
 Level:
-  - Drd 2
+  - Drd 2  
   - Rgr 2
 Source: PHB
 ---
-
 
 ## Summon Nature's Ally II
 
 Calls animal to fight for you.
 
-*   Conjuration (Summoning)
-*   **Level:** Drd 2, Rgr 2
-*   **Components:** V, S, DF
-*   **Casting Time:** 1 round
-*   **Range:** Close (25 ft. + 5 ft./2 levels)
-*   **Effect:** One or more creatures, no two of which can be more than 30 ft. apart
-*   **Duration:** 1 round/level (D)
-*   **Saving Throw:** None
-*   **Spell Resistance:** No
+- **School:** Conjuration (Summoning)  
+- **Level:** Drd 2, Rgr 2  
+- **Components:** V, S, DF  
+- **Casting Time:** 1 round  
+- **Range:** Close (25 ft. + 5 ft./2 levels)  
+- **Effect:** One or more creatures, no two of which can be more than 30 ft. apart  
+- **Duration:** 1 round/level (D)  
+- **Saving Throw:** None  
+- **Spell Resistance:** No  
 
-This spell functions like <i>[[summon nature's ally I]],</i> except that you can summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.
+This spell functions like *[[Summon Natures Ally I|Summon Nature's Ally I]]*, except that you may summon:
+- One **2nd-level** creature from the list below  
+- Or **1d3 creatures** of the same kind from the **1st-level** list  
 
-<table> <tr decoration="underline"> <td> <b>2nd Level</b> </td> </tr> <tr> <td> Bear, black (animal) </td> </tr> <tr> <td> Crocodile (animal) </td> </tr> <tr> <td> Dire badger </td> </tr> <tr> <td> Dire bat </td> </tr> <tr> <td> Elemental, Small (any) </td> </tr> <tr> <td> Hippogriff </td> </tr> <tr> <td> Shark, Medium * (animal) </td> </tr> <tr> <td> Snake, Medium viper (animal) </td> </tr> <tr> <td> Squid * (animal) </td> </tr> <tr> <td> Wolverine (animal) </td> </tr> <tr><td></td></tr> <tr> <td> * May be summoned only into an aquatic or watery environment. </td> </tr> </table>
+Summoned animals act immediately on your turn and will fight foes instinctively unless you can communicate with them to command otherwise. They cannot use summoning or teleportation abilities, and must be placed in a compatible environment.
 
-Source : PHB P288
+### Summon Nature’s Ally II Creature Table
+
+| Creature                          | Notes                          |
+|-----------------------------------|--------------------------------|
+| Bear, black (animal)             | —                              |
+| [[Crocodile]] (animal)               | —                              |
+| [[Badger_Dire|Dire badger]]                      | —                              |
+| [[Bat Dire|Dire bat]]                         | —                              |
+| Elemental, Small (any)           | Neutral subtype                |
+| Hippogriff                       | —                              |
+| Shark, Medium (animal)*          | Aquatic only                   |
+| Snake, Medium viper (animal)     | —                              |
+| [[Squid]] (animal)*                  | Aquatic only                   |
+| [[Wolverine]] (animal)               | —                              |
+
+_* May be summoned only into an aquatic or watery environment._
+
+**Source :** PHB P288
 
 ---
 
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

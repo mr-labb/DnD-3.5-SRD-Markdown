@@ -1,5 +1,6 @@
 ---
-aliases: [Spring Attack]
+aliases:
+ - Spring Attack
 title: Spring Attack
 tags: Feat, General_Feat
 ---
@@ -23,5 +24,4 @@ bonus feats.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

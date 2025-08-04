@@ -68,8 +68,8 @@ The secrets of creating artifacts are long lost.
 |Spell resistance|10,000 gp per point over SR 12; SR 13 minimum|Mantle of spell resistance|
 |Weapon bonus (enhancement)|Bonus squared x 2,000 gp|+1 longsword|
 |Spell Effect|Base Price|Example|
-|Single use, spell completion|Spell level x caster level x 25 gp|Scroll of haste|
-|Single use, use-activated|Spell level x caster level x 50 gp|Potion of cure light wounds|
+|Single use, spell completion|Spell level x caster level x 25 gp|Scroll of [[haste]]|
+|Single use, use-activated|Spell level x caster level x 50 gp|Potion of [[cure light wounds]]|
 |50 charges, spell trigger|Spell level x caster level x 750 gp|Wand of fireball|
 |Command word|Spell level x caster level x 1,800 gp|Cape of the mountebank|
 |Use-activated or continuous|Spell level x caster level x 2,000 gp2|Lantern of revealing|
@@ -382,5 +382,4 @@ Wondrous items that don’t match the affinity for a particular body slot should
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

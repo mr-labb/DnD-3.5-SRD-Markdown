@@ -1,5 +1,6 @@
 ---
-aliases: [Darkvision]
+aliases:
+ - Darkvision
 title: Compendium/Basics/Spell/Darkvision
 tags:
   - 35E_SRD
@@ -46,9 +47,13 @@ The subject gains the ability to see **60 feet** in **total darkness**.
 - A pinch of dried carrot **or** an agate
 
 
-**Source:** PHB P216
+**Source :** PHB P216
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

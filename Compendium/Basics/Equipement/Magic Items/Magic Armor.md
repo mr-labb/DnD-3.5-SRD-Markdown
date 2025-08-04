@@ -131,7 +131,7 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 |—|—|74–78|Fire resistance, improved|+42,000 gp|
 |—|—|79–83|Sonic resistance, improved|+42,000 gp|
 |—|—|84–88|Spell resistance (17)|+4 bonus1|
-|—|—|89|Etherealness|+49,000 gp|
+|—|—|89|[[Compendium/Spells/Etherealness|Etherealness]]|+49,000 gp|
 |—|—|90|Undead controlling|+49,000 gp|
 |—|—|91–92|Fortification, heavy|+5 bonus1|
 |—|—|93–94|Spell resistance (19)|+5 bonus1|
@@ -189,23 +189,23 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 
 **Acid Resistance**: A suit of armor or a shield with this property normally has a dull gray appearance. The armor absorbs the first 10 points of acid damage per attack that the wearer would normally take (similar to the resist energy spell).
 
-Faint abjuration; CL 3rd; Craft Magic Arms and Armor, resist energy; Price +18,000 gp.
+Faint abjuration; CL 3rd; Craft Magic Arms and Armor, [[resist energy]]; Price +18,000 gp.
 
 **Acid Resistance, Improved**: As acid resistance, except it absorbs the first 20 points of acid damage per attack.
 
-Moderate abjuration; CL 7th; Craft Magic Arms and Armor, resist energy; Price +42,000 gp.
+Moderate abjuration; CL 7th; Craft Magic Arms and Armor, [[resist energy]]; Price +42,000 gp.
 
 **Acid Resistance, Greater**: As acid resistance, except it absorbs the first 30 points of acid damage per attack.
 
-Moderate abjuration; CL 11th; Craft Magic Arms and Armor, resist energy; Price +66,000 gp.
+Moderate abjuration; CL 11th; Craft Magic Arms and Armor, [[resist energy]]; Price +66,000 gp.
 
 **Animated**: Upon command, an animated shield floats within 2 feet of the wielder, protecting her as if she were using it herself but freeing up both her hands. Only one shield can protect a character at a time. A character with an animated shield still takes any penalties associated with shield use, such as armor check penalty, arcane spell failure chance, and nonproficiency.
 
-Strong transmutation; CL 12th; Craft Magic Arms and Armor, animate objects; Price +2 bonus.
+Strong transmutation; CL 12th; Craft Magic Arms and Armor, [[animate objects]]; Price +2 bonus.
 
 **Arrow Catching**: A shield with this ability attracts ranged weapons to it. It has a deflection bonus of +1 against ranged weapons because projectiles and thrown weapons veer toward it. Additionally, any projectile or thrown weapon aimed at a target within 5 feet of the shield’s wearer diverts from its original target and targets the shield’s bearer instead. (If the wielder has total cover relative to the attacker, the projectile or thrown weapon is not diverted.) Additionally, those attacking the wearer with ranged weapons ignore any miss chances that would normally apply. Projectiles and thrown weapons that have an enhancement bonus higher than the shield’s base AC bonus are not diverted to the wearer (but the shield’s increased AC bonus still applies against these weapons). The wielder can activate or deactivate this ability with a command word.
 
-Moderate abjuration; CL 8th; Craft Magic Arms and Armor, entropic shield; Price +1 bonus.
+Moderate abjuration; CL 8th; Craft Magic Arms and Armor, [[entropic shield]]; Price +1 bonus.
 
 **Arrow Deflection**: A shield with this ability protects the wielder from ranged attacks. Once per round when he would normally be struck by a ranged weapon, he can make a DC 20 Reflex save. If the ranged weapon has an enhancement bonus, the DC increases by that amount. If he succeeds, the shield deflects the weapon. He must be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn’t count as an action. Exceptional ranged weapons, such as boulders hurled by giants or acid arrows, can’t be deflected.
 
@@ -217,47 +217,47 @@ Moderate transmutation; CL 8th; Craft Magic Arms and Armor, bull’s strength; P
 
 **Blinding**: A shield with this ability flashes with a brilliant light up to twice per day upon command of the wielder. Anyone within 20 feet except the wielder must make a DC 14 Reflex save or be blinded for 1d4 rounds.
 
-Moderate evocation; CL 7th; Craft Magic Arms and Armor, searing light; Price +1 bonus.
+Moderate evocation; CL 7th; Craft Magic Arms and Armor, [[searing light]]; Price +1 bonus.
 
-**Cold Resistance**: A suit of armor or a shield with this property normally has a bluish, icy hue or is adorned with furs and shaggy pelts. The armor absorbs the first 10 points of cold damage per attack that the wearer would normally take (similar to the resist energy spell).
+**Cold Resistance**: A suit of armor or a shield with this property normally has a bluish, icy hue or is adorned with furs and shaggy pelts. The armor absorbs the first 10 points of cold damage per attack that the wearer would normally take (similar to the [[resist energy]] spell).
 
-Faint abjuration; CL 3rd; Craft Magic Arms and Armor, resist energy; Price +18,000 gp.
+Faint abjuration; CL 3rd; Craft Magic Arms and Armor, [[resist energy]]; Price +18,000 gp.
 
 **Cold Resistance, Improved**: As cold resistance, except it absorbs the first 20 points of cold damage per attack.
 
-Moderate abjuration; CL 7th; Craft Magic Arms and Armor, resist energy; Price +42,000 gp.
+Moderate abjuration; CL 7th; Craft Magic Arms and Armor, [[resist energy]]; Price +42,000 gp.
 
 **Cold Resistance, Greater**: As cold resistance, except it absorbs the first 30 points of cold damage per attack.
 
-Moderate abjuration; CL 11th; Craft Magic Arms and Armor, resist energy; Price +66,000 gp.
+Moderate abjuration; CL 11th; Craft Magic Arms and Armor, [[resist energy]]; Price +66,000 gp.
 
-**Electricity Resistance**: A suit of armor or a shield with this property normally has a bluish hue and often bears a storm or lightning motif. The armor absorbs the first 10 points of electricity damage per attack that the wearer would normally take (similar to the resist energy spell).
+**Electricity Resistance**: A suit of armor or a shield with this property normally has a bluish hue and often bears a storm or lightning motif. The armor absorbs the first 10 points of electricity damage per attack that the wearer would normally take (similar to the [[resist energy]] spell).
 
-Faint abjuration; CL 3rd; Craft Magic Arms and Armor, resist energy; Price +18,000 gp.
+Faint abjuration; CL 3rd; Craft Magic Arms and Armor, [[resist energy]]; Price +18,000 gp.
 
 **Electricity Resistance, Improved**: As electricity resistance, except it absorbs the first 20 points of electricity damage per attack.
 
-Moderate abjuration; CL 7th; Craft Magic Arms and Armor, resist energy; Price +42,000 gp.
+Moderate abjuration; CL 7th; Craft Magic Arms and Armor, [[resist energy]]; Price +42,000 gp.
 
 **Electricity Resistance, Greater**: As electricity resistance, except it absorbs the first 30 points of electricity damage per attack.
 
-Moderate abjuration; CL 11th; Craft Magic Arms and Armor, resist energy; Price +66,000 gp.
+Moderate abjuration; CL 11th; Craft Magic Arms and Armor, [[resist energy]]; Price +66,000 gp.
 
-**Etherealness**: On command, this ability allows the wearer of the armor to become ethereal (as the ethereal jaunt spell) once per day. The character can remain ethereal for as long as desired, but once he returns to normal, he cannot become ethereal again that day.
+**[[Compendium/Spells/Etherealness|Etherealness]]**: On command, this ability allows the wearer of the armor to become ethereal (as the [[ethereal jaunt]] spell) once per day. The character can remain ethereal for as long as desired, but once he returns to normal, he cannot become ethereal again that day.
 
-Strong transmutation; CL 13th; Craft Magic Arms and Armor, ethereal jaunt; Price +49,000 gp.
+Strong transmutation; CL 13th; Craft Magic Arms and Armor, [[ethereal jaunt]]; Price +49,000 gp.
 
-**Fire Resistance**: A suit of armor with this ability normally has a reddish hue and often is decorated with a draconic motif. The armor absorbs the first 10 points of fire damage per attack that the wearer would normally take (similar to the resist energy spell).
+**Fire Resistance**: A suit of armor with this ability normally has a reddish hue and often is decorated with a draconic motif. The armor absorbs the first 10 points of fire damage per attack that the wearer would normally take (similar to the [[resist energy]] spell).
 
-Faint abjuration; CL 3rd; Craft Magic Arms and Armor, resist energy; Price +18,000 gp.
+Faint abjuration; CL 3rd; Craft Magic Arms and Armor, [[resist energy]]; Price +18,000 gp.
 
 **Fire Resistance, Improved**: As fire resistance, except it absorbs the first 20 points of fire damage per attack.
 
-Moderate abjuration; CL 7th; Craft Magic Arms and Armor, resist energy; Price +42,000 gp.
+Moderate abjuration; CL 7th; Craft Magic Arms and Armor, [[resist energy]]; Price +42,000 gp.
 
 **Fire Resistance, Greater**: As fire resistance, except it absorbs the first 30 points of fire damage per attack.
 
-Moderate abjuration; CL 11th; Craft Magic Arms and Armor, resist energy; Price +66,000 gp.
+Moderate abjuration; CL 11th; Craft Magic Arms and Armor, [[resist energy]]; Price +66,000 gp.
 
 **Fortification**: This suit of armor or shield produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a chance that the critical hit or sneak attack is negated and damage is instead rolled normally.
 
@@ -267,23 +267,23 @@ Moderate abjuration; CL 11th; Craft Magic Arms and Armor, resist energy; Price +
 |Moderate|75%|+3 bonus|
 |Heavy|100%|+5 bonus|
 
-Strong abjuration; CL 13th; Craft Magic Arms and Armor, limited wish or miracle; Price varies (see above).
+Strong abjuration; CL 13th; Craft Magic Arms and Armor, [[limited wish]] or [[miracle]]; Price varies (see above).
 
 **Ghost Touch**: This armor or shield seems almost translucent. Both its enhancement bonus and its armor bonus count against the attacks of incorporeal creatures. It can be picked up, moved, and worn by incorporeal creatures at any time. Incorporeal creatures gain the armor or shield’s enhancement bonus against both corporeal and incorporeal attacks, and they can still pass freely through solid objects.
 
-Strong transmutation; CL 15th; Craft Magic Arms and Armor, etherealness; Price +3 bonus.
+Strong transmutation; CL 15th; Craft Magic Arms and Armor, [[Compendium/Spells/Etherealness|etherealness]]; Price +3 bonus.
 
-**Glamered**: A suit of armor with this ability appears normal. Upon command, the armor changes shape and form to assume the appearance of a normal set of clothing. The armor retains all its properties (including weight) when glamered. Only a true seeing spell or similar magic reveals the true nature of the armor when disguised.
+**Glamered**: A suit of armor with this ability appears normal. Upon command, the armor changes shape and form to assume the appearance of a normal set of clothing. The armor retains all its properties (including weight) when glamered. Only a [[true seeing]] spell or similar magic reveals the true nature of the armor when disguised.
 
-Moderate illusion; CL 10th; Craft Magic Arms and Armor, disguise self; Price +2,700 gp.
+Moderate illusion; CL 10th; Craft Magic Arms and Armor, [[disguise self]]; Price +2,700 gp.
 
 **Invulnerability**: This suit of armor grants the wearer damage reduction of 5/magic.
 
-Strong abjuration and perhaps evocation (if miracle is used); CL 18th; Craft Magic Arms and Armor, stoneskin, wish or miracle; Price +3 bonus.
+Strong abjuration and perhaps evocation (if [[miracle]] is used); CL 18th; Craft Magic Arms and Armor, [[stoneskin]], [[wish]] or [[miracle]]; Price +3 bonus.
 
-**Reflecting**: This shield seems like a mirror. Its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster exactly like the spell turning spell.
+**Reflecting**: This shield seems like a mirror. Its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster exactly like the [[spell turning]] spell.
 
-Strong abjuration; CL 14th; Craft Magic Arms and Armor, spell turning; Price +5 bonus.
+Strong abjuration; CL 14th; Craft Magic Arms and Armor, [[spell turning]]; Price +5 bonus.
 
 **Shadow**: This armor is jet black and blurs the wearer whenever she tries to hide, granting a +5 competence bonus on Hide checks. (The armor’s armor check penalty still applies normally.)
 
@@ -311,39 +311,39 @@ Moderate illusion; CL 15th; Craft Magic Arms and Armor, silence; Price +33,750 g
 
 **Slick**: Slick armor seems coated at all times with a slightly greasy oil. It provides a +5 competence bonus on its wearer’s Escape Artist checks. (The armor’s armor check penalty still applies normally.)
 
-Faint conjuration; CL 4th; Craft Magic Arms and Armor, grease; Price +3,750 gp.
+Faint conjuration; CL 4th; Craft Magic Arms and Armor, [[grease]]; Price +3,750 gp.
 
 **Slick, Improved**: As slick, except it grants a +10 competence bonus on Escape Artist checks.
 
-Moderate conjuration; CL 10th; Craft Magic Arms and Armor, grease; Price +15,000 gp.
+Moderate conjuration; CL 10th; Craft Magic Arms and Armor, [[grease]]; Price +15,000 gp.
 
 **Slick, Greater**: As slick, except it grants a +15 competence bonus on Escape Artist checks.
 
-Moderate conjuration; CL 15th; Craft Magic Arms and Armor, grease; Price +33,750 gp.
+Moderate conjuration; CL 15th; Craft Magic Arms and Armor, [[grease]]; Price +33,750 gp.
 
-**Sonic Resistance**: A suit of armor or a shield with this property normally has a glistening appearance. The armor absorbs the first 10 points of sonic damage per attack that the wearer would normally take (similar to the resist energy spell).
+**Sonic Resistance**: A suit of armor or a shield with this property normally has a glistening appearance. The armor absorbs the first 10 points of sonic damage per attack that the wearer would normally take (similar to the [[resist energy]] spell).
 
 Faint abjuration; CL 3rd; Craft Magic Arms and Armor, resist energy; Price +18,000 gp.
 
 **Sonic Resistance, Improved**: As sonic resistance, except it absorbs the first 20 points of sonic damage per attack.
 
-Moderate abjuration; CL 7th; Craft Magic Arms and Armor, resist energy; Price +42,000 gp.
+Moderate abjuration; CL 7th; Craft Magic Arms and Armor, [[resist energy]]; Price +42,000 gp.
 
 **Sonic Resistance, Greater**: As sonic resistance, except it absorbs the first 30 points of sonic damage per attack.
 
-Moderate abjuration; CL 11th; Craft Magic Arms and Armor, resist energy; Price +66,000 gp.
+Moderate abjuration; CL 11th; Craft Magic Arms and Armor, [[resist energy]]; Price +66,000 gp.
 
 **Spell Resistance**: This property grants the armor’s wearer spell resistance while the armor is worn. The spell resistance can be 13, 15, 17, or 19, depending on the armor.
 
 Strong abjuration; CL 15th; Craft Magic Arms and Armor, spell resistance; Price +2 bonus (SR 13), +3 bonus (SR 15), +4 bonus (SR 17), or +5 bonus (SR 19).
 
-**Undead Controlling**: The wearer of a suit of armor or a shield with this property may control up to 26 HD of undead per day, as the control undead spell. At dawn each day, the wearer loses control of any undead still under his sway. Armor or a shield with this ability appears to be made of bone; this feature is entirely decorative and has no other effect on the armor.
+**Undead Controlling**: The wearer of a suit of armor or a shield with this property may control up to 26 HD of undead per day, as the [[control undead]] spell. At dawn each day, the wearer loses control of any undead still under his sway. Armor or a shield with this ability appears to be made of bone; this feature is entirely decorative and has no other effect on the armor.
 
-Strong necromancy; CL 13th; Craft Magic Arms and Armor, control undead; Price +49,000 gp.
+Strong necromancy; CL 13th; Craft Magic Arms and Armor, [[control undead]]; Price +49,000 gp.
 
 **Wild**: The wearer of a suit of armor or a shield with this ability preserves his armor bonus (and any enhancement bonus) while in a wild shape. Armor and shields with this ability usually appear to be made covered in leaf patterns. While the wearer is in a wild shape, the armor cannot be seen.
 
-Moderate transmutation; CL 9th; Craft Magic Arms and Armor, baleful polymorph; Price +3 bonus.
+Moderate transmutation; CL 9th; Craft Magic Arms and Armor, [[baleful polymorph]]; Price +3 bonus.
 
   
 
@@ -378,17 +378,17 @@ Strong enchantment; CL 12th; Craft Magic Arms and Armor, bless; Price 18,900 gp;
 
 **Breastplate of Command**: This finely crafted +2 breastplate radiates a powerful aura of magic. When worn, the armor bestows a dignified and commanding aura upon its owner. The wearer gains a +2 competence bonus on all Charisma checks, including turning checks and Charisma-based skill checks. The wearer also gains a +2 competence bonus to his Leadership score. Friendly troops within 360 feet of the user become braver than normal. Since the effect arises in great part from the distinctiveness of the armor, the wearer cannot hide or conceal herself in any way and still have the effect function.
 
-Strong enchantment; CL 15th; Craft Magic Arms and Armor, mass charm monster; Price 25,400 gp; Cost 10,975 gp + 850 XP.
+Strong enchantment; CL 15th; Craft Magic Arms and Armor, [[Charm Monster Mass|mass charm monster]]; Price 25,400 gp; Cost 10,975 gp + 850 XP.
 
 **Celestial Armor**: This bright silver or gold +3 chainmail is so fine and light that it can be worn under normal clothing without betraying its presence. It has a maximum Dexterity bonus of +8, an armor check penalty of –2, and an arcane spell failure chance of 15%. It is considered light armor, weighs 20 pounds, and it allows the wearer to use fly on command (as the spell) once per day.
 
 Faint transmutation [good]; CL 5th; Craft Magic Arms and Armor, creator must be good, fly; Price 22,400 gp; Cost 12,550 gp + 1,004 XP.
 
-**Demon Armor**: This plate armor is fashioned to make the wearer appear to be a demon. The helmet is shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This +4 full plate allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a contagion spell (Fortitude DC 14 negates). Use of contagion requires a normal melee attack with the claws. The “claws” are built into the armor’s vambraces and gauntlets.
+**Demon Armor**: This plate armor is fashioned to make the wearer appear to be a demon. The helmet is shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This +4 full plate allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a [[contagion]] spell (Fortitude DC 14 negates). Use of [[contagion]] requires a normal melee attack with the claws. The “claws” are built into the armor’s vambraces and gauntlets.
 
-The armor bestows one negative level on any nonevil creature wearing it. This negative level persists as long as the armor is worn and disappears when the armor is removed. The negative level never results in actual level loss, but it cannot be overcome in any way (including restoration spells) while the armor is worn.
+The armor bestows one negative level on any nonevil creature wearing it. This negative level persists as long as the armor is worn and disappears when the armor is removed. The negative level never results in actual level loss, but it cannot be overcome in any way (including [[restoration]] spells) while the armor is worn.
 
-Strong necromancy evil; CL 13th; Craft Magic Arms and Armor, contagion; Price 52,260 gp; Cost 26,130 gp + 2,090 XP.
+Strong necromancy evil; CL 13th; Craft Magic Arms and Armor, [[contagion]]; Price 52,260 gp; Cost 26,130 gp + 2,090 XP.
 
 **Dragonhide Plate**: This suit of full plate is made of dragonhide, rather than metal, so druids can wear it. It is otherwise identical to masterwork full plate.
 
@@ -414,7 +414,7 @@ No aura (nonmagical); Price 1,100 gp.
 
 **Plate Armor of the Deep**: This +1 full plate is decorated with a wave and fish motif. The wearer of plate armor of the deep is treated as unarmored for purposes of Swim checks. The wearer can breathe underwater and can converse with any creature with a language that breathes water.
 
-Moderate abjuration; CL 11th; Craft Magic Arms and Armor, freedom of movement, water breathing, tongues; Price 24,650 gp; Cost 17,150 gp + 600 XP.
+Moderate abjuration; CL 11th; Craft Magic Arms and Armor, [[freedom of movement]], [[water breathing]], [[tongues]]; Price 24,650 gp; Cost 17,150 gp + 600 XP.
 
 **Rhino Hide**: This +2 hide armor is made from rhinoceros hide. In addition to granting a +2 enhancement bonus to AC, it has a –1 armor check penalty and deals an additional 2d6 points of damage on any successful charge attack made by the wearer, including a mounted charge.
 
@@ -439,9 +439,9 @@ Moderate transmutation; CL 9th; Craft Magic Arms and Armor, bull’s strength; P
 
 The following specific shields usually are preconstructed with exactly the qualities described here.
 
-**Absorbing Shield**: This +1 heavy steel shield is flat black and seems to absorb light. Once every two days, on command, it can disintegrate an object that it touches, as the spell but requiring a melee touch attack.
+**Absorbing Shield**: This +1 heavy steel shield is flat black and seems to absorb light. Once every two days, on command, it can [[disintegrate]] an object that it touches, as the spell but requiring a melee touch attack.
 
-Strong transmutation; CL 17th; Craft Magic Arms and Armor, disintegrate; Price 50,170 gp; Cost 25,170 gp + 2,000 XP.
+Strong transmutation; CL 17th; Craft Magic Arms and Armor, [[disintegrate]]; Price 50,170 gp; Cost 25,170 gp + 2,000 XP.
 
 **Caster’s Shield**: This +1 light wooden shield has a small leather strip on the back on which a spellcaster can scribe a single spell as on a scroll. A spell so scribed has only half the base raw material cost. Experience point and component costs remain the same. The strip cannot accommodate spells of higher than 3rd level. The strip is reusable.
 
@@ -467,9 +467,9 @@ Moderate conjuration; CL 10th; Craft Magic Arms and Armor, summon nature’s all
 
 No aura (nonmagical); Price 1,020 gp.
 
-**Spined Shield**: This +1 heavy steel shield is covered in spines. It acts as a normal spiked shield. On command up to three times per day, the shield’s wearer can fire one of the shield’s spines. A fired spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19–20/x2). Fired spines regenerate each day.
+**Spined Shield**: This +1 heavy steel shield is covered in spines. It acts as a normal spiked shield. On command up to three times per day, the shield’s wearer can fire one of the shield’s spines. A fired spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19–20/x2). Fired spines [[regenerate]] each day.
 
-Moderate evocation; CL 6th; Craft Magic Arms and Armor, magic missile; Price 5,580 gp; Cost 2,740 gp + 223 XP.
+Moderate evocation; CL 6th; Craft Magic Arms and Armor, [[magic missile]]; Price 5,580 gp; Cost 2,740 gp + 223 XP.
 
 **Winged Shield**: This round heavy wooden shield has a +3 enhancement bonus. Small, feathered wings encircle the shield.
 
@@ -477,10 +477,6 @@ Once per day it can be commanded to fly (as the spell), carrying the wielder. Th
 
 Faint transmutation; CL 5th; Craft Magic Arms and Armor, fly; Price 17,257 gp; Cost 8,628 gp and 5 sp + 690 XP.
 
-
 ---
 
----
-
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

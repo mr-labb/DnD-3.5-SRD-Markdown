@@ -1,5 +1,6 @@
 ---
-aliases: [Divination]
+aliases:
+ - Divination
 title: Compendium/Basics/Spell/Divination
 tags:
   - 35E_SRD
@@ -57,9 +58,13 @@ Accuracy is based on caster level:
 - A **sacrificial offering** appropriate to your religion (minimum value: **25 gp**)
 
 
-**Source:** PHB P224
+**Source :** PHB P224
 
 ---
 
 This material is Open Game Content, and is licensed for public use under  
 the terms of the Open Game License v1.0a.
+
+---
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -58,9 +58,9 @@ _Nicknames_: Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnippe
     
 - +2 racial bonus on [[Craft]] (alchemy) checks: A gnome's sensitive nose allows him to monitor alchemical processes by smell.
     
-- Automatic Languages: Common and Gnome. Bonus Languages: Draconic, Dwarven, Elven, Giant, Goblin, and Orc. Gnomes deal more with elves and dwarves than elves and dwarves deal with one another, and they learn the languages of their enemies (kobolds, giants, goblins, and orcs) as well. In addition, a gnome can speak with a burrowing mammal (a badger, fox, rabbit, or the like, see below). This ability is innate to gnomes. See the speak with animals spell description.
+- Automatic Languages: Common and Gnome. Bonus Languages: Draconic, Dwarven, Elven, Giant, Goblin, and Orc. Gnomes deal more with elves and dwarves than elves and dwarves deal with one another, and they learn the languages of their enemies (kobolds, giants, goblins, and orcs) as well. In addition, a gnome can speak with a burrowing mammal (a badger, fox, rabbit, or the like, see below). This ability is innate to gnomes. See the [[speak with animals]] spell description.
     
-- Spell-Like Abilities: 1/day—speak with animals (burrowing mammal only, duration 1 minute). A gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day—dancing lights, ghost sound, prestidigitation. Caster level 1st; save DC 10 + gnome's Cha modifier + spell level.
+- Spell-Like Abilities: 1/day—[[speak with animals]] (burrowing mammal only, duration 1 minute). A gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day—[[dancing lights]], [[ghost sound]], [[prestidigitation]]. Caster level 1st; save DC 10 + gnome's Cha modifier + spell level.
     
 - Favored Class: [[Bard]]. A multiclass gnome's bard class does not count when determining whether he takes an experience point penalty.
     
@@ -102,7 +102,7 @@ Svirfneblin Traits (Ex): These traits are in addition to the rock gnome traits, 
     _1/day_ - [[blindness/deafness]] (typical save DC 13), [[blur]], [[disguise self]].  
     Caster level equals the svirfneblin's class levels. The save DC is Charisma-based and include a +4 racial modifier. This trait replaces the rock gnome's spell-like abilities.
     
-- Nondetection (Su): A svirfneblin has a continuous [[nondetection]] ability as the spell (caster level equal to class levels).
+- [[Nondetection]] (Su): A svirfneblin has a continuous [[nondetection]] ability as the spell (caster level equal to class levels).
     
 - +2 racial bonus on [[Craft]] (alchemy) and [[Listen]] checks.
     
@@ -119,15 +119,14 @@ Shy and elusive, forest gnomes shun contact with other races except when dire em
 
 Forest Gnome Traits (Ex): These traits are in addition to the rock gnome traits, except where noted.
 
-- Pass without Trace (Su): A forest gnome has the innate ability to use [[pass without trace]] (self only, as a free action) as the spell cast by a druid of the forest gnome's class levels.
+- [[Pass without Trace]] (Su): A forest gnome has the innate ability to use [[pass without trace]] (self only, as a free action) as the spell cast by a druid of the forest gnome's class levels.
     
 - +1 racial bonus on attack rolls against [[kobolds]], [[goblinoids]], [[orcs]], and reptilian humanoids.
     
-- Automatic Languages: Gnome, Elven, Sylvan, and a simple language that enables them to communicate on a very basic level with forest animals (this replaces the rock gnome's speak with animals ability). Bonus Languages: Common, Draconic, Dwarven, Giant, Goblin, Orc. This trait replaces the rock gnome's automatic and bonus languages.
+- Automatic Languages: Gnome, Elven, Sylvan, and a simple language that enables them to communicate on a very basic level with forest animals (this replaces the rock gnome's [[speak with animals]] ability). Bonus Languages: Common, Draconic, Dwarven, Giant, Goblin, Orc. This trait replaces the rock gnome's automatic and bonus languages.
     
 - +4 racial bonus on [[Hide]] checks, which improves to +8 in a wooded area.
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
