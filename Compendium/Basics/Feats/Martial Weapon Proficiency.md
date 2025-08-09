@@ -2,7 +2,10 @@
 aliases:
  - Martial Weapon Proficiency
 title: Martial Weapon Proficiency
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Martial Weapon Proficiency 
 ***Feat Type: General***
@@ -28,6 +31,11 @@ feat, if the weapon is a martial one. He need not select it.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,9 @@
 aliases:
  - Forgery
 title: Compendium/Basics/skills/Forgery
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Forgery [(Int)]
 
@@ -25,16 +27,18 @@ Forgery check of the person who examines the document to check its
 authenticity. The examiner gains modifiers on his or her check if any of
 the conditions on the table below exist.
 
-  ------------------------------------------- ---------------------------------
-  Condition                                   Reader's Forgery Check Modifier
-  Type of document unknown to reader          --2
-  Type of document somewhat known to reader   +0
-  Type of document well known to reader       +2
-  Handwriting not known to reader             --2
-  Handwriting somewhat known to reader        +0
-  Handwriting intimately known to reader      +2
-  Reader only casually reviews the document   --2
-  ------------------------------------------- ---------------------------------
+
+|Condition|Reader's Forgery  <br>Check Modifier|
+|---|---|
+|Type of document unknown to reader|-2|
+|Type of document somewhat known to reader|+0|
+|Type of document well known to reader|+2|
+|Handwriting not known to reader|-2|
+|Handwriting somewhat known to reader|+0|
+|Handwriting intimately known to reader|+2|
+|Reader only casually reviews the document|-2|
+|Document was forged without having seen a similar document or having a sample of the handwriting to be copied|+50|
+
 
 A document that contradicts procedure, orders, or previous knowledge, or
 one that requires sacrifice on the part of the person checking the
@@ -65,6 +69,11 @@ and detect forgeries, you must be able to read and write the language in
 question. A barbarian can't learn the Forgery skill unless he has
 learned to read and write.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

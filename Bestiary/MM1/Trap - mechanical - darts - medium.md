@@ -11,7 +11,7 @@ Type: Mechanical
 Subtype: 
 CR: 1
 Environnent: 
-Source: MM1
+Source: DMG
 ---
 
 ```statblock

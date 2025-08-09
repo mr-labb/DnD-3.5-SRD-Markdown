@@ -1,6 +1,9 @@
 ---
 lang: en
 title: v3.5 SRD / Basic Rules and Legal / Prestige Classes
+tags: 
+ - 35E_SRD
+ - Class
 ---
 
 [[Cerebremancer]]

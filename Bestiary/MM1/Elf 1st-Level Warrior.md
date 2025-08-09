@@ -104,7 +104,7 @@ Elves are cautious warriors and take time to analyze their opponents and the loc
 They prefer longbows, shortbows, rapiers, and longswords. In melee, elves are graceful and deadly, using complex maneuvers that are beautiful to observe. Their wizards often use *sleep* spells during combat because these won't affect other elves.
 
 
-            **Elf Traits (Ex):** Elves possess the following racial traits.
+ **Elf Traits (Ex):** Elves possess the following racial traits.
 
 The elf warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
@@ -113,57 +113,53 @@ SUBRACES
 The above information describes the high elf, the most common variety. There are five other major subraces of elf, in addition to half-elves, who share enough elven characteristics to be included here.
 
 
-            **Half-Elf**
-          
+ **Half-Elf**
+
 
 Half-elves are not truly an elf subrace, but they are often mistaken for elves. Half-elves usually inherit a good blend of their parents' physical characteristics.
 
 
-            **Half-Elf Traits (Ex):** Half-elves possess the following racial traits.
+ **Half-Elf Traits (Ex):** Half-elves possess the following racial traits.
 
 
-            **Aquatic Elf**
-          
+**Aquatic Elf**
+ 
 
 Also called sea elves, these creatures are waterbreathing cousins to land-dwelling elves.
 
 Aquatic elves fight underwater with tridents, spears, and nets.
 
 
-            **Aquatic Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
+**Aquatic Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 
-            **Drow**
-          
+**Drow**
 
 See the entry on Drow.
 
 
-            **Gray Elf**
-          
+ **Gray Elf**
 
 Taller and grander in physical appearance than others of their race, gray elves have a reputation for being aloof and arrogant (even by elven standards). They have either silver hair and amber eyes or pale golden hair and violet eyes. They prefer clothing of white, silver, yellow, or gold, with cloaks of deep blue or purple.
 
 
-            **Gray Elf Traits (Ex):** These traits are in addition to the high elf traits.
+**Gray Elf Traits (Ex):** These traits are in addition to the high elf traits.
 
 
-            **Wild Elf**
-          
+**Wild Elf**
 
 Wild elves are barbaric and tribal. Wild elves' hair color ranges from black to light brown, lightening to silvery white with age. They dress in simple clothing of animal skins and basic plant weaves.
 
 
-            **Wild Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
+**Wild Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 
-            **Wood Elf**
-          
+**Wood Elf**
 
 Their hair color ranges from yellow to a coppery red, and they are more muscular than other elves. Their clothing is in dark shades of green and earth tones to better blend in with their natural surroundings.
 
 
-            **Wood Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
+**Wood Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 ---
 

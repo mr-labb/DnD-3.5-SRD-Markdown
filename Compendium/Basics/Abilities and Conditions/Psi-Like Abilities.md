@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Psi-Like Abilities
 title: Compendium\Basics\Abilities and Conditions\Psi-Like Abilities
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -34,6 +36,11 @@ Only the portions of the monster entry that are specifically changed by the addi
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

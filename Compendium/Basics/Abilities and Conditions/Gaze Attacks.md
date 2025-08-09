@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Gaze Attacks
 title: Compendium\Basics\Abilities and Conditions\Gaze Attacks
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -32,6 +34,11 @@ Unless specified otherwise, a creature with a gaze attack can control its gaze a
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

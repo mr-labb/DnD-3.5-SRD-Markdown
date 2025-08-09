@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Spell Resistance
 title: Compendium\Basics\Abilities and Conditions\Spell Resistance
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -74,6 +77,11 @@ Abjurations that block or negate attacks are not subject to an attacker’s spel
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

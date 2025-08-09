@@ -1,9 +1,8 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Environment
-tag: Environment
+tags: 
+ - 35E_SRD
+ - Environment
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -296,7 +295,7 @@ Altars: Temples-particularly to dark gods-often exist underground. Usually takin
 
 ###### Cave-Ins and Collapses (CR 8)
 
-Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon explorers face the danger of being crushed by tons of falling rock, even if they survive they may be buried beneath a pile of rubble or cut off from the only known exit. A cave-in buries anyone in the middle of the collapsing area, and then sliding debris damages anyone in the periphery of the collapse. A typical corridor subject to a cave-in might have a bury zone with a 15-foot radius and a 10-foot-radius slide zone extending beyond the bury zone. A weakened ceiling can be spotted with a DC 20 [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) or DC 20 [[Craft]] (stonemasonry) check. Remember that Craft checks can be made untrained as Intelligence checks. A dwarf can make such a check if he simply passes within 10 feet of a weakened ceiling.
+Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon explorers face the danger of being crushed by tons of falling rock, even if they survive they may be buried beneath a pile of rubble or cut off from the only known exit. A cave-in buries anyone in the middle of the collapsing area, and then sliding debris damages anyone in the periphery of the collapse. A typical corridor subject to a cave-in might have a bury zone with a 15-foot radius and a 10-foot-radius slide zone extending beyond the bury zone. A weakened ceiling can be spotted with a DC 20 [[Knowledge]] (architecture and engineering) or DC 20 [[Craft]] (stonemasonry) check. Remember that Craft checks can be made untrained as Intelligence checks. A dwarf can make such a check if he simply passes within 10 feet of a weakened ceiling.
 
 A weakened ceiling may collapse when subjected to a major impact or concussion. A character can cause a cave-in by destroying half the pillars holding the ceiling up.
 
@@ -345,7 +344,7 @@ There are many ways to get lost in the wilderness. Following an obvious road, tr
 |Mountain, map|8|Mountain, no map|12|
 |Moor or hill, no map|10|Forest|15|
 
-A character with at least 5 ranks in [[Compendium/Basics/Skills/Knowledge]] (geography) or Knowledge (local) pertaining to the area being traveled through gains a +2 bonus on this check.
+A character with at least 5 ranks in [[Knowledge]] (geography) or Knowledge (local) pertaining to the area being traveled through gains a +2 bonus on this check.
 
 Check once per hour (or portion of an hour) spent in local or overland movement to see if travelers have become lost. In the case of a party moving together, only the character leading the way makes the check.
 
@@ -822,7 +821,7 @@ If two or more characters are trying to direct a crowd in different directions, 
 
 Rooftops: Getting to a roof usually requires climbing a wall (see the Walls section), unless the character can reach a roof by jumping down from a higher window, balcony, or bridge. Flat roofs, common only in warm climates (accumulated snow can cause a flat roof to collapse), are easy to run across. Moving along the peak of a roof requires a DC 20 [[Balance]] check. Moving on an angled roof surface without changing altitude (moving parallel to the peak, in other words) requires a DC 15 Balance check. Moving up and down across the peak of a roof requires a DC 10 Balance check.
 
-Eventually a character runs out of roof, requiring a long jump across to the next roof or down to the ground. The distance to the next closest roof is usually 1d3×5 feet horizontally, but the roof across the gap is equally likely to be 5 feet higher, 5 feet lower, or the same height. Use the guidelines in the [[Compendium/Spells/Jump]] skill (a horizontal jump’s peak height is one-fourth of the horizontal distance) to determine whether a character can make a jump.
+Eventually a character runs out of roof, requiring a long jump across to the next roof or down to the ground. The distance to the next closest roof is usually 1d3×5 feet horizontally, but the roof across the gap is equally likely to be 5 feet higher, 5 feet lower, or the same height. Use the guidelines in the [[Jump]] skill (a horizontal jump’s peak height is one-fourth of the horizontal distance) to determine whether a character can make a jump.
 
 Sewers: To get into the sewers, most characters open a grate (a full-round action) and jump down 10 feet. Sewers are built exactly like dungeons, except that they’re much more likely to have floors that are slippery or covered with water. Sewers are also similar to dungeons in terms of creatures liable to be encountered therein. Some cities were built atop the ruins of older civilizations, so their sewers sometimes lead to treasures and dangers from a bygone age.
 
@@ -1076,7 +1075,7 @@ A creature blinded by darkness can make a [[Listen]] check as a free action each
 
 **Falling Damage**: The basic rule is simple: 1d6 points of damage per 10 feet fallen, to a maximum of 20d6.
 
-If a character deliberately jumps instead of merely slipping or falling, the damage is the same but the first 1d6 is nonlethal damage. A DC 15 [[Compendium/Spells/Jump]] check or DC 15 [[Tumble]] check allows the character to avoid any damage from the first 10 feet fallen and converts any damage from the second 10 feet to nonlethal damage. Thus, a character who slips from a ledge 30 feet up takes 3d6 damage. If the same character deliberately jumped, he takes 1d6 points of nonlethal damage and 2d6 points of lethal damage. And if the character leaps down with a successful Jump or Tumble check, he takes only 1d6 points of nonlethal damage and 1d6 points of lethal damage from the plunge.
+If a character deliberately jumps instead of merely slipping or falling, the damage is the same but the first 1d6 is nonlethal damage. A DC 15 [[Jump]] check or DC 15 [[Tumble]] check allows the character to avoid any damage from the first 10 feet fallen and converts any damage from the second 10 feet to nonlethal damage. Thus, a character who slips from a ledge 30 feet up takes 3d6 damage. If the same character deliberately jumped, he takes 1d6 points of nonlethal damage and 2d6 points of lethal damage. And if the character leaps down with a successful Jump or Tumble check, he takes only 1d6 points of nonlethal damage and 1d6 points of lethal damage from the plunge.
 
 Falls onto yielding surfaces (soft ground, mud) also convert the first 1d6 of damage to nonlethal damage. This reduction is cumulative with reduced damage due to deliberate jumps and the Jump skill.
 

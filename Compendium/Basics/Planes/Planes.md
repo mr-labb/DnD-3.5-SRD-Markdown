@@ -1,11 +1,11 @@
 ---
 lang: en
-aliases:
- - 
 title: Compendium/Basics/ Planes
+tags: 
+ - 35E_SRD
 ---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
 
 ---
 
@@ -227,6 +227,11 @@ Infinities may be broken into smaller infinities, and planes into smaller, relat
 
 Access to a layered plane from elsewhere usually happens on a specific layer: the first layer of the plane, which can be either the top layer or the bottom layer, depending on the specific plane. Most fixed access points (such as portals and natural vortices) reach this layer, which makes it the gateway for other layers of the plane. The [[plane shift]] spell also deposits the
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,9 @@
 aliases:
  - Deflect Arrows
 title: Deflect Arrows
-tags: Feat
+tags: 
+ - 35E_SRD
+ - Feat
 ---
 ### Deflect Arrows 
 ***Feat Type: General***
@@ -26,6 +28,11 @@ A fighter may select Deflect Arrows as one of his fighter bonus feats.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

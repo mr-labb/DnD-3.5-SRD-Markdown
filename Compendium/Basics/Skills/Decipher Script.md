@@ -2,7 +2,9 @@
 aliases:
  - Decipher Script
 title: Compendium/Basics/skills/Decipher Script
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Decipher Script [(Int; Trained Only)]
 
@@ -37,6 +39,11 @@ Decipher Script checks.
 If you have 5 or more ranks in Decipher Script, you get a
 +2 bonus on Use Magic Device checks involving scrolls.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

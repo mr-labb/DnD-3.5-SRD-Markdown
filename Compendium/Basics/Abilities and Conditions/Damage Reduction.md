@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Damage Reduction
 title: Compendium\Basics\Abilities and Conditions\Damage Reduction
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -53,6 +56,11 @@ If a creature has damage reduction from more than one source, the two forms of d
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

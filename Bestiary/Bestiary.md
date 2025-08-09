@@ -108,7 +108,7 @@ tags: 3-5e/rules/monsters
 - [[Devil_Imp]]
 - [[Devil_Lemure]]
 - [[Devil_Pit Fiend]]
-- [[Devil_Barbed (hamatula)]]
+- [[Devil_Barbed]]
 - [[Devourer]]
 - [[Digester]]
 - [[Dinosaur_Deinonychus]]

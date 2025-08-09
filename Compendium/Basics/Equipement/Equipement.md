@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement
+tags:
+ - 35E_SRD
 ---
 
 # EQUIPMENT

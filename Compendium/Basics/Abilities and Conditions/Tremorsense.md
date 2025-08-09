@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Tremorsense
 title: Compendium\Basics\Abilities and Conditions\Tremorsense
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -18,6 +21,11 @@ As long as the other creatures are taking physical actions, including casting sp
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

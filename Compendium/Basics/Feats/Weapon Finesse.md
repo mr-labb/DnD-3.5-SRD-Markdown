@@ -2,7 +2,10 @@
 aliases:
  - Weapon Finesse
 title: Weapon Finesse
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Weapon Finesse 
 ***Feat Type: General***
@@ -22,6 +25,11 @@ Natural weapons are always considered light weapons.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

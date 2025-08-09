@@ -2,7 +2,10 @@
 aliases:
  - Spell Focus
 title: Spell Focus
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Spell Focus 
 ***Feat Type: General***
@@ -18,6 +21,11 @@ stack. Each time you take the feat, it applies to a new school of magic.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

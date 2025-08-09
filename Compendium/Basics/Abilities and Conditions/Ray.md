@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Ray
 title: Compendium\Basics\Abilities and Conditions\Ray
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -20,6 +23,11 @@ Rays have varying ranges, which are simple maximums. A ray’s attack roll never
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

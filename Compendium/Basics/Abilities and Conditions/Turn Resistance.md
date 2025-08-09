@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Turn Resistance
 title: Compendium\Basics\Abilities and Conditions\Turn Resistance
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -18,6 +21,11 @@ Turn resistance is an extraordinary ability.
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

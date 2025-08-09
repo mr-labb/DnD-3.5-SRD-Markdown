@@ -3,15 +3,41 @@ lang: en
 aliases:
  - Cleric
 title: Compendium/Basics/Classe/Cleric
-tag: Class, Cleric
+tags: 
+ - 35E_SRD
+ - Class
+ - Cleric
 ---
 
 ---
 
 ### CLERIC
 
-<br><br>The handiwork of the gods is everywhere - in places of natural beauty, in mighty crusades, in soaring temples, and in the hearts of worshipers. Like people, gods run the gamut from benevolent to malicious, reserved to intrusive, simple to inscrutable. The gods, however, work mostly through intermediaries - their clerics. Good clerics heal, protect, and avenge. Evil clerics pillage, destroy, and sabotage. A cleric uses the power of his god to make his god's will manifest. And if a cleric uses his god's power to improve his own lot, that's to be expected, too.<br><br>Ideally, a cleric's adventures support his god's causes, at least in a general way. A good cleric, for example, helps those in need. If, through noble acts, he can improve the reputation to his god or temple, that's even better. An evil cleric seeks to increase his own power and that of his deity, so that others will respect and fear both.<br><br>Clerics sometimes receive orders, or at least suggestions, from their ecclesiastical superiors, directing them to undertake missions for the church. The clerics and their companions are compensated fairly for these missions, and the church may be especially generous with the casting of needed spells or divine magic items as payment. Of course, clerics are people, too, and they may have any or all the more common motivations for adventuring.<br><br>Clerics are masters of divine magic, which is especially good at healing. Even an inexperienced cleric can bring people back from the brink of death, and an experienced cleric can bring back people who have crossed over that brink. As channelers of divine energy, clerics can affect undead creatures. A good cleric can turn away or even destroy undead; an evil cleric can bring undead under his control. Clerics have some combat training. They can use simple weapons, and they are trained in the use of armor, since armor does not interfere with divine spells the way it does with arcane spells.<br><br>Alignment: Like the gods they serve, clerics can be of any alignment. Because people more readily worship good deities than neutral or evil ones, there are more good than evil clerics. Clerics also tend toward law instead of chaos, since lawful religions tend to be more structured and better able to recruit and train clerics than chaotic ones.<br><br>Typically, a cleric is the same alignment as his deity, though some clerics are one step away from their respective deities in alignment. For example, most clerics of Heironeous, the god of valor (who is lawful good) are lawful good, but some are lawful neutral or neutral good. Additionally, a cleric may not be neutral (that is, neutral on both the good-evil axis and the lawful-chaotic axis) unless his deity is neutral.<br><br>Every reasonably well-known deity has clerics devoted to him or her, so clerics can be of any religion. The deity most common worshiped by human clerics in civilized lands is Pelor (god of the sun). The majority of nonhuman clerics are devoted to the chief god of the appropriate racial pantheon. Most clerics are officially ordained members of religious organizations, commonly called churches. Each has sworn to uphold the ideals of his church. Some clerics devote themselves not to a god but to a cause or a source of [[divine power]]. These characters wield magic the way clerics devoted to individual gods do, but they are not associated with any religious institution or any particular practice of worship. A cleric devoted to good and law, for example, may be on friendly terms with the clerics of lawful and good deities and may extol the virtues of a good and lawful life, but he is not a functionary in a church hierarchy.<br><br>Most clerics join their churches as young adults, though some are devoted to a god's service from a young age, and a few feel the call later in life. While some clerics are tightly bound to their churches' activities on a daily basis, others have more freedom to conduct their lives as they please, as long as they do so in accordance with their gods' wishes.<br><br>Clerics of a given religion are all supposed to get along, though schisms within a church are often more bitter than conflicts between religions. Clerics who share some basic ideals, such as goodness or lawfulness, may find common cause with each other and see themselves as part of an order or body that supersedes any given religion. Clerics of opposed goals, however, are sworn enemies. In civilized lands, open warfare between religions occurs only during civil wars and similar social upheavals, but vicious politicking between opposed churches is common.<br><br>All the common races are represented in this class, since the need for religion and divine magic is universal. The clerics of most races, however, are too focused on their religious duties to undertake an adventurer's life. Crusading, adventuring clerics most often come from the human and dwarf races. Among the savage humanoids, clerics are less common. The exception is troglodytes, who take well to divine magic and are often led by priests, who make a practice of sacrificing and devouring captives.<br><br>In an adventuring party, the cleric is everybody's friend and often the glue that holds the party together. As the one who can channel divine energy, a cleric is a capable healer, and adventurers of every class appreciate being put back together after they've taken some hard knocks. Clerics sometimes clash with druids, since druids represent an older, more primal relationship between the mortal and the divine. Mostly, though, the religion of a cleric determines how he gets along with others. A cleric of Olidammara (god of thieves), gets along fine with rogues and ne'er-do-wells, for example, while a cleric of Heironeous (god of valor) rankles at such company.<br><br>The cleric serves as a typical group's primary healer, diviner, and defensive specialist. He can hold his own in a fight but usually isn't well served by charging to the front of combat. The cleric's domains and spell selection can greatly affect his role as well.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+The handiwork of the gods is everywhere - in places of natural beauty, in mighty crusades, in soaring temples, and in the hearts of worshipers. Like people, gods run the gamut from benevolent to malicious, reserved to intrusive, simple to inscrutable. The gods, however, work mostly through intermediaries - their clerics. Good clerics heal, protect, and avenge. Evil clerics pillage, destroy, and sabotage. A cleric uses the power of his god to make his god's will manifest. And if a cleric uses his god's power to improve his own lot, that's to be expected, too.
+
+Ideally, a cleric's adventures support his god's causes, at least in a general way. A good cleric, for example, helps those in need. If, through noble acts, he can improve the reputation to his god or temple, that's even better. An evil cleric seeks to increase his own power and that of his deity, so that others will respect and fear both.
+
+Clerics sometimes receive orders, or at least suggestions, from their ecclesiastical superiors, directing them to undertake missions for the church. The clerics and their companions are compensated fairly for these missions, and the church may be especially generous with the casting of needed spells or divine magic items as payment. Of course, clerics are people, too, and they may have any or all the more common motivations for adventuring.
+
+Clerics are masters of divine magic, which is especially good at healing. Even an inexperienced cleric can bring people back from the brink of death, and an experienced cleric can bring back people who have crossed over that brink. As channelers of divine energy, clerics can affect undead creatures. A good cleric can turn away or even destroy undead; an evil cleric can bring undead under his control. Clerics have some combat training. They can use simple weapons, and they are trained in the use of armor, since armor does not interfere with divine spells the way it does with arcane spells.
+
+Alignment: Like the gods they serve, clerics can be of any alignment. Because people more readily worship good deities than neutral or evil ones, there are more good than evil clerics. Clerics also tend toward law instead of chaos, since lawful religions tend to be more structured and better able to recruit and train clerics than chaotic ones.
+
+Typically, a cleric is the same alignment as his deity, though some clerics are one step away from their respective deities in alignment. For example, most clerics of Heironeous, the god of valor (who is lawful good) are lawful good, but some are lawful neutral or neutral good. Additionally, a cleric may not be neutral (that is, neutral on both the good-evil axis and the lawful-chaotic axis) unless his deity is neutral.
+
+Every reasonably well-known deity has clerics devoted to him or her, so clerics can be of any religion. The deity most common worshiped by human clerics in civilized lands is Pelor (god of the sun). The majority of nonhuman clerics are devoted to the chief god of the appropriate racial pantheon. Most clerics are officially ordained members of religious organizations, commonly called churches. Each has sworn to uphold the ideals of his church. Some clerics devote themselves not to a god but to a cause or a source of [[divine power]]. These characters wield magic the way clerics devoted to individual gods do, but they are not associated with any religious institution or any particular practice of worship. A cleric devoted to good and law, for example, may be on friendly terms with the clerics of lawful and good deities and may extol the virtues of a good and lawful life, but he is not a functionary in a church hierarchy.
+
+Most clerics join their churches as young adults, though some are devoted to a god's service from a young age, and a few feel the call later in life. While some clerics are tightly bound to their churches' activities on a daily basis, others have more freedom to conduct their lives as they please, as long as they do so in accordance with their gods' wishes.
+
+Clerics of a given religion are all supposed to get along, though schisms within a church are often more bitter than conflicts between religions. Clerics who share some basic ideals, such as goodness or lawfulness, may find common cause with each other and see themselves as part of an order or body that supersedes any given religion. Clerics of opposed goals, however, are sworn enemies. In civilized lands, open warfare between religions occurs only during civil wars and similar social upheavals, but vicious politicking between opposed churches is common.
+
+All the common races are represented in this class, since the need for religion and divine magic is universal. The clerics of most races, however, are too focused on their religious duties to undertake an adventurer's life. Crusading, adventuring clerics most often come from the human and dwarf races. Among the savage humanoids, clerics are less common. The exception is troglodytes, who take well to divine magic and are often led by priests, who make a practice of sacrificing and devouring captives.
+
+In an adventuring party, the cleric is everybody's friend and often the glue that holds the party together. As the one who can channel divine energy, a cleric is a capable healer, and adventurers of every class appreciate being put back together after they've taken some hard knocks. Clerics sometimes clash with druids, since druids represent an older, more primal relationship between the mortal and the divine. Mostly, though, the religion of a cleric determines how he gets along with others. A cleric of Olidammara (god of thieves), gets along fine with rogues and ne'er-do-wells, for example, while a cleric of Heironeous (god of valor) rankles at such company.
+
+The cleric serves as a typical group's primary healer, diviner, and defensive specialist. He can hold his own in a fight but usually isn't well served by charging to the front of combat. The cleric's domains and spell selection can greatly affect his role as well.
+
 
 **Alignment**: A cleric's alignment must be within one step of his deity's (that is, it may be one step away on either the lawful-chaotic axis or the good-evil axis, but not both). A cleric may not be neutral unless his deity's alignment is also neutral.
 
@@ -19,7 +45,7 @@ tag: Class, Cleric
 
 ###### Class Skills
 
-The cleric's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]](arcana) (Int), [[Compendium/Basics/Skills/Knowledge]](history) (Int), [[Compendium/Basics/Skills/Knowledge]](religion) (Int), [[Compendium/Basics/Skills/Knowledge]](the planes) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
+The cleric's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]](arcana) (Int), [[Knowledge]](history) (Int), [[Knowledge]](religion) (Int), [[Knowledge]](the planes) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -90,7 +116,7 @@ A cleric who is neither good nor evil and whose deity is neither good nor evil c
 
 A good cleric (or a neutral cleric who worships a good deity) can turn or destroy undead creatures. An evil cleric (or a neutral cleric who worships an evil deity) instead rebukes or commands such creatures. A neutral cleric of a neutral deity must choose whether his turning ability functions as that of a good cleric or an evil cleric. Once this choice is made, it cannot be reversed. This decision also determines whether the cleric can cast spontaneous cure or inflict spells (see above).
 
-A cleric may attempt to [[turn undead]] a number of times per day equal to 3 + his Charisma modifier. A cleric with 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (religion) gets a +2 bonus on turning checks against undead.
+A cleric may attempt to [[turn undead]] a number of times per day equal to 3 + his Charisma modifier. A cleric with 5 or more ranks in [[Knowledge]] (religion) gets a +2 bonus on turning checks against undead.
 
 **Bonus Languages**: A cleric's bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race.
 
@@ -118,7 +144,7 @@ Many cultures, both primitive and surprisingly advanced, give their religious de
 
 ##### Class Skills
 
-The ancestral speaker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (local) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[SpellCraft]] (Int). Further, an ancestral speaker may choose any two cross-class skills to become class skills; these were taught to him by his ancestors during communion over the course of his training to become an ancestral speaker.
+The ancestral speaker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (history) (Int), [[Knowledge]] (local) (Int), [[Knowledge]] (religion) (Int), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[SpellCraft]] (Int). Further, an ancestral speaker may choose any two cross-class skills to become class skills; these were taught to him by his ancestors during communion over the course of his training to become an ancestral speaker.
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -158,7 +184,7 @@ All of the following are class features of the ancestral speaker.
 
 **Weapon and Armor Proficiency**: The ancestral speaker is proficient with all simple weapons, with light and medium armor, and with shields (except tower shields).
 
-**Ancestral Communion (Ex)**: In addition to spells, the ancestral speaker may pray to his ancestors for advice or [[Compendium/Basics/Skills/Knowledge]]. At 1st level, the ancestral speaker may request a bonus on any one specific skill, once per day. The ancestors grant him temporary [[Compendium/Basics/Skills/Knowledge]] of that skill, bestowing a competence bonus equal to the ancestral speaker's Charisma modifier plus his class level. It does not matter if the speaker already possesses any ranks in this skill or not; the ancestral speaker can use the skill even if he is untrained in its use or cannot normally use it. The bonus lasts for a number of rounds equal to 1 plus the ancestral speaker's Charisma bonus. At 5th level and every 5 levels thereafter, the ancestral speaker may use this power an additional time per day.
+**Ancestral Communion (Ex)**: In addition to spells, the ancestral speaker may pray to his ancestors for advice or [[Knowledge]]. At 1st level, the ancestral speaker may request a bonus on any one specific skill, once per day. The ancestors grant him temporary [[Knowledge]] of that skill, bestowing a competence bonus equal to the ancestral speaker's Charisma modifier plus his class level. It does not matter if the speaker already possesses any ranks in this skill or not; the ancestral speaker can use the skill even if he is untrained in its use or cannot normally use it. The bonus lasts for a number of rounds equal to 1 plus the ancestral speaker's Charisma bonus. At 5th level and every 5 levels thereafter, the ancestral speaker may use this power an additional time per day.
 
 At 9th level, the ancestral speaker may choose to ask the ancestors' advice, rather than seeking their aid with skills. Instead of a skill bonus, he may choose to ask them questions, as per the commune spell cast by a cleric of his level. He may do this only once per day; any other uses of ancestral communion during that day must be requests for help with a skill.
 
@@ -176,7 +202,7 @@ Many worlds have gods of magic and clerics who worship them. Some clerics, howev
 
 ##### Class Skills
 
-The arcane disciple's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Profession]] (Wis), [[SpellCraft]] (Int), and Use Magic Device (Cha).
+The arcane disciple's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Profession]] (Wis), [[SpellCraft]] (Int), and Use Magic Device (Cha).
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -228,7 +254,7 @@ Among some religious orders, the goal of the initiates is not to serve the gods 
 
 ##### Class Skills
 
-The aspirant's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The aspirant's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -290,7 +316,7 @@ To take an azurin cleric substitution level, a character must be an azurin about
 
 ##### Class Skills
 
-Azurin cleric substitution levels grant the same class skills as the standard cleric class, plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
+Azurin cleric substitution levels grant the same class skills as the standard cleric class, plus [[Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -342,7 +368,7 @@ In many cultures, the primary function of the cleric is to bless the undertaking
 
 ##### Class Skills
 
-The benevolent's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The benevolent's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (4 + Int modifier) × 4.
 
@@ -420,7 +446,7 @@ Not all evil deities or fiendish powers are concerned with undead. Some grant th
 
 **Benefit**: You can call upon your evil master to smite your enemies. All good creatures within 30 feet must succeed on Fortitude saves (DC 10 + 1/2 your caster level + your Cha modifier) or become sickened for a number of rounds equal to your Charisma modifier (minimum 1 round).
 
-You can utter a blasphemous incantation a number of times per day equal to 3 + your Cha modifier. If you have 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (religion), the DC of the Fortitude save increases by 2.
+You can utter a blasphemous incantation a number of times per day equal to 3 + your Cha modifier. If you have 5 or more ranks in [[Knowledge]] (religion), the DC of the Fortitude save increases by 2.
 
 Blasphemous incantation is a supernatural ability.
 
@@ -436,7 +462,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 #### Cloistered Cleric
 
-The cloistered cleric spends more time than other clerics in study and prayer and less in martial training. He gives up some of the cleric's combat prowess in exchange for greater skill access and a wider range of spells devoted to [[Compendium/Basics/Skills/Knowledge]] (and the protection of [[Compendium/Basics/Skills/Knowledge]]).
+The cloistered cleric spends more time than other clerics in study and prayer and less in martial training. He gives up some of the cleric's combat prowess in exchange for greater skill access and a wider range of spells devoted to [[Knowledge]] (and the protection of [[Knowledge]]).
 
 Most cloistered clerics are nonchaotic, since they believe that a disciplined lifestyle lends itself better to learning.
 
@@ -446,7 +472,7 @@ Most cloistered clerics are nonchaotic, since they believe that a disciplined li
 
 ##### Class Skills
 
-The cloistered cleric's class skill list includes [[Decipher Script]], [[Speak Language]], and all [[Compendium/Basics/Skills/Knowledge]] skills (from the [[Compendium/Basics/Skills/Knowledge]] domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number × 4 at 1st level).
+The cloistered cleric's class skill list includes [[Decipher Script]], [[Speak Language]], and all [[Knowledge]] skills (from the [[Knowledge]] domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number × 4 at 1st level).
 
 ##### Class Features
 
@@ -454,11 +480,11 @@ The cloistered cleric has all the standard cleric class features, except as note
 
 **Weapon and Armor Proficiency**: Cloistered clerics are proficient with [[simple weapons]] and with [[light armor]].
 
-**Lore (Ex)**: Thanks to long hours of study, a cloistered cleric has a wide range of stray [[Compendium/Basics/Skills/Knowledge]]. This ability is identical to the bard's [[bardic [[Compendium/Basics/Skills/Knowledge]] class feature, using the cloistered cleric's class level in place of the bard level.
+**Lore (Ex)**: Thanks to long hours of study, a cloistered cleric has a wide range of stray [[Knowledge]]. This ability is identical to the bard's [[bardic [[Knowledge]] class feature, using the cloistered cleric's class level in place of the bard level.
 
-**Deity, Domains, and Domain Spells**: Most cloistered clerics worship deities associated with [[Compendium/Basics/Skills/Knowledge]] and learning.
+**Deity, Domains, and Domain Spells**: Most cloistered clerics worship deities associated with [[Knowledge]] and learning.
 
-In addition to any domains selected from his deity's list, a cloistered cleric automatically gains the [[Compendium/Basics/Skills/Knowledge]] domain]] as a bonus domain (even if the [[Compendium/Basics/Skills/Knowledge]] domain is not normally available to clerics of that deity). He gains the [[Compendium/Basics/Skills/Knowledge]] domain granted power and may select his bonus domain spell from the [[Compendium/Basics/Skills/Knowledge]] domain or from one of his two regular domains.
+In addition to any domains selected from his deity's list, a cloistered cleric automatically gains the [[Knowledge]] domain]] as a bonus domain (even if the [[Knowledge]] domain is not normally available to clerics of that deity). He gains the [[Knowledge]] domain granted power and may select his bonus domain spell from the [[Knowledge]] domain or from one of his two regular domains.
 
 **Spellcasting**: Add the following spells to the cloistered cleric's class spell list:
 
@@ -486,7 +512,7 @@ The crusader is a holy warrior, a martial priest dedicated to battling the enemi
 
 ##### Class Skills
 
-The crusader's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), Ride, (Dex), and [[SpellCraft]] (Int).
+The crusader's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Knowledge]] (arcana) (Int), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), Ride, (Dex), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) × 4.
 
@@ -528,7 +554,7 @@ All of the following are class features of the crusader.
 
 **Deific Foe (Ex)**: At 1st level and every 5 levels thereafter, a crusader must choose a deity opposed to her own god. The crusader gains a +4 morale bonus to attack and damage rolls against worshipers of the chosen deific foe.
 
-**Turn Foe's Followers (Su)**: Starting at ist level, the crusader may turn or destroy worshipers of her deific foe. This is resolved just like a normal cleric's turn undead ability, except that the ability only affects worshipers of the deific foe. A crusader can use this ability a number of times per day equal to 3 + her Charisma modifier. A crusader with 5 or more ranks of [[Compendium/Basics/Skills/Knowledge]] (religion) gains a +2 bonus on turning checks against worshipers of her deific foe.
+**Turn Foe's Followers (Su)**: Starting at ist level, the crusader may turn or destroy worshipers of her deific foe. This is resolved just like a normal cleric's turn undead ability, except that the ability only affects worshipers of the deific foe. A crusader can use this ability a number of times per day equal to 3 + her Charisma modifier. A crusader with 5 or more ranks of [[Knowledge]] (religion) gains a +2 bonus on turning checks against worshipers of her deific foe.
 
 **Bonus Feats**: The crusader gains a bonus feat at 3rd level and every five levels thereafter. These feats must come from the fighter's bonus feat list, with the following alteration: Remove Weapon Specialization and Greater Weapon Specialization from the list (as clerics cannot take those feats), and replace it with Combat Casting.
 
@@ -538,7 +564,7 @@ All of the following are class features of the crusader.
 
 The cleric has nineteen dead levels, but this is mitigated by their one and only special ability: turn or rebuke undead. The turning damage for this ability steadily increases every level (2d6 + the cleric's level + the cleric's Charisma modifier). Still, a prestige class that grants +1 level of divine spellcasting, normal turn or rebuke undead advancement, and special abilities at every level opens the door for a minor dead level ability.
 
-**Undead Intuition (Ex)**: Starting at 2nd level, a cleric can identify undead creatures during an encounter from any distance. The cleric gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks to identify undead creatures, but gains no insight about their special powers or vulnerabilities. See the [[Compendium/Basics/Skills/Knowledge]] skill description. Moreover, the cleric can make these [[Compendium/Basics/Skills/Knowledge]] (undead) checks untrained. This bonus increases by +1 for each cleric level the character takes after 2nd level.
+**Undead Intuition (Ex)**: Starting at 2nd level, a cleric can identify undead creatures during an encounter from any distance. The cleric gains a +2 bonus on [[Knowledge]] (religion) checks to identify undead creatures, but gains no insight about their special powers or vulnerabilities. See the [[Knowledge]] skill description. Moreover, the cleric can make these [[Knowledge]] (undead) checks untrained. This bonus increases by +1 for each cleric level the character takes after 2nd level.
 
 
 
@@ -566,7 +592,7 @@ Although the ability to turn undead is arguably a defining cleric characteristic
 
 **Level**: 1st (cleric) or 4th (paladin).
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the ability to turn or rebuke undead.
 
@@ -576,7 +602,7 @@ If you don't have a cleric level, use your effective cleric level for the purpos
 
 You can attempt to counterspell a number of times per day equal to 1 + your Cha modifier.
 
-A character with 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
+A character with 5 or more ranks in [[Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
 
 #### Divine Magician
 
@@ -588,7 +614,7 @@ This class feature can be chosen only once.
 
 **Level**: 1st.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You gain only one domain (including spells and granted power) at 1st level, rather than two.
 
@@ -728,7 +754,7 @@ To take a dwarf cleric substitution level, a character must be a dwarf about to 
 
 ##### Class Skills
 
-Dwarf cleric substitution levels have the class skills of the standard cleric class plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int).
+Dwarf cleric substitution levels have the class skills of the standard cleric class plus [[Knowledge]] (dungeoneering) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -768,7 +794,7 @@ Variably respected, scorned, or feared by other clerics, the evangelist has an i
 
 ##### Class Skills
 
-The evangelist's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (local) (lnt), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The evangelist's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Heal]] (Wis), [[Knowledge]] (local) (lnt), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) × 4.
 
@@ -873,7 +899,7 @@ Chose one of your domains. Through your long devotion and hours of study, you ha
 _Magic Item_: Temples have long known the secret of forging special holy symbols that enhance the tie between a cleric and his deity. These rare and valuable magic items bestow the improved granted power while worn (see Devoted Symbol below). Clerics who wear one of these symbols retain both of their granted domain abilities and chose domain spells normally.
 
 **DEVOTED SYMBOL**  
-These rare holy symbols enhance the bond between a cleric and his deity, granting access to one improved granted power. Devoted symbols are tied to one specific domain and only grant the power if the wearer already has that domain and is a follower of the same deity. A devoted symbol of Vecna tied to the [[Compendium/Basics/Skills/Knowledge]] domain only grants the divine inspiration ability if the wearer is a cleric of Vecna with the [[Compendium/Basics/Skills/Knowledge]] domain. Devoted symbols are worn around the neck, taking up the amulet slot, and can be used as a holy symbol for the purposes of turning or rebuking undead and as a spell focus.
+These rare holy symbols enhance the bond between a cleric and his deity, granting access to one improved granted power. Devoted symbols are tied to one specific domain and only grant the power if the wearer already has that domain and is a follower of the same deity. A devoted symbol of Vecna tied to the [[Knowledge]] domain only grants the divine inspiration ability if the wearer is a cleric of Vecna with the [[Knowledge]] domain. Devoted symbols are worn around the neck, taking up the amulet slot, and can be used as a holy symbol for the purposes of turning or rebuking undead and as a spell focus.
 
 Moderate divination; CL 7th; Craft Wondrous Item, divination; Price 20,000 gp; Weight 1/2 lb.
 
@@ -929,9 +955,9 @@ The following powers represent all of the domains present in the Player's Handbo
 
 **Healing Light (Su)**: You may channel divine energy as a free action to enhance a spell of the healing subschool. When using this ability, such spells with a range of touch may be cast with a range of close (25 ft. + 5 ft./2 levels). You may use this ability a number of times per day equal to your cleric level.
 
-##### [[Compendium/Basics/Skills/Knowledge]]
+##### [[Knowledge]]
 
-**Divine Inspiration (Su)**: You can glimpse into the mind of your deity, granting you unsurpassed powers of recall and intuition. You can channel divine energy to take to on any [[Compendium/Basics/Skills/Knowledge]] skill check as if you had ranks in it, even if you are untrained, as a free action. You may add your Charisma bonus to the check in addition to your Intelligence bonus. You may use this ability a number of times per day equal to you cleric level.
+**Divine Inspiration (Su)**: You can glimpse into the mind of your deity, granting you unsurpassed powers of recall and intuition. You can channel divine energy to take to on any [[Knowledge]] skill check as if you had ranks in it, even if you are untrained, as a free action. You may add your Charisma bonus to the check in addition to your Intelligence bonus. You may use this ability a number of times per day equal to you cleric level.
 
 ##### LAW
 
@@ -1045,7 +1071,7 @@ Your church tasks you to hunt down and reclaim holy - or perhaps unholy - relics
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a bonus on Reflex saves made to avoid traps equal to 1 + your Wisdom modifier (minimum +1). Additionally, [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) and Search are always considered class skills for you.
+**Benefit**: You gain a bonus on Reflex saves made to avoid traps equal to 1 + your Wisdom modifier (minimum +1). Additionally, [[Knowledge]] (dungeoneering) and Search are always considered class skills for you.
 
 ##### SAGE
 
@@ -1055,7 +1081,7 @@ The keeper of ancient truths and lores, you frequently study the antiquarian wri
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks. In addition, once per day, you may reroll a [[Compendium/Basics/Skills/Knowledge]] check. You must take the second roll, even if it isn't as good as the original.
+**Benefit**: You gain a +2 bonus on [[Knowledge]] (religion) checks. In addition, once per day, you may reroll a [[Knowledge]] check. You must take the second roll, even if it isn't as good as the original.
 
 ##### SCRIBE
 
@@ -1085,7 +1111,7 @@ You are a wise and respected philosopher, frequently meditating to comprehend th
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: You gain a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks. As long as you conspicuously wear or carry your deity's holy symbol you gain a +2 bonus on saving throws made to resist divine spells, as well as the spells and spell-like abilities of outsiders.
+**Benefit**: You gain a +2 bonus on [[Knowledge]] (religion) checks. As long as you conspicuously wear or carry your deity's holy symbol you gain a +2 bonus on saving throws made to resist divine spells, as well as the spells and spell-like abilities of outsiders.
 
 ##### WANDERER
 
@@ -1095,7 +1121,7 @@ Never staying in one plate for long, you travel the world on an endless religiou
 
 **Replaces**: Turn or rebuke undead.
 
-**Benefit**: [[Compendium/Basics/Skills/Knowledge]] (geography), [[Compendium/Basics/Skills/Knowledge]] (local), Speak Language, and Survival are class skills for you. You gain Endurance as a bonus feat at 1st level.
+**Benefit**: [[Knowledge]] (geography), [[Knowledge]] (local), Speak Language, and Survival are class skills for you. You gain Endurance as a bonus feat at 1st level.
 
 ##### WARRIOR PRIEST
 
@@ -1189,7 +1215,7 @@ To take a cleric planar substitution level, a character must be about to take hi
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1282,7 +1308,7 @@ The Followers of the Purple Staff are a group of divine spellcasters trying to c
 
 ##### Requirements
 
-To take a Purple Staff substitution level, a character must have Chauntea, Helm, Lathander, Nobanion, Selune, or Sune as his patron deity, be a member of the Fellowship of the Purple Staff, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 4th, 6th, or 9th level of cleric.
+To take a Purple Staff substitution level, a character must have Chauntea, Helm, Lathander, Nobanion, Selune, or Sune as his patron deity, be a member of the Fellowship of the Purple Staff, have 1 rank in [[Knowledge]] (religion), and be about to take his 4th, 6th, or 9th level of cleric.
 
 ##### Class Skills
 
@@ -1386,7 +1412,7 @@ This substitution feature replaces the standard cleric's heavy armor proficiency
 
 **Air Summoning Talent (Ex)**: Beginning at 3rd level, a raptoran cleric can summon certain creatures of air more easily than other clerics can. Add the following monsters to the list of creatures that the cleric can summon with the appropriate summon monster spell:
 
-_[[Summon monster II]]_: [[Air Elemental_Small|Small air elemental]]
+_[[Summon monster II]]_: [[Elemental_Air - Small|Small air elemental]]
 
 _[[Summon monster III]]_: [[Mephit_Air|Air mephit]]
 
@@ -1478,6 +1504,11 @@ An evil cleric can instead channel negative energy to bolster undead or to dispe
 
 For example, a 3rd-level cleric, faces three [[ghouls]] and a ghast. The cleric can turn up to 9 HD of creatures. Two of the ghouls are 10 feet and 15 feet away, respectively. The third ghoul and the ghast are both 20 feet away. His turning attempts affect the closest ghouls first, then the farthest ghoul, and then the ghast. The cleric makes the first turning check. A ghoul has 2 HD, but it also has +2 turn resistance, so it is treated as a 4 HD creature. After adding the ghoul's +1 Charisma modifier, the turning check DC is 15. The cleric rolls a 12, which, with his three cleric levels and +1 Charisma modifier, gives him a result of 16, so the nearest ghoul is halted in place. (If the cleric wants to maintain the effect, he'll have to continue to concentrate on it in later rounds.) He has successfully turned 4 HD worth of creatures, leaving him with 5 HD. This is enough to affect another ghoul, so he makes another turning check against the next closest ghoul. the cleric rolls a 6 against the second ghoul, for a result of 10, so the ghoul is unaffected. Against the third ghoul, his roll is 16 for a result of 20, which beats the DC by at least 5, so the cleric can turn the ghoul if he wishes to do so. Since he knows he can't affect the ghast on this turning attempt—it has 4 HD and 2 turn resistance, and the cleric has only 1 HD of turning left — he chooses to paralyze the third ghoul rather than sending it scurrying back into its burrow where it can gather more allies. (Even if the cleric had failed to affect the third ghoul, he would only have 5 HD left — not enough to affect the ghast thanks to its +2 turn resistance.) On his next turn, the cleric can choose to continue holding the ghouls in place or, if his allies have already destroyed the three ghouls, use another turning attempt against the ghast (which requires a DC 19 turning check).
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

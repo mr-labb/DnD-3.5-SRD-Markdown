@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Resistance To Energy
 title: Compendium\Basics\Abilities and Conditions\Resistance To Energy
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -19,6 +22,11 @@ When resistance completely negates the damage from an energy attack, the attack 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

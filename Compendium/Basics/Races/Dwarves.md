@@ -1,6 +1,9 @@
 ---
 lang: en
 title: Compendium/Basics/Dwarves 
+tags: 
+ - 35E_SRD
+ - Races
 ---
 ### Dwarves
 Dwarves are known for their skill in warfare, their ability to withstand physical and magical punishment, their knowledge of the earth's secrets, their hard work, and their capacity for drinking ale. Their mysterious kingdoms, carved out from the insides of mountains, are renowned for the marvelous treasures that they produce as gifts or for trade.

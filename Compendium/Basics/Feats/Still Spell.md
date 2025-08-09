@@ -2,7 +2,10 @@
 aliases:
  - Still Spell
 title: Still Spell
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Still Spell 
 ***Feat Type: Metamagic***
@@ -15,6 +18,11 @@ up a spell slot one level higher than the spell's actual level.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

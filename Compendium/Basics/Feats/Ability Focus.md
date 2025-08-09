@@ -2,7 +2,11 @@
 aliases:
  - Ability Focus
 title: Ability Focus
-tags: Feat, Monster_Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
+ - General_Feat
 ---
 ### Ability Focus 
 ***Feat Type: General***
@@ -21,6 +25,11 @@ different special attack.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

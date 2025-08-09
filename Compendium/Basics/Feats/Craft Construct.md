@@ -2,7 +2,10 @@
 aliases:
  - Craft Construct
 title: Craft Construct
-tags: Feat, Monster_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
 ---
 ### Craft Construct 
 ***Feat Type: Item Creation***
@@ -24,6 +27,11 @@ A newly created construct has average hit points for its Hit Dice.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

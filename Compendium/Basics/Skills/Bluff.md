@@ -2,7 +2,9 @@
 aliases:
  - Bluff
 title: Compendium/Basics/skills/Bluff
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Bluff [(Cha)]
 A Bluff check is opposed by the target's [[Sense Motive]] check. See the accompanying table for examples of different kinds of bluffs and the modifier to the target's Sense Motive check for each one.
@@ -78,6 +80,11 @@ If you have the [[Persuasive]] feat, you get a +2 bonus on Bluff checks.
 ### Synergy: 
 If you have 5 or more ranks in Bluff, you get a +2 bonus on [[Diplomacy]], [[Intimidate]], and [[Sleight of Hand]] checks, as well as on [[Disguise]] checks made when you know you're being observed and you try to act in character.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

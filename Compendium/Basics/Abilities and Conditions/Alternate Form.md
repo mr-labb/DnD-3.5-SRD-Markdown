@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Alternate Form
 title: Compendium\Basics\Abilities and Conditions\
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---

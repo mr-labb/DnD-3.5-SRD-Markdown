@@ -2,7 +2,9 @@
 aliases:
  - Sleight of Hand
 title: Compendium/Basics/skills/Sleight of Hand
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Sleight of Hand [(Dex; Trained Only; Armor Check Penalty)]
 
@@ -42,11 +44,12 @@ You can also use Sleight of Hand to entertain an audience as though you
 were using the Perform skill. In such a case, your "act" encompasses
 elements of legerdemain, juggling, and the like.
 
-  -------------------- -------------------------------------------------
-  Sleight of Hand DC   Task
-  10                   Palm a coin-sized object, make a coin disappear
-  20                   Lift a small object from a person
-  -------------------- -------------------------------------------------
+|Sleight of Hand DC|Task|
+|---|---|
+|10|Palm a coin-sized object, make a coin disappear.|
+|20|Lift a small object from a person.|
+|50|Lift a sheathed weapon from another creature and hide it on your person, if the weapon is no more than one size category larger than your own size.|
+|80|Make an adjacent, willing creature or object of your size or smaller “disappear” while in plain view. In fact, the willing creature or object is  <br>displaced up to 10 feet away (make a separate Hide check to determine  <br>how well the “disappeared” creature or object is hidden).|
 
 ### Action
 Any Sleight of Hand check normally is a standard action.
@@ -73,6 +76,11 @@ check. Without actual training, you can't succeed on any Sleight of Hand
 check with a DC higher than 10, except for hiding an object on your
 body.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

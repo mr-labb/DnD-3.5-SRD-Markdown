@@ -2,7 +2,9 @@
 aliases:
  - Balance
 title: Compendium/Basics/skills/Balance
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ## Balance [(Dex; Armor Check Penalty)]
 You can keep your balance while walking on a tightrope, a narrow beam, a slippery ledge, or an uneven floor.
@@ -121,6 +123,11 @@ None. A Balance check doesn't require an action; it is made as part of another a
 ### Synergy:
 If you have the [[Agile]] feat, you get a +2 bonus on Balance checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

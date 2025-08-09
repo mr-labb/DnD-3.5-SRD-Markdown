@@ -3,15 +3,44 @@ lang: en
 aliases:
  - Monk
 title: Compendium/Basics/Classe/Monk
-tag: Class, Monk
+tags: 
+ - 35E_SRD
+ - Class
+ - Monk
 ---
 
----
 
+---
 ### MONK
 
-<br><br>Dotted across the landscape are monasteries - small, walled cloisters inhabited by monks who pursue personal perfection through action as well as contemplation. They train themselves to be versatile warriors skilled at fighting without weapons or armor. The inhabitants of monasteries headed by good masters serve as protectors of the people. Ready for battle even when barefoot and dressed in peasant clothes, monks can travel unnoticed among the populace, catching bandits, warlords, and corrupt nobles unawares. In contrast, the residents of monasteries headed by evil masters rule the surrounding lands through fear, as an evil warlord and his entourage might. Evil monks make ideal spies, infiltrators, and assassins.<br><br>The individual monk is unlikely to care passionately about championing commoners or amassing wealth. She cares primarily for the perfection of her art and, thereby, her personal perfection. Her goal is to achieve a state that is beyond the mortal realm.<br><br>A monk approaches an adventure as if it were a personal test. While not prone to showing off, monks are willing to try their skills against whatever obstacles confront them. They are not greedy for material wealth, but they eagerly seek that which can help them perfect their art.<br><br>The key feature of the monk is her ability to fight unarmed and unarmored. Thanks to her rigorous training, she can strike as hard as if she were armed and strike faster than a warrior with a sword.<br><br>Though a monk casts no spells, she has a magic of her own. She channels a subtle energy, called ki, which allows her to perform amazing feats. The monk's best-known feat is her ability to stun an opponent with an unarmed blow. A monk also has a preternatural awareness that allows her to dodge an attack even if she is not consciously aware of it.<br><br>As the monk gains experience and power, her mundane and kioriented abilities grow, giving her more and more power over herself and, sometimes, over others.<br><br>A monk's training requires strict discipline. Only those who are lawful at heart are capable of undertaking it.<br><br>A monk's training is her spiritual path. She is innerdirected and capable of a private, mystic connection to the spiritual world, so she needs neither clerics nor gods. Certain lawful gods, however, may appeal to monks, who may meditate on the gods' likenesses and attempt to emulate their deeds. The three most likely candidates for a monk's devotion are Heironeous (god of valor), St. Cuthbert (god of retribution), and Hextor (god of tyranny).<br><br>A monk typically trains in a monastery. Most monks were children when they joined the monastery, sent to live there when their parents died, when there wasn't enough food to support them, or in return for some kindness that the monastery had performed for the family. Life in the monastery is so focused that by the time a monk sets off on her own, she feels little connection to her former family or village.<br><br>In larger cities, master monks have set up monk schools to teach their arts to those who are interested and worthy. The monks who study at these academies often see their rural cousins from the monasteries as backward.<br><br>A monk may feel a deep connection to her monastery or school, to the monk who taught her, to the lineage into which she was trained, or to all of these. Some monks, however, have no sense of connection other than to their own path of personal development. Monks recognize each other as a select group set apart from the rest of the populace. They may feel kinship, but they also love to compete with each other to see whose ki is strongest.<br><br>Monasteries are found primarily among humans, who have incorporated them into their ever-evolving culture. Thus, many monks are humans, and many are half-orcs and half-elves who live among humans. Elves are capable of single-minded, long-term devotion to an interest, art, or discipline, and some of them leave the forests to become monks. The monk tradition is alien to dwarf and gnome culture, and halflings typically have too mobile a lifestyle to commit themselves to a monastery, so dwarves, gnomes, and halflings very rarely become monks.<br><br>The savage humanoids do not have the stable social structure that allows monk training, but the occasional orphaned or abandoned child from some humanoid tribe winds up in a civilized monastery or is adopted by a wandering master. The evil subterranean elves known as the drow have a small but successful monk tradition.<br><br>Monks sometimes seem distant because they often have neither motivation nor skills in common with members of other classes. Monks do, however, work well with the support of others, and they usually prove themselves reliable companions. Role: The monk functions best as an opportunistic combatant, using her speed to get into and out of combat quickly rather than engaging in prolonged melees. She also makes an excellent scout, particularly if she focuses her skill selection on stealth.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Dotted across the landscape are monasteries - small, walled cloisters inhabited by monks who pursue personal perfection through action as well as contemplation. They train themselves to be versatile warriors skilled at fighting without weapons or armor. The inhabitants of monasteries headed by good masters serve as protectors of the people. Ready for battle even when barefoot and dressed in peasant clothes, monks can travel unnoticed among the populace, catching bandits, warlords, and corrupt nobles unawares. In contrast, the residents of monasteries headed by evil masters rule the surrounding lands through fear, as an evil warlord and his entourage might. Evil monks make ideal spies, infiltrators, and assassins.
+
+The individual monk is unlikely to care passionately about championing commoners or amassing wealth. She cares primarily for the perfection of her art and, thereby, her personal perfection. Her goal is to achieve a state that is beyond the mortal realm.
+
+A monk approaches an adventure as if it were a personal test. While not prone to showing off, monks are willing to try their skills against whatever obstacles confront them. They are not greedy for material wealth, but they eagerly seek that which can help them perfect their art.
+
+The key feature of the monk is her ability to fight unarmed and unarmored. Thanks to her rigorous training, she can strike as hard as if she were armed and strike faster than a warrior with a sword.
+
+Though a monk casts no spells, she has a magic of her own. She channels a subtle energy, called ki, which allows her to perform amazing feats. The monk's best-known feat is her ability to stun an opponent with an unarmed blow. A monk also has a preternatural awareness that allows her to dodge an attack even if she is not consciously aware of it.
+
+As the monk gains experience and power, her mundane and kioriented abilities grow, giving her more and more power over herself and, sometimes, over others.
+
+A monk's training requires strict discipline. Only those who are lawful at heart are capable of undertaking it.
+
+A monk's training is her spiritual path. She is innerdirected and capable of a private, mystic connection to the spiritual world, so she needs neither clerics nor gods. Certain lawful gods, however, may appeal to monks, who may meditate on the gods' likenesses and attempt to emulate their deeds. The three most likely candidates for a monk's devotion are Heironeous (god of valor), St. Cuthbert (god of retribution), and Hextor (god of tyranny).
+
+A monk typically trains in a monastery. Most monks were children when they joined the monastery, sent to live there when their parents died, when there wasn't enough food to support them, or in return for some kindness that the monastery had performed for the family. Life in the monastery is so focused that by the time a monk sets off on her own, she feels little connection to her former family or village.
+
+In larger cities, master monks have set up monk schools to teach their arts to those who are interested and worthy. The monks who study at these academies often see their rural cousins from the monasteries as backward.
+
+A monk may feel a deep connection to her monastery or school, to the monk who taught her, to the lineage into which she was trained, or to all of these. Some monks, however, have no sense of connection other than to their own path of personal development. Monks recognize each other as a select group set apart from the rest of the populace. They may feel kinship, but they also love to compete with each other to see whose ki is strongest.
+
+Monasteries are found primarily among humans, who have incorporated them into their ever-evolving culture. Thus, many monks are humans, and many are half-orcs and half-elves who live among humans. Elves are capable of single-minded, long-term devotion to an interest, art, or discipline, and some of them leave the forests to become monks. The monk tradition is alien to dwarf and gnome culture, and halflings typically have too mobile a lifestyle to commit themselves to a monastery, so dwarves, gnomes, and halflings very rarely become monks.
+
+The savage humanoids do not have the stable social structure that allows monk training, but the occasional orphaned or abandoned child from some humanoid tribe winds up in a civilized monastery or is adopted by a wandering master. The evil subterranean elves known as the drow have a small but successful monk tradition.
+
+Monks sometimes seem distant because they often have neither motivation nor skills in common with members of other classes. Monks do, however, work well with the support of others, and they usually prove themselves reliable companions. Role: The monk functions best as an opportunistic combatant, using her speed to get into and out of combat quickly rather than engaging in prolonged melees. She also makes an excellent scout, particularly if she focuses her skill selection on stealth.
 
 **Alignment**: Any lawful.
 
@@ -19,7 +48,7 @@ tag: Class, Monk
 
 ###### Class Skills
 
-The monk's class skills (and the key ability for each skill) are [[Balance]] (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Escape Artist]] (Dex), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), [[Spot]] (Wis), [[Swim]] (Str), and [[Tumble]] (Dex).
+The monk's class skills (and the key ability for each skill) are [[Balance]] (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Escape Artist]] (Dex), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (arcana) (Int), [[Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Sense Motive]] (Wis), [[Spot]] (Wis), [[Swim]] (Str), and [[Tumble]] (Dex).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -154,7 +183,7 @@ This alternate class feature replaces the standard monk's slow fall class featur
 
 #### Bane of the Clockwork
 
-Due to your [[Compendium/Basics/Skills/Knowledge]] of all things constructed from metal and coils, you are intimately aware of a construct's flaws.
+Due to your [[Knowledge]] of all things constructed from metal and coils, you are intimately aware of a construct's flaws.
 
 **Level**: 3rd.
 
@@ -170,7 +199,7 @@ These kind and enduring monks dedicated to Ilmater are focused on defending the 
 
 ##### Requirements
 
-To take a Broken One substitution level, a character must have Ilmater as her patron deity, be a member of the Broken Ones, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 6th, or 7th level of monk.
+To take a Broken One substitution level, a character must have Ilmater as her patron deity, be a member of the Broken Ones, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 6th, or 7th level of monk.
 
 ##### Class Skills
 
@@ -282,7 +311,7 @@ The Monks of the Dark Moon are sorcerer-monks who have dedicated their bodies, m
 
 ##### Requirements
 
-To take a Dark Moon Disciple substitution level, a character must be a member of the Monks of the Dark Moon sect, have Shar as her patron deity, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 7th, or 12th level of monk.
+To take a Dark Moon Disciple substitution level, a character must be a member of the Monks of the Dark Moon sect, have Shar as her patron deity, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 7th, or 12th level of monk.
 
 ##### Class Skills
 
@@ -374,7 +403,7 @@ Born Siddhartha Guatama in the 6th century BCE, Buddha founded a philosophy on F
 
 Part teacher and part ascetic, a Buddhist monk wanders from villages to serene mountaintops searching for the path of wisdom. Even after attaining enlightenment, some monks still adventure. Known as bodhisattvas in the Buddhist tradition, they attained enlightenment but refused Nirvana so as to teach others how to seek the way. Such teachers are greatly revered.
 
-A Buddhist monk adventures to seek [[Compendium/Basics/Skills/Knowledge]] and attain enlightenment. In addition, he adventures to teach others about the path of enlightenment and the inevitable suffering that desire causes. Because the Buddhist monk uses an exalted feat, a monk must be lawful good to take this fighting style.
+A Buddhist monk adventures to seek [[Knowledge]] and attain enlightenment. In addition, he adventures to teach others about the path of enlightenment and the inevitable suffering that desire causes. Because the Buddhist monk uses an exalted feat, a monk must be lawful good to take this fighting style.
 
 |   |   |
 |---|---|
@@ -415,7 +444,7 @@ The Denying Stance seeks to neutralize the opponent's maneuvers, thwarting him a
 
 Founded in 1209 by St. Francis of Assisi, the Franciscans (also known as Grey Friars) practiced charity and led lives as mendicants - that is, they practiced begging as a lifestyle.
 
-Friars maintained an ascetic life organized around vows of poverty, humility, and chastity. The Church expected them to forgo material possessions, live in faith and obedience, and eschew the roles of husbands and fathers in exchange for serving God. Friars differed from monks in the application of their vows to their faith. Whereas monks maintained an ascetic life in monastic seclusion, friars kept no permanent abode. Rather, they begged for a living and performed charity in all acts while traveling the countryside. Peasants recognized the Franciscan Friars as teachers and healers. Living alongside the poor earned them first-hand [[Compendium/Basics/Skills/Knowledge]] of the hardships of poverty, which in turn earned them respect among both peasant and noble alike.
+Friars maintained an ascetic life organized around vows of poverty, humility, and chastity. The Church expected them to forgo material possessions, live in faith and obedience, and eschew the roles of husbands and fathers in exchange for serving God. Friars differed from monks in the application of their vows to their faith. Whereas monks maintained an ascetic life in monastic seclusion, friars kept no permanent abode. Rather, they begged for a living and performed charity in all acts while traveling the countryside. Peasants recognized the Franciscan Friars as teachers and healers. Living alongside the poor earned them first-hand [[Knowledge]] of the hardships of poverty, which in turn earned them respect among both peasant and noble alike.
 
 Franciscan friars emphasize humility and charity as wandering teachers. They adventure to help the poor and bring relief to those who suffer. Because the Franciscan friar uses an exalted feat, a monk must be lawful good to take this fighting style.
 
@@ -600,7 +629,7 @@ Sacred enforcers of the goddess of death and magic frequently utilize the latter
 |2nd-Level Feat:|[[Skill Focus]] (Use Magic Device).|
 |6th-Level Feat:|[[Blind-Fight]].|
 |6th-Level Bonus Ability:|You gain a bonus on Use Magic Device checks equal to one-half your monk level.|
-|Prerequisites:|Use Magic Device 4 ranks, [[Compendium/Basics/Skills/Knowledge]] (religion) 9 ranks.|
+|Prerequisites:|Use Magic Device 4 ranks, [[Knowledge]] (religion) 9 ranks.|
 
 ##### SACRED PATH OF YONDALLA
 
@@ -627,12 +656,12 @@ A Shinto monk adventures to maintain the balance and nature of the kami. He hope
 
 |   |   |
 |---|---|
-|1st-Level Skill Bonus:|[[Compendium/Basics/Skills/Knowledge]] (nature).|
+|1st-Level Skill Bonus:|[[Knowledge]] (nature).|
 |1st-Level Feat:|[[Animal Affinity]].|
 |2nd-Level Feat:|[[Vow of Purity]].|
 |6th-Level Feat:|[[Nymphs Kiss|Nymph's Kiss]].|
 |6th-Level Bonus Ability:|Because of your great devotion to nature you gain an animal companion. Your effective druid level equals 1/3 your monk level. Levels in multiple classes that provide animal companions stack.|
-|Prerequisites:|Handle Animal 4 ranks, [[Compendium/Basics/Skills/Knowledge]] (nature) 4 ranks.|
+|Prerequisites:|Handle Animal 4 ranks, [[Knowledge]] (nature) 4 ranks.|
 
 ##### SLEEPING TIGER
 
@@ -781,7 +810,7 @@ Halfling monks of the Hin Fist are trained to use a foe's size against it. Their
 
 ##### Requirements
 
-To take a Hin Disciple substitution level, a character must be a halfling member of the Hin Fist order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of monk.
+To take a Hin Disciple substitution level, a character must be a halfling member of the Hin Fist order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of monk.
 
 ##### Class Skills
 
@@ -853,7 +882,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 #### Illuminated Monk
 
-Some monks find focus in meditation, cloistering themselves away to hone their intellects as well as their physiques and wits. Illuminated monks often serve as archive-keepers in libraries and teachers in schools and universities. Just as the sun personifies reason and wisdom, the illuminated monk studies all varieties of lore and passes on his [[Compendium/Basics/Skills/Knowledge]] to others.
+Some monks find focus in meditation, cloistering themselves away to hone their intellects as well as their physiques and wits. Illuminated monks often serve as archive-keepers in libraries and teachers in schools and universities. Just as the sun personifies reason and wisdom, the illuminated monk studies all varieties of lore and passes on his [[Knowledge]] to others.
 
 **Hit Die**: d6.
 
@@ -917,7 +946,7 @@ To take a kalashtar monk substitution level, a character must be a kalashtar abo
 
 ##### Class Skills
 
-Kalashtar monk substitution levels have the class skills of the standard monk class plus Autohypnosis and [[Compendium/Basics/Skills/Knowledge]] (psionics).
+Kalashtar monk substitution levels have the class skills of the standard monk class plus Autohypnosis and [[Knowledge]] (psionics).
 
 **Skill Points at Each Level**: 4 + Int modifier (or four times this number as a beginning character).
 
@@ -953,7 +982,7 @@ Some monks train as soldiers rather than as ascetic mystic warriors. These marti
 
 This variant simply swaps one or more of a class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
-**Lose**: -1 skill point per level (and -4 skill points at 1st level); no [[Compendium/Basics/Skills/Knowledge]] skills as class skills.
+**Lose**: -1 skill point per level (and -4 skill points at 1st level); no [[Knowledge]] skills as class skills.
 
 **Gain**: Fighter bonus feat list to choose monk bonus feats (at 1st, 2nd, and 6th level); Intimidate is class skill.
 
@@ -969,7 +998,7 @@ The Disciples of the Phoenix are unusual lawful good Kossuthan monks. They are e
 
 ##### Requirements
 
-To take a Phoenix Disciple substitution level, a character must be lawful good, have Kossuth as his patron deity, be a member of the Disciples of the Phoenix order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 3rd, or 12th level of monk.
+To take a Phoenix Disciple substitution level, a character must be lawful good, have Kossuth as his patron deity, be a member of the Disciples of the Phoenix order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 3rd, or 12th level of monk.
 
 ##### Class Skills
 
@@ -1029,7 +1058,7 @@ To take a monk planar substitution level, a character must be about to take her 
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1039,7 +1068,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Monk planar substitution levels have the class skills of the standard monk class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Monk planar substitution levels have the class skills of the standard monk class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -1161,7 +1190,7 @@ The traditional monk seeks balance in body, mind, and soul, and through this equ
 
 **Level**: 1st.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the monk bonus feat normally acquired at 1st level.
 
@@ -1227,7 +1256,7 @@ Many masters of stealth share the signature talent to avoid explosive blasts of 
 
 **Level**: 2nd (monk or rogue), 5th (scout), or 9th (ranger).
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain evasion. (If you would later gain improved evasion as a special ability, you gain evasion instead.)
 
@@ -1345,7 +1374,7 @@ The wild monk is a variant monk. Unless otherwise noted, a wild monk advances in
 
 ##### Class Skills
 
-The wild monk's class skills (and the key ability for each skill) are Balance (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), Move Silently (Dex), [[Profession]] (Wis), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and Tumble (Dex).
+The wild monk's class skills (and the key ability for each skill) are Balance (Dex), [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), Move Silently (Dex), [[Profession]] (Wis), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and Tumble (Dex).
 
   
 
@@ -1384,6 +1413,11 @@ The wild monk trades several monk class features for druid abilities as noted on
 
 If a character has levels in both wild monk and druid, the wild shape abilities of each class act independently of the other. Thus, an 11th-level druid/9th-level wild monk could wild shape four times per day as a druid and take the form of any Tiny, Small, Medium, or Large animal, and she could wild shape twice per day as a wild monk and take the form of any Small or Medium animal.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

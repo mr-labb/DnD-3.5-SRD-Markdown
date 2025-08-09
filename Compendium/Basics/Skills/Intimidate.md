@@ -2,7 +2,9 @@
 aliases:
  - Intimidate
 title: Compendium/Basics/skills/Intimidate
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Intimidate [(Cha)]
 
@@ -57,6 +59,11 @@ checks.
 If you have 5 or more ranks in Bluff, you get a +2 bonus on
 Intimidate checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

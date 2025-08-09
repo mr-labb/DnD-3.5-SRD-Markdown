@@ -2,7 +2,10 @@
 aliases:
  - Silent Spell
 title: Silent Spell
-tags: Feat, Metamagic_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Metamagic_Feat
 ---
 ### Silent Spell 
 ***Feat Type: Metamagic***
@@ -16,6 +19,11 @@ up a spell slot one level higher than the spell's actual level.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

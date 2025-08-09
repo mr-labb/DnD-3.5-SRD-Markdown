@@ -2,7 +2,10 @@
 aliases:
  - Armor Proficiency-Heavy
 title: Armor Proficiency-Heavy
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Armor Proficiency (Heavy) 
 ***Feat Type: General***
@@ -20,6 +23,11 @@ Proficiency (heavy) as a bonus feat. They need not select it.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

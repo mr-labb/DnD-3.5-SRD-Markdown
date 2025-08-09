@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Frightful Presence
 title: Compendium\Basics\Abilities and Conditions\Frightful Presence
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -23,6 +25,11 @@ An opponent that succeeds on the saving throw is immune to that same creature’
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

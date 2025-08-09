@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Pounce
 title: Compendium\Basics\Abilities and Conditions\Pounce
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -14,6 +16,11 @@ When a creature with this special attack makes a [[charge]], it can follow with 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

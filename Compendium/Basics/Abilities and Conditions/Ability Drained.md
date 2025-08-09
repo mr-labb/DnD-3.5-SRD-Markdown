@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Ability Drained
 title: Compendium\Basics\Abilities and Conditions\Ability Drained
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities 
+ - Conditions
 ---
 
 ---

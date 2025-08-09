@@ -1,8 +1,8 @@
 ---
 lang: en
-aliases:
- - 
 title: Compendium/Basics/ Cosmology and Plane Descriptions
+tags: 
+ - 35E_SRD
 ---
 
 ### DUNGEONS & DRAGONS COSMOLOGY
@@ -1043,6 +1043,11 @@ Sigil is huge—ten times the size of a Material Plane metropolis. Accordingly, 
 
 To draw an encounter map for Sigil, start with a normal cityscape and add as much magic to the environment as you can. Entertaining illusions, animated “horseless carriages,” buildings built from walls of force—anything you can imagine probably exists in Sigil somewhere.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,15 +3,35 @@ lang: en
 aliases:
  - Sorcerer
 title: Compendium/Basics/Classe/Sorcerer
-tag: Class, Sorcerer
+tags: 
+ - 35E_SRD
+ - Class
+ - Sorcerer
 ---
 
 ---
 
 ### SORCERER
 
-<br><br>Sorcerers create magic the way a poet creates poems, with inborn talent honed by practice. They have no books, no mentors, no theories - just raw power that they direct at will. Some sorcerers claim that the blood of dragons courses through their veins. That claim may even be true in some cases - it is common [[Compendium/Basics/Skills/Knowledge]] that certain powerful dragons can take humanoid form and even have humanoid lovers, and it's difficult to prove that a given sorcerer does not have a dragon ancestor. It's true that sorcerers often have striking good looks, usually with a touch of the exotic that hints at an unusual heritage. Others hold that the claim is either an unsubstantiated boast on the part of certain sorcerers or envious gossip on the part of those who lack the sorcerer's gift.<br><br>The typical sorcerer adventures in order to improve his abilities. Only by testing his limits can he expand them. A sorcerer's power is inborn - part of his soul. Developing this power is a quest in itself for many sorcerers, regardless of how they wish to use their power. Some good sorcerers are driven by the need to prove themselves. Marked as different by their power, they seek to win a place in society and to prove themselves to others. Evil sorcerers, however, also feel themselves set apart from others - apart and above. They adventure to gain power over those they look down upon.<br><br>Sorcerers cast spells through innate power rather than through careful training and study. Their magic is intuitive rather than logical. Sorcerers know fewer spells than wizards do and acquire powerful spells more slowly than wizards, but they can cast spells more often and have no need to select and prepare their spells ahead of time. Sorcerers do not specialize in certain schools of magic the way wizards sometimes do. Since sorcerers gain their powers without undergoing the years of rigorous study that wizards go through, they don't have the background of arcane [[Compendium/Basics/Skills/Knowledge]] than most wizards have. However, they do have more time to learn fighting skills, and they are proficient with simple weapons.<br><br>For a sorcerer, magic is an intuitive art, not a science. Sorcery favors the free, chaotic, creative spirit over the disciplined mind, so sorcerers tend slightly toward chaos over law.<br><br>Some sorcerers favor Boccob (god of magic), while others revere Wee Jas (goddess of death and magic). However, many sorcerers follow some other deity, or none at all. (Wizards typically learn to follow Boccob or Wee Jas from their mentors, but most sorcerers are self-taught, with no master to induct them into a religion).<br><br>Sorcerers develop rudimentary powers at puberty. Their first spells are incomplete, spontaneous, uncontrolled, and sometimes dangerous. A household with a budding sorcerer in it may be troubled by strange sounds or lights, which can create the impression that the place is haunted. Eventually, the young sorcerer understands the power that he has been wielding unintentionally. From that point on, he can begin practicing and improving his powers. Sometimes a sorcerer is fortunate enough to come under the care of an older, more experienced sorcerer, someone who can help him understand and use his new powers. More often, however, sorcerers are on their own, feared by erstwhile friends and misunderstood by family. Sorcerers have no sense of identity as a group. Unlike wizards, they gain little by sharing their [[Compendium/Basics/Skills/Knowledge]] and have no strong incentive to work together.<br><br>Most sorcerers are humans or half-elves, but the innate talent for sorcery is unpredictable, and it can show up in any of the common races. Arcane spellcasters from savage lands or from among the brutal humanoids are more likely to be sorcerers than wizards. Kobolds are especially likely to take up this path, and they are fierce, if inarticulate, proponents of the "blood of the dragons" theory.<br><br>Sorcerers find that they have the most in common with members of other largely self-taught classes, such as druids and rogues. They sometimes find themselves at odds with members of the more disciplined classes, such as paladins and monks. Since they cast the same spells as wizards but do so in a different way, they sometimes find themselves in competition with wizards.<br><br>A sorcerer tends to define his role based on his spell selection. A sorcerer who focuses on damage-dealing spells becomes a center of the party's offensive power. Another may rely on more subtle magics, such as charms and illusions, and thus take a quieter role. A party with a sorcerer should strongly consider including a second spellcaster, such as a bard, cleric, druid, or even a wizard, to make up for the sorcerer's lack of versatility. Since a sorcerer often has a powerful presence that gives him a way with people, he may serve as the "face" for an adventuring party, negotiating, bargaining, and speaking for others. The sorcerer's spells often help him sway others or gain information, so he makes an excellent spy or diplomat for an adventuring party.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Sorcerers create magic the way a poet creates poems, with inborn talent honed by practice. They have no books, no mentors, no theories - just raw power that they direct at will. Some sorcerers claim that the blood of dragons courses through their veins. That claim may even be true in some cases - it is common [[Knowledge]] that certain powerful dragons can take humanoid form and even have humanoid lovers, and it's difficult to prove that a given sorcerer does not have a dragon ancestor. It's true that sorcerers often have striking good looks, usually with a touch of the exotic that hints at an unusual heritage. Others hold that the claim is either an unsubstantiated boast on the part of certain sorcerers or envious gossip on the part of those who lack the sorcerer's gift.
+
+The typical sorcerer adventures in order to improve his abilities. Only by testing his limits can he expand them. A sorcerer's power is inborn - part of his soul. Developing this power is a quest in itself for many sorcerers, regardless of how they wish to use their power. Some good sorcerers are driven by the need to prove themselves. Marked as different by their power, they seek to win a place in society and to prove themselves to others. Evil sorcerers, however, also feel themselves set apart from others - apart and above. They adventure to gain power over those they look down upon.
+
+Sorcerers cast spells through innate power rather than through careful training and study. Their magic is intuitive rather than logical. Sorcerers know fewer spells than wizards do and acquire powerful spells more slowly than wizards, but they can cast spells more often and have no need to select and prepare their spells ahead of time. Sorcerers do not specialize in certain schools of magic the way wizards sometimes do. Since sorcerers gain their powers without undergoing the years of rigorous study that wizards go through, they don't have the background of arcane [[Knowledge]] than most wizards have. However, they do have more time to learn fighting skills, and they are proficient with simple weapons.
+
+For a sorcerer, magic is an intuitive art, not a science. Sorcery favors the free, chaotic, creative spirit over the disciplined mind, so sorcerers tend slightly toward chaos over law.
+
+Some sorcerers favor Boccob (god of magic), while others revere Wee Jas (goddess of death and magic). However, many sorcerers follow some other deity, or none at all. (Wizards typically learn to follow Boccob or Wee Jas from their mentors, but most sorcerers are self-taught, with no master to induct them into a religion).
+
+Sorcerers develop rudimentary powers at puberty. Their first spells are incomplete, spontaneous, uncontrolled, and sometimes dangerous. A household with a budding sorcerer in it may be troubled by strange sounds or lights, which can create the impression that the place is haunted. Eventually, the young sorcerer understands the power that he has been wielding unintentionally. From that point on, he can begin practicing and improving his powers. Sometimes a sorcerer is fortunate enough to come under the care of an older, more experienced sorcerer, someone who can help him understand and use his new powers. More often, however, sorcerers are on their own, feared by erstwhile friends and misunderstood by family. Sorcerers have no sense of identity as a group. Unlike wizards, they gain little by sharing their [[Knowledge]] and have no strong incentive to work together.
+
+Most sorcerers are humans or half-elves, but the innate talent for sorcery is unpredictable, and it can show up in any of the common races. Arcane spellcasters from savage lands or from among the brutal humanoids are more likely to be sorcerers than wizards. Kobolds are especially likely to take up this path, and they are fierce, if inarticulate, proponents of the "blood of the dragons" theory.
+
+Sorcerers find that they have the most in common with members of other largely self-taught classes, such as druids and rogues. They sometimes find themselves at odds with members of the more disciplined classes, such as paladins and monks. Since they cast the same spells as wizards but do so in a different way, they sometimes find themselves in competition with wizards.
+
+A sorcerer tends to define his role based on his spell selection. A sorcerer who focuses on damage-dealing spells becomes a center of the party's offensive power. Another may rely on more subtle magics, such as charms and illusions, and thus take a quieter role. A party with a sorcerer should strongly consider including a second spellcaster, such as a bard, cleric, druid, or even a wizard, to make up for the sorcerer's lack of versatility. Since a sorcerer often has a powerful presence that gives him a way with people, he may serve as the "face" for an adventuring party, negotiating, bargaining, and speaking for others. The sorcerer's spells often help him sway others or gain information, so he makes an excellent spy or diplomat for an adventuring party.
+
 
 **Alignment**: Any.
 
@@ -19,7 +39,7 @@ tag: Class, Sorcerer
 
 ###### Class Skills
 
-The sorcerer's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (arcana) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
+The sorcerer's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (arcana) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -185,7 +205,7 @@ You possess a deep bond to Eberron, the Dragon Between, which shapes your sorcer
 
 **Replaces**: If you select this class feature, you do not gain the normal list of class skills, nor do you gain a familiar.
 
-**Benefit**: The following are your sorcerer class skills: Concentration, Craft, Diplomacy, Handle Animal, Heal, [[Compendium/Basics/Skills/Knowledge]] (arcana), [[Compendium/Basics/Skills/Knowledge]] (nature), Profession, Spellcraft.
+**Benefit**: The following are your sorcerer class skills: Concentration, Craft, Diplomacy, Handle Animal, Heal, [[Knowledge]] (arcana), [[Knowledge]] (nature), Profession, Spellcraft.
 
 In addition, you gain an animal companion, as a druid of half your sorcerer level. Your druid, ranger, and sorcerer levels stack to determine the abilities of your animal companion. If you possess the Natural Spell feat, its benefits apply any time that you are in the form of an animal, whether due to wild shape, [[Compendium/Spells/Polymorph|polymorph]], or other magical effects.
 
@@ -197,7 +217,7 @@ You possess a deep bond to Khyber, the Dragon Below, which shapes your sorcerous
 
 **Replace**: If you select this class feature, you do not gain the normal list of class skills, nor do you gain a familiar.
 
-**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Intimidate, [[Compendium/Basics/Skills/Knowledge]] (arcana), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering), Profession, Spellcraft.
+**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Intimidate, [[Knowledge]] (arcana), [[Knowledge]] (dungeoneering), Profession, Spellcraft.
 
 Your caster level increases by 1 whenever you cast spells from the schools of conjuration (summoning) or transmutation. You cannot summon any creature of good alignment. In addition, your caster level decreases by 1 (minimum CL 1st) whenever you cast spells from the schools of abjuration or divination.
 
@@ -209,7 +229,7 @@ You possess a deep bond to Siberys, the Dragon Above, which shapes your sorcerou
 
 **Replaces**: If you select this class feature, you do not gain the normal list of class skills, nor do you gain a familiar.
 
-**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Diplomacy, [[Compendium/Basics/Skills/Knowledge]] (arcana), [[Compendium/Basics/Skills/Knowledge]] (the planes), Profession, Spellcraft.
+**Benefit**: The following are your sorcerer class skills: Bluff, Concentration, Craft, Diplomacy, [[Knowledge]] (arcana), [[Knowledge]] (the planes), Profession, Spellcraft.
 
 In addition, you add +4 to your effective Charisma for purposes of determining bonus sorcerer spells and the maximum level of spell you can cast. For example, even if your natural Charisma is 14, you can still cast up to 8th-level sorcerer spells. This bonus does not affect saving throw DCs, skill rolls, or provide any of the other benefits dependant on Charisma.
 
@@ -217,7 +237,7 @@ In addition, you add +4 to your effective Charisma for purposes of determining b
 
 The sorcerer, similar to the cleric, has nineteen dead levels. The sorcerer parts from the cleric, however, in that new spells known are gained at every level (which can be considered special abilities in their own right). Still, a prestige class that grants +1 level of spellcasting and special abilities at every level makes a minor dead level ability infinitely possible.
 
-**Magical Affinity (Ex)**: Starting at 2nd level, a sorcerer can identify a certain creature type during an encounter by virtue of inheriting his magical ability from a member of that creature type. The type must include at least one creature with an arcane spell-like ability (such as dragon, magical beast, or outsider). Once this choice is made, it cannot be reversed. The sorcerer gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (arcana) checks to identify such creature types, but he gains no insight about their special powers or vulnerabilities. See [[Compendium/Basics/Skills/Knowledge]]. Moreover, the sorcerer can make these [[Compendium/Basics/Skills/Knowledge]] (arcana) checks untrained. This bonus increases by +1 for each sorcerer level the character takes after 2nd level.
+**Magical Affinity (Ex)**: Starting at 2nd level, a sorcerer can identify a certain creature type during an encounter by virtue of inheriting his magical ability from a member of that creature type. The type must include at least one creature with an arcane spell-like ability (such as dragon, magical beast, or outsider). Once this choice is made, it cannot be reversed. The sorcerer gains a +2 bonus on [[Knowledge]] (arcana) checks to identify such creature types, but he gains no insight about their special powers or vulnerabilities. See [[Knowledge]]. Moreover, the sorcerer can make these [[Knowledge]] (arcana) checks untrained. This bonus increases by +1 for each sorcerer level the character takes after 2nd level.
 
 #### Disciple of Boccob
 
@@ -332,7 +352,7 @@ Dragonblood sorcerer substitution levels have the class skills of the standard s
 
 All the following are class features of the dragonblood sorcerer racial substitution levels.
 
-**Arcane Insight (Ex)**: A 1st-level dragonblood sorcerer's racial talent with magic grants him keen insights into arcane mysteries. Each time he selects a dragonblood sorcerer substitution level, he gains a cumulative +2 insight bonus on [[Compendium/Basics/Skills/Knowledge]] (arcana) checks.
+**Arcane Insight (Ex)**: A 1st-level dragonblood sorcerer's racial talent with magic grants him keen insights into arcane mysteries. Each time he selects a dragonblood sorcerer substitution level, he gains a cumulative +2 insight bonus on [[Knowledge]] (arcana) checks.
 
 **Draconic Heritage**: A 1st-level dragonblood sorcerer gains Draconic Heritage as a bonus feat.
 
@@ -382,7 +402,7 @@ To take a dwarf sorcerer substitution level, a character must be a dwarf about t
 
 ##### Class Skills
 
-Dwarf sorcerer substitution levels have the class skills of the standard sorcerer class plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int).
+Dwarf sorcerer substitution levels have the class skills of the standard sorcerer class plus [[Knowledge]] (dungeoneering) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -573,7 +593,7 @@ To take a sorcerer planar substitution level, a character must be about to take 
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -583,7 +603,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Sorcerer planar substitution levels have the class skills of the standard sorcerer class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Sorcerer planar substitution levels have the class skills of the standard sorcerer class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -685,7 +705,7 @@ _8th level_: Whirlwind.
 
 A raptoran sorcerer gains this class feature if he selects any of the indicated raptoran sorcerer substitution levels (1st, 5th, or 11th).
 
-**Elemental Familiar (Ex)**: A 1st-level raptoran sorcerer can obtain a [[Air Elemental_Small|Small air elemental]] as a familiar. The elemental's hit points are equal to its normal hit points or one half its master's hit points, whichever are greater. The elemental familiar does not gain the ability to [[speak with animals]]. This familiar otherwise functions identically to the standard sorcerer's familiar ability.
+**Elemental Familiar (Ex)**: A 1st-level raptoran sorcerer can obtain a [[Elemental_Air - Small|Small air elemental]] as a familiar. The elemental's hit points are equal to its normal hit points or one half its master's hit points, whichever are greater. The elemental familiar does not gain the ability to [[speak with animals]]. This familiar otherwise functions identically to the standard sorcerer's familiar ability.
 
 This substitution feature replaces the standard sorcerer's familiar ability gained at 1st level.
 
@@ -763,13 +783,13 @@ You can attempt to deflect damage as often as you wish, but you can make only on
 
 #### Stalwart Sorcerer
 
-Most sorcerers hide behind walls of steel, slinging spells at enemies safely distant. You have no patience for such cowards and prefer to be near the front line. Your breadth of magical [[Compendium/Basics/Skills/Knowledge]] might not compare with those craven weaklings, but you are proud to dive into the fray alongside the fighter.
+Most sorcerers hide behind walls of steel, slinging spells at enemies safely distant. You have no patience for such cowards and prefer to be near the front line. Your breadth of magical [[Knowledge]] might not compare with those craven weaklings, but you are proud to dive into the fray alongside the fighter.
 
 **Class**: Sorcerer.
 
 **Level**: 1st.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: Reduce by one the number of sorcerer spells known for your highest spell level (to a minimum of one). As a 1st-level character, you have one 1st-level spell known rather than two.
 
@@ -833,6 +853,11 @@ _9th Level_: [[earthquake]], [[foresight]], refuge, [[shapechange]], [[wail of t
 
 * _When she becomes able to cast 3rd-level spells, the witch chooses to have one of the four magic circle spells on her spell list. Whichever spell she chooses, she cannot cast it as a spell of an alignment opposed to her own._
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

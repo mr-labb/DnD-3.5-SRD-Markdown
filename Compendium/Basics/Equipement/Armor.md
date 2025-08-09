@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Armor
+tags:
+ - 35E_SRD
 ---
 
 

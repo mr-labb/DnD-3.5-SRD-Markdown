@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Magic Items/Magic Scrolls
+tags:
+ - 35E_SRD
 ---
 ## Scrolls
 

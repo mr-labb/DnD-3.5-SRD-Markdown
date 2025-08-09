@@ -2,7 +2,11 @@
 aliases:
  - Multiweapon Fighting
 title: Multiweapon Fighting
-tags: Feat, Monster_Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
+ - General_Feat
 ---
 ### Multiweapon Fighting 
 ***Feat Type: General***
@@ -23,6 +27,11 @@ creatures with more than two arms.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

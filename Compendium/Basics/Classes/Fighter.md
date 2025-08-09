@@ -3,15 +3,37 @@ lang: en
 aliases:
  - Fighter
 title: Compendium/Basics/Classe/Fighter
-tag: Class, Fighter
+tags: 
+ - 35E_SRD
+ - Class
+ - Fighter
 ---
 
 ---
-
 ### FIGHTER
 
-<br><br>The questing knight, the conquering overlord, the king's champion, the elite foot soldier, the hardened mercenary, and the bandit king - all are fighters. Fighters can be stalwart defenders of those in need, cruel marauders, or gutsy adventurers. Some are among the land's best souls, willing to face death for the greater good. Others are among the worst, with no qualms about killing for private gain, or even for sport. Fighters who are not actively adventuring may be soldiers, guards, bodyguards, champions, or criminal enforcers. An adventuring fighter might call himself a warrior, a mercenary, a thug, or simply an adventurer.<br><br>Most fighters see adventures, raids, and dangerous missions as their job. Some have patrons who pay them regularly. Others prefer to live like prospectors, taking great risks in hopes of the big haul. Some fighters are more civic-minded and use their combat skills to protect endangered people who cannot defend themselves. Whatever their initial motivations, however, fighters often wind up living for the thrill of combat and adventure.<br><br>Of all classes, fighters have the best all-around fighting capabilities (hence the name). Fighters are familiar with all the standard weapons and armors. In addition to general fighting prowess, each fighter develops particular specialties of his own. A given fighter may be especially capable with certain weapons, another might be trained to execute specific fancy maneuvers. As fighters gain experience, they get more opportunities to develop their fighting skills. Thanks to their focus on combat maneuvers, they can master the most difficult ones relatively quickly.<br><br>Fighters may be of any alignment. Good fighters are often crusading types who seek out and fight evil. Lawful fighters may be champions who protect the land and its people. Chaotic fighters may be wandering mercenaries. Evil fighters tend to be bullies and petty villains who simply take what they want by brute force.<br><br>Fighters often worship Heironeous (god of valor), Kord (god of strength), St. Cuthbert (god of retribution), Hextor (god of tyranny), or Erythnul (god of slaughter). A fighter may style himself as a crusader in the service of his god, or he may just want someone to pray to before putting his life on the line yet another time.<br><br>Fighters come to their profession in many ways. Most have had formal training in a noble's army or at least in the local militia. Some have trained in formal academies. Others are self-taught - unpolished but well tested. A fighter may have taken up the sword as a way to escape the limits of life on the farm, or he may be following a proud family tradition. Fighters share no special identity. They do not see themselves as a group or brotherhood. Those who hail from a particular academy, mercenary company, or lord's regiment, however, share a certain camaraderie.<br><br>Human fighters are usually veterans of some military service, typically from more mundane parents. Dwarf fighters are commonly former members of the well-trained strike teams that protect the underground dwarven kingdoms. They are typically members of warrior families that can trace their lineages back for millennia, and they may have rivalries or alliances with other dwarf fighters of a different lineage. Elf fighters are typically skilled with the longsword. They are proud of their ability at swordplay and eager to demonstrate or test it.<br><br>Half-orc fighters are often selftaught outcasts who have achieved enough skill to earn recognition and something akin to respect. Gnome and halfling fighters usually stay in their own communities as part of the area militia rather than adventuring. Half-elves are rarely fighters, but they may take up swordplay in honor of the elven tradition.<br><br>Among the brutal humanoids, few can manage the discipline it takes to be a true fighter. The militaristic hobgoblins, however, produce quite a number of strong and skilled fighters.<br><br>The fighter excels in a straight fight, but he relies on others for magical support, healing, and scouting. On a team, it is his job to man the front lines, protect the other party members, and bring the tough opponents down. Fighters might not understand the arcane ways of wizards or share the faith of clerics, but they recognize the value of teamwork.<br><br>In most adventuring parties, the fighter serves as a melee combatant, charging into the fray while his comrades support him with spells, ranged attacks, and other effects. Fighters who favor ranged combat can prove very deadly, though without other melee support, they can find themselves in front-line combat more often than they might prefer.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+The questing knight, the conquering overlord, the king's champion, the elite foot soldier, the hardened mercenary, and the bandit king - all are fighters. Fighters can be stalwart defenders of those in need, cruel marauders, or gutsy adventurers. Some are among the land's best souls, willing to face death for the greater good. Others are among the worst, with no qualms about killing for private gain, or even for sport. Fighters who are not actively adventuring may be soldiers, guards, bodyguards, champions, or criminal enforcers. An adventuring fighter might call himself a warrior, a mercenary, a thug, or simply an adventurer.
+
+Most fighters see adventures, raids, and dangerous missions as their job. Some have patrons who pay them regularly. Others prefer to live like prospectors, taking great risks in hopes of the big haul. Some fighters are more civic-minded and use their combat skills to protect endangered people who cannot defend themselves. Whatever their initial motivations, however, fighters often wind up living for the thrill of combat and adventure.
+
+Of all classes, fighters have the best all-around fighting capabilities (hence the name). Fighters are familiar with all the standard weapons and armors. In addition to general fighting prowess, each fighter develops particular specialties of his own. A given fighter may be especially capable with certain weapons, another might be trained to execute specific fancy maneuvers. As fighters gain experience, they get more opportunities to develop their fighting skills. Thanks to their focus on combat maneuvers, they can master the most difficult ones relatively quickly.
+
+Fighters may be of any alignment. Good fighters are often crusading types who seek out and fight evil. Lawful fighters may be champions who protect the land and its people. Chaotic fighters may be wandering mercenaries. Evil fighters tend to be bullies and petty villains who simply take what they want by brute force.
+
+Fighters often worship Heironeous (god of valor), Kord (god of strength), St. Cuthbert (god of retribution), Hextor (god of tyranny), or Erythnul (god of slaughter). A fighter may style himself as a crusader in the service of his god, or he may just want someone to pray to before putting his life on the line yet another time.
+
+Fighters come to their profession in many ways. Most have had formal training in a noble's army or at least in the local militia. Some have trained in formal academies. Others are self-taught - unpolished but well tested. A fighter may have taken up the sword as a way to escape the limits of life on the farm, or he may be following a proud family tradition. Fighters share no special identity. They do not see themselves as a group or brotherhood. Those who hail from a particular academy, mercenary company, or lord's regiment, however, share a certain camaraderie.
+
+Human fighters are usually veterans of some military service, typically from more mundane parents. Dwarf fighters are commonly former members of the well-trained strike teams that protect the underground dwarven kingdoms. They are typically members of warrior families that can trace their lineages back for millennia, and they may have rivalries or alliances with other dwarf fighters of a different lineage. Elf fighters are typically skilled with the longsword. They are proud of their ability at swordplay and eager to demonstrate or test it.
+
+Half-orc fighters are often selftaught outcasts who have achieved enough skill to earn recognition and something akin to respect. Gnome and halfling fighters usually stay in their own communities as part of the area militia rather than adventuring. Half-elves are rarely fighters, but they may take up swordplay in honor of the elven tradition.
+
+Among the brutal humanoids, few can manage the discipline it takes to be a true fighter. The militaristic hobgoblins, however, produce quite a number of strong and skilled fighters.
+
+The fighter excels in a straight fight, but he relies on others for magical support, healing, and scouting. On a team, it is his job to man the front lines, protect the other party members, and bring the tough opponents down. Fighters might not understand the arcane ways of wizards or share the faith of clerics, but they recognize the value of teamwork.
+
+In most adventuring parties, the fighter serves as a melee combatant, charging into the fray while his comrades support him with spells, ranged attacks, and other effects. Fighters who favor ranged combat can prove very deadly, though without other melee support, they can find themselves in front-line combat more often than they might prefer.
 
 **Alignment**: Any.
 
@@ -104,7 +126,7 @@ Rare is the fighter who hasn't envied the wizard's bag of magical tricks. Althou
 
 **Level**: 1st.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You lose proficiency with medium armor and heavy armor.
 
@@ -158,7 +180,7 @@ Commanders are soldiers trained in recognizing and using other's abilities in ba
 
 ##### Class Skills
 
-The commander's class skills (and the key ability for each skill) are [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), Profession (siege engineer) (Wis), [[Ride]] (Dex), Sense Motive (Cha), and [[Spot]] (Wis).
+The commander's class skills (and the key ability for each skill) are [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Intimidate]] (Cha), [[Knowledge]] (architecture and engineering) (Int), Profession (siege engineer) (Wis), [[Ride]] (Dex), Sense Motive (Cha), and [[Spot]] (Wis).
 
 ##### Class Features
 
@@ -223,7 +245,7 @@ The Darksong Knights are elite soldiers of Eilistraee who further her many cause
 
 ##### Requirements
 
-To take a Darksong Knight substitution level, a character must have Eilistraee as her patron deity, be a member of the Darksong Knights, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 2nd, 6th, or 8th level of fighter.
+To take a Darksong Knight substitution level, a character must have Eilistraee as her patron deity, be a member of the Darksong Knights, have 1 rank in [[Knowledge]] (religion), and be about to take her 2nd, 6th, or 8th level of fighter.
 
 ##### Class Skills
 
@@ -345,7 +367,7 @@ To take a dwarf fighter substitution level, a character must be a dwarf about to
 
 ##### Class Skills
 
-Dwarf fighter substitution levels have the class skills of the standard fighter class plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int).
+Dwarf fighter substitution levels have the class skills of the standard fighter class plus [[Knowledge]] (dungeoneering) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -429,7 +451,7 @@ _Dazzling Display_: By making a flamboyant display of her weapon, the exoticist 
 
 _Exotic Attack_: The exoticist not only learns to wield strange weapons, but to wield them strangely, and this unusual technique is more difficult to counter. The exoticist gains a +2 bonus to opposed trip attempts she initiates using her exotic weapon and opposed disarm rolls.
 
-_Strange Strike_: The exoticist learns to fully exploit her [[Compendium/Basics/Skills/Knowledge]] of exotic fighting styles. She gains a +1 competence bonus to all attack rolls if her opponent is not proficient with the weapon the exoticist wields.
+_Strange Strike_: The exoticist learns to fully exploit her [[Knowledge]] of exotic fighting styles. She gains a +1 competence bonus to all attack rolls if her opponent is not proficient with the weapon the exoticist wields.
 
 #### Fencer
 
@@ -469,7 +491,7 @@ The armor you wear protects you in more ways than in just avoiding harm.
 
 Numerous martial academies around the Inner Sea region teach weapon skill, tactics, diplomacy, and other tools useful for war. Fighters who attend these schools may choose the above option, which replaces the bonus feat gained upon taking the first level of fighter.
 
-**Class Skills**: A fighter trained at a famous war college or fighting school gains the following class skills (in addition to the normal fighter class skills): [[Diplomacy]] (Cha), Gather Information (Cha), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), [[Compendium/Basics/Skills/Knowledge]] (geography) (Int), [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) (Int), [[Sense Motive]] (Wis).
+**Class Skills**: A fighter trained at a famous war college or fighting school gains the following class skills (in addition to the normal fighter class skills): [[Diplomacy]] (Cha), Gather Information (Cha), [[Knowledge]] (architecture and engineering) (Int), [[Knowledge]] (geography) (Int), [[Knowledge]] (nobility and royalty) (Int), [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (4 + Int modifier) Ã— 4.
 
@@ -559,7 +581,7 @@ Janissaries worship the deities of those they serve and often recognize their mo
 
 Learned and skilled in arts beyond those martial, janissaries know more of the world than most other fighters and speak of such things as architecture and historical events - often doing so in strange [[tongues]].
 
-Feats appropriate to janissaries include Blind-Fight, Combat Expertise, Improved Disarm, Improved Sunder (janissaries often sunder weapons and shields or attempt to disarm their foes with their first attacks), and some of the new feats from Heroes of Battle (such as Veteran [[Compendium/Basics/Skills/Knowledge]]). Pious good-aligned janissaries sometimes take exalted feats, especially Vow of Chastity and Vow of Obedience. In addition, janissaries have developed certain methods for which they have become famous, as modeled by the feat Combat Engineer.
+Feats appropriate to janissaries include Blind-Fight, Combat Expertise, Improved Disarm, Improved Sunder (janissaries often sunder weapons and shields or attempt to disarm their foes with their first attacks), and some of the new feats from Heroes of Battle (such as Veteran [[Knowledge]]). Pious good-aligned janissaries sometimes take exalted feats, especially Vow of Chastity and Vow of Obedience. In addition, janissaries have developed certain methods for which they have become famous, as modeled by the feat Combat Engineer.
 
 Fiercely loyal, janissaries possess a single-mindedness in combat rightly feared by their opponents. They tend to forgo heavy armor for greater stealth and speed, while preferring heavy blades like the greatsword.
 
@@ -567,7 +589,7 @@ The janissary is a variant fighter. Unless otherwise noted, a janissary advances
 
 ##### Class Skills
 
-A janissary gains Speak Language and two [[Compendium/Basics/Skills/Knowledge]] skills (of his choice) as class skills, but Handle Animal, Intimidate, and Swim become cross-class skills for him.
+A janissary gains Speak Language and two [[Knowledge]] skills (of his choice) as class skills, but Handle Animal, Intimidate, and Swim become cross-class skills for him.
 
 #### Kensai
 
@@ -689,7 +711,7 @@ To take a fighter planar substitution level, a character must be about to take h
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -699,7 +721,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Fighter planar substitution levels have the class skills of the standard fighter class plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
+Fighter planar substitution levels have the class skills of the standard fighter class plus [[Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -903,13 +925,13 @@ All of the following are class features of the thane.
 
 #### Thug
 
-The thug is a street fighter, a survivor who learns to mix brute force with a bit of craftiness. He has most of the fighter's strengths, along with some additional skills to help keep him alive on the mean streets. Despite the name, not all thugs are mere hooligans - many are crafty veterans who use their [[Compendium/Basics/Skills/Knowledge]] of the streets to gain an advantage against their opponents.
+The thug is a street fighter, a survivor who learns to mix brute force with a bit of craftiness. He has most of the fighter's strengths, along with some additional skills to help keep him alive on the mean streets. Despite the name, not all thugs are mere hooligans - many are crafty veterans who use their [[Knowledge]] of the streets to gain an advantage against their opponents.
 
 Most thugs are nonlawful, though sometimes gangs of thugs with a lawful streak band together.
 
 ##### Class Skills
 
-Add the following skills to the fighter's class skill list: [[Bluff]], [[Gather Information]], [[Compendium/Basics/Skills/Knowledge]] (local), and [[Sleight of Hand]]. The thug gains skill points per level equal to 4 + Int modifier (and has this number x 4 at 1st level).
+Add the following skills to the fighter's class skill list: [[Bluff]], [[Gather Information]], [[Knowledge]] (local), and [[Sleight of Hand]]. The thug gains skill points per level equal to 4 + Int modifier (and has this number x 4 at 1st level).
 
 ##### Class Features
 
@@ -1033,7 +1055,7 @@ The Zhentarim work across Faerun to bring other realms under their influence and
 
 ##### Requirements
 
-To take a Zhentarim Soldier substitution level, a character must be a member of the Zhentarim, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 5th, or 9th level of fighter.
+To take a Zhentarim Soldier substitution level, a character must be a member of the Zhentarim, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 5th, or 9th level of fighter.
 
 ##### Class Skills
 
@@ -1061,6 +1083,11 @@ All the following are features of the Zhentarim Soldier substitution levels.
 
 **Swift Demoralization (Ex)**: A 9th-level Zhentarim Soldier can use the demoralize opponent aspect of the Intimidate skill as a swift action rather than as a standard action.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

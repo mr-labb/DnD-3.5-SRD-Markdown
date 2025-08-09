@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Magic Items/Potions and Oils
+tags:
+ - 35E_SRD
 ---
 
 ## Potions and Oils

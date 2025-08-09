@@ -1,9 +1,9 @@
 ---
 lang: en
-aliases:
- - 
 title: Compendium/Basics/ Improving Monsters
-tag: Monster
+tags: 
+ - 35E_SRD
+ - Monster
 ---
 
 ## Improving Monsters
@@ -244,6 +244,11 @@ A significant special attack is one that stands a good chance of incapacitating 
 
 Make sure to “scale” your evaluation of these abilities by the monster’s current CR.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,10 @@
 aliases:
  - Great Cleave
 title: Great Cleave
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Great Cleave 
 ***Feat Type: General***
@@ -18,6 +21,11 @@ bonus feats.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Rake
 title: Compendium\Basics\Abilities and Conditions\Rake
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -16,6 +18,11 @@ A monster with the rake ability must begin its turn grappling to use its rake—
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

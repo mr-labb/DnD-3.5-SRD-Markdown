@@ -1,7 +1,10 @@
 ---
-aliases: []
+aliases:
+ - aliases
 title: Bestiary/MM1/
-tags: [35E_SRD, Monster]
+tags: 
+ - 35E_SRD
+ - Monster
 Monster: 
 Size: 
 Type: 
@@ -133,10 +136,9 @@ immune:
 
 ## Description
 
----
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+
+
 
 ---
 

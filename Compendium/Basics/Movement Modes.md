@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Movement Modes
 title: Compendium/Basics/Movement Modes
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---

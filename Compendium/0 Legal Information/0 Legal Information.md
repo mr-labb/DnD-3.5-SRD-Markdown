@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Legal Information
 title: Compendium / Basic Rules / Legal Information
-tag: Legal
+tags: 
+ - Legal
+ - 35E_SRD
 ---
 
 # LEGAL INFORMATION

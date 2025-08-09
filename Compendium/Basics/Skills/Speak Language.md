@@ -2,34 +2,36 @@
 aliases:
  - Speak Language
 title: Compendium/Basics/skills/Speak Language
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Speak Language [(None; Trained Only)]
 
-  -------------------------------------- ------------------------------------------- -----------
   Common Languages and Their Alphabets                                               
-  Language                               Typical Speakers                            Alphabet
-  Abyssal                                Demons, chaotic evil outsiders              Infernal
-  Aquan                                  Water-based creatures                       Elven
-  Auran                                  Air-based creatures                         Draconic
-  Celestial                              Good outsiders                              Celestial
-  Common                                 Humans, halflings, half-elves, half-orcs    Common
-  Draconic                               Kobolds, troglodytes, [[lizardfolk]], dragons   Draconic
-  Druidic                                Druids (only)                               Druidic
-  Dwarven                                Dwarves                                     Dwarven
-  Elven                                  Elves                                       Elven
-  Giant                                  Ogres, giants                               Dwarven
-  Gnome                                  Gnomes                                      Dwarven
-  Goblin                                 Goblins, hobgoblins, bugbears               Dwarven
-  Gnoll                                  Gnolls                                      Common
-  Halfling                               Halflings                                   Common
-  Ignan                                  Fire-based creatures                        Draconic
-  Infernal                               Devils, lawful evil outsiders               Infernal
-  Orc                                    Orcs                                        Dwarven
-  Sylvan                                 Dryads, brownies, leprechauns               Elven
-  Terran                                 Xorns and other earth-based creatures       Dwarven
-  Undercommon                            Drow                                        Elven
-  -------------------------------------- ------------------------------------------- -----------
+
+|Language|Typical Speakers|Alphabet|
+|---|---|---|
+|Abyssal|Demons, chaotic evil outsiders|Infernal|
+|Aquan|Water-based creatures|Elven|
+|Auran|Air-based creatures|Draconic|
+|Celestial|Good outsiders|Celestial|
+|Common|Humans, halflings, half-elves, half-orcs|Common|
+|Draconic|Kobolds, troglodytes, lizardfolk, dragons|Draconic|
+|Druidic|Druids (only)|Druidic|
+|Dwarven|Dwarves|Dwarven|
+|Elven|Elves|Elven|
+|Giant|Ogres, giants|Dwarven|
+|Gnome|Gnomes|Dwarven|
+|Goblin|Goblins, hobgoblins, bugbears|Dwarven|
+|Gnoll|Gnolls|Common|
+|Halfling|Halflings|Common|
+|Ignan|Fire-based creatures|Draconic|
+|Infernal|Devils, lawful evil outsiders|Infernal|
+|Orc|Orcs|Dwarven|
+|Sylvan|Dryads, brownies, leprechauns|Elven|
+|Terran|Xorns and other earth-based creatures|Dwarven|
+|Undercommon|Drow|Elven|
 
 ### Action
 Not applicable.
@@ -54,6 +56,11 @@ as follows.
     speaks. Each language has an alphabet, though sometimes several
     spoken languages share a single alphabet.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

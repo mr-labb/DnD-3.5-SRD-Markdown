@@ -3,15 +3,33 @@ lang: en
 aliases:
  - Rogue
 title: Compendium/Basics/Classe/Rogue
-tag: Class, Rogue
+tags: 
+ - 35E_SRD
+ - Class
+ - Rogue
 ---
 
----
 
 ### ROGUE
 
-<br><br>Rogues share little in common with each other. Some are stealthy thieves. Others are silver-tongued tricksters. Still others are scouts, infiltrators, spies, diplomats, or thugs. What they share is versatility, adaptability, and resourcefulness. In general, rogues are skilled at getting what others don't want them to get: entrance into a locked treasure vault, safe passage past a deadly trap, secret battle plans, a guard's trust, or some random person's pocket money.<br><br>Rogues adventure for the same reason they do most things: to get what they can get. Some are after loot; others want experience. Some crave fame; others seek infamy. Quite a few also enjoy a challenge. Figuring out how to thwart a trap or avoid an alarm is great fun for many rogues.<br><br>Rogues are highly skilled, and they can concentrate on developing any of several categories of skills. While not equal to members of many other classes in combat, a rogue knows how to hit where it hurts, and she can dish out a lot of damage with a sneak attack. Rogues have a sixth sense when it comes to avoiding danger. Experienced rogues develop mystical powers and skills as they master the arts of stealth, evasion, and sneak attacks. In addition, while not capable of casting spells on their own, rogues can "fake it" well enough to cast spells from scrolls, activate wands, and use just about any other magic item.<br><br>Rogues follow opportunity, not ideals. They are more likely to be chaotic than lawful, they are a diverse bunch, so they may be of any alignment.<br><br>Although they are not renowned for their piety, most rogues revere Olidammara (god of thieves). Evil rogues might secretly worship Nerull (god of death), or Erythnul (god of slaughter). Since rogues are so diverse, however, many of them worship other deities, or none at all.<br><br>Some rogues are officially inducted into an organized fellowship of rogues or "guild of thieves." Some are self taught; others learned their skills from independent mentors. Often, an experienced rogue needs an assistant for scams, second-story jobs, or just for watching her back. She recruits a likely youngster, who then learns the skills of the trade on the job. Eventually, the trainee is ready to move on, perhaps because the mentor has run afoul of the law, or perhaps because the trainee has double-crossed her mentor and needs some "space." Rogues do not see each other as fellows unless they happen to be members of the same guild or students of the same mentor. In fact, rogues trust other rogues less than they trust anyone else. They're no fools.<br><br>Adaptable and often unprincipled, humans take to the rogue's life with ease. Halflings, elves, and half-elves also find themselves well suited to the demands of the career. Dwarf and gnome rogues, while less common, are renowned as experts with locks and traps. Half-orc rogues tend toward thuggery. Rogues are common among brutal humanoids, especially goblins and bugbears. Rogues who learn their arts in savage lands, however, generally don't have much experience with complex mechanisms such as traps and locks.<br><br>Rogues love and hate working with members of other classes. They excel when protected by warriors and supported by spellcasters. There are plenty of times, however, that they wish everyone else was as quiet, guileful, and patient as they. Rogues are particularly wary of paladins, so they endeavor to prove themselves useful when contact with paladins is unavoidable.<br><br>The rogue's role in a group can vary dramatically based on her skill selection - from charismatic con artist to cunning burglar to agile combatant - but most rogues share certain aspects. They aren't capable of prolonged melee combat, so they focus on opportunistic sneak attacks or ranged attacks. The rogue's stealth and her trapfinding ability make her one of the best scouts in the game.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Rogues share little in common with each other. Some are stealthy thieves. Others are silver-tongued tricksters. Still others are scouts, infiltrators, spies, diplomats, or thugs. What they share is versatility, adaptability, and resourcefulness. In general, rogues are skilled at getting what others don't want them to get: entrance into a locked treasure vault, safe passage past a deadly trap, secret battle plans, a guard's trust, or some random person's pocket money.
+
+Rogues adventure for the same reason they do most things: to get what they can get. Some are after loot; others want experience. Some crave fame; others seek infamy. Quite a few also enjoy a challenge. Figuring out how to thwart a trap or avoid an alarm is great fun for many rogues.
+
+Rogues are highly skilled, and they can concentrate on developing any of several categories of skills. While not equal to members of many other classes in combat, a rogue knows how to hit where it hurts, and she can dish out a lot of damage with a sneak attack. Rogues have a sixth sense when it comes to avoiding danger. Experienced rogues develop mystical powers and skills as they master the arts of stealth, evasion, and sneak attacks. In addition, while not capable of casting spells on their own, rogues can "fake it" well enough to cast spells from scrolls, activate wands, and use just about any other magic item.
+
+Rogues follow opportunity, not ideals. They are more likely to be chaotic than lawful, they are a diverse bunch, so they may be of any alignment.
+
+Although they are not renowned for their piety, most rogues revere Olidammara (god of thieves). Evil rogues might secretly worship Nerull (god of death), or Erythnul (god of slaughter). Since rogues are so diverse, however, many of them worship other deities, or none at all.
+
+Some rogues are officially inducted into an organized fellowship of rogues or "guild of thieves." Some are self taught; others learned their skills from independent mentors. Often, an experienced rogue needs an assistant for scams, second-story jobs, or just for watching her back. She recruits a likely youngster, who then learns the skills of the trade on the job. Eventually, the trainee is ready to move on, perhaps because the mentor has run afoul of the law, or perhaps because the trainee has double-crossed her mentor and needs some "space." Rogues do not see each other as fellows unless they happen to be members of the same guild or students of the same mentor. In fact, rogues trust other rogues less than they trust anyone else. They're no fools.
+
+Adaptable and often unprincipled, humans take to the rogue's life with ease. Halflings, elves, and half-elves also find themselves well suited to the demands of the career. Dwarf and gnome rogues, while less common, are renowned as experts with locks and traps. Half-orc rogues tend toward thuggery. Rogues are common among brutal humanoids, especially goblins and bugbears. Rogues who learn their arts in savage lands, however, generally don't have much experience with complex mechanisms such as traps and locks.
+
+Rogues love and hate working with members of other classes. They excel when protected by warriors and supported by spellcasters. There are plenty of times, however, that they wish everyone else was as quiet, guileful, and patient as they. Rogues are particularly wary of paladins, so they endeavor to prove themselves useful when contact with paladins is unavoidable.
+
+The rogue's role in a group can vary dramatically based on her skill selection - from charismatic con artist to cunning burglar to agile combatant - but most rogues share certain aspects. They aren't capable of prolonged melee combat, so they focus on opportunistic sneak attacks or ranged attacks. The rogue's stealth and her trapfinding ability make her one of the best scouts in the game.
 
 **Alignment**: Any.
 
@@ -19,7 +37,7 @@ tag: Class, Rogue
 
 ###### Class Skills
 
-The rogue's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Balance]] (Dex), [[Bluff]] (Cha), [[Climb]] (Str), [[Craft]] (Int), [[Decipher Script]] (Int), [[Diplomacy]] (Cha), [[#Disable Device]] (Int), [[Disguise]] (Cha), [[Escape Artist]] (Dex), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (local) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Open Lock]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Search]] (Int), [[Sense Motive]] (Wis), [[Sleight of Hand]] (Dex), [[Spot]] (Wis), [[Swim]] (Str), [[Tumble]] (Dex), [[Use Magic Device]] (Cha), and [[Use Rope]] (Dex).
+The rogue's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Balance]] (Dex), [[Bluff]] (Cha), [[Climb]] (Str), [[Craft]] (Int), [[Decipher Script]] (Int), [[Diplomacy]] (Cha), [[#Disable Device]] (Int), [[Disguise]] (Cha), [[Escape Artist]] (Dex), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Knowledge]] (local) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Open Lock]] (Dex), [[Perform]] (Cha), [[Profession]] (Wis), [[Search]] (Int), [[Sense Motive]] (Wis), [[Sleight of Hand]] (Dex), [[Spot]] (Wis), [[Swim]] (Str), [[Tumble]] (Dex), [[Use Magic Device]] (Cha), and [[Use Rope]] (Dex).
 
 **Skill Points at 1st Level**: (8 + Int modifier) x 4.
 
@@ -126,7 +144,7 @@ This variant simply swaps one or more of a class's features for one or more clas
 
 #### Antiquarian
 
-You are incredibly [[Compendium/Basics/Skills/Knowledge]]able about artifacts, relics, and antiques - especially those that are religious in nature.
+You are incredibly [[Knowledge]]able about artifacts, relics, and antiques - especially those that are religious in nature.
 
 **Level**: 1st.
 
@@ -134,7 +152,7 @@ You are incredibly [[Compendium/Basics/Skills/Knowledge]]able about artifacts, r
 
 **Benefit**: When examining divine items and religious relics, you gain a bonus equal to your Wisdom modifier on all Appraise checks as an extraordinary ability.
 
-In addition, if you examine a magic item created using a spell from the cleric or paladin list, or an item with special religious significance, you can attempt a [[Compendium/Basics/Skills/Knowledge]] (religion) check (DC 10 + the item's caster level) to identify it exactly as a spell-like ability. This works like the identify spell (caster level equals your rogue level) but requires no material component and can be performed as a full round action. You can use this ability on only one item per day.
+In addition, if you examine a magic item created using a spell from the cleric or paladin list, or an item with special religious significance, you can attempt a [[Knowledge]] (religion) check (DC 10 + the item's caster level) to identify it exactly as a spell-like ability. This works like the identify spell (caster level equals your rogue level) but requires no material component and can be performed as a full round action. You can use this ability on only one item per day.
 
 #### Breathstealer
 
@@ -162,7 +180,7 @@ To take a changeling rogue substitution level, a character must be a changeling 
 
 ##### Class Skills
 
-Changeling rogue substitution levels have the class skills of the standard rogue class, plus one [[Compendium/Basics/Skills/Knowledge]] skill chosen when the first racial substitution level is taken. Once this selection is made, it cannot be changed.
+Changeling rogue substitution levels have the class skills of the standard rogue class, plus one [[Knowledge]] skill chosen when the first racial substitution level is taken. Once this selection is made, it cannot be changed.
 
 **Skill Points at Each Level**: 10 + Int modifier (or four times this number as a beginning character).
 
@@ -182,13 +200,13 @@ All the following are features of the changeling rogue's racial substitution lev
 
 **Social Intuition (Ex)**: A changeling rogue has an uncanny awareness of the tone of any social situation in which he finds himself. This grants benefits to a number of his skill checks.
 
-- Making a Gather Information check to gain [[Compendium/Basics/Skills/Knowledge]] takes a changeling rogue only 1d4+1 × 10 minutes, instead of the normal 1d4+1 hours.
+- Making a Gather Information check to gain [[Knowledge]] takes a changeling rogue only 1d4+1 × 10 minutes, instead of the normal 1d4+1 hours.
 - A gut assessment of a social situation with a Sense Motive check can be made as a full-round action instead of taking a full minute.
 - A changeling rogue can take 10 on Bluff, Diplomacy, Gather Information, Intimidate, and Sense Motive checks, even if stress or distraction would normally prevent him from doing so.
 
 This substitution feature replaces the standard rogue's trapfinding ability. A changeling rogue without trapfinding can still use the Search skill to find a trap whose DC is 20 or lower, and can still disarm mundane (but not magic) traps with Disable Device, just as any other character without trapfinding.
 
-**Minor Lore (Ex)**: Thanks to his varied personas and pursuits, a changeling rogue picks up bits of stray [[Compendium/Basics/Skills/Knowledge]]. Beginning at 3rd level, he gains a +1 bonus on all [[Compendium/Basics/Skills/Knowledge]] checks (though this bonus doesn't change an untrained check to a trained check), improving by +1 every three levels thereafter (to +2 at 6th level, +3 at 9th, and so on). In addition, whenever the rogue successfully aids another character's [[Compendium/Basics/Skills/Knowledge]] check, that character can apply this bonus on his check result (in addition to the normal bonus granted by the rogue's aid another attempt).
+**Minor Lore (Ex)**: Thanks to his varied personas and pursuits, a changeling rogue picks up bits of stray [[Knowledge]]. Beginning at 3rd level, he gains a +1 bonus on all [[Knowledge]] checks (though this bonus doesn't change an untrained check to a trained check), improving by +1 every three levels thereafter (to +2 at 6th level, +3 at 9th, and so on). In addition, whenever the rogue successfully aids another character's [[Knowledge]] check, that character can apply this bonus on his check result (in addition to the normal bonus granted by the rogue's aid another attempt).
 
 This substitution feature replaces the standard rogue's trap sense ability, which can never be gained at later levels.
 
@@ -344,7 +362,7 @@ To take a dwarf rogue substitution level, a character must be a dwarf about to t
 
 ##### Class Skills
 
-Dwarf rogue substitution levels grant class skills as the base rogue class, plus [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering).
+Dwarf rogue substitution levels grant class skills as the base rogue class, plus [[Knowledge]] (architecture and engineering).
 
 **Skill Points at each Level**: 8 + Int modifier (or four times this number as a beginning character).
 
@@ -368,13 +386,13 @@ This substitution replaces the rogue's normal +1d6 points of sneak attack damage
 
 **Expert Demolitionist (Ex)**: At 3rd level, the rogue deals +2d6 points of damage against constructs and objects. This bonus does not ignore hardness or damage reduction.
 
-In addition, she gains a +2 competence bonus on Craft, Disable Device, or [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) checks made to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so.
+In addition, she gains a +2 competence bonus on Craft, Disable Device, or [[Knowledge]] (architecture and engineering) checks made to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so.
 
 This substitution replaces the rogue's normal +2d6 points of sneak attack damage at 3rd level.
 
 **Rapid Demolitionist (Su)**: A 5th-level, the rogue deals +3d6 points of damage against constructs and objects. This bonus does not ignore hardness or damage reduction.
 
-It takes less time for a rogue to use her Craft, Disable Device, or [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) checks in order to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so. If the task ordinarily takes more than 1 minute to complete, it instead takes half as long. A 1-minute task requires only 5 rounds. Tasks that require a full-round action take only a standard action, and those that begin as a standard action only need a move action. A task that takes a move action or free action does not change.
+It takes less time for a rogue to use her Craft, Disable Device, or [[Knowledge]] (architecture and engineering) checks in order to demolish, tunnel through, or otherwise degrade the structural integrity of an object or building - or to plan to do so. If the task ordinarily takes more than 1 minute to complete, it instead takes half as long. A 1-minute task requires only 5 rounds. Tasks that require a full-round action take only a standard action, and those that begin as a standard action only need a move action. A task that takes a move action or free action does not change.
 
 This substitution replaces the rogue's normal +3d6 points of sneak attack damage at 5th level.
 
@@ -420,7 +438,7 @@ The Golden Hands of Vergadain defend the interests of the dwarves, particularly 
 
 ##### Requirements
 
-To take a Golden Hands substitution level, a character must be a dwarf, be a member of the Golden Hands of Vergadain, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 2nd, 3rd, or 6th level of rogue.
+To take a Golden Hands substitution level, a character must be a dwarf, be a member of the Golden Hands of Vergadain, have 1 rank in [[Knowledge]] (religion), and be about to take his 2nd, 3rd, or 6th level of rogue.
 
 ##### Class Skills
 
@@ -492,7 +510,7 @@ If the goliath rogue later gains improved evasion as a rogue special ability, he
 
 This benefit replaces the standard rogue's 2nd-level evasion ability.
 
-**Wild Sense (Ex)**: A goliath rogue who takes the 3rd-level racial substitution level becomes more in tune with her natural surroundings. She gains a +1 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) checks and Survival checks in aboveground natural environments. This bonus increases to +2 when the goliath rogue reaches 6th level, to +3 when she reaches 9th level, to +4 when she reaches 12th level, to +5 at 15th level, and to +6 at 18th level.
+**Wild Sense (Ex)**: A goliath rogue who takes the 3rd-level racial substitution level becomes more in tune with her natural surroundings. She gains a +1 bonus on [[Knowledge]] (nature) checks and Survival checks in aboveground natural environments. This bonus increases to +2 when the goliath rogue reaches 6th level, to +3 when she reaches 9th level, to +4 when she reaches 12th level, to +5 at 15th level, and to +6 at 18th level.
 
 This benefit replaces the standard rogue's 3rd-level trap sense ability, as well as the higher-level improvements of the ability.
 
@@ -568,7 +586,7 @@ To take a kobold rogue substitution level, a character must be a kobold about to
 
 ##### Class Skills
 
-Kobold rogue substitution levels have the class skills of the standard rogue class, plus [[Compendium/Basics/Skills/Knowledge]] (dungeoneering).
+Kobold rogue substitution levels have the class skills of the standard rogue class, plus [[Knowledge]] (dungeoneering).
 
 **Skill Points at Each Level**: 8 + Int modifier (or four times this number as a beginning character).
 
@@ -696,7 +714,7 @@ To take a rogue planar substitution level, a character must be about to take her
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -706,7 +724,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Rogue planar substitution levels have the class skills of the standard rogue class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Rogue planar substitution levels have the class skills of the standard rogue class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 8 + Int modifier.
 
@@ -780,7 +798,7 @@ Rilkan rogue substitution levels grant the same class skills as the standard rog
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|
 |---|---|---|---|---|---|
 |1st|+0|+0|+2|+0|Trapfinding, improved flanking|
-|3rd|+2|+1|+3|+1|Sneak attack +1d6, bardic [[Compendium/Basics/Skills/Knowledge]], bonus feat|
+|3rd|+2|+1|+3|+1|Sneak attack +1d6, bardic [[Knowledge]], bonus feat|
 |10th|+7/+2|+3|+7|+3|Fortunate reflexes|
 
 ##### Class Features
@@ -791,7 +809,7 @@ All of the following are features of the rilkan rogue racial substitution levels
 
 This benefit replaces a standard rogue's sneak attack ability gained at 1st level. Instead, a rilkan rogue gains sneak attack at 3rd level and reduces the extra damage dice indicated by 1d6.
 
-**Bardic [[Compendium/Basics/Skills/Knowledge]] (Ex)**: A rilkan rogue picks up a lot of stray [[Compendium/Basics/Skills/Knowledge]] while interacting with others. Starting at 3rd level, she can make a special bardic [[Compendium/Basics/Skills/Knowledge]] check with a bonus equal to her rogue level plus her Intelligence modifier to see whether she knows some relevant information about local notable people, legendary items, or significant places. This is otherwise identical to the bard's class feature of the same name.
+**Bardic [[Knowledge]] (Ex)**: A rilkan rogue picks up a lot of stray [[Knowledge]] while interacting with others. Starting at 3rd level, she can make a special bardic [[Knowledge]] check with a bonus equal to her rogue level plus her Intelligence modifier to see whether she knows some relevant information about local notable people, legendary items, or significant places. This is otherwise identical to the bard's class feature of the same name.
 
 This benefit replaces the standard rogue's trap sense class feature gained at 3rd level. A rilkan rogue who selects this substitution feature never gains trap sense from her rogue levels.
 
@@ -871,7 +889,7 @@ _Knockout Blow (Ex)_: When a rogue would make a sneak attack that deals nonletha
 
 _Light Sleeper (Ex)_: The rogue's sensitivity to the slightest sound becomes so acute that it is almost impossible for him to fail to react to danger. The rogue no longer suffers a -10 penalty to Listen checks while asleep.
 
-_Painful Strike_: The rogue's [[Compendium/Basics/Skills/Knowledge]] of anatomy allows her to inflict tremendous pain. The rogue must make a sneak attack attempt with an unarmed strike. If she hits, her target must make a Fortitude save (DC 10 + 1 per die of sneak attack damage + Intelligence modifier). If the target fails this save, he must make a Concentration check (DC 15 + 1 per die of sneak attack damage + spell level) to cast a spell or use a spell-like ability for the next 1d6 rounds. The target suffers only normal damage for the unarmed strike, not sneak attack damage, when a rogue uses this ability.
+_Painful Strike_: The rogue's [[Knowledge]] of anatomy allows her to inflict tremendous pain. The rogue must make a sneak attack attempt with an unarmed strike. If she hits, her target must make a Fortitude save (DC 10 + 1 per die of sneak attack damage + Intelligence modifier). If the target fails this save, he must make a Concentration check (DC 15 + 1 per die of sneak attack damage + spell level) to cast a spell or use a spell-like ability for the next 1d6 rounds. The target suffers only normal damage for the unarmed strike, not sneak attack damage, when a rogue uses this ability.
 
 _Rainbow Stare (Su)_: Somehow, while enduring a nearly overwhelming array of colors and light the rogue learned how to screen out dangerous images. She gains a +2 bonus on saving throws against figments and glamers and is completely immune to patterns.
 
@@ -895,7 +913,7 @@ Many masters of stealth share the signature talent to avoid explosive blasts of 
 
 **Level**: 2nd (monk or rogue), 5th (scout), or 9th (ranger).
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain evasion. (If you would later gain improved evasion as a special ability, you gain evasion instead.)
 
@@ -917,7 +935,7 @@ Most barbarians and rogues have a preternatural awareness of danger, whether the
 
 **Level**: 3rd.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the trap sense class feature (or any later improvements to that class feature).
 
@@ -945,7 +963,7 @@ The wilderness rogue prefers to put her skills to use in the great outdoors, rat
 
 Remove the following rogue class skills from the wilderness rogue's class skill list: [[Appraise]], [[Diplomacy]], [[Decipher Script]], [[Forgery]], and [[Gather Information]].
 
-Add the following skills to the wilderness rogue's class skill list: [[Handle Animal]], [[Compendium/Basics/Skills/Knowledge]] (geography), [[Compendium/Basics/Skills/Knowledge]] (nature), [[Ride]], and [[Survival]].
+Add the following skills to the wilderness rogue's class skill list: [[Handle Animal]], [[Knowledge]] (geography), [[Knowledge]] (nature), [[Ride]], and [[Survival]].
 
 ##### Class Features
 
@@ -953,6 +971,11 @@ The wilderness rogue has all the standard rogue class features, except as noted 
 
 **Special Abilities**: Add woodland stride (as the 7th-level [[ranger]] ability), camouflage (as the 13th-level [[ranger]] ability), and hide in plain sight (as the 17th-level [[ranger]] ability, requires the rogue to already have the camouflage ability) to the list of special abilities that can be chosen by the wilderness rogue.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

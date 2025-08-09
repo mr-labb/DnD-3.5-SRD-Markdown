@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Nonabilities
 title: Compendium/Basics/Nonabilities
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---

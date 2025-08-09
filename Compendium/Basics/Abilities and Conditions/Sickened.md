@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Sickened
 title: Compendium\Basics\Abilities and Conditions\Sickened
-tag: Conditions
+tags: 
+ - 35E_SRD
+ - Conditions
 ---
 
 ---
@@ -14,6 +16,11 @@ The character takes a –2 penalty on all attack rolls, weapon damage rolls, sav
 **If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

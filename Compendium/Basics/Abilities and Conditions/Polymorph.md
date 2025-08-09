@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Polymorph
 title: Compendium\Basics\Abilities and Conditions\Polymorph
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -24,6 +26,11 @@ Otherwise, it melds with the new form and ceases to function for the duration of
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

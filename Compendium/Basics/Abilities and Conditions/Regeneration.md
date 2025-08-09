@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Regeneration
 title: Compendium\Basics\Abilities and Conditions\Regeneration
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -27,6 +30,11 @@ A creature must have a Constitution score to have the regeneration ability.
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

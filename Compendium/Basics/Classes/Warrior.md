@@ -3,16 +3,16 @@ lang: en
 aliases:
  - Warrior
 title: Compendium/Basics/Classe/Warrior
-tag: Class, Warrior
+tags: 
+ - 35E_SRD
+ - Class
+ - Warrior
 ---
 
----
 
 ### WARRIOR
 
-|   |
-|---|
-||
+
 
 The warrior is a strong, stout combatant without the specialized training and finesse of a fighter, the survival and outdoor skills of the barbarian or ranger, or the sophistication and religious focus of a paladin. The warrior is a straightforward and unsubtle opponent in a fight, but a respectable one.
 
@@ -59,6 +59,11 @@ The following is a class feature of the warrior NPC class.
 
 **Weapon and Armor Proficiency**: The warrior is proficient in the use of all simple and martial weapons and all armor and shields.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

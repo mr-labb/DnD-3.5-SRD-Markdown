@@ -2,7 +2,10 @@
 aliases:
  - Combat Reflexes
 title: Combat Reflexes
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Combat Reflexes 
 ***Feat Type: General***
@@ -27,6 +30,11 @@ A monk may select Combat Reflexes as a bonus feat at 2nd level.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

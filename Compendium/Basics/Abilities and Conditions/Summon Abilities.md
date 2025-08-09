@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Summon Abilities
 title: Compendium\Basics\Abilities and Conditions\Summon Abilities
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -13,6 +15,11 @@ A creature with the summon ability can summon specific other creatures of its ki
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,10 @@
 aliases:
  - Forge Ring
 title: Forge Ring
-tags: Feat, Item_Creation_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Item_Creation_Feat
 ---
 ### Forge Ring 
 ***Feat Type: Item Creation***
@@ -25,6 +28,11 @@ ring or to mend a broken one.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

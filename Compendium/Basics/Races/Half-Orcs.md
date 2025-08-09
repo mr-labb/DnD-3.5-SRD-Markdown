@@ -1,6 +1,9 @@
 ---
 lang: en
 title: Compendium/Basics/Half-Orcs 
+tags: 
+ - 35E_SRD
+ - Races
 ---
 
 ### Half-Orcs

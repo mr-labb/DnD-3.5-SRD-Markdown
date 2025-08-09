@@ -2,7 +2,9 @@
 aliases:
  - Ride
 title: Compendium/Basics/skills/Ride
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Ride [(Dex)]
 
@@ -15,15 +17,18 @@ mount, ride, and dismount from a mount without a problem.
 
 The following tasks do require checks.
 
-  -------------------------------- --------- ------------------------- ---------
-  Task                             Ride DC   Task                      Ride DC
-  Guide with knees                 5         Leap                      15
-  Stay in saddle                   5         Spur mount                15
-  Fight with warhorse              10        Control mount in battle   20
-  Cover                            15        Fast mount or dismount    20^1^
-  Soft fall                        15                                  
-  1 Armor check penalty applies.                                       
-  -------------------------------- --------- ------------------------- ---------
+|Task|Ride DC|Task|Ride DC|
+|---|---|---|---|
+|Guide with knees|5|Swim a horse|10|
+|Stay in saddle|5|Leap into water|15|
+|Fight with warhorse|10|Change horses in mid-stream|25|
+|Cover|15|Ride aquatic mount underwater|DC+5|
+|Soft fall|15|Stand on mount|40|
+|Leap|15|Unconscious control|50|
+|Spur mount|15|Attack from cover|60|
+|Control mount in battle|20|||
+|Fast mount or dismount|201|||
+1 _Armor check penalty applies._
 
 *Guide with Knees:* You can react instantly to guide your mount with
 your knees so that you can use both hands in combat. Make your Ride
@@ -97,6 +102,11 @@ If you have the Animal Affinity feat, you get a +2 bonus on Ride checks.
 If you have 5 or more ranks in Handle Animal, you get a +2
 bonus on Ride checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

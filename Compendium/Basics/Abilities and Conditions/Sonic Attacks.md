@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Sonic Attacks
 title: Compendium\Basics\Abilities and Conditions\Sonic Attacks
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -14,6 +16,11 @@ Unless otherwise noted, a sonic attack follows the rules for spreads. The range 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Fear
 title: Compendium\Basics\Abilities and Conditions\Fear
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -35,6 +38,11 @@ If a fear effect allows a saving throw, it is a Will save (DC 10 + 1/2 fearsome 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

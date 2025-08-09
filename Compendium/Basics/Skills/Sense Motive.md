@@ -2,7 +2,9 @@
 aliases:
  - Sense Motive
 title: Compendium/Basics/skills/Sense Motive
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Sense Motive [(Wis)]
 
@@ -12,12 +14,14 @@ Bluff skill). You can also use this skill to determine when "something
 is up" (that is, something odd is going on) or to assess someone's
 trustworthiness.
 
-  ------------------------ -----------------
-  Task                     Sense Motive DC
-  Hunch                    20
-  Sense enchantment        25 or 15
-  Discern secret message   Varies
-  ------------------------ -----------------
+|Task|Sense Motive DC|
+|---|---|
+|Hunch|20|
+|Sense enchantment|25 or 15|
+|Discern secret message|Varies|
+|Discern partial alignment|60|
+|Discern full alignment|80|
+|Detect surface thoughts|100|
 
 *Hunch:* This use of the skill involves making a gut assessment of the
 social situation. You can get the feeling from another's behavior that
@@ -62,6 +66,11 @@ checks.
 If you have 5 or more ranks in Sense Motive, you get a +2
 bonus on Diplomacy checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,9 @@
 aliases:
  - Disguise
 title: Compendium/Basics/skills/Disguise
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Disguise [(Cha)]
 Use this skill to change your appearance or someone else's. The effort requires at least a few props, some makeup, and some time. The use of a disguise kit provides a +2 circumstance bonus to a Disguise check. A disguise can include an apparent change of height or weight of no more than one-tenth the original.
@@ -71,6 +73,11 @@ If you have the [[Deceitful]] feat, you get a +2 bonus on Disguise checks.
 ### Synergy : 
 If you have 5 or more ranks in [[Bluff]], you get a +2 bonus on Disguise checks when you know that you're being observed and you try to act in character.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

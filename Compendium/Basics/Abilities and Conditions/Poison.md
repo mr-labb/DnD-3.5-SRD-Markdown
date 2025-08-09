@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Poison
 title: Compendium\Basics\Abilities and Conditions\Poison
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -97,6 +100,11 @@ Creatures with natural poison attacks are immune to their own poison. Nonliving 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

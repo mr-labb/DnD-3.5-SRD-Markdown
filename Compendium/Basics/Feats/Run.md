@@ -2,7 +2,10 @@
 aliases:
  - Run
 title: Run
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Run 
 ***Feat Type: General***
@@ -22,6 +25,11 @@ load), and you lose your Dexterity bonus to AC.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

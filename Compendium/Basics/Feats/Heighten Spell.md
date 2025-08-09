@@ -2,7 +2,10 @@
 aliases:
  - Heighten Spell
 title: Heighten Spell
-tags: Feat, Metamagic_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Metamagic_Feat
 ---
 ### Heighten Spell 
 ***Feat Type: Metamagic***
@@ -18,6 +21,11 @@ to prepare and cast as a spell of its effective level.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

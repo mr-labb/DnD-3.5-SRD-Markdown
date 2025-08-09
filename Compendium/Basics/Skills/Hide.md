@@ -2,7 +2,9 @@
 aliases:
  - Hide
 title: Compendium/Basics/skills/Hide
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Hide [(Dex; Armor Check Penalty)]
 
@@ -56,6 +58,11 @@ A 13th-level ranger can attempt a Hide check in any sort of natural
 terrain, even if it doesn't grant cover or concealment. A 17thlevel
 ranger can do this even while being observed.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

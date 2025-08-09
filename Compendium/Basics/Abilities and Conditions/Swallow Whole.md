@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Swallow Whole
 title: Compendium\Basics\Abilities and Conditions\Swallow Whole
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -24,6 +26,11 @@ If the swallowed creature escapes the grapple, success puts it back in the attac
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

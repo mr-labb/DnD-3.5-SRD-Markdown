@@ -2,7 +2,9 @@
 aliases:
  - Disable Device
 title: Compendium/Basics/skills/Disable Device
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Disable Device [(Int; Trained Only)]
 Use this skill to disarm a trap, jam a lock (in either the open or closed position), or rig a wagon wheel to fall off. You can examine a fairly simple or fairly small mechanical device and disable it. The effort requires at least a simple tool of the appropriate sort (a pick, pry bar, saw, file, etc.). Attempting a Disable Device check without a set of thieves' tools carries a -2 circumstance penalty, even if a simple tool is employed. The use of masterwork thieves' tools enables you to make the check with a +2 circumstance bonus.
@@ -59,6 +61,11 @@ It's possible to ruin many traps without making a Disable Device check.
 
 **Magic Traps**: [[Dispel magic]] helps here. Someone who succeeds on a caster level check against the level of the trap's creator suppresses the trap for 1d4 rounds. This works only with a targeted [[dispel magic]], not the area version (see the spell description).
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

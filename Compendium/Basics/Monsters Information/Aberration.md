@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Aberration
 title: Compendium/Basics/Monsters Information/aberration
-tag: Monster, Aberration
+tags: 
+ - 35E_SRD
+ - Monster
+ - Aberration
 ---
 
 ---
@@ -35,6 +38,11 @@ _Traits_: An aberration possesses the following traits (unless otherwise noted i
     
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

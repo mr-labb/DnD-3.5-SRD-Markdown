@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Antimagic
 title: Compendium\Basics\Abilities and Conditions\Antimagic
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---

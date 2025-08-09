@@ -2,30 +2,33 @@
 aliases:
  - Handle Animal
 title: Compendium/Basics/skills/Handle Animal
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Handle Animal [(Cha; Trained Only)]
 
 ### Check
 The DC depends on what you are trying to do.
 
-  --------------------------------------------- -------------------
-  Task                                          Handle Animal DC
-  Handle an animal                              10
-  "Push" an animal                              25
-  Teach an animal a trick                       15 or 20^1^
-  Train an animal for a general purpose         15 or 20^1^
-  Rear a wild animal                            15 + HD of animal
-  ^1^See the specific trick or purpose below.   
-  --------------------------------------------- -------------------
 
-  ----------------- ---- ----------------- ----
-  General Purpose   DC   General Purpose   DC
-  Combat riding     20   Hunting           20
-  Fighting          20   Performance       15
-  Guarding          20   Riding            15
-  Heavy labor       15                     
-  ----------------- ---- ----------------- ----
+|Task|Handle Animal DC|
+|---|---|
+|Handle an animal|10|
+|"Push" an animal|25|
+|Teach an animal a trick|15 or 201|
+|Train an animal for a general purpose|15 or 201|
+|Rear a wild animal|15 + HD of animal|
+1 _See the specific trick or purpose below._
+
+|General Purpose|   DC|   General Purpose|   DC|
+|---|---|---|---|
+|Combat riding|     20|   Hunting|           20|
+|Fighting|          20|   Performance|       15|
+|Guarding|          20|   Riding|            15|
+|Heavy labor|       15|  ||                   
+
+
 
 *Handle an Animal:* This task involves commanding an animal to perform a
 task or trick that it knows. If the animal is wounded or has taken any
@@ -188,6 +191,11 @@ rear, or train animals. A druid or ranger with no ranks in Handle Animal
 can use a Charisma check to handle and push her animal companion, but
 she can't teach, rear, or train other nondomestic animals.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

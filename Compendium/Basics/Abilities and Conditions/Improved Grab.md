@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Improved Grab
 title: Compendium\Basics\Abilities and Conditions\Improved Grab
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -25,6 +27,11 @@ When a creature gets a hold after an improved grab attack, it pulls the opponent
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

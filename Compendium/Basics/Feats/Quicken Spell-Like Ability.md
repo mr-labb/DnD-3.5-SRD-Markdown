@@ -2,7 +2,11 @@
 aliases:
  - Quicken Spell-Like Ability
 title: Quicken Spell-Like Ability
-tags: Feat, Monster_Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
+ - General_Feat
 ---
 ### Quicken Spell-Like Ability 
 ***Feat Type: General***
@@ -39,6 +43,11 @@ In addition, a spell-like ability that duplicates a spell with a casting time gr
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

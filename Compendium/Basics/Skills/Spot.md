@@ -2,7 +2,9 @@
 aliases:
  - Spot
 title: Compendium/Basics/skills/Spot
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Spot [(Wis)]
 
@@ -26,11 +28,10 @@ distance between the two individuals or groups, and an additional
 penalty may apply if the character making the Spot check is distracted
 (not concentrating on being observant).
 
-  ------------------------- ---------
-  Condition                 Penalty
-  Per 10 feet of distance   --1
-  Spotter distracted        --5
-  ------------------------- ---------
+|Condition|Penalty|
+|---|---|
+|Per 10 feet of distance|-1|
+|Spotter distracted|-5|
 
 *Read Lips:* To understand what someone is saying by reading lips, you
 must be within 30 feet of the speaker, be able to see him or her speak,
@@ -77,6 +78,11 @@ daylight or other lighted areas.
 The master of an owl familiar gains a +3 bonus on Spot checks in shadowy
 or other darkened areas.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Disease
 title: Compendium\Basics\Abilities and Conditions\Disease
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -75,6 +78,11 @@ Use of the Heal skill can help a diseased character. Every time a diseased chara
 Characters recover points lost to ability score damage at a rate of 1 per day per ability damaged, and this rule applies even while a disease is in progress. That means that a character with a minor disease might be able to withstand it without accumulating any damage.
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

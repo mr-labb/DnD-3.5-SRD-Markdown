@@ -2,7 +2,10 @@
 aliases:
  - Brew Potion
 title: Brew Potion
-tags: Feat, Item_Creation_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Item_Creation_Feat
 ---
 ### Brew Potion 
 ***Feat Type: Item Creation***
@@ -29,6 +32,11 @@ XP when creating the potion.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Constrict
 title: Compendium\Basics\Abilities and Conditions\Constrict
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -15,6 +17,11 @@ A creature with this special attack can crush an opponent, dealing bludgeoning d
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

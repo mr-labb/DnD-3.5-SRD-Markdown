@@ -2,7 +2,10 @@
 aliases:
  - Rapid Shot
 title: Rapid Shot
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Rapid Shot 
 ***Feat Type: General***
@@ -24,6 +27,11 @@ but only when he is wearing light or no armor.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

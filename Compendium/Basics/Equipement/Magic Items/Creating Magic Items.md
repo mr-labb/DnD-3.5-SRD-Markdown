@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Magic Items/Creating Magic Items
+tags:
+ - 35E_SRD
 ---
 
 ## Creating Magic Items

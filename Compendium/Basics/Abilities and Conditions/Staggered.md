@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Staggered
 title: Compendium\Basics\Abilities and Conditions\Staggered
-tag: Conditions
+tags: 
+ - 35E_SRD
+ - Conditions
 ---
 
 ---
@@ -16,6 +18,11 @@ A character whose current hit points exceed his nonlethal damage is no longer st
 **If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

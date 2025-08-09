@@ -2,7 +2,11 @@
 aliases:
  - Improved Natural Attack
 title: Improved Natural Attack
-tags: Feat, Monster_Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
+ - General_Feat
 ---
 ### Improved Natural Attack 
 ***Feat Type: General***
@@ -20,6 +24,11 @@ follows: 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

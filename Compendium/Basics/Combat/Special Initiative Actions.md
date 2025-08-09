@@ -1,8 +1,7 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Special Initiative Actions
+tags:
+ - 35E_SRD
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -40,6 +39,11 @@ A spellcaster can use [[dispel magic]] to counterspell another spellcaster, but 
 
 **Readying a Weapon against a Charge**: You can ready certain piercing weapons, setting them to receive charges. A readied weapon of this type deals double damage if you score a hit with it against a charging character.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

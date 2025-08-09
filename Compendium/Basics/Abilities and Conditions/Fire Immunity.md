@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Fire Immunity
 title: Compendium\Basics\Abilities and Conditions\Fire Immunity
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -14,6 +16,11 @@ A creature with fire immunity never takes fire damage. It has vulnerability to c
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

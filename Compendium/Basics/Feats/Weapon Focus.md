@@ -2,7 +2,10 @@
 aliases:
  - Weapon Focus
 title: Weapon Focus
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Weapon Focus 
 ***Feat Type: General***
@@ -27,6 +30,11 @@ feat for that weapon.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

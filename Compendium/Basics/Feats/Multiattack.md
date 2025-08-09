@@ -2,7 +2,11 @@
 aliases:
  - Multiattack
 title: Multiattack
-tags: Feat, Monster_Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
+ - General_Feat
 ---
 ### Multiattack 
 ***Feat Type: General***
@@ -18,6 +22,11 @@ natural weapons take a -5 penalty.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

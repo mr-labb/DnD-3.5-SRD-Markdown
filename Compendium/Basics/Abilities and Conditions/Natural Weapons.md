@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Natural Weapons
 title: Compendium\Basics\Abilities and Conditions\Natural Weapons
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -34,6 +36,11 @@ _Tentacle_: The creature flails at opponents with a powerful tentacle, dealing b
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

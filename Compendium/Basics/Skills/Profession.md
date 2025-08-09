@@ -2,7 +2,9 @@
 aliases:
  - Profession
 title: Compendium/Basics/skills/Profession
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Profession [(Wis; Trained Only)]
 
@@ -36,6 +38,11 @@ Untrained laborers and assistants (that is, characters
 without any ranks in Profession) earn an average of 1 silver piece per
 day.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

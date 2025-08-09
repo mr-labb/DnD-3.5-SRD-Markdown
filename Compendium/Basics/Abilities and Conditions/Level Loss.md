@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Level Loss
 title: Compendium\Basics\Abilities and Conditions\Level Loss
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -22,6 +24,11 @@ The victim’s experience point total is immediately set to the midpoint of the 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

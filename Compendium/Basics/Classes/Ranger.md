@@ -3,15 +3,35 @@ lang: en
 aliases:
  - Ranger
 title: Compendium/Basics/Classe/Ranger
-tag: Class, Ranger
+tags: 
+ - 35E_SRD
+ - Class
+ - Ranger
 ---
 
 ---
 
 ### RANGER
 
-<br><br>The forests are home to fierce and cunning creatures, such as bloodthirsty owlbears and malicious displacer beasts. But more cunning and powerful than these monsters is the ranger, a skilled hunter and stalker. He knows the woods as if they were his home (as indeed they are), and he knows his prey in deadly detail.<br><br>A ranger often accepts the role of protector, aiding those who live in or travel through the woods. In addition, a ranger carries grudges against certain types of creatures and looks for opportunities to find and destroy them. He may adventure for all the reasons that a fighter does.<br><br>A ranger can use a variety of weapons and is quite capable in combat. His skills allow him to survive in the wilderness, to find his prey, and to avoid detection. He also has special [[Compendium/Basics/Skills/Knowledge]] about certain types of creatures, which makes it easier for him to find and defeat such foes. Finally, an experienced ranger has such a tie to nature that he can actually draw upon natural power to cast divine spells, much as a druid does.<br><br>Rangers can be of any alignment. Most are good, and such rangers usually function as protectors of the wild areas. In this role, a ranger seeks out and destroys or drives off evil creatures that threaten the wilderness. Good rangers also protect those who travel through the wilderness, serving sometimes as guides and sometimes as unseen guardians. Most rangers are also chaotic, preferring to follow the ebb and flow of nature or of their own hearts instead of rigid rules. Evil rangers, though rare, are much to be feared. They revel in nature's thoughtless cruelty and seek to emulate her most fearsome predators. They gain divine spells just as good rangers do, for nature herself is indifferent to good and evil.<br><br>Though a ranger gains his divine spells from the power of nature, he like anyone else may worship a chosen deity. Ehlonna (goddess of the woodlands) and Obad-Hai (god of nature) are the most common deities revered by, though some prefer more martial deities.<br><br>Some rangers gained their training as part of special military teams, but most learned their skills from solitary masters who accepted them as students and assistants. The rangers of a particular master may count themselves as cohorts, or they may be rivals for the status of best student and thus the rightful heir to their master's fame.<br><br>Elves often choose the ranger's path. They are at home in the woods, and they have the grace to move stealthily. Half-elves who feel their elf parents' connection to the woods are also likely to adopt this class. Humans are often rangers as well, being adaptable enough to learn their way around the woods even if it doesn't come naturally to them. Half-orcs may find the life of a ranger more comfortable than life among cruel and taunting humans (or orcs). Gnome rangers are more common than gnome fighters, but still they tend to remain in their own lands rather than adventure among "the big people." Dwarf rangers are rare, but they can be quite effective. Instead of living in the surface wilderness, they are at home in the endless caverns beneath the earth. Here they hunt down and destroy the enemies of dwarvenkind with the relentless precision for which dwarves are known. Dwarf rangers are often known as cavers. Halfling rangers are highly respected for their ability to help communities of halflings prosper as they pursue their nomadic lifestyle. Among the savage humanoids, only gnolls are commonly rangers, using their skills to slyly stalk their prey.<br><br>Rangers get along well with druids and to some extent with barbarians. They are known to bicker with paladins, mostly because they often share goals but differ in style, tactics, approach, philosophy, and esthetics. Since rangers don't often look to other people for support or friendship, they find it easy to tolerate people who are quite different from themselves, such as bookish wizards and preachy clerics. They just don't care enough to get upset about others' differences.<br><br>The ranger's best role is that of a scout and secondary combatant. Without the heavy armor of the fighter or the staying power of the barbarian, the ranger should focus on opportunistic and ranged attacks. Most rangers user their animal companions as sentries, scouts, or to assist them in melee combat.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+The forests are home to fierce and cunning creatures, such as bloodthirsty owlbears and malicious displacer beasts. But more cunning and powerful than these monsters is the ranger, a skilled hunter and stalker. He knows the woods as if they were his home (as indeed they are), and he knows his prey in deadly detail.
+
+A ranger often accepts the role of protector, aiding those who live in or travel through the woods. In addition, a ranger carries grudges against certain types of creatures and looks for opportunities to find and destroy them. He may adventure for all the reasons that a fighter does.
+
+A ranger can use a variety of weapons and is quite capable in combat. His skills allow him to survive in the wilderness, to find his prey, and to avoid detection. He also has special [[Knowledge]] about certain types of creatures, which makes it easier for him to find and defeat such foes. Finally, an experienced ranger has such a tie to nature that he can actually draw upon natural power to cast divine spells, much as a druid does.
+
+Rangers can be of any alignment. Most are good, and such rangers usually function as protectors of the wild areas. In this role, a ranger seeks out and destroys or drives off evil creatures that threaten the wilderness. Good rangers also protect those who travel through the wilderness, serving sometimes as guides and sometimes as unseen guardians. Most rangers are also chaotic, preferring to follow the ebb and flow of nature or of their own hearts instead of rigid rules. Evil rangers, though rare, are much to be feared. They revel in nature's thoughtless cruelty and seek to emulate her most fearsome predators. They gain divine spells just as good rangers do, for nature herself is indifferent to good and evil.
+
+Though a ranger gains his divine spells from the power of nature, he like anyone else may worship a chosen deity. Ehlonna (goddess of the woodlands) and Obad-Hai (god of nature) are the most common deities revered by, though some prefer more martial deities.
+
+Some rangers gained their training as part of special military teams, but most learned their skills from solitary masters who accepted them as students and assistants. The rangers of a particular master may count themselves as cohorts, or they may be rivals for the status of best student and thus the rightful heir to their master's fame.
+
+Elves often choose the ranger's path. They are at home in the woods, and they have the grace to move stealthily. Half-elves who feel their elf parents' connection to the woods are also likely to adopt this class. Humans are often rangers as well, being adaptable enough to learn their way around the woods even if it doesn't come naturally to them. Half-orcs may find the life of a ranger more comfortable than life among cruel and taunting humans (or orcs). Gnome rangers are more common than gnome fighters, but still they tend to remain in their own lands rather than adventure among "the big people." Dwarf rangers are rare, but they can be quite effective. Instead of living in the surface wilderness, they are at home in the endless caverns beneath the earth. Here they hunt down and destroy the enemies of dwarvenkind with the relentless precision for which dwarves are known. Dwarf rangers are often known as cavers. Halfling rangers are highly respected for their ability to help communities of halflings prosper as they pursue their nomadic lifestyle. Among the savage humanoids, only gnolls are commonly rangers, using their skills to slyly stalk their prey.
+
+Rangers get along well with druids and to some extent with barbarians. They are known to bicker with paladins, mostly because they often share goals but differ in style, tactics, approach, philosophy, and esthetics. Since rangers don't often look to other people for support or friendship, they find it easy to tolerate people who are quite different from themselves, such as bookish wizards and preachy clerics. They just don't care enough to get upset about others' differences.
+
+The ranger's best role is that of a scout and secondary combatant. Without the heavy armor of the fighter or the staying power of the barbarian, the ranger should focus on opportunistic and ranged attacks. Most rangers user their animal companions as sentries, scouts, or to assist them in melee combat.
+
 
 **Alignment**: Any.
 
@@ -19,7 +39,7 @@ tag: Class, Ranger
 
 ###### Class Skills
 
-The ranger's class skills (and the key ability for each skill) are [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Hide]] (Dex), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int), [[Compendium/Basics/Skills/Knowledge]] (geography) (Int), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Profession]] (Wis), [[Ride]] (Dex), [[Search]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and [[Use Rope]] (Dex).
+The ranger's class skills (and the key ability for each skill) are [[Climb]] (Str), [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Hide]] (Dex), [[Jump]] (Str), [[Knowledge]] (dungeoneering) (Int), [[Knowledge]] (geography) (Int), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Move Silently]] (Dex), [[Profession]] (Wis), [[Ride]] (Dex), [[Search]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), [[Swim]] (Str), and [[Use Rope]] (Dex).
 
 **Skill Points at 1st Level**: (6 + Int modifier) x 4.
 
@@ -152,7 +172,7 @@ Rangers learn to track and hunt creatures of a certain type when choosing a favo
 
 **Level**: 1st.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: At 1st level, you do not select a favored enemy from Table: [[#Ranger Favored Enemies]]. At 5th, 10th, 15th, and 20th level, you can choose favored enemies as normal.
 
@@ -346,7 +366,7 @@ Rangers of the Fangshields use their skills to patrol the wildlands, as well as 
 
 ##### Requirements
 
-To take a Fangshields ranger substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 2nd, 4th, or 5th level of ranger.
+To take a Fangshields ranger substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Knowledge]] (religion), and be about to take his 2nd, 4th, or 5th level of ranger.
 
 ##### Class Skills
 
@@ -386,7 +406,7 @@ This benefit replaces the second favored enemy class feature gained by a standar
 
 Instead of selecting a type of creature against which to apply a bonus on certain skills and damage rolls, the ranger selects a specific natural environment and gains bonuses when in that environment.
 
-At 1st level, a ranger may select a natural environment from among those given on Table: Ranger Favored Environments. Due to the ranger's experience in that environment, he gains a +2 bonus on [[Hide]], [[Listen]], [[Move Silently]], [[Spot]], and [[Survival]] checks when using these skills in that environment. He also gains the same bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) checks made in association with that environment (or on [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) checks made in association with underground environments, if the ranger has selected underground as a favored environment).
+At 1st level, a ranger may select a natural environment from among those given on Table: Ranger Favored Environments. Due to the ranger's experience in that environment, he gains a +2 bonus on [[Hide]], [[Listen]], [[Move Silently]], [[Spot]], and [[Survival]] checks when using these skills in that environment. He also gains the same bonus on [[Knowledge]] (nature) checks made in association with that environment (or on [[Knowledge]] (dungeoneering) checks made in association with underground environments, if the ranger has selected underground as a favored environment).
 
 At 5th level and every five levels thereafter (at 10th, 15th, and 20th level), the ranger may select an additional favored environment from those given on the table and gains an identical bonus on the appropriate skill checks in that environment. In addition, at each such interval, the bonuses in any one favored environment (including the one just selected, if so desired) increase by 2. For example, a 5th-level ranger has two favored environments. In one he has a +4 bonus on the appropriate skill checks, and in the other he has a +2 bonus. At 10th level, he has three favored environments, and he gains an additional +2 bonus, which he can allocate to any of his three favored environments. Thus, his bonuses could be either +4, +4, and +2 or +6,+2, and +2.
 
@@ -749,7 +769,7 @@ To take a ranger planar substitution level, a character must be about to take he
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -759,7 +779,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Ranger planar substitution levels have the class skills of the standard ranger class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Ranger planar substitution levels have the class skills of the standard ranger class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
@@ -785,7 +805,7 @@ Unlike a typical animal companion, the planar animal companion is a magical beas
 
 To gain a celestial companion, a ranger must have a nonevil alignment. To gain a fiendish companion, a ranger must have a nongood alignment. If the ranger's alignment changes to one that is ineligible for the companion, the companion either turns on the ranger or leaves at its earliest convenience, depending on its natural tendencies.
 
-**Portal Intuition (Ex)**: At 8th level, a planar ranger becomes an expert at tracking quarry across planes and through various portals and breaches. When examining a portal, the ranger may attempt to determine to which plane the portal leads. To do this, he must succeed on both a DC 20 Survival check and a DC 20 [[Compendium/Basics/Skills/Knowledge]] (the planes) check.
+**Portal Intuition (Ex)**: At 8th level, a planar ranger becomes an expert at tracking quarry across planes and through various portals and breaches. When examining a portal, the ranger may attempt to determine to which plane the portal leads. To do this, he must succeed on both a DC 20 Survival check and a DC 20 [[Knowledge]] (the planes) check.
 
 The ranger can also use this ability to determine whether or not a planar breach occurred within 20 feet of a particular spot within the last 24 hours. To do this, he must succeed on a DC 20 Search check. If the ranger determines that a breach did occur in the area, he may then use this ability to ascertain where it led.
 
@@ -805,9 +825,9 @@ The planewalker ranger roams the multiverse instead of the wilderness, learning 
 
 ##### Class Skills
 
-Eliminate [[Compendium/Basics/Skills/Knowledge]] (nature) and [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) from the ranger's class skill list.
+Eliminate [[Knowledge]] (nature) and [[Knowledge]] (dungeoneering) from the ranger's class skill list.
 
-Add [[Compendium/Basics/Skills/Knowledge]] (the planes) and [[Speak Language]] (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
+Add [[Knowledge]] (the planes) and [[Speak Language]] (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
 
 ##### Class Features
 
@@ -839,7 +859,7 @@ A few urban rangers, devoted to a particular organization, guild, or church, pre
 
 **Replaces**: If you select this class feature, you do not gain favored enemy or any later improvements to that class feature.
 
-**Benefit**: At 1st level, the ranger chooses one particular organization that he has studied in depth. This could be a guild, a noble house, a church, or any similar specifically defined entity. (See Politics and Power for definitions and samples of these groups.) Due to his [[Compendium/Basics/Skills/Knowledge]] of how the organization operates, he gains a +2 bonus on Bluff, Intimidate, Gather Information, [[Compendium/Basics/Skills/Knowledge]] (local), and Sense Motive checks made against, or pertaining to, members of that organization. Likewise, due to his heightened awareness around these individuals, he gains a +2 bonus to Armor Class against members of this group.
+**Benefit**: At 1st level, the ranger chooses one particular organization that he has studied in depth. This could be a guild, a noble house, a church, or any similar specifically defined entity. (See Politics and Power for definitions and samples of these groups.) Due to his [[Knowledge]] of how the organization operates, he gains a +2 bonus on Bluff, Intimidate, Gather Information, [[Knowledge]] (local), and Sense Motive checks made against, or pertaining to, members of that organization. Likewise, due to his heightened awareness around these individuals, he gains a +2 bonus to Armor Class against members of this group.
 
 At 5th level and every five levels thereafter (10th, 15th, and 20th level), the ranger may select an additional rival organization. In addition, at each such interval, the bonus against any one rival organization (including the one just selected, if so desired) increases by 2.
 
@@ -851,11 +871,11 @@ Rangers of the Knights of the Shadow Sword patrol Myth Drannor and attempt to ri
 
 ##### Requirements
 
-To take a Shadow Sword substitution level, a character must have Shaundakul as his patron, be a member of the Knights of the Shadow Sword, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 6th, or 8th level of ranger.
+To take a Shadow Sword substitution level, a character must have Shaundakul as his patron, be a member of the Knights of the Shadow Sword, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 6th, or 8th level of ranger.
 
 ##### Class Skills
 
-Shadow Sword substitution levels have the class skills of the standard ranger class plus [[Compendium/Basics/Skills/Knowledge]] (history).
+Shadow Sword substitution levels have the class skills of the standard ranger class plus [[Knowledge]] (history).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
@@ -943,11 +963,11 @@ Rangers of the Order of the Shooting Star (see Knights of the Mystic Fire) serve
 
 ##### Requirements
 
-To take a Shooting Star substitution level, a character must have Mystra as her patron deity, be a member of the Order of the Shooting Star, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 8th level of ranger.
+To take a Shooting Star substitution level, a character must have Mystra as her patron deity, be a member of the Order of the Shooting Star, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 8th level of ranger.
 
 ##### Class Skills
 
-Shooting Star substitution levels have the class skills of the standard ranger class plus [[Compendium/Basics/Skills/Knowledge]] (arcana) and Spellcraft.
+Shooting Star substitution levels have the class skills of the standard ranger class plus [[Knowledge]] (arcana) and Spellcraft.
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
@@ -998,7 +1018,7 @@ Note that she need not swap out all these skills. A skilled city-dweller may pic
 |Skill Replaced|Skill Gained|
 |---|---|
 |[[Handle Animal]]|[[Gather Information]]|
-|[[Compendium/Basics/Skills/Knowledge]] (nature)|[[Compendium/Basics/Skills/Knowledge]] (local)|
+|[[Knowledge]] (nature)|[[Knowledge]] (local)|
 |[[Survival]]|[[Sense Motive]]|
 |[[Ride]]|[[Tumble]]|
 
@@ -1022,7 +1042,7 @@ Many masters of stealth share the signature talent to avoid explosive blasts of 
 
 **Level**: 2nd (monk or rogue), 5th (scout), or 9th (ranger).
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain evasion. (If you would later gain improved evasion as a special ability, you gain evasion instead.)
 
@@ -1056,7 +1076,7 @@ You are befriended by a spiritual guide that speaks to you and aids you as long 
 
 **Benefit**: You gain a spiritual guide. As long as you remain in natural surroundings (including underground caverns), this guide is a constant companion. Once you enter any civilized area larger than a hamlet, however, your spiritual guide leaves your side, returning only when you return to the wilds.
 
-Although it cannot protect you from harm, your spiritual guide can warn you of impending danger. As long as your spiritual guide is with you, you gain a divine bonus equal to one-quarter your ranger level (rounded down) on Handle Animal, [[Compendium/Basics/Skills/Knowledge]] (nature), Listen, Search, Spot, and Survival checks. In addition, you can use [[commune with nature]], as the spell, once per day as a full round action (as a spell-like ability with caster level equals your ranger level). You can also prepare and cast this spell normally from your ranger spell list.
+Although it cannot protect you from harm, your spiritual guide can warn you of impending danger. As long as your spiritual guide is with you, you gain a divine bonus equal to one-quarter your ranger level (rounded down) on Handle Animal, [[Knowledge]] (nature), Listen, Search, Spot, and Survival checks. In addition, you can use [[commune with nature]], as the spell, once per day as a full round action (as a spell-like ability with caster level equals your ranger level). You can also prepare and cast this spell normally from your ranger spell list.
 
 
 #### Trap Expert
@@ -1091,11 +1111,11 @@ When she reaches an effective master level of 7th, she can [[speak with animals]
 
 #### Urban Ranger
 
-The urban ranger stalks the treacherous streets of the city, relying on his [[Compendium/Basics/Skills/Knowledge]] of alleyways and underworld contacts to keep him alive.
+The urban ranger stalks the treacherous streets of the city, relying on his [[Knowledge]] of alleyways and underworld contacts to keep him alive.
 
 ##### Class Skills
 
-Eliminate [[Compendium/Basics/Skills/Knowledge]] (nature), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering), and [[Survival]] from the ranger's class skill list. Add [[Gather Information]], [[Compendium/Basics/Skills/Knowledge]] (local), and [[Sense Motive]] to the class skill list.
+Eliminate [[Knowledge]] (nature), [[Knowledge]] (dungeoneering), and [[Survival]] from the ranger's class skill list. Add [[Gather Information]], [[Knowledge]] (local), and [[Sense Motive]] to the class skill list.
 
 ##### Class Features
 
@@ -1160,7 +1180,7 @@ If you fail a Gather Information check, you can retry after 1 hour of questionin
 
 **Normal**: A character without this feat can use [[Gather Information]] to find out information about a particular individual, but each check takes 1d4+1 hours and doesn't allow effective trailing.
 
-**Special**: A character with 5 ranks in [[Compendium/Basics/Skills/Knowledge]] (local) gains a +2 bonus on the [[Gather Information]] check to use this feat.
+**Special**: A character with 5 ranks in [[Knowledge]] (local) gains a +2 bonus on the [[Gather Information]] check to use this feat.
 
 You can cut the time between Gather Information checks in half (to 30 minutes per check rather than 1 hour), but you take a -5 penalty on the check.
 
@@ -1268,7 +1288,7 @@ The wild defender loses the base ranger's favored enemy, bonus feats, combat sty
 
 At 5th level and every five levels thereafter, the wild defender may smite enemies one additional time per day, as indicated on the Table: The Wild Defender. A character with levels in both wild defender and paladin adds his levels in both classes to determine how many times per day he may smite evil as well as the amount of extra damage he deals.
 
-**Natural Lore (Ex)**: The wild defender has a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) and Survival checks.
+**Natural Lore (Ex)**: The wild defender has a +2 bonus on [[Knowledge]] (nature) and Survival checks.
 
 **Trackless Step (Ex)**: At 3rd level, the wild defender leaves no trail in natural surroundings and cannot be tracked. He may choose to leave a trail if so desired.
 
@@ -1276,6 +1296,11 @@ At 5th level and every five levels thereafter, the wild defender may smite enemi
 
 **Rebuke Nature (Su)**: When the wild defender reaches 6th level, he gains the ability to rebuke (but not command) creatures of nature, just as an evil cleric can rebuke undead. He may use this ability a number of times per day equal to 3 + his Charisma modifier. He rebukes nature as a cleric of three levels lower would turn undead. At 6th level, this ability only works on animals, but the wild defender gains control over a wider range of natural creatures as he gains levels.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

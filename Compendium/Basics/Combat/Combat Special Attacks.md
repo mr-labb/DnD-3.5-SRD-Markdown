@@ -1,8 +1,7 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Combat Special Attacks
+tags:
+ - 35E_SRD
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -387,6 +386,11 @@ If you wield a second weapon in your off hand, you can get one extra attack per 
 
 **Thrown Weapons**: The same rules apply when you throw a weapon from each hand. Treat a dart or shuriken as a light weapon when used in this manner, and treat a bolas, javelin, net, or sling as a one-handed weapon.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

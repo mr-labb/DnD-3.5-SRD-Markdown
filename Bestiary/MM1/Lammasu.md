@@ -100,27 +100,27 @@ COMBAT
 A lammasu attacks with spells or its razor-sharp claws. It almost always enters combat if it observes a good creature being threatened by evil.
 
 
-            **Spells:** A lammasu casts spells as a 7th-level cleric, and can choose spells from the cleric spell list, plus any two of the following domains: Good, Healing, Knowledge, or Law.
+**Spells:** A lammasu casts spells as a 7th-level cleric, and can choose spells from the cleric spell list, plus any two of the following domains: Good, Healing, Knowledge, or Law.
 
 
-            *Typical Cleric Spells Prepared* (6/6/5/4/2; save DC 13 + spell level): 0 - *[[detect magic]], [[guidance]]* (2), *light, [[read magic]], resistance;* 1st - *bless* (2),  *[[detect evil]], [[divine favor]], [[entropic shield]], [[protection from evil]]**; 2nd -  *[[aid]]**, *[[Bears Endurance|bear's endurance]], [[Bulls Strength|bull's strength]], [[Restoration Lesser|lesser restoration]], [[resist energy]];* 3rd - *daylight, [[dispel magic]], [[magic circle against evil]]**, *[[remove curse]];* 4th - *[[holy smite]]*, [[neutralize poison]].*
+*Typical Cleric Spells Prepared* (6/6/5/4/2; save DC 13 + spell level): 0 - *[[detect magic]], [[guidance]]* (2), *light, [[read magic]], resistance;* 1st - *bless* (2),  *[[detect evil]], [[divine favor]], [[entropic shield]], [[protection from evil]]**; 2nd -  *[[aid]]**, *[[Bears Endurance|bear's endurance]], [[Bulls Strength|bull's strength]], [[Restoration Lesser|lesser restoration]], [[resist energy]];* 3rd - *daylight, [[dispel magic]], [[magic circle against evil]]**, *[[remove curse]];* 4th - *[[holy smite]]*, [[neutralize poison]].*
 
 *Domain spell. Domains: Good and Healing.
 
 
-            **[[Magic Circle against Evil]] (Su):** A lammasu radiates a continuous [[magic circle against evil]] that affects a 20-foot radius.
+**[[Magic Circle against Evil]] (Su):** A lammasu radiates a continuous [[magic circle against evil]] that affects a 20-foot radius.
 
 
-            **Spell-Like Abilities:** 2/day - *[[Invisibility Greater|greater invisibility]]* (self only); 1/day - *[[dimension door]]*. Caster level 7th.
+**Spell-Like Abilities:** 2/day - *[[Invisibility Greater|greater invisibility]]* (self only); 1/day - *[[dimension door]]*. Caster level 7th.
 
 
-            **Pounce (Ex):** If a lammasu charges a foe, it can make a full attack, including two rake attacks.
+**Pounce (Ex):** If a lammasu charges a foe, it can make a full attack, including two rake attacks.
 
 
-            **Rake (Ex):** Attack bonus +12 melee, damage 1d6+3.
+**Rake (Ex):** Attack bonus +12 melee, damage 1d6+3.
 
 
-            **Skills:** Lammasus have a +2 racial bonus on Spot checks.
+**Skills:** Lammasus have a +2 racial bonus on Spot checks.
 
 ---
 

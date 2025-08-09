@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Ability Score Loss
 title: Compendium\Basics\Abilities and Conditions\Ability Score Loss
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---

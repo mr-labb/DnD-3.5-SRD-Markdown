@@ -1,8 +1,7 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium / Basic Rules / Basics and Ability Scores
+tags: 
+ - 35E_SRD
 ---
 
 ### THE BASICS
@@ -33,7 +32,7 @@ _Exception_: Certain rolls, such as damage and hit points, have a minimum of 1.
 
 Sometimes a rule makes you multiply a number or a die roll. As long as you’re applying a single multiplier, multiply the number normally. When two or more multipliers apply to any abstract value (such as a modifier or a die roll), however, combine them into a single multiple, with each extra multiple adding 1 less than its value to the first multiple. Thus, a double (×2) and a double (×2) applied to the same number results in a triple (×3, because 2 + 1 = 3).
 
-When applying multipliers to real-world values (such as weight or distance), normal rules of math apply instead. A creature whose size doubles (thus multiplying its weight by 8) and then is turned to stone (which would multiply its weight by a factor of roughly 3) now weighs about 24 times normal, not 10 times normal. Similarly, a [blinded](https://srd.dndtools.org/srd/basic/abilitiesAndConditions.html#blinded) creature attempting to negotiate difficult terrain would count each square as 4 squares (doubling the cost twice, for a total multiplier of ×4), rather than as 3 squares (adding 100% twice).
+When applying multipliers to real-world values (such as weight or distance), normal rules of math apply instead. A creature whose size doubles (thus multiplying its weight by 8) and then is turned to stone (which would multiply its weight by a factor of roughly 3) now weighs about 24 times normal, not 10 times normal. Similarly, a [[blinded]] creature attempting to negotiate difficult terrain would count each square as 4 squares (doubling the cost twice, for a total multiplier of ×4), rather than as 3 squares (adding 100% twice).
 
 ### ABILITY SCORES
 
@@ -43,7 +42,7 @@ When applying multipliers to real-world values (such as weight or distance), nor
 
 ##### ABILITY MODIFIERS
 
-Each ability, after changes made because of [race](https://srd.dndtools.org/srd/races/races.html), has a modifier ranging from –5 to +5. Table: Ability Modifiers and Bonus Spells shows the modifier for each score. It also shows bonus spells, which you’ll need to know about if your character is a spellcaster.
+Each ability, after changes made because of [[race]], has a modifier ranging from –5 to +5. Table: Ability Modifiers and Bonus Spells shows the modifier for each score. It also shows bonus spells, which you’ll need to know about if your character is a spellcaster.
 
 The modifier is the number you apply to the die roll when your character tries to do something related to that ability. You also use the modifier with some numbers that aren’t die rolls. A positive modifier is called a bonus, and a negative modifier is called a penalty.
 
@@ -97,7 +96,7 @@ You apply your character’s Strength modifier to:
 
 - Melee attack rolls.
 - Damage rolls when using a melee weapon or a thrown weapon (including a sling). (Exceptions: Off-hand attacks receive only one-half the character’s Strength bonus, while two-handed attacks receive one and a half times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
-- [[Climb]], [[Compendium/Spells/Jump]], and [[Swim]] checks. These are the skills that have Strength as their key ability.
+- [[Climb]], [[Jump]], and [[Swim]] checks. These are the skills that have Strength as their key ability.
 - Strength checks (for breaking down doors and the like).
 
 ##### DEXTERITY (DEX)
@@ -131,7 +130,7 @@ You apply your character’s Intelligence modifier to:
 
 - The number of languages your character knows at the start of the game.
 - The number of skill points gained each level. (But your character always gets at least 1 skill point per level.)
-- [[Appraise]], [[Craft]], [[Decipher Script]], [[Disable Device]], [[Forgery]], [[Compendium/Basics/Skills/Knowledge]], [[Search]], and [[Spellcraft]] checks. These are the skills that have Intelligence as their key ability.
+- [[Appraise]], [[Craft]], [[Decipher Script]], [[Disable Device]], [[Forgery]], [[Knowledge]], [[Search]], and [[Spellcraft]] checks. These are the skills that have Intelligence as their key ability.
 
 A [[wizards]] gains bonus spells based on her Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell’s level.
 

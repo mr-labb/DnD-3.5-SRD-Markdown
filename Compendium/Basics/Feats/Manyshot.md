@@ -2,7 +2,10 @@
 aliases:
  - Manyshot
 title: Manyshot
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Manyshot 
 ***Feat Type: General***
@@ -37,6 +40,11 @@ only when he is wearing light or no armor.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

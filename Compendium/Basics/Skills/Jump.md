@@ -2,7 +2,9 @@
 aliases:
  - Jump
 title: Compendium/Basics/skills/Jump
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ## Jump [(Str; Armor Check Penalty)]
 
@@ -39,16 +41,15 @@ make a DC 15 Reflex save to grab the far edge of the gap. You end your
 movement grasping the far edge. If that leaves you dangling over a chasm
 or gap, getting up requires a move action and a DC 15 Climb check.
 
-  ----------------------------------------------------------------------------- ------------
-  Long Jump Distance                                                            Jump DC^1^
-  5 feet                                                                        5
-  10 feet                                                                       10
-  15 feet                                                                       15
-  20 feet                                                                       20
-  25 feet                                                                       25
-  30 feet                                                                       30
-  1 Requires a 20-foot running start. Without a running start, double the DC.   
-  ----------------------------------------------------------------------------- ------------
+|Long Jump Distance|Jump DC1|
+|---|---|
+|5 feet|5|
+|10 feet|10|
+|15 feet|15|
+|20 feet|20|
+|25 feet|25|
+|30 feet|30|
+1 _Requires a 20-foot running start. Without a running start, double the DC._
 
 *High Jump:* A high jump is a vertical leap made to reach a ledge high
 above or to grasp something overhead. The DC is equal to 4 times the
@@ -61,19 +62,18 @@ check, you do not reach the height, and you land on your feet in the
 same spot from which you jumped. As with a long jump, the DC is doubled
 if you do not get a running start of at least 20 feet.
 
-  ----------------------------------------------------------------------------- ------------
-  High Jump Distance^1^                                                         Jump DC^2^
-  1 foot                                                                        4
-  2 feet                                                                        8
-  3 feet                                                                        12
-  4 feet                                                                        16
-  5 feet                                                                        20
-  6 feet                                                                        24
-  7 feet                                                                        28
-  8 feet                                                                        32
-  1 Not including vertical reach; see below.                                    
-  2 Requires a 20-foot running start. Without a running start, double the DC.   
-  ----------------------------------------------------------------------------- ------------
+|High Jump Distance1|Jump DC2|
+|---|---|
+|1 foot|4|
+|2 feet|8|
+|3 feet|12|
+|4 feet|16|
+|5 feet|20|
+|6 feet|24|
+|7 feet|28|
+|8 feet|32|
+1 _Not including vertical reach; see below._
+2 _Requires a 20-foot running start. Without a running start, double the DC._
 
 Obviously, the difficulty of reaching a given height varies according to
 the size of the character or creature. The maximum vertical reach
@@ -84,18 +84,17 @@ typical human can reach 8 feet without jumping.)
 Quadrupedal creatures don't have the same vertical reach as a bipedal
 creature; treat them as being one size category smaller.
 
-  --------------- ----------------
-  Creature Size   Vertical Reach
-  Colossal        128 ft.
-  Gargantuan      64 ft.
-  Huge            32 ft.
-  Large           16 ft.
-  Medium          8 ft.
-  Small           4 ft.
-  Tiny            2 ft.
-  Diminutive      1 ft.
-  Fine            1/2 ft.
-  --------------- ----------------
+|Creature Size|Vertical Reach|
+|---|---|
+|Colossal|128 ft.|
+|Gargantuan|64 ft.|
+|Huge|32 ft.|
+|Large|16 ft.|
+|Medium|8 ft.|
+|Small|4 ft.|
+|Tiny|2 ft.|
+|Diminutive|1 ft.|
+|Fine|1/2 ft.|
 
 *Hop Up:* You can jump up onto an object as tall as your waist, such as
 a table or small boulder, with a DC 10 Jump check. Doing so counts as 10
@@ -136,6 +135,11 @@ on Jump checks.
 If you have 5 or more ranks in Jump, you get a +2 bonus on Tumble
 checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Aristocrat
 title: Compendium/Basics/Classe/Aristocrat
-tag: Class, Aristocrat
+tags: 
+ - 35E_SRD
+ - Class
+ - Aristocrat
 ---
 
 ---
@@ -22,7 +25,7 @@ The aristocrat might work as a PC class, since it has an impressive selection of
 
 ###### Class Skills
 
-The aristocrat's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Bluff]] (Cha), [[Diplomacy]] (Cha), [[Disguise]] (Cha), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Handle Animal]] (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (all skills taken individually) (Int), [[Listen]] (Wis), [[Perform]] (Cha), [[Ride]] (Dex), [[Sense Motive]] (Wis), [[Speak Language]], [[Spot]] (Wis), [[Swim]] (Str), and [[Survival]] (Wis).
+The aristocrat's class skills (and the key ability for each skill) are [[Appraise]] (Int), [[Bluff]] (Cha), [[Diplomacy]] (Cha), [[Disguise]] (Cha), [[Forgery]] (Int), [[Gather Information]] (Cha), [[Handle Animal]] (Cha), [[Intimidate]] (Cha), [[Knowledge]] (all skills taken individually) (Int), [[Listen]] (Wis), [[Perform]] (Cha), [[Ride]] (Dex), [[Sense Motive]] (Wis), [[Speak Language]], [[Spot]] (Wis), [[Swim]] (Str), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -59,6 +62,11 @@ The following is a class feature of the aristocrat NPC class.
 
 **Weapon and Armor Proficiency**: The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

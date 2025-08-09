@@ -2,7 +2,9 @@
 aliases:
  - Control Shape
 title: Compendium/Basics/skills/Control Shape
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ## Control Shape [(Wis)]
 Any character who has contracted lycanthropy and is aware of his condition can learn Control Shape as a class skill. (An afflicted lycanthrope not yet aware of his condition can attempt Control Shape checks untrained.)This skill determines whether an afflicted lycanthrope can control his shape. A natural lycanthrope does not need this skill, since it has full control over its shape.
@@ -36,6 +38,11 @@ A character can retry voluntary changes to animal form or hybrid form as often a
 
 **Special**: An afflicted lycanthrope cannot attempt a voluntary change until it becomes aware of its condition (see Lycanthropy as an Affliction).
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

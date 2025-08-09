@@ -104,10 +104,10 @@ A water elemental prefers to fight in a large body of water where it can disappe
 A water elemental can be a serious threat to a ship that crosses its path. An elemental can easily overturn small craft (5 feet of length per Hit Die of the elemental) and stop larger vessels (10 feet long per HD). Even large ships (20 feet long per HD) can be slowed to half speed.
 
 
-            **Drench (Ex):** The elemental's touch puts out torches, campfires, exposed lanterns, and other open flames of nonmagical origin if these are of Large size or smaller. The creature can dispel magical fire it touches as *[[dispel magic]]* (caster level equals elemental's HD).
+**Drench (Ex):** The elemental's touch puts out torches, campfires, exposed lanterns, and other open flames of nonmagical origin if these are of Large size or smaller. The creature can dispel magical fire it touches as *[[dispel magic]]* (caster level equals elemental's HD).
 
 
-            **Vortex (Su):** The elemental can transform itself into a whirlpool once every 10 minutes, provided it is underwater, and remain in that form for up to 1 round for every 2 HD it has. In vortex form, the elemental can move through the water or along the bottom at its swim speed. The vortex is 5 feet wide at the base, up to 30 feet wide at the top, and 60 feet tall. The elemental controls the exact height, but it must be at least 10 feet.
+**Vortex (Su):** The elemental can transform itself into a whirlpool once every 10 minutes, provided it is underwater, and remain in that form for up to 1 round for every 2 HD it has. In vortex form, the elemental can move through the water or along the bottom at its swim speed. The vortex is 5 feet wide at the base, up to 30 feet wide at the top, and 60 feet tall. The elemental controls the exact height, but it must be at least 10 feet.
 
 The elemental's movement while in vortex form does not provoke attacks of opportunity, even if the elemental enters the space another creature occupies. Another creature might be caught in the vortex if it touches or enters the vortex, or if the elemental moves into or through the creature's space.
 

@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Darkvision
 title: Compendium\Basics\Abilities and Conditions\Darkvision
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -14,6 +16,11 @@ Darkvision is the extraordinary ability to see with no light source at all, out 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

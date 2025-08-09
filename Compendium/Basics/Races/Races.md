@@ -3,6 +3,9 @@ lang: en
 aliases:
  - Races
 title: Compendium/Basics/Races
+tags: 
+ - 35E_SRD
+ - Races
 ---
 
 # Races
@@ -90,6 +93,11 @@ A number of the minor races, particularly nonhumanoids, begin play with some num
 
 **Racial Skills**: Depending on the creature type of the character's race, he begins with a number of racial skill points. These skill points may be spent on any skills the character likes. The character gains quadruple skill points for the first Hit Die of his race - or, in other words, the number of skill points a character gains for his racial Hit Dice equals (racial skill point allowance per Hit Die + Intelligence modifier, minimum 1) Ã— (racial Hit Dice + 3).
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

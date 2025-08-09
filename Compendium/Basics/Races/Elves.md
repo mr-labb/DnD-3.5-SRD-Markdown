@@ -1,6 +1,9 @@
 ---
 lang: en
 title: Compendium/Basics/Elves 
+tags: 
+ - 35E_SRD
+ - Races
 ---
 
 ### Elves

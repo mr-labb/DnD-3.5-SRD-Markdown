@@ -2,7 +2,9 @@
 aliases:
  - Escape Artist
 title: Compendium/Basics/skills/Escape Artist
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Escape Artist [(Dex; Armor Check Penalty)]
 
@@ -26,16 +28,17 @@ your head does not fit through.
 grapple check to get out of a grapple or out of a pinned condition (so
 that you're only grappling).
 
-  ------------------------------------------------------------------------------------------------ ---------------------------------
-  Restraint                                                                                        Escape Artist DC
-  Ropes Binder's                                                                                   Use Rope check at +10
-  Net, *[[animate rope]]* spell, *[[command plants]]* spell, *[[control plants]]* spell, or *entangle* spell   20
-  Snare spell                                                                                      23
-  Manacles                                                                                         30
-  Tight space                                                                                      30
-  Masterwork manacles                                                                              35
-  Grappler                                                                                         Grappler's grapple check result
-  ------------------------------------------------------------------------------------------------ ---------------------------------
+|Restraint|Escape Artist DC|
+|---|---|
+|Ropes|Binder's Use Rope check + 10|
+|Net, animate rope spell, command plants spell,  <br>control plants spell, or entangle spell|20|
+|Snare spell|23|
+|Manacles|30|
+|Tight space|30|
+|Masterwork manacles|35|
+|Grappler|Grappler's grapple check result|
+|Extremely tight space|80|
+|Pass through wall of force|120|
 
 ### Action
 Making an Escape Artist check to escape from rope bindings,
@@ -63,6 +66,11 @@ bonus on Use Rope checks to bind someone.
 If you have 5 or more ranks in Use Rope, you get a +2 bonus on Escape
 Artist checks when escaping from rope bonds.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,10 @@
 aliases:
  - Extra Turning
 title: Extra Turning
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Extra Turning 
 ***Feat Type: General***
@@ -27,6 +30,11 @@ rebuking abilities four additional times per day.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

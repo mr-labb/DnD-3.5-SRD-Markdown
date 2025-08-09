@@ -2,7 +2,9 @@
 aliases:
  - Diplomacy
 title: Compendium/Basics/skills/Diplomacy
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Diplomacy [(Cha)]
 Use this skill to persuade the chamberlain to let you see the king, to negotiate peace between feuding barbarian tribes, or to convince the ogre mages that have captured you that they should ransom you back to your friends instead of twisting your limbs off one by one. Diplomacy includes etiquette, social grace, tact, subtlety, and a way with words. A skilled character knows the formal and informal rules of conduct, social expectations, proper forms of address, and so on. This skill represents the ability to give others the right impression of oneself, to negotiate effectively, and to influence others.
@@ -59,6 +61,11 @@ _Fanatic:_ In addition to the obvious effects, any NPC whose attitude is fanatic
 
 Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can't be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC's attitude can't be further adjusted by the use of skills.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,15 +3,45 @@ lang: en
 aliases:
  - Druid
 title: Compendium/Basics/Classe/Druid
-tag: Class, Druid
+tags: 
+ - 35E_SRD
+ - Class
+ - Druid
 ---
 
 ---
 
 ### DRUID
 
-<br><br>The fury of a storm, the gentle strength of the morning sun, the cunning of the fox, the power of the bear - all these and more are at the druid's command. The druid however, claims no mastery over nature. That claim, she says, is the empty boast of a city dweller. The druid gains her power not by ruling nature but by being at one with it. To trespassers in a druid's sacred grove, and to those who feel her wrath, the distinction is overly fine.<br><br>Druids adventure to gain [[Compendium/Basics/Skills/Knowledge]] (especially about animals and plants unfamiliar to them) and power. Sometimes, their superiors call on their services. Druids may also bring their power to bear against those who threaten what they love, which more often includes ancient stands of trees or trackless mountains than people. While druids accept that which is horrific or cruel in nature, they hate that which is unnatural, including aberrations (such as beholders and carrion crawlers) and undead (such as zombies and vampires). Druids sometimes lead raids against such creatures, especially when they encroach on the druids' territory.<br><br>Druids cast divine spells much the same way clerics do, though most get their spells from the power of nature rather than from deities. Their spells are oriented toward nature and animals. In addition to spells, druids gain an increasing array of magical powers, including the ability to take the shapes of animals, as they advance in level.<br><br>The armor of a druid are restricted by traditional oaths to the items noted in Weapon and Armor proficiency (below),All other armor is prohibited. Though a druid could learn to wear full plate, putting it on would violate her oath and suppress her druidic powers. Druids avoid carrying much worked metal with them because it interferes with the pure and primal nature that they attempt to embody.<br><br>Druids, in keeping with nature's ultimate indifference, must maintain at least some measure of dispassion. As such, they must be neutral on at least one alignment axis (chaotic-lawful or good-evil), if not both. Just as nature encompasses such dichotomies as life and death, beauty and horror, and peace and violence, so two druids can manifest different or even opposite alignments (neutral good and neutral evil, for instance) and still be part of the druidic tradition.<br><br>A druid reveres nature above all. She gains her magical power either from the force of nature itself or from a nature deity. The typical druid pursues a mystic spirituality of transcendent union with nature rather than devoting herself to a divine entity. Still, some druids revere or at least respect either Obad-Hai (god of nature) or Ehlonna (goddess of the woodlands).<br><br>Though their organization is invisible to most outsiders, who consider druids to be loners, druids are actually part of a society that spans the land, ignoring political borders. A prospective druid is inducted into this society through secret rituals, including tests that not all survive. Only after achieving some level of competence is the druid allowed to strike out on her own.<br><br>All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any highranking members of the society or participated in druidic gatherings. All druids recognize each other as brothers and sisters. Like true creatures of the wilderness, however, druids sometimes compete with or even prey on each other.<br><br>A druid may be expected to perform services for higher-ranking druids, though proper payment is tendered for such assignments. Likewise, a lower-ranking druid may appeal for aid from her higher-ranking comrades in exchange for a fair price in coin or service.<br><br>Druids may live in small towns, but they always spend a good portion of their time in wild areas. Even large cities surrounded by cultivated land as far as the eye can see often have druid groves nearby - small, wild refuges where druids live and which they protect fiercely. Near coastal cities, such refuges may be nearby islands, where the druids can find the isolation they need.<br><br>Elves and gnomes have an affinity for natural lands and often become druids. Humans and halfelves also frequently adopt this path, and druids are particularly common among savage humans. Dwarves, halflings, and half-orcs are rarely druids.<br><br>Few from among the brutal humanoids are inducted into druidic society, though gnolls have a fair contingent of evil druids among them. Gnoll druids are accepted, though perhaps not welcomed, by druids of other races.<br><br>The druid shares with rangers and many barbarians a reverence for nature and a familiarity with natural lands. She doesn't much understand the urban mannerism typical of a rogue, and she finds arcane magic disruptive and slightly distasteful. The typical druid also dislikes the paladin's devotion to abstract ideals instead of "the real world." Druids, however, are nothing if not accepting of diversity, and they take little offense at other characters, even those very different from them.<br><br>The druid enjoys extraordinary versatility. Though she lacks the sheer healing power of the cleric, she makes up for it with additional offensive power, thanks to her spell selection and wild shape ability. A druid back up by another secondary healer (such as a paladin) can prove extremely valuable to a group of adventurers. Her animal companion also provides valuable melee combat support.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+
+The fury of a storm, the gentle strength of the morning sun, the cunning of the fox, the power of the bear - all these and more are at the druid's command. The druid however, claims no mastery over nature. That claim, she says, is the empty boast of a city dweller. The druid gains her power not by ruling nature but by being at one with it. To trespassers in a druid's sacred grove, and to those who feel her wrath, the distinction is overly fine.
+
+Druids adventure to gain [[Knowledge]] (especially about animals and plants unfamiliar to them) and power. Sometimes, their superiors call on their services. Druids may also bring their power to bear against those who threaten what they love, which more often includes ancient stands of trees or trackless mountains than people. While druids accept that which is horrific or cruel in nature, they hate that which is unnatural, including aberrations (such as beholders and carrion crawlers) and undead (such as zombies and vampires). Druids sometimes lead raids against such creatures, especially when they encroach on the druids' territory.
+
+Druids cast divine spells much the same way clerics do, though most get their spells from the power of nature rather than from deities. Their spells are oriented toward nature and animals. In addition to spells, druids gain an increasing array of magical powers, including the ability to take the shapes of animals, as they advance in level.
+
+The armor of a druid are restricted by traditional oaths to the items noted in Weapon and Armor proficiency (below),All other armor is prohibited. Though a druid could learn to wear full plate, putting it on would violate her oath and suppress her druidic powers. Druids avoid carrying much worked metal with them because it interferes with the pure and primal nature that they attempt to embody.
+
+Druids, in keeping with nature's ultimate indifference, must maintain at least some measure of dispassion. As such, they must be neutral on at least one alignment axis (chaotic-lawful or good-evil), if not both. Just as nature encompasses such dichotomies as life and death, beauty and horror, and peace and violence, so two druids can manifest different or even opposite alignments (neutral good and neutral evil, for instance) and still be part of the druidic tradition.
+
+A druid reveres nature above all. She gains her magical power either from the force of nature itself or from a nature deity. The typical druid pursues a mystic spirituality of transcendent union with nature rather than devoting herself to a divine entity. Still, some druids revere or at least respect either Obad-Hai (god of nature) or Ehlonna (goddess of the woodlands).
+
+Though their organization is invisible to most outsiders, who consider druids to be loners, druids are actually part of a society that spans the land, ignoring political borders. A prospective druid is inducted into this society through secret rituals, including tests that not all survive. Only after achieving some level of competence is the druid allowed to strike out on her own.
+
+All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any highranking members of the society or participated in druidic gatherings. All druids recognize each other as brothers and sisters. Like true creatures of the wilderness, however, druids sometimes compete with or even prey on each other.
+
+A druid may be expected to perform services for higher-ranking druids, though proper payment is tendered for such assignments. Likewise, a lower-ranking druid may appeal for aid from her higher-ranking comrades in exchange for a fair price in coin or service.
+
+Druids may live in small towns, but they always spend a good portion of their time in wild areas. Even large cities surrounded by cultivated land as far as the eye can see often have druid groves nearby - small, wild refuges where druids live and which they protect fiercely. Near coastal cities, such refuges may be nearby islands, where the druids can find the isolation they need.
+
+Elves and gnomes have an affinity for natural lands and often become druids. Humans and halfelves also frequently adopt this path, and druids are particularly common among savage humans. Dwarves, halflings, and half-orcs are rarely druids.
+
+Few from among the brutal humanoids are inducted into druidic society, though gnolls have a fair contingent of evil druids among them. Gnoll druids are accepted, though perhaps not welcomed, by druids of other races.
+
+The druid shares with rangers and many barbarians a reverence for nature and a familiarity with natural lands. She doesn't much understand the urban mannerism typical of a rogue, and she finds arcane magic disruptive and slightly distasteful. The typical druid also dislikes the paladin's devotion to abstract ideals instead of "the real world." Druids, however, are nothing if not accepting of diversity, and they take little offense at other characters, even those very different from them.
+
+The druid enjoys extraordinary versatility. Though she lacks the sheer healing power of the cleric, she makes up for it with additional offensive power, thanks to her spell selection and wild shape ability. A druid back up by another secondary healer (such as a paladin) can prove extremely valuable to a group of adventurers. Her animal companion also provides valuable melee combat support.
 
 **Alignment**: Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil.
 
@@ -19,7 +49,7 @@ tag: Class, Druid
 
 ###### Class Skills
 
-The druid's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[Spellcraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The druid's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[Spellcraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -85,7 +115,7 @@ A 1st-level druid's companion is completely typical for its kind except as noted
 
 A druid of 4th level or higher may select from alternative lists of animals (see below). Should she select an animal companion from one of these alternative lists, the creature gains abilities as if the character's druid level were lower than it actually is. Subtract the value indicated in the appropriate list header from the character's druid level and compare the result with the druid level entry on the table to determine the animal companion's powers. (If this adjustment would reduce the druid's effective level to 0 or lower, she can't have that animal as a companion.)
 
-**Nature Sense (Ex)**: A druid gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) and Survival checks.
+**Nature Sense (Ex)**: A druid gains a +2 bonus on [[Knowledge]] (nature) and Survival checks.
 
 **Wild Empathy (Ex)**: A druid can improve the attitude of an animal. This ability functions just like a [[Diplomacy]] check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
@@ -472,9 +502,9 @@ The druid is the second-place offender of dead levels. For a class to have speci
 
 #### Domain Druid
 
-With this option, each druid may choose a single domain from the following list: [[Air]], [[Animal]], [[Earth]], [[Fire]], [[Plant]], [[Sun]], and [[Water]]. The druid gains a bonus spell of each spell level, which may be used only to prepare a domain spell of that level (or of a lower level, if affected by a metamagic feat). The druid also gains the domain's granted power, except as noted below.
+With this option, each druid may choose a single domain from the following list: [[Air]], [[Animal]], [[Earth Subtype]], [[Fire]], [[Plant]], [[Sun]], and [[Water_Subtype]]. The druid gains a bonus spell of each spell level, which may be used only to prepare a domain spell of that level (or of a lower level, if affected by a metamagic feat). The druid also gains the domain's granted power, except as noted below.
 
-Druids who select the [[Animal]] domain or the [[Plant]] domain gain [[Skill Focus]] ([[Compendium/Basics/Skills/Knowledge]] [nature]), since [[Compendium/Basics/Skills/Knowledge]] (nature) is already a class skill for druids.
+Druids who select the [[Animal]] domain or the [[Plant]] domain gain [[Skill Focus]] ([[Knowledge]] [nature]), since [[Knowledge]] (nature) is already a class skill for druids.
 
 A druid who chooses the [[Sun]] domain gains the ability to [[turn undead]] 1/day as a cleric of her level, and cannot perform a greater turning.
 
@@ -542,7 +572,7 @@ Every druid reveres nature, but some pay more respect to the fundamental buildin
 
 **Level**: 1st.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (the planes) 1 rank, Speak Language (Auran, Terran, Ignan, or Aquan).
+**Special Requirement**: [[Knowledge]] (the planes) 1 rank, Speak Language (Auran, Terran, Ignan, or Aquan).
 
 **Replaces**: You do not gain an animal companion, nor do you gain wild empathy.
 
@@ -564,7 +594,7 @@ Druids of the Fangshields are the healers and nurturers of the group, acting on 
 
 ##### Requirements
 
-To take a Fangshields druid substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 4th, 5th, or 7th level of druid.
+To take a Fangshields druid substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Knowledge]] (religion), and be about to take her 4th, 5th, or 7th level of druid.
 
 ##### Class Skills
 
@@ -594,7 +624,7 @@ This benefit replaces the resist nature's lure class ability gained by a standar
 
 This benefit is in addition to the standard druid's wild shape ability.
 
-**Wild Shape (Humanoid) (Su)**: At 7th level, a Fangshields druid can use her wild shape ability to assume a Medium humanoid form. The humanoid form can resemble a human, dwarf, elf, or other Medium humanoid as the druid desires and has the appropriate racial traits for that race (according to the [[Compendium/Spells/Polymorph|polymorph]] spell). This ability is typically used by a druid to interact with humanoid settlements without drawing too much attention to herself. However, the humanoid form retains some of a Fangshields druid's original monstrous appearance, much like how a lycanthrope in hybrid form has humanoid and animal features, resulting in a -4 penalty on Disguise checks made to pass as a humanoid. The hybrid form can speak as well as a true humanoid, though the change of form does not give the druid [[Compendium/Basics/Skills/Knowledge]] of that form's language (a druid in the form of an elf wouldn't automatically know how to speak Elven, but could use her elf-mouth to speak any languages she did know).
+**Wild Shape (Humanoid) (Su)**: At 7th level, a Fangshields druid can use her wild shape ability to assume a Medium humanoid form. The humanoid form can resemble a human, dwarf, elf, or other Medium humanoid as the druid desires and has the appropriate racial traits for that race (according to the [[Compendium/Spells/Polymorph|polymorph]] spell). This ability is typically used by a druid to interact with humanoid settlements without drawing too much attention to herself. However, the humanoid form retains some of a Fangshields druid's original monstrous appearance, much like how a lycanthrope in hybrid form has humanoid and animal features, resulting in a -4 penalty on Disguise checks made to pass as a humanoid. The hybrid form can speak as well as a true humanoid, though the change of form does not give the druid [[Knowledge]] of that form's language (a druid in the form of an elf wouldn't automatically know how to speak Elven, but could use her elf-mouth to speak any languages she did know).
 
 For example, a giant eagle could wild shape into a humanlike humanoid, but she would resemble an eagle-human hybrid (much like an [[avoral]] guardinal); a [[treant]] taking the form of an elf hybrid would look like a tall elf with barklike skin and leaves in her hair (much like a [[dryad]]).
 
@@ -830,7 +860,7 @@ Metal masters stay close to sources of metal, and many can be found wandering ca
 
 ##### Class Skills
 
-The metal master's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) (Int), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The metal master's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Heal]] (Wis), [[Knowledge]] (architecture and engineering) (Int), [[Knowledge]] (dungeoneering) (Int), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -880,7 +910,7 @@ All of the following are class features of the metal master.
 
 A metal master also knows Terran, the language of earth creatures, which she learns upon becoming a 1st-level metal master. Terran is a free language for a metal master; that is, she knows it in addition to her regular allotment of languages, and it doesn't lake up a language slot.
 
-**Mine Sense (Ex)**: At 1st level, the metal master gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (dungeoneering) and [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) checks.
+**Mine Sense (Ex)**: At 1st level, the metal master gains a +2 bonus on [[Knowledge]] (dungeoneering) and [[Knowledge]] (architecture and engineering) checks.
 
 **Metal Sense (Ex)**: At 3rd level, the metal master gains a +2 bonus on Craft (armorsmithing), Craft (blacksmithing), and Craft (weaponsmithing) checks.
 
@@ -910,7 +940,7 @@ When your effective druid level for determining your animal companion's abilitie
 
 #### Planar Druid
 
-The forces of nature, both subtle and grand, are manifestations of a deeper reality, where cosmic spheres revolve about each other in an awesome celestial dance. That dance generates the energy behind the fury of a storm, the brilliant sun, and even the vitality of life. The druid who understands the ecological connections between the seen and unseen is more capable, more [[Compendium/Basics/Skills/Knowledge]]able, and more tuned into the events that move in all realms of existence.
+The forces of nature, both subtle and grand, are manifestations of a deeper reality, where cosmic spheres revolve about each other in an awesome celestial dance. That dance generates the energy behind the fury of a storm, the brilliant sun, and even the vitality of life. The druid who understands the ecological connections between the seen and unseen is more capable, more [[Knowledge]]able, and more tuned into the events that move in all realms of existence.
 
 **Hit Die**: d8.
 
@@ -920,7 +950,7 @@ To take a druid planar substitution level, a character must be about to take his
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -930,7 +960,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Druid planar substitution levels have the class skills of the standard druid class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Druid planar substitution levels have the class skills of the standard druid class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -1207,11 +1237,11 @@ _Manifested Spirit (Su)_: With his lycanthrope heritage strengthened by the pres
 
 #### Sidhe Scholar
 
-Civilized nations have often long forgotten the ancient druidic traditions. These "civilized" people might have even intentionally done away with the tradition and its strange, oft-misunderstood, pagan rites. Those who later pursue this lost [[Compendium/Basics/Skills/Knowledge]] rely more upon crumbling written accounts rather than the wild's natural calling. Scholars of these ancient ways who show enough promise become embraced and "adopted" by trickster fey, learning the old ways anew. Capricious and cruel as only the fey can be, these new druids might eventually discover why the druids of old were put to the sword. The sidhe (pronounced "shee") scholar is an erudite hero who has lost touch with the more mundane tasks of a traditional druid (such as normal care of flora and fauna) in exchange for sylvan power that might prove itself best left to the immortals that refined it. The fey who usually take these druids under their wings are not your average "fairies." They are not dryads or nixies, grigs or brownies. Instead, the fey who train sidhe scholars are the refined, aristocratic faeries of the Seelie and Unseelie courts. As sleek and dangerous as hunting cats, these fey are incomprehensible beings to whom a human's life holds as much significance as a mayfly's. The faeries of the courts regard humans who wish to learn from and worship them with amusement, approving of their reverent attitudes as appropriate behavior from such inferior beings. As such, they do aid their supplicants readily, but expect much praise and appreciation for their pains.
+Civilized nations have often long forgotten the ancient druidic traditions. These "civilized" people might have even intentionally done away with the tradition and its strange, oft-misunderstood, pagan rites. Those who later pursue this lost [[Knowledge]] rely more upon crumbling written accounts rather than the wild's natural calling. Scholars of these ancient ways who show enough promise become embraced and "adopted" by trickster fey, learning the old ways anew. Capricious and cruel as only the fey can be, these new druids might eventually discover why the druids of old were put to the sword. The sidhe (pronounced "shee") scholar is an erudite hero who has lost touch with the more mundane tasks of a traditional druid (such as normal care of flora and fauna) in exchange for sylvan power that might prove itself best left to the immortals that refined it. The fey who usually take these druids under their wings are not your average "fairies." They are not dryads or nixies, grigs or brownies. Instead, the fey who train sidhe scholars are the refined, aristocratic faeries of the Seelie and Unseelie courts. As sleek and dangerous as hunting cats, these fey are incomprehensible beings to whom a human's life holds as much significance as a mayfly's. The faeries of the courts regard humans who wish to learn from and worship them with amusement, approving of their reverent attitudes as appropriate behavior from such inferior beings. As such, they do aid their supplicants readily, but expect much praise and appreciation for their pains.
 
 The sidhe scholar is a more educated character than the archetypical druid. She actually has more in common with wizards than any other character class. A sidhe scholar is not a wizard, though. Despite erudite tendencies, the sidhe scholar is still a divine supplicant: she gains her magical powers through hard work and study, but she cannot cast her spells or perform her other magical abilities based upon her own inner arcane spark like a wizard or even a sorcerer. Instead, like other druids, she must draw upon the powers of nature and the wild lands. In settings with themes of urbanization and turning away from the natural world, the traditions of the original druidic ways are likely lost and must be rediscovered. Hence, the sidhe scholar calls not upon the deities of nature or the raw energy of the wilds themselves, but upon the only beings who remember the old ways well enough to instruct her - the fey.
 
-Like the druid, the sidhe scholar values Wisdom as her most important ability score; bonus spells, spell DCs, and Will save are all extremely important to this magic-oriented variant. Intelligence and Charisma share secondary importance. Ranks in different [[Compendium/Basics/Skills/Knowledge]] skills and Diplomacy serve her well. Pursuing the forgotten rites of the old druids might be viewed as foolish at best and dangerous at worst, making it important to assuage the fears and superstitions of concerned locals. Dealings with the fey themselves also tend to go much smoother with a high Charisma.
+Like the druid, the sidhe scholar values Wisdom as her most important ability score; bonus spells, spell DCs, and Will save are all extremely important to this magic-oriented variant. Intelligence and Charisma share secondary importance. Ranks in different [[Knowledge]] skills and Diplomacy serve her well. Pursuing the forgotten rites of the old druids might be viewed as foolish at best and dangerous at worst, making it important to assuage the fears and superstitions of concerned locals. Dealings with the fey themselves also tend to go much smoother with a high Charisma.
 
 The sidhe scholar is a variant druid. Unless otherwise noted, a sidhe scholar advances in the same manner as a druid (same base attack bonus, saving throw bonuses, skill points, and so on). When a character elects to take a level of druid or sidhe scholar, she may not later take levels in the other class. This prevents the character from gaining the benefits of a 1st-level druid twice.
 
@@ -1219,7 +1249,7 @@ The sidhe scholar is a variant druid. Unless otherwise noted, a sidhe scholar ad
 
 ##### Class Skills
 
-In addition to the class skills of the standard druid, the sidhe scholar also has [[Compendium/Basics/Skills/Knowledge]] (arcana) as a class skill.
+In addition to the class skills of the standard druid, the sidhe scholar also has [[Knowledge]] (arcana) as a class skill.
 
 **Table: The Sidhe Scholar**
 
@@ -1253,11 +1283,11 @@ All of the following are class features of the sidhe scholar.
 
 **Weapon and Armor Proficiency**: The sidhe scholar is only proficient with simple weapons, light armor, and shields (except tower shields), regardless of material composition. The sidhe scholar embraces more of the civilized world than the typical druid, but as a whole spends less time in martial pursuits.
 
-**Intelligentsia (Ex)**: At 1st level, the sidhe scholar gains Skill Focus ([[Compendium/Basics/Skills/Knowledge]] [nature]) as a bonus feat. The sidhe scholar spends a lot of time in research, and so has a larger [[Compendium/Basics/Skills/Knowledge]] base than most druids.
+**Intelligentsia (Ex)**: At 1st level, the sidhe scholar gains Skill Focus ([[Knowledge]] [nature]) as a bonus feat. The sidhe scholar spends a lot of time in research, and so has a larger [[Knowledge]] base than most druids.
 
 **Wild One (Ex)**: The sidhe scholar's animal companion is a little more powerful than a standard druid's companion. Thanks to the favor of the fey, the sidhe scholar's animal companion has a bit of sylvan blood in it. The companion is exceptionally fit, sleek, and graceful. The animal companion begins with +1 hit point per Hit Die, +2 Dexterity, and +2 Charisma. Unfortunately, this wild blood makes the animal especially suspicious of humanoids. The animal always has an initial attitude of "unfriendly" around humanoids who aren't its master (to whom it is as loyal as any other animal companion), but other druids or rangers can increase the animal companion's attitude to "neutral" using the wild empathy ability. In addition, the animal refuses to enter a humanoid settlement larger than a thorp. The animal does not leave the druid completely, however, and lurks on the outskirts of the settlement until the druid rejoins it in the wilds.
 
-**Blessing of the Fey (Su)**: At 2nd level, the fey first bestow their gifts upon their willing supplicant, granting a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (arcana) and Survival checks.
+**Blessing of the Fey (Su)**: At 2nd level, the fey first bestow their gifts upon their willing supplicant, granting a +2 bonus on [[Knowledge]] (arcana) and Survival checks.
 
 **Sylvan Gifts (Su)**: Beginning at 4th level, the fey visit the sidhe scholar every night in her dreams, imparting her with magical secrets. The sidhe scholar gains bonus spells as if her Wisdom score were 2 higher than it really is. This does not affect the DCs of her spells.
 
@@ -1284,7 +1314,7 @@ Note that she need not swap out all these skills. A skilled city-dweller may pic
 |Skill Replaced|Skill Gained|
 |---|---|
 |[[Handle Animal]]|[[Gather Information]]|
-|[[Compendium/Basics/Skills/Knowledge]] (nature)|[[Compendium/Basics/Skills/Knowledge]] (local)|
+|[[Knowledge]] (nature)|[[Knowledge]] (local)|
 |[[Survival]]|[[Sense Motive]]|
 |[[Ride]]|[[Tumble]]|
 
@@ -1482,7 +1512,7 @@ Druids native to the sprawling city master a widely differing range of skills th
 
 **Replaces**: If you select this class feature, you do not gain nature sense.
 
-**Benefit**: She gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (local) checks and Sense Motive checks.
+**Benefit**: She gains a +2 bonus on [[Knowledge]] (local) checks and Sense Motive checks.
 
 #### Voice of the City
 
@@ -1548,7 +1578,7 @@ Few subterranean inhabitants choose the druidic path, but those who do recognize
 
 #### Wild Reaper
 
-Autumn is a time for harvest. The fruits of summer fall from the vine and collect to rot, bearing the seeds and becoming the food for the next generation. This is where death interjects in the cycle of life, making killing a means of rebirth. Wild reapers ac[[Compendium/Basics/Skills/Knowledge]] this aspect of nature and love it for the vital force it is. With a dispassionate eye, the wild reaper sees the autumn of all creatures, and when a creature's harvest time comes, a wild reaper is ready with scythe and spell.
+Autumn is a time for harvest. The fruits of summer fall from the vine and collect to rot, bearing the seeds and becoming the food for the next generation. This is where death interjects in the cycle of life, making killing a means of rebirth. Wild reapers ac[[Knowledge]] this aspect of nature and love it for the vital force it is. With a dispassionate eye, the wild reaper sees the autumn of all creatures, and when a creature's harvest time comes, a wild reaper is ready with scythe and spell.
 
 Wild reapers walk beside death. To them, dying is a healthy and necessary part of life. Yet wild reapers know death has its time and place in the natural cycle, like autumn has its place in the order of the seasons. Harvesting life too early prevents the birth of the next generation and diminishes the strength and wisdom the elderly pass on.
 
@@ -1560,7 +1590,7 @@ Wild reapers tend to stay in places where the evidence of death and the changes 
 
 ##### Class Skills
 
-The wild reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The wild reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Intimidate]] (Cha), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1650,7 +1680,7 @@ Wind walkers are free spirits that tend to roam, allowing the concerns of more s
 
 ##### Class Skills
 
-The wind walker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The wind walker's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1751,7 +1781,7 @@ Winter wardens can be found in any cold locale, and many follow the winter seaso
 
 ##### Class Skills
 
-The winter warden's class skills (and the key ability for each skill) are Balance (Dex), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (geography) (Int), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
+The winter warden's class skills (and the key ability for each skill) are Balance (Dex), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Handle Animal (Cha), [[Heal]] (Wis), [[Knowledge]] (geography) (Int), [[Knowledge]] (nature) (Int), [[Listen]] (Wis), [[Profession]] (Wis), [[Ride]] (Dex), [[SpellCraft]] (Int), [[Spot]] (Wis), [[Survival]] (Wis), and [[Swim]] (Str).
 
 **Skill Points at 1st Level**: (4 + Int modifier) x 4.
 
@@ -1829,6 +1859,11 @@ A winter warden can use this ability more times per day as noted on the winter w
 
 **[[Polar Ray]] (Sp)**: At 20th level, the winter warden can cast [[polar ray]] as a caster of a level equal to his winter warden level once per day.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

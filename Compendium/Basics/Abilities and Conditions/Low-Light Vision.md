@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Low-Light Vision
 title: Compendium\Basics\Abilities and Conditions\Low-Light Vision
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -25,6 +28,11 @@ It retains the ability to distinguish color and detail under these conditions.
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

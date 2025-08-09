@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Etherealness
 title: Compendium\Basics\Abilities and Conditions\Etherealness
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -26,6 +28,11 @@ Ghosts have a power called manifestation that allows them to appear on the Mater
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

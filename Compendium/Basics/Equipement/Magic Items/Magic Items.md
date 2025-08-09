@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Magic Items
+tags:
+ - 35E_SRD
 ---
 
 ## The Basics

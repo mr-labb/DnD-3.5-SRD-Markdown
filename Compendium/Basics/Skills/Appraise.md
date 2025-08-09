@@ -2,7 +2,9 @@
 aliases:
  - Appraise
 title: Compendium/Basics/skills/Appraise
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ## Appraise [(Int)]
 Use this skill to tell an antique from old junk, a sword that's old and fancy from an elven heirloom, and high-quality jewelry from cheap stuff made to look good.
@@ -56,6 +58,11 @@ For common items, failure on an untrained check means no
 estimate. For rare items, success means an estimate of 50% to 150%
 (2d6+3 times 10%).
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

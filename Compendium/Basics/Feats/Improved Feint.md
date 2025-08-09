@@ -2,7 +2,10 @@
 aliases:
  - Improved Feint
 title: Improved Feint
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Improved Feint 
 ***Feat Type: General***
@@ -19,6 +22,11 @@ A fighter may select Improved Feint as one of his fighter bonus feats.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

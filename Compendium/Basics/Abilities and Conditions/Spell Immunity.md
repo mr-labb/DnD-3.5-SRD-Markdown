@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Spell Immunity
 title: Compendium\Basics\Abilities and Conditions\Spell Immunity
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -14,6 +16,11 @@ A creature with spell immunity avoids the effects of spells and spell-like abili
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

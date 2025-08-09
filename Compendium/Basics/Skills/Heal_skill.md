@@ -2,21 +2,27 @@
 aliases:
  - Heal
 title: Compendium/Basics/skills/Heal
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Heal [(Wis)]
 
 ### Check
 The DC and effect depend on the task you attempt.
 
-  ------------------------------------------------------------- -------------------
-  Task Heal                                                     DC
-  First aid                                                     15
-  Long-term care                                                15
-  Treat wound from caltrop, *[[spike growth]],* or *[[spike stones]]*   15
-  Treat poison                                                  Poison's save DC
-  Treat disease                                                 Disease's save DC
-  ------------------------------------------------------------- -------------------
+
+|Task|Heal DC|
+|---|---|
+|First aid|15|
+|Long-term care|15|
+|Treat wound from caltrop, spike growth, or spike stones|15|
+|Treat poison|Poison's save DC|
+|Treat disease|Disease's save DC|
+|Makeshift Bandage|12|
+|Extended Aid|20|
+|Quicken recovery|50|
+|Perfect recovery|100|
 
 *First Aid:* You usually use first aid to save a dying character. If a
 character has negative hit points and is losing hit points (at the rate
@@ -76,6 +82,11 @@ on Heal checks.
 
 A healer's kit gives you a +2 circumstance bonus on Heal checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

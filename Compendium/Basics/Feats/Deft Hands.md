@@ -2,7 +2,9 @@
 aliases:
  - Deft Hands
 title: Deft Hands
-tags: Feat
+tags: 
+ - 35E_SRD
+ - Feat
 ---
 ### Deft Hands 
 ***Feat Type: General***
@@ -13,6 +15,11 @@ Rope checks.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

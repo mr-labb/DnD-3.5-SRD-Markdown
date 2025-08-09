@@ -2,7 +2,10 @@
 aliases:
  - Extend Spell
 title: Extend Spell
-tags: Feat, Metamagic_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Metamagic_Feat
 ---
 ### Extend Spell 
 ***Feat Type: Metamagic***
@@ -15,6 +18,11 @@ higher than the spell's actual level.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

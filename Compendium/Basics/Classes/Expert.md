@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Expert
 title: Compendium/Basics/Classe/Expert
-tag: Class, Expert
+tags: 
+ - 35E_SRD
+ - Class
+ - Expert
 ---
 
 ---
@@ -56,6 +59,11 @@ The following is a class feature of the expert NPC class.
 
 **Weapon and Armor Proficiency**: The expert is proficient in the use of all simple weapons and with light armor but not shields.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

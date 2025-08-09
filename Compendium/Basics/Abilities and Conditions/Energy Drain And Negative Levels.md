@@ -2,8 +2,12 @@
 lang: en
 aliases:
  - Energy Drain And Negative Levels
+ - Negative Levels
 title: Compendium\Basics\Abilities and Conditions\
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -27,6 +31,11 @@ A character with negative levels at least equal to her current level, or drained
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Breath Weapon
 title: Compendium\Basics\Abilities and Conditions\Breath Weapon
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -36,6 +39,11 @@ A creature attacking with a breath weapon is actually expelling something from i
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

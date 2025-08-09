@@ -2,7 +2,9 @@
 aliases:
  - Use Magic Device
 title: Compendium/Basics/skills/Use Magic Device
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Use Magic Device [(Cha; Trained Only)]
 
@@ -130,6 +132,11 @@ Use Magic Device checks related to scrolls.
 If you have 5 or more ranks in Use Magic Device, you get a +2 bonus to
 Spellcraft checks made to decipher spells on scrolls.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

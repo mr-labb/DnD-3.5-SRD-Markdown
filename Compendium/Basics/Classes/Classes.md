@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Class
 title: Compendium/Basics/Classe/Class
-tag: Class
+tags: 
+ - 35E_SRD
+ - Class
 ---
 
 ---
@@ -401,6 +403,11 @@ NPCs gain experience points the same way that PCs do. Not being adventurers, how
 
 These NPC classes should provide enough distinction to create anyone the PCs meet who isn't an adventurer. See Total Characters of Each Class, for information on how many characters belonging to each of these NPC classes are found in a typical town and their respective levels.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

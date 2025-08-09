@@ -2,7 +2,9 @@
 aliases:
  - Spell Mastery
 title: Spell Mastery
-tags: Feat
+tags: 
+ - 35E_SRD
+ - Feat
 ---
 ### Spell Mastery 
 ***Feat Type: Special***
@@ -19,6 +21,11 @@ your spells, except *[[read magic]].*
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -2,7 +2,9 @@
 aliases:
  - Craft Wondrous Item
 title: Craft Wondrous Item
-tags: Feat
+tags: 
+ - 35E_SRD
+ - Feat
 ---
 ### Craft Wondrous Item 
 ***Feat Type: Item Creation***
@@ -26,6 +28,11 @@ an item or to mend a broken one.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

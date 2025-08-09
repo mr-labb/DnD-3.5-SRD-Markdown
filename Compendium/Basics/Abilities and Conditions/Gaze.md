@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Gaze
 title: Compendium\Basics\Abilities and Conditions\Gaze
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -24,6 +26,11 @@ Allies of a creature with a gaze attack might be affected. All the creature’s 
 Also see [[Gaze Attacks]] under Special Abilities.  
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

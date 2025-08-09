@@ -2,7 +2,9 @@
 aliases:
  - Craft
 title: Compendium/Basics/skills/Craft
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Craft [(Int)]
 You are trained in a craft, trade, or art, such as alchemy, armorsmithing, basketweaving, bookbinding, bowmaking, blacksmithing, calligraphy, carpentry, cobbling, gemcutting, leatherworking, locksmithing, painting, pottery, sculpting, shipmaking, stonemasonry, trapmaking, weaponsmithing, or weaving.
@@ -181,6 +183,11 @@ You can use Craft (blacksmithing) or Craft (weaponsmithing) instead of Craft (si
 ### Synergy : 
 If you have 5 ranks in a Craft skill, you get a +2 bonus on [[Appraise]] checks related to items made with that Craft skill.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

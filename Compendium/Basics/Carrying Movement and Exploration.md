@@ -1,9 +1,8 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Carrying Movement and Exploration
-tag: Alignment
+tags: 
+ - 35E_SRD
+ - Alignment
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -322,11 +321,11 @@ In general, when the characters aren’t engaged in round-by-round combat, they 
 
 Dwarves and half-orcs have darkvision, but everyone else needs light to see by. See Table: Light Sources and Illumination for the radius that a light source illuminates and how long it lasts.
 
-In an area of bright light, all characters can see clearly. A creature can’t hide in an area of bright light unless it is [invisible](https://srd.dndtools.org/srd/basic/abilitiesAndConditions.html#invisible) or has cover.
+In an area of bright light, all characters can see clearly. A creature can’t hide in an area of bright light unless it is [[invisible]] or has cover.
 
 In an area of shadowy illumination, a character can see dimly. Creatures within this area have concealment relative to that character. A creature in an area of shadowy illumination can make a Hide check to conceal itself.
 
-In areas of darkness, creatures without darkvision are effectively [blinded](https://srd.dndtools.org/srd/basic/abilitiesAndConditions.html#blinded). In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a –2 penalty to AC, moves at half speed, and takes a –4 penalty on [Search](https://srd.dndtools.org/srd/skills/skillsAll.html#search) checks and most Strength and Dexterity-based skill checks.
+In areas of darkness, creatures without darkvision are effectively [[blinded]]. In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a –2 penalty to AC, moves at half speed, and takes a –4 penalty on [[Search]] checks and most Strength and Dexterity-based skill checks.
 
 Characters with low-light vision (elves, gnomes, and half-elves) can see objects twice as far away as the given radius. Double the effective radius of bright light and of shadowy illumination for such characters.
 

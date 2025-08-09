@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Energy Drain
 title: Compendium\Basics\Abilities and Conditions\Energy Drain
-tag: Conditions
+tags: 
+ - 35E_SRD
+ - Conditions
 ---
 
 ---
@@ -26,6 +28,11 @@ Also see [[Energy Drain and Negative Levels]] under Special Abilities.
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,15 +3,37 @@ lang: en
 aliases:
  - Paladin
 title: Compendium/Basics/Classe/Paladin
-tag: Class, Paladin
+tags: 
+ - 35E_SRD
+ - Class
+ - Paladin
 ---
 
----
+
 
 ### PALADIN
 
-<br><br>The compassion to pursue good, the will to uphold law, and the power to defeat evil - these are the three weapons of the paladin. Few have the purity and devotion that it takes to walk the paladin's path, but those few are rewarded with the power to protect, to heal, and to smite. In a land of scheming wizards, unholy priests, bloodthirsty dragons, and infernal fiends, the paladin is the final hope that cannot be extinguished.<br><br>Paladins take their adventures seriously and have a penchant for referring to them as quests. Even a mundane mission is, in the heart of the paladin, a personal test - an opportunity to demonstrate bravery, to develop martial skills, to learn tactics, and to find ways to do good. Still, the paladin really comes into her own when leading a mighty campaign against evil, not when merely looting ruins.<br><br>[[Divine power]] protects the paladin and gives her special powers. It wards off harm, protects her from disease, lets her heal herself, and guards her heart against fear. The paladin can also direct this power to help others, healing their wounds or curing diseases. Finally, the paladin can use this power to destroy evil. Even the least experienced paladin can [[detect evil]], and more experienced paladins can smite evil foes and turn away undead. In addition, this power draws a mighty steed to the paladin and imbues that mount with strength, intelligence, and magical protection.<br><br>Paladins must be lawful good, and they lose their divine powers if they deviate from that alignment. Additionally, paladins swear to follow a code of conduct that is in line with lawfulness and goodness.<br><br>Paladins need not devote themselves to a single deity - devotion to righteousness is enough. Those who align themselves with particular religions prefer Heironeous (god of valor) over all others, but some paladins follow Pelor (the sun god). Paladins devoted to a god are scrupulous in observing religious duties and are welcome in every associated temple.<br><br>No one ever chooses to be a paladin. Becoming a paladin is answering a call, accepting one's destiny. No one, no matter how diligent, can become a paladin through practice. The nature is either within one or not, and it is not possible to gain the paladin's nature by any act of will. It is possible, however, to fail to recognize one's own potential, or to deny one's destiny. Occasionally, one who is called to be a paladin denies that call and pursues some other life instead.<br><br>Most paladins answer the call and begin training as adolescents. Typically, they become squires or assistants to experienced paladins, train for years, and finally set off on their own to further the causes of good and law. Other paladins, however, find their calling only later in life, after having pursued some other career. All paladins, regardless of background, recognize in each other an eternal bond that transcends culture, race, and even religion. Any two paladins, even from opposite sides of the world, consider themselves comrades.<br><br>Humans, with their ambitious souls, make great paladins. Half-elves, who often have human ambition, may also find themselves called into service as paladins. Dwarves are sometimes paladins, but becoming a paladin may be hard on a dwarf because it means putting the duties of the paladin's life before duties to family, clan, and king. Elf paladins are few, and they tend to follow quests that take them far and wide because their lawful bent puts them out of synch with life among the elves. Members of the other common races rarely hear the call to become paladins. Among the savage humanoids, paladins are all but unheard of.<br><br>Even though paladins are in some ways set apart from others, they eagerly team up with those whose skills and capabilities complement their own. They work well with good and lawful clerics, and they appreciate working with those who are brave, honest, and committed to good. While they cannot abide evil acts by their companions, they are otherwise willing to work with a variety of people quite different from themselves. Charismatic, trustworthy, and well respected, the paladin makes a fine leader for a team.<br><br>The paladin's chief role in most groups is as a melee combatant, but she contributes other useful support as well. She makes a good secondary healer, and her high Charisma opens up fine leadership opportunities.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+The compassion to pursue good, the will to uphold law, and the power to defeat evil - these are the three weapons of the paladin. Few have the purity and devotion that it takes to walk the paladin's path, but those few are rewarded with the power to protect, to heal, and to smite. In a land of scheming wizards, unholy priests, bloodthirsty dragons, and infernal fiends, the paladin is the final hope that cannot be extinguished.
+
+Paladins take their adventures seriously and have a penchant for referring to them as quests. Even a mundane mission is, in the heart of the paladin, a personal test - an opportunity to demonstrate bravery, to develop martial skills, to learn tactics, and to find ways to do good. Still, the paladin really comes into her own when leading a mighty campaign against evil, not when merely looting ruins.
+
+[[Divine power]] protects the paladin and gives her special powers. It wards off harm, protects her from disease, lets her heal herself, and guards her heart against fear. The paladin can also direct this power to help others, healing their wounds or curing diseases. Finally, the paladin can use this power to destroy evil. Even the least experienced paladin can [[detect evil]], and more experienced paladins can smite evil foes and turn away undead. In addition, this power draws a mighty steed to the paladin and imbues that mount with strength, intelligence, and magical protection.
+
+Paladins must be lawful good, and they lose their divine powers if they deviate from that alignment. Additionally, paladins swear to follow a code of conduct that is in line with lawfulness and goodness.
+
+Paladins need not devote themselves to a single deity - devotion to righteousness is enough. Those who align themselves with particular religions prefer Heironeous (god of valor) over all others, but some paladins follow Pelor (the sun god). Paladins devoted to a god are scrupulous in observing religious duties and are welcome in every associated temple.
+
+No one ever chooses to be a paladin. Becoming a paladin is answering a call, accepting one's destiny. No one, no matter how diligent, can become a paladin through practice. The nature is either within one or not, and it is not possible to gain the paladin's nature by any act of will. It is possible, however, to fail to recognize one's own potential, or to deny one's destiny. Occasionally, one who is called to be a paladin denies that call and pursues some other life instead.
+
+Most paladins answer the call and begin training as adolescents. Typically, they become squires or assistants to experienced paladins, train for years, and finally set off on their own to further the causes of good and law. Other paladins, however, find their calling only later in life, after having pursued some other career. All paladins, regardless of background, recognize in each other an eternal bond that transcends culture, race, and even religion. Any two paladins, even from opposite sides of the world, consider themselves comrades.
+
+Humans, with their ambitious souls, make great paladins. Half-elves, who often have human ambition, may also find themselves called into service as paladins. Dwarves are sometimes paladins, but becoming a paladin may be hard on a dwarf because it means putting the duties of the paladin's life before duties to family, clan, and king. Elf paladins are few, and they tend to follow quests that take them far and wide because their lawful bent puts them out of synch with life among the elves. Members of the other common races rarely hear the call to become paladins. Among the savage humanoids, paladins are all but unheard of.
+
+Even though paladins are in some ways set apart from others, they eagerly team up with those whose skills and capabilities complement their own. They work well with good and lawful clerics, and they appreciate working with those who are brave, honest, and committed to good. While they cannot abide evil acts by their companions, they are otherwise willing to work with a variety of people quite different from themselves. Charismatic, trustworthy, and well respected, the paladin makes a fine leader for a team.
+
+The paladin's chief role in most groups is as a melee combatant, but she contributes other useful support as well. She makes a good secondary healer, and her high Charisma opens up fine leadership opportunities.
+
 
 **Alignment**: Lawful good.
 
@@ -19,7 +41,7 @@ tag: Class, Paladin
 
 ###### Class Skills
 
-The paladin's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Ride]] (Dex), and [[Sense Motive]] (Wis).
+The paladin's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Knowledge]] (nobility and royalty) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Ride]] (Dex), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -174,7 +196,7 @@ Anarchs must be chaotic neutral, since they embody the unpredictable nature of e
 
 ##### Class Skills
 
-The anarch's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), Disable Device (Int), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (architecture and engineering) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[Survival]] (Wis).
+The anarch's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), Disable Device (Int), [[Intimidate]] (Cha), [[Knowledge]] (architecture and engineering) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), [[Sense Motive]] (Wis), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -276,7 +298,7 @@ Anti-paladins must be chaotic evil, since they personify the raw destructive for
 
 ##### Class Skills
 
-The anti-paladin's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Climb]] (Str), [[Concentration]] (Con), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Ride]] (Dex), and [[Survival]] (Wis).
+The anti-paladin's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Climb]] (Str), [[Concentration]] (Con), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Jump]] (Str), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Ride]] (Dex), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -390,7 +412,7 @@ Avengers must be chaotic good. They usually serve deities that value personal fr
 
 ##### Class Skills
 
-The avenger's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (local) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), Move Silently (Dex), [[Sense Motive]] (Wis).
+The avenger's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Hide]] (Dex), [[Intimidate]] (Cha), [[Knowledge]] (local) (Int), [[Knowledge]] (religion) (Int), Move Silently (Dex), [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -480,7 +502,7 @@ Berronar's Valkyries are female dwarf paladins of the goddess Berronar Truesilve
 
 ##### Requirements
 
-To take a Berronar Valkyrie paladin substitution level, a character must be a female dwarf, have Berronar as her patron deity, be a member of the Berronar's Valkyries order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
+To take a Berronar Valkyrie paladin substitution level, a character must be a female dwarf, have Berronar as her patron deity, be a member of the Berronar's Valkyries order, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -541,7 +563,7 @@ The first Mulhorandi order of paladins to worship a god other than Osiris, the C
 
 ##### Requirements
 
-To take a Claw of the Sun and the Ankh substitution level, a character must have Horus-Re as his patron deity, be a member of the Claws of the Sun and the Ankh order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 6th, or 12th level of paladin.
+To take a Claw of the Sun and the Ankh substitution level, a character must have Horus-Re as his patron deity, be a member of the Claws of the Sun and the Ankh order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 6th, or 12th level of paladin.
 
 ##### Class Skills
 
@@ -595,7 +617,7 @@ Corrupters are always neutral evil; they ignore the laws of the land as they see
 
 ##### Class Skills
 
-The corrupter's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Disguise (Cha), Forgery (Int), [[Hide]] (Dex), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), and [[Sense Motive]] (Wis).
+The corrupter's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Disguise (Cha), Forgery (Int), [[Hide]] (Dex), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -689,11 +711,11 @@ These unusual paladins of the Order of the Crescent Moon serve either Clangeddin
 
 ##### Requirements
 
-To take a Crescent Moon Knight paladin substitution level, a character must have Clangeddin Silverbeard or Selune as his patron deity, be related to or a close friend of one of the founding families, be a member of the Order of the Crescent Moon, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 4th, 6th, or 10th level of paladin.
+To take a Crescent Moon Knight paladin substitution level, a character must have Clangeddin Silverbeard or Selune as his patron deity, be related to or a close friend of one of the founding families, be a member of the Order of the Crescent Moon, have 1 rank in [[Knowledge]] (religion), and be about to take his 4th, 6th, or 10th level of paladin.
 
 ##### Class Skills
 
-Crescent Moon Knight paladin substitution levels have the class skills of the standard paladin plus [[Compendium/Basics/Skills/Knowledge]] (local Impiltur).
+Crescent Moon Knight paladin substitution levels have the class skills of the standard paladin plus [[Knowledge]] (local Impiltur).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -729,7 +751,7 @@ Most paladins use their divinely granted powers to combat diseases that plague t
 
 **Level**: 6th.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the [[remove disease]] spell-like ability or any later improvement of that ability.
 
@@ -761,7 +783,7 @@ The despot is always lawful evil, and strives to build an organization of thugs 
 
 ##### Class Skills
 
-The despot's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
+The despot's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Intimidate]] (Cha), [[Knowledge]] (nobility and royalty) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -869,7 +891,7 @@ Although the ability to turn undead is arguably a defining cleric characteristic
 
 **Level**: 1st (cleric) or 4th (paladin).
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the ability to turn or rebuke undead.
 
@@ -879,7 +901,7 @@ If you don't have a cleric level, use your effective cleric level for the purpos
 
 You can attempt to counterspell a number of times per day equal to 1 + your Cha modifier.
 
-A character with 5 or more ranks in [[Compendium/Basics/Skills/Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
+A character with 5 or more ranks in [[Knowledge]] (arcana) gets a +2 bonus on counterspelling attempts when using this ability.
 
 #### Divine Spirit
 
@@ -936,11 +958,11 @@ While only Chaos and Evil are banned, paladins rarely select domains other than 
 
 **Death**: You may use a special [[death ward]] effect as a standard action, giving you or a good-aligned creature you touch a bonus on all saves against death effects. This saving throw bonus equals your paladin level -2 and lasts for 1 minute. This granted power may be used a total number of times per day equal to 3 + your Charisma modifier. It is a supernatural ability.
 
-**[[Compendium/Basics/Skills/Knowledge]]**: You gain a special divine inspiration power. You may make a special divine inspiration check that functions exactly as a bard's bardic [[Compendium/Basics/Skills/Knowledge]] class ability, except that it is a supernatural ability. Your divine inspiration bonus is equal to your paladin level + your Charisma modifier, and is usable a number of times per day equal to 1 + your Charisma modifier.
+**[[Knowledge]]**: You gain a special divine inspiration power. You may make a special divine inspiration check that functions exactly as a bard's bardic [[Knowledge]] class ability, except that it is a supernatural ability. Your divine inspiration bonus is equal to your paladin level + your Charisma modifier, and is usable a number of times per day equal to 1 + your Charisma modifier.
 
 **Luck**: Once per day, as an extraordinary ability, you may reroll one roll you have just made before the DM declares whether the roll results in success or failure. You must take the result of the second roll, even if it's worse than the first one.
 
-**Magic**: You may use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of half your paladin level. Any actual wizard levels you have stack with the effective wizard levels gained from this ability. [[Compendium/Basics/Skills/Knowledge]] (arcana) and Spellcraft are class skills for you.
+**Magic**: You may use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of half your paladin level. Any actual wizard levels you have stack with the effective wizard levels gained from this ability. [[Knowledge]] (arcana) and Spellcraft are class skills for you.
 
 **Protection**: You can generate a protective ward as a supernatural ability. This protective ward grants you or someone you touch a resistance bonus equal to your paladin level -2 on the recipient's next saving throw. Activating this power is a standard action. The protective ward is an abjuration effect with a duration of 1 hour. It is usable once per day.
 
@@ -960,7 +982,7 @@ A dragonborn paladin normally takes substitution levels at 1st level and when sh
 
 ##### Class Skills
 
-Dragonborn paladin substitution levels have the class skills of the standard paladin class, plus [[Compendium/Basics/Skills/Knowledge]] (arcana).
+Dragonborn paladin substitution levels have the class skills of the standard paladin class, plus [[Knowledge]] (arcana).
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -1082,7 +1104,7 @@ An enforcer is always lawful neutral. Deities of protection and nobility often h
 
 ##### Class Skills
 
-The enforcer's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (history) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
+The enforcer's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), Gather Information (Cha), [[Intimidate]] (Cha), [[Knowledge]] (history) (Int), [[Knowledge]] (religion) (Int), [[Profession]] (Wis), Search (Int), and [[Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1172,7 +1194,7 @@ The primary duty of the Knights of the Eternal Order - Kelemvor's main order of 
 
 ##### Requirements
 
-To take an Eternal Order substitution level, a character must have Kelemvor as her patron deity, be a member of the Knights of the Eternal Order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 3rd, or 6th level of paladin.
+To take an Eternal Order substitution level, a character must have Kelemvor as her patron deity, be a member of the Knights of the Eternal Order, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 3rd, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -1188,7 +1210,7 @@ All of the following are features of the Eternal Order substitution levels.
 
 This benefit replaces the standard paladin's smite evil class feature. Any time an Eternal Order paladin would later gain an extra smite evil attempt (such as at 5th level), she can instead use this ability one extra time per day.
 
-**Undead [[Compendium/Basics/Skills/Knowledge]] (Ex)**: Each time an Eternal Order substitution level is taken, the character gains a cumulative +2 competence bonus on [[Compendium/Basics/Skills/Knowledge]] (religion) checks concerning undead.
+**Undead [[Knowledge]] (Ex)**: Each time an Eternal Order substitution level is taken, the character gains a cumulative +2 competence bonus on [[Knowledge]] (religion) checks concerning undead.
 
 **Eternal Vigor (Ex)**: Beginning at 3rd level, an Eternal Order paladin can ignore the effects of negative levels bestowed upon her by an undead creature.
 
@@ -1204,9 +1226,9 @@ This benefit replaces the standard paladin's [[remove disease]] class feature no
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], corpsestrike 1/day, undead [[Compendium/Basics/Skills/Knowledge]]|—|
-|3rd|+3|+3|+1|+1|Aura of courage, eternal vigor, undead [[Compendium/Basics/Skills/Knowledge]]|—|
-|6th|+6/+1|+5|+2|+2|Greater turning 1/day, undead [[Compendium/Basics/Skills/Knowledge]]|Same as paladin|
+|1st|+1|+2|+0|+0|Aura of good, [[detect evil]], corpsestrike 1/day, undead [[Knowledge]]|—|
+|3rd|+3|+3|+1|+1|Aura of courage, eternal vigor, undead [[Knowledge]]|—|
+|6th|+6/+1|+5|+2|+2|Greater turning 1/day, undead [[Knowledge]]|Same as paladin|
 
   
 
@@ -1228,7 +1250,7 @@ Additionally, you add [[detect evil]] to the paladin spell list.
 
 Gnome paladins chuckle at the stereotype of paladins as self-righteous, honor-bound, humorless sticks-in-the-mud, especially when someone thinks it applies to them. You might make the following changes to a gnome paladins class features to emphasize her racial characteristics:
 
-**Class Skills**: Replace [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) with Perform (comedy).
+**Class Skills**: Replace [[Knowledge]] (nobility and royalty) with Perform (comedy).
 
 **Special Mount (Sp)**: A 5th-level gnome paladin may summon a [[Badger_Dire|dire badger]] as a special mount. It gains special abilities at the same rate as a standard special mount. Due to their connection with burrowing creatures, many gnome paladins call for a [[Badger_Dire|dire badger]] special mount when possible. Other gnome paladin mounts might include the black bear, boar, dire eagle, dire toad, dire weasel, and [[wolverine]].
 
@@ -1246,7 +1268,7 @@ Paladins who are members of the Order of the Golden Cup serve Ilmater and have d
 
 ##### Requirements
 
-To take a Golden Cup substitution level, a character must have Ilmater as her patron deity, be a member of the Order of the Golden Cup, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 10th level of paladin.
+To take a Golden Cup substitution level, a character must have Ilmater as her patron deity, be a member of the Order of the Golden Cup, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 10th level of paladin.
 
 ##### Class Skills
 
@@ -1288,7 +1310,7 @@ The Order of the Golden Lion serves Torm and was created specifically to serve t
 
 ##### Requirements
 
-To take a Golden Lion paladin substitution level, a character must have Torm as her patron deity, maintain the appearance of her armor and helm in accordance with the standards of the order, be a member of the Order of the Golden Lion, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
+To take a Golden Lion paladin substitution level, a character must have Torm as her patron deity, maintain the appearance of her armor and helm in accordance with the standards of the order, be a member of the Order of the Golden Lion, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
 
 Furthermore, as part of an ongoing [[atonement]] for their church's hostilities toward other good churches in the years preceding the Time of Troubles, the Golden Lions pledge to help rebuild and defend these churches. Once per month each Golden Lion must perform a quest for or spend a day defending a good temple of another faith. The Golden Lion must follow orders from this temple as if they came from her own temple, but can disregard any order that conflicts with her own faith or that would certainly result in her death (the good faiths involved understand the boundaries of the Penance of Duty and won't ask for things they wouldn't ask of their own champions of the faith).
 
@@ -1376,7 +1398,7 @@ Paladins of the Harmonious Order, called Harmonious Knights, serve Milil and do 
 
 ##### Requirements
 
-To take a Harmonious Knight substitution level, a character must have Milil as his patron deity, be a member of the Harmonious Order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of paladin.
+To take a Harmonious Knight substitution level, a character must have Milil as his patron deity, be a member of the Harmonious Order, have 1 rank in [[Knowledge]] (religion), and be about to take his 1st, 6th, or 9th level of paladin.
 
 ##### Class Skills
 
@@ -1418,11 +1440,11 @@ This group of Tyr-worshiping paladins is focused primarily on its god's lawful a
 
 ##### Requirements
 
-To take a Holy Judge substitution level, a character must have Tyr as her patron deity, be a member of the Knights of Holy Judgment, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
+To take a Holy Judge substitution level, a character must have Tyr as her patron deity, be a member of the Knights of Holy Judgment, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
-Holy Judge substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
+Holy Judge substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1472,9 +1494,9 @@ You actively seek out demons and devils to slay rather than waiting for them to 
 
 **Level**: 1st.
 
-**Replaces**: If you choose this ability you lose the ability to smite evil and give up [[Compendium/Basics/Skills/Knowledge]] (royalty and nobility) as a class skill.
+**Replaces**: If you choose this ability you lose the ability to smite evil and give up [[Knowledge]] (royalty and nobility) as a class skill.
 
-**Benefit**: You gain outsider (evil) as a favored enemy, as the ranger ability, except the bonus you gain equals half your paladin level (minimum +1). You gain no additional favored enemies at later levels. In addition, you gain Track as a bonus feat and Survival and [[Compendium/Basics/Skills/Knowledge]] (the planes) as class skills.
+**Benefit**: You gain outsider (evil) as a favored enemy, as the ranger ability, except the bonus you gain equals half your paladin level (minimum +1). You gain no additional favored enemies at later levels. In addition, you gain Track as a bonus feat and Survival and [[Knowledge]] (the planes) as class skills.
 
 #### Incarnate
 
@@ -1488,7 +1510,7 @@ Incarnates are always neutral. They rarely have patron deities. Incarnates form 
 
 ##### Class Skills
 
-The incarnate's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (nature) (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Profession]] (Wis), Search (Int), [[Spot]] (Wis), and [[Survival]] (Wis).
+The incarnate's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Diplomacy]] (Cha), [[Knowledge]] (nature) (Int), [[Knowledge]] (religion) (Int), [[Listen]] (Wis), [[Profession]] (Wis), Search (Int), [[Spot]] (Wis), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1593,11 +1615,11 @@ The mighty wemic paladins of Nobanion are called the Legion of Lions; they are s
 
 ##### Requirements
 
-To take a Lion Legionnaire substitution level, a character must have Nobanion as his patron deity, be a member of the Legion of Lions, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 4th, or 5th level of paladin.
+To take a Lion Legionnaire substitution level, a character must have Nobanion as his patron deity, be a member of the Legion of Lions, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 4th, or 5th level of paladin.
 
 ##### Class Skills
 
-Lion Legionnaire substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (nature).
+Lion Legionnaire substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (nature).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1635,11 +1657,11 @@ The Knights of the Mystic Fire serve Mystra by guarding her temples and questing
 
 ##### Requirements
 
-To take a Mystic Fire Knight substitution level, a character must have Mystra as her patron deity, be a member of the Knights of the Mystic Fire, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 4th, 5th, or 6th level of paladin.
+To take a Mystic Fire Knight substitution level, a character must have Mystra as her patron deity, be a member of the Knights of the Mystic Fire, have 1 rank in [[Knowledge]] (religion), and be about to take her 4th, 5th, or 6th level of paladin.
 
 ##### Class Skills
 
-Mystic Fire Knight substitution levels have the class skills of the standard paladin plus [[Compendium/Basics/Skills/Knowledge]] (arcana) and Spellcraft.
+Mystic Fire Knight substitution levels have the class skills of the standard paladin plus [[Knowledge]] (arcana) and Spellcraft.
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -1684,7 +1706,7 @@ The Companions of the Noble Heart are aggressive knights in the service of Ilmat
 
 ##### Requirements
 
-To take a Noble Heart substitution level, a character must have Ilmater as her patron deity, be a member of the Companions of the Noble Heart, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
+To take a Noble Heart substitution level, a character must have Ilmater as her patron deity, be a member of the Companions of the Noble Heart, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -1935,7 +1957,7 @@ To take a paladin planar substitution level, a character must be about to take h
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1945,7 +1967,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Paladin planar substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Paladin planar substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -2019,11 +2041,11 @@ Members of the Order of the Red Falcon serve the Red Knight and have earned fame
 
 ##### Requirements
 
-To take a Red Falcon substitution level, a character must have the Red Knight as her patron deity, be a member of the Order of the Red Falcon, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 2nd, 4th, or 6th level of paladin.
+To take a Red Falcon substitution level, a character must have the Red Knight as her patron deity, be a member of the Order of the Red Falcon, have 1 rank in [[Knowledge]] (religion), and be about to take her 2nd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
-Red Falcon substitution levels have the class skills of the standard paladin class plus [[Compendium/Basics/Skills/Knowledge]] (history).
+Red Falcon substitution levels have the class skills of the standard paladin class plus [[Knowledge]] (history).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -2033,9 +2055,9 @@ Red Falcon substitution levels have the class skills of the standard paladin cla
 
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
-|2nd|+2|+3|+0|+0|Brilliant strategy, lay on hands, military [[Compendium/Basics/Skills/Knowledge]]|—|
-|4th|+4|+4|+1|+1|Expanded spell list, military [[Compendium/Basics/Skills/Knowledge]], turn undead|Same as paladin|
-|6th|+6/+1|+5|+2|+2|Military [[Compendium/Basics/Skills/Knowledge]], [[remove disease]] 1/week, spontaneous extend spell, trained militia|See text|
+|2nd|+2|+3|+0|+0|Brilliant strategy, lay on hands, military [[Knowledge]]|—|
+|4th|+4|+4|+1|+1|Expanded spell list, military [[Knowledge]], turn undead|Same as paladin|
+|6th|+6/+1|+5|+2|+2|Military [[Knowledge]], [[remove disease]] 1/week, spontaneous extend spell, trained militia|See text|
 
 ##### Class Features
 
@@ -2047,7 +2069,7 @@ This benefit replaces the standard paladin's divine grace class feature.
 
 **Expanded Spell List**: At 4th level, a Red Falcon adds [[augury]] (2nd level), [[deathwatch]] (1st level), and status (2nd level) to her paladin spell list.
 
-**Military [[Compendium/Basics/Skills/Knowledge]] (Ex)**: Each time a Red Falcon substitution level is taken, the character gains a cumulative +2 competence bonus on [[Compendium/Basics/Skills/Knowledge]] checks concerning military history or strategy.
+**Military [[Knowledge]] (Ex)**: Each time a Red Falcon substitution level is taken, the character gains a cumulative +2 competence bonus on [[Knowledge]] checks concerning military history or strategy.
 
 **Turn Undead (Su)**: A Red Falcon is not as skilled at turning undead as a normal paladin. She can only use this ability a number of times per day equal to her Charisma modifier.
 
@@ -2065,7 +2087,7 @@ Members of Sune's order of paladins, the Sisters and Brothers of the Ruby Rose, 
 
 ##### Requirements
 
-To take a Ruby Rose Knight substitution level, a character must have Sune as her patron, be a member of the Sisters and Brothers of the Ruby Rose, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 6th, or 12th level of paladin.
+To take a Ruby Rose Knight substitution level, a character must have Sune as her patron, be a member of the Sisters and Brothers of the Ruby Rose, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 6th, or 12th level of paladin.
 
 ##### Class Skills
 
@@ -2115,7 +2137,7 @@ Sentinels are always neutral good. They usually worship good deities that have l
 
 ##### Class Skills
 
-The sentinel's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (religion) (Int), [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int), [[Listen]] (Wis), [[Profession]] (Wis). Search (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), and [[Survival]] (Wis).
+The sentinel's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (religion) (Int), [[Knowledge]] (the planes) (Int), [[Listen]] (Wis), [[Profession]] (Wis). Search (Int), [[Sense Motive]] (Wis), [[Spot]] (Wis), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -2203,7 +2225,7 @@ For many decades, the gnome paladins belonging to the Knights of the Shadowy Clo
 
 ##### Requirements
 
-To take a Shadow Cloak Knight substitution level, a character must be a gnome, a member of the Knights of the Shadowy Cloak, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and about to take her 4th, 6th, or 9th level of paladin.
+To take a Shadow Cloak Knight substitution level, a character must be a gnome, a member of the Knights of the Shadowy Cloak, have 1 rank in [[Knowledge]] (religion), and about to take her 4th, 6th, or 9th level of paladin.
 
 ##### Class Skills
 
@@ -2387,7 +2409,7 @@ This paladin order of Helm is growing rapidly and impressing the common folk wit
 
 ##### Requirements
 
-To take a Vigilant Eye substitution level, a character must have Helm as her patron deity, be a member of the Vigilant Eyes of the God order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 1st, 3rd, or 4th level of paladin.
+To take a Vigilant Eye substitution level, a character must have Helm as her patron deity, be a member of the Vigilant Eyes of the God order, have 1 rank in [[Knowledge]] (religion), and be about to take her 1st, 3rd, or 4th level of paladin.
 
 ##### Class Skills
 
@@ -2448,7 +2470,7 @@ To take a warforged paladin substitution level, a character must be a warforged 
 
 ##### Class Skills
 
-Warforged paladin substitution levels grant the following class skills: Concentration, Craft, [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty), [[Compendium/Basics/Skills/Knowledge]] (religion), Profession, and Ride.
+Warforged paladin substitution levels grant the following class skills: Concentration, Craft, [[Knowledge]] (nobility and royalty), [[Knowledge]] (religion), Profession, and Ride.
 
 **Skill Points at Each Level**: 2 + Int modifier (or four times this number as a beginning character).
 
@@ -2510,7 +2532,7 @@ Members of Arvoreen's Marchers kept halfling villages safe during Tethyr's Inter
 
 ##### Requirements
 
-To take a Wary Swordknight substitution level, a character must be a halfling, have Arvoreen as her patron deity, be a member of the Arvoreen's Marchers order, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
+To take a Wary Swordknight substitution level, a character must be a halfling, have Arvoreen as her patron deity, be a member of the Arvoreen's Marchers order, have 1 rank in [[Knowledge]] (religion), and be about to take her 3rd, 4th, or 6th level of paladin.
 
 ##### Class Skills
 
@@ -2552,7 +2574,7 @@ Wayward Warden paladins dedicate their lives to defending halfling communities a
 
 ##### Requirements
 
-To take a Wayward Warden substitution level, a character must be a halfling, a member of the Wayward Wardens organization, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and about to take her 3rd, 5th, or 10th level of paladin.
+To take a Wayward Warden substitution level, a character must be a halfling, a member of the Wayward Wardens organization, have 1 rank in [[Knowledge]] (religion), and about to take her 3rd, 5th, or 10th level of paladin.
 
 ##### Class Skills
 
@@ -2590,12 +2612,17 @@ This benefit replaces the 3rd daily use of the smite evil ability that a standar
 
 While any paladin might fight a dragon in the course of her battles against evil, wyrmslayer paladins dedicate their lives to learning about these powerful creatures and how to combat them most effectively. With your DM's permission, you might consider making the following changes to emphasize a wyrmslayer paladin's special characteristics:
 
-**Class Skills**: Replace [[Compendium/Basics/Skills/Knowledge]] (nobility and royalty) with [[Compendium/Basics/Skills/Knowledge]] (arcana).
+**Class Skills**: Replace [[Knowledge]] (nobility and royalty) with [[Knowledge]] (arcana).
 
 **[[Resist Energy]] (Sp)**: Replace the ability to [[remove disease]] with the ability to cast [[resist energy]] 1/day with a caster level equal to your paladin level. Whenever you would gain an additional use of [[remove disease]] you instead gain an additional use of [[resist energy]].
 
 **Multiclassing**: A wyrmslayer paladin may multiclass freely in the ranger class, provided she selects dragons as her first favored enemy.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

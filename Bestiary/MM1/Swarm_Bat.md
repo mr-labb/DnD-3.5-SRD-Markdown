@@ -110,16 +110,16 @@ Swarms are extremely difficult to fight with physical attacks. However, they hav
 A bat swarm seeks to surround and attack any warm-blooded prey it encounters. The swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.
 
 
-            **Distraction (Ex):** Any living creature that begins its turn with a swarm in its space must succeed on a DC 11 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
+**Distraction (Ex):** Any living creature that begins its turn with a swarm in its space must succeed on a DC 11 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
 
 
-            **Wounding (Ex):** Any living creature damaged by a bat swarm continues to bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 Heal check or the application of a *cure* spell or some other healing magic.
+**Wounding (Ex):** Any living creature damaged by a bat swarm continues to bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 Heal check or the application of a *cure* spell or some other healing magic.
 
 
-            **Blindsense (Ex):** A bat swarm notices and locates creatures within 20 feet. Opponents still have total concealment against the bat swarm (but swarm attacks ignore concealment).
+**Blindsense (Ex):** A bat swarm notices and locates creatures within 20 feet. Opponents still have total concealment against the bat swarm (but swarm attacks ignore concealment).
 
 
-            **Skills:** A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are lost if its blindsense is negated.
+**Skills:** A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are lost if its blindsense is negated.
 
 ---
 

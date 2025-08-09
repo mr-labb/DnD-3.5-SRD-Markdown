@@ -2,7 +2,9 @@
 aliases:
  - Swim
 title: Compendium/Basics/skills/Swim
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Swim [(Str; Armor Check Penalty)]
 
@@ -29,13 +31,15 @@ begin to drown.
 The DC for the Swim check depends on the water, as given on the table
 below.
 
-  ------------------------------------------------------------------------------------------------------------------- ---------
-  Water                                                                                                               Swim DC
-  Calm water                                                                                                          10
-  Rough water                                                                                                         15
-  Stormy water                                                                                                        20^1^
-  1 You can't take 10 on a Swim check in stormy water, even if you aren't otherwise being threatened or distracted.   
-  ------------------------------------------------------------------------------------------------------------------- ---------
+|Water|Swim DC|
+|---|---|
+|Calm water|10|
+|Rough water|15|
+|Stormy water 1|20|
+|Swim up waterfall 2|80|
+
+1 _You can't take 10 on a Swim check in stormy water,  even if you aren't otherwise being threatened or distracted._
+2 _This allows you to swim an angled or vertical  surface, as long as you remain completely or mostly  immersed in water. Other examples might include swimming  up a whirlpool or an incredibly large wave._
 
 Each hour that you swim, you must make a DC 20 Swim check or take 1d6
 points of nonlethal damage from fatigue.
@@ -61,6 +65,11 @@ can choose to take 10 on a Swim check, even if distracted or endangered
 when swimming. Such a creature can use the run action while swimming,
 provided that it swims in a straight line.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

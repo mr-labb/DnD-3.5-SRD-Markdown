@@ -3,15 +3,33 @@ lang: en
 aliases:
  - Wizard
 title: Compendium/Basics/Classe/Wizard
-tag: Class, Wizard
+tags: 
+ - 35E_SRD
+ - Class
+ - Wizard
 ---
 
----
 
 ### WIZARD
 
-<br><br>A few unintelligible words and fleeting gestures carry more power than a battleaxe, when they are the words and gestures of a wizard. These simple acts make magic seem easy, but they only hint at the time the wizard must spend poring over her spellbook preparing each spell for casting, and the years before that spent in apprenticeship to learn the arts of magic. Wizards depend on intensive study to create their magic. They examine musty old tomes, debate magical theory with their peers, and practice minor magics whenever they can. For a wizard, magic is not a talent but a difficult, rewarding art.<br><br>Wizards conduct their adventures with caution and forethought. When prepared, they can use their spells to devastating effect. When caught by surprise, they are vulnerable. They seek [[Compendium/Basics/Skills/Knowledge]], power, and the resources to conduct their studies. They may also have any of the noble or ignoble motivations that other adventurers have.<br><br>The wizard's strength is her spells. Everything else is secondary. She learns new spells as she experiments and grows in experience, and she can also learn them from other wizards. In addition to learning new spells, a wizard can, over time, learn to manipulate her spells so they go farther, work better, or are improved in some other way. Some wizards prefer to specialize in a certain type of magic. Specialization makes a wizard more powerful in her chosen field, but it denies her access to some of the spells that lie outside that field (see [[#School Specialization]]. Like a sorcerer, a wizard can call a familiar - a small, magical animal companion that serves her. For some wizards, their familiars are their only true friends.<br><br>Overall, wizards show a slight tendency toward law over chaos because the study of magic rewards those who are disciplined. Illusionists and transmuters, however, are masters of deception and change, respectively. They favor chaos over law.<br><br>Wizards commonly revere Boccob (god of magic). Some, especially necromancers or simply more misanthropic wizards, prefer Wee Jas (goddess of death and magic). Evil necromancers are known to worship Nerull (god of death). Wizards in general are more devoted to their studies than to their spiritual sides.<br><br>Wizards recognize each other as comrades or rivals. Even wizards from very different cultures or magical traditions have much in common because they all conform to the same laws of magic. Unlike fighters or rogues, wizards see themselves as members of a distinct, if diverse, group. In civilized lands where wizards study in academies, schools, or guilds, wizards also identify themselves and others according to membership in these formal organizations. But while a guild magician may look down her nose at a rustic wizard who learned his arts from a doddering hermit, she nevertheless can't deny the rustic's identity as a wizard.<br><br>Humans take to magic for any of various reasons: curiosity, ambition, lust for power, or just personal inclination. Human wizards tend to be practical innovators, creating new spells or using old spells creatively. Elves are enthralled by magic, and many of them become wizards for love of the art. Elf wizards see themselves as artists, and they hold magic in high regard as a wondrous mystery, as opposed to the more pragmatic human wizards, who see magic more as a set of tools or tricks. Illusion magic comes so simply to gnomes that becoming an illusionist is just natural to brighter and more talented ones. Gnome wizards who don't specialize in the school of illusion are rare, but they don't suffer under any special stigma. Half-elf wizards feel both the elf's attraction to magic and the human's drive to conquer and understand. Some of the most powerful wizards are half-elves. Dwarf and halfling wizards are rare because their societies don't encourage the study of magic. Half-orc wizards are rare because few half-orcs have the brains necessary for wizardry. Drow (evil, subterranean elves) often take up wizardry, but wizards are quite rare among the savage humanoids.<br><br>Wizards prefer to work with members of other classes. They love to cast their spells from behind strong fighters, to "magic up" rogues and send them out to scout, and to rely on the divine healing of clerics. They may find members of certain classes (such as sorcerers, rogues, and bards) to be not quite serious enough, but they're not judgmental.<br><br>The wizard's role depends somewhat on her spell selection, but most wizards share certain similarities in function. They are among the most offensively minded of the spellcasting classes, with a broad range of options available for neutralizing enemies. Some wizards provide great support to their comrades by way of their spells, while others may focus on divination or other facets of wizardry.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+A few unintelligible words and fleeting gestures carry more power than a battleaxe, when they are the words and gestures of a wizard. These simple acts make magic seem easy, but they only hint at the time the wizard must spend poring over her spellbook preparing each spell for casting, and the years before that spent in apprenticeship to learn the arts of magic. Wizards depend on intensive study to create their magic. They examine musty old tomes, debate magical theory with their peers, and practice minor magics whenever they can. For a wizard, magic is not a talent but a difficult, rewarding art.
+
+Wizards conduct their adventures with caution and forethought. When prepared, they can use their spells to devastating effect. When caught by surprise, they are vulnerable. They seek [[Knowledge]], power, and the resources to conduct their studies. They may also have any of the noble or ignoble motivations that other adventurers have.
+
+The wizard's strength is her spells. Everything else is secondary. She learns new spells as she experiments and grows in experience, and she can also learn them from other wizards. In addition to learning new spells, a wizard can, over time, learn to manipulate her spells so they go farther, work better, or are improved in some other way. Some wizards prefer to specialize in a certain type of magic. Specialization makes a wizard more powerful in her chosen field, but it denies her access to some of the spells that lie outside that field (see [[#School Specialization]]. Like a sorcerer, a wizard can call a familiar - a small, magical animal companion that serves her. For some wizards, their familiars are their only true friends.
+
+Overall, wizards show a slight tendency toward law over chaos because the study of magic rewards those who are disciplined. Illusionists and transmuters, however, are masters of deception and change, respectively. They favor chaos over law.
+
+Wizards commonly revere Boccob (god of magic). Some, especially necromancers or simply more misanthropic wizards, prefer Wee Jas (goddess of death and magic). Evil necromancers are known to worship Nerull (god of death). Wizards in general are more devoted to their studies than to their spiritual sides.
+
+Wizards recognize each other as comrades or rivals. Even wizards from very different cultures or magical traditions have much in common because they all conform to the same laws of magic. Unlike fighters or rogues, wizards see themselves as members of a distinct, if diverse, group. In civilized lands where wizards study in academies, schools, or guilds, wizards also identify themselves and others according to membership in these formal organizations. But while a guild magician may look down her nose at a rustic wizard who learned his arts from a doddering hermit, she nevertheless can't deny the rustic's identity as a wizard.
+
+Humans take to magic for any of various reasons: curiosity, ambition, lust for power, or just personal inclination. Human wizards tend to be practical innovators, creating new spells or using old spells creatively. Elves are enthralled by magic, and many of them become wizards for love of the art. Elf wizards see themselves as artists, and they hold magic in high regard as a wondrous mystery, as opposed to the more pragmatic human wizards, who see magic more as a set of tools or tricks. Illusion magic comes so simply to gnomes that becoming an illusionist is just natural to brighter and more talented ones. Gnome wizards who don't specialize in the school of illusion are rare, but they don't suffer under any special stigma. Half-elf wizards feel both the elf's attraction to magic and the human's drive to conquer and understand. Some of the most powerful wizards are half-elves. Dwarf and halfling wizards are rare because their societies don't encourage the study of magic. Half-orc wizards are rare because few half-orcs have the brains necessary for wizardry. Drow (evil, subterranean elves) often take up wizardry, but wizards are quite rare among the savage humanoids.
+
+Wizards prefer to work with members of other classes. They love to cast their spells from behind strong fighters, to "magic up" rogues and send them out to scout, and to rely on the divine healing of clerics. They may find members of certain classes (such as sorcerers, rogues, and bards) to be not quite serious enough, but they're not judgmental.
+
+The wizard's role depends somewhat on her spell selection, but most wizards share certain similarities in function. They are among the most offensively minded of the spellcasting classes, with a broad range of options available for neutralizing enemies. Some wizards provide great support to their comrades by way of their spells, while others may focus on divination or other facets of wizardry.
+
 
 **Alignment**: Any.
 
@@ -19,7 +37,7 @@ tag: Class, Wizard
 
 ###### Class Skills
 
-The wizard's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Decipher Script]] (Int), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
+The wizard's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Decipher Script]] (Int), [[Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[Spellcraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -310,7 +328,7 @@ An anagakok who gains a level in any other class except barbarian automatically 
 
 **Spontaneous Casting**: An anagakok can channel stored spell energy into an [[endure elements]] spell the anagakok did not prepare ahead of time. The anagakok can "lose" any prepared spell of 1st level or higher that is not his specialist bonus spell in order to cast [[endure elements]].
 
-**Wilderness Lore**: An anagakok is learned in the ways of nature. He gains a +2 bonus on [[Compendium/Basics/Skills/Knowledge]] (nature) and on Survival checks.
+**Wilderness Lore**: An anagakok is learned in the ways of nature. He gains a +2 bonus on [[Knowledge]] (nature) and on Survival checks.
 
 **Good Fortune**: The anagakok is well regarded by the many spirits that inhabit the wilderness and begins to attract their attention early in his career. Blessed by the spirits of nature, he gains a number of good fortune points he can apply (as an immediate action) to any die roll to gain a luck bonus equal to the number of points he expends. At 1st level, he receives 2 good fortune points per day, and this number increases by 2 more points at 5th level and every five levels thereafter. The anagakok may spread out his good fortune points to add bonuses to a number of rolls, checks, or saving throws or expend them all on a single die roll. As a readied action, the anagakok may also choose to expend his good fortune points to grant a luck bonus on the roll of an ally he can touch.
 
@@ -364,7 +382,7 @@ A changeling wizard can prepare one additional spell per spell level each day, c
 
 In addition, he gains a +2 bonus on Spellcraft checks to learn spells from either of these schools. This substitution feature replaces the standard wizard's specialization option.
 
-**Limited Spell [[Compendium/Basics/Skills/Knowledge]]**: A changeling wizard's focused studies in illusion and transmutation lead to an excess of [[Compendium/Basics/Skills/Knowledge]] in those areas, but limit his ability to easily add spells of other schools to his spellbook. Each time the character selects a changeling wizard substitution level (other than 1st level), he chooses three spells from the illusion or transmutation schools to add to his spellbook in lieu of the normal two spells added to the standard wizard's spellbook upon gaining a new wizard level. This has no effect on a changeling wizard's ability to add other spells to his spellbook, such as those taken from a scroll or from another wizard's spellbook.
+**Limited Spell [[Knowledge]]**: A changeling wizard's focused studies in illusion and transmutation lead to an excess of [[Knowledge]] in those areas, but limit his ability to easily add spells of other schools to his spellbook. Each time the character selects a changeling wizard substitution level (other than 1st level), he chooses three spells from the illusion or transmutation schools to add to his spellbook in lieu of the normal two spells added to the standard wizard's spellbook upon gaining a new wizard level. This has no effect on a changeling wizard's ability to add other spells to his spellbook, such as those taken from a scroll or from another wizard's spellbook.
 
 **Morphic Familiar (Su)**: At 5th level, a changeling wizard's familiar gains the ability to alter its form on command. As a full-round action, the familiar can change its form to that of any creature that the wizard could normally have as a [[familiar]]. The wizard gains the new benefit of the familiar while losing the previous benefit. If the changeling wizard does not have a familiar, this ability has no effect until he gains one.
 
@@ -381,14 +399,14 @@ This substitution feature replaces the standard wizard's bonus feat gained at 10
 |Level|Base  <br>Attack Bonus|Fort  <br>Save|Ref  <br>Save|Will  <br>Save|Special|Spellcasting|
 |---|---|---|---|---|---|---|
 |1st|+0|+0|+0|+2|Dual specialization, summon familiar, Scribe Scroll|Same as wizard|
-|5th|+2|+1|+1|+4|Limited spell [[Compendium/Basics/Skills/Knowledge]], morphic familiar|Same as wizard|
-|10th|+5|+3|+3|+7|Limited spell [[Compendium/Basics/Skills/Knowledge]], override transmutation|Same as wizard|
+|5th|+2|+1|+1|+4|Limited spell [[Knowledge]], morphic familiar|Same as wizard|
+|10th|+5|+3|+3|+7|Limited spell [[Knowledge]], override transmutation|Same as wizard|
 
   
 
 #### Combat Wizard
 
-Some wizards trade their [[Compendium/Basics/Skills/Knowledge]] of magic and craft to improve their combat prowess.
+Some wizards trade their [[Knowledge]] of magic and craft to improve their combat prowess.
 
 This variant simply swaps one or more of a class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
@@ -416,7 +434,7 @@ Deathwalkers crave undeath, and they view necromancy as a useful tool for collec
 
 ##### Class Skills
 
-The deathwalker's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The deathwalker's class skills (and the key ability for each skill) are [[Bluff]] (Cha), [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -481,7 +499,7 @@ At this point in her development, the deathwalker gains a pale complexion and an
 
 **Aura of the Grave (Ex)**: At 5th level, the deathwalker continues her slow descent into an undead state. She no longer needs to sleep, and she gains immunity to sleep effects. She also becomes immune to all diseases. Her nerve endings begin to dull, making her less able to feel pain.
 
-The physical effects of the deathwalker's continuing transformation become more marked at this point. Her skin draws tightly over her body, giving her a hollow, empty look. Any person viewing her may make a [[Compendium/Basics/Skills/Knowledge]] (arcana) check (DC 25) to determine that she follows the deathwalker's path. Because of her decreased tactile sense, she may absentmindedly skewer her hand with a needle while deep in thought, singe her hand on a hot stove without noticing, or fail to note the flies that land on her eye or buzz in or near her mouth. Slowly but surely, she continues to lose her grip on life.
+The physical effects of the deathwalker's continuing transformation become more marked at this point. Her skin draws tightly over her body, giving her a hollow, empty look. Any person viewing her may make a [[Knowledge]] (arcana) check (DC 25) to determine that she follows the deathwalker's path. Because of her decreased tactile sense, she may absentmindedly skewer her hand with a needle while deep in thought, singe her hand on a hot stove without noticing, or fail to note the flies that land on her eye or buzz in or near her mouth. Slowly but surely, she continues to lose her grip on life.
 
 **Shroud of Death (Ex)**: As the deathwalker's magical prowess increases, her physical body continues to fail. Yet, in many ways, she becomes stronger than ever. As her body dies, her organs rot in place, but the necromantic energies she has learned to harness keep her bodily processes functioning enough to sustain the shred of life remaining in her.
 
@@ -841,7 +859,7 @@ When your familiar would normally gain the ability to [[speak with animals]] of 
 
 #### Drow Wizard
 
-Wizards are among the most feared and admired nondivine members of drow society. Despite their innate resistance to magic, the drow have great respect for both the spells and the [[Compendium/Basics/Skills/Knowledge]] available to these masters of the arcane arts. Although they are not directly tied to Lolth in the way divine casters and warlocks are, their devotion to the Spider Queen - and indeed, their very upbringing within society - has led to the development of race-specific wizard traits.
+Wizards are among the most feared and admired nondivine members of drow society. Despite their innate resistance to magic, the drow have great respect for both the spells and the [[Knowledge]] available to these masters of the arcane arts. Although they are not directly tied to Lolth in the way divine casters and warlocks are, their devotion to the Spider Queen - and indeed, their very upbringing within society - has led to the development of race-specific wizard traits.
 
 ##### Abyssal Specialist
 
@@ -863,7 +881,7 @@ These wizards of a dwindling order protect the tenuous peace under the Sea of Fa
 
 ##### Requirements
 
-To take a Dukar substitution level, a character must be a member of the Dukars, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 5th, 10th, or 15th level of wizard. The first time a character takes a Dukar substitution level, he must undergo a secret Dukar ritual that implants the living coral under the skin of his palms (see Dukar hand coral). The coral does not interfere with using his hands in any way. If the Dukar somehow loses this coral, he loses his coral-related powers, but if he is implanted again he immediately regains his full abilities.
+To take a Dukar substitution level, a character must be a member of the Dukars, have 1 rank in [[Knowledge]] (religion), and be about to take his 5th, 10th, or 15th level of wizard. The first time a character takes a Dukar substitution level, he must undergo a secret Dukar ritual that implants the living coral under the skin of his palms (see Dukar hand coral). The coral does not interfere with using his hands in any way. If the Dukar somehow loses this coral, he loses his coral-related powers, but if he is implanted again he immediately regains his full abilities.
 
 ##### Class Skills
 
@@ -894,7 +912,7 @@ All of the following are features of the Dukar substitution levels.
 |Maalirn|Green|Conjuration, divination|
 |Numos|White|Illusion, necromancy|
 
-* _The order of Jhimar was destroyed centuries ago and its [[Compendium/Basics/Skills/Knowledge]] and traditions are lost._
+* _The order of Jhimar was destroyed centuries ago and its [[Knowledge]] and traditions are lost._
 
 This class feature replaces the standard wizard's ability to add two spells to his spellbook each time he gains a wizard level.
 
@@ -1190,7 +1208,7 @@ The list below is a compilation of all creatures eligible to be chosen as famili
 
 **Scent (Su)**: You gain the [[scent]] ability. You can identify familiar odors just as normal humans do familiar sights.
 
-**Second Memory (Ex)**: You may seek your familiar's sometimes dubious advice. Whenever you attempt a [[Compendium/Basics/Skills/Knowledge]] check for a [[Compendium/Basics/Skills/Knowledge]] skill in which you have at least 1 rank your raven familiar attempts to assist you. It need only make a DC 10 Intelligence check to do so. If it succeeds, you receive the standard +2 bonus on your skill check.
+**Second Memory (Ex)**: You may seek your familiar's sometimes dubious advice. Whenever you attempt a [[Knowledge]] check for a [[Knowledge]] skill in which you have at least 1 rank your raven familiar attempts to assist you. It need only make a DC 10 Intelligence check to do so. If it succeeds, you receive the standard +2 bonus on your skill check.
 
 **Self-Cannibalize (Su)**: Your will to survive allows you to feed upon your magic. Once per day you may, as a free action, sacrifice one of your available spell slots or prepared spells to convert some lethal damage you take from an attack or spell into nonlethal damage. The level of the spell sacrificed represents the number of hit points converted into nonlethal damage.
 
@@ -1206,25 +1224,25 @@ _Nonhealing (Ex)_: When a swarm takes damage, part of it is physically destroyed
 
 #### Filidh
 
-Highly respected lawgivers of barbarian society, filidhs draw their power from their [[Compendium/Basics/Skills/Knowledge]] and application of lore. They provide judgments in legal disputes and defend their people using the mysterious ways of their ancestors. If shamans are the conscience of the tribe and skalds its memory, then filidhs are its unshakable will.
+Highly respected lawgivers of barbarian society, filidhs draw their power from their [[Knowledge]] and application of lore. They provide judgments in legal disputes and defend their people using the mysterious ways of their ancestors. If shamans are the conscience of the tribe and skalds its memory, then filidhs are its unshakable will.
 
 The filidh is a variant wizard. Unless otherwise noted, a filidh advances in the same manner as a wizard (same Hit Die, base attack bonus, saving throw bonuses, skill points, and so on). When a character elects to take a level of wizard or filidh, he may not later take levels in the other class. This prevents the character from gaining the benefits of a 1st-level wizard twice.
 
-Filidhs seek to preserve the beliefs of their tribe. As enforcers of ancestral traditions, they seek out magical power to increase their [[Compendium/Basics/Skills/Knowledge]] and strengthen their position within the tribe. These barbaric lore keepers tend toward neutral alignments, although both lawful and chaotic societies have traditions filidhs might seek to uphold. To aid them, most filidhs typically devote a significant number of spells to divination, balancing them with other offensive or supporting spells. These tribal wizards equate [[Compendium/Basics/Skills/Knowledge]] with power and carefully dispense their learning to a select few. They tend to play subtle but domineering roles in any group, even if they do not obviously lead it. Many filidhs associate with religious orders or druids as they often hold similar perspectives and goals.
+Filidhs seek to preserve the beliefs of their tribe. As enforcers of ancestral traditions, they seek out magical power to increase their [[Knowledge]] and strengthen their position within the tribe. These barbaric lore keepers tend toward neutral alignments, although both lawful and chaotic societies have traditions filidhs might seek to uphold. To aid them, most filidhs typically devote a significant number of spells to divination, balancing them with other offensive or supporting spells. These tribal wizards equate [[Knowledge]] with power and carefully dispense their learning to a select few. They tend to play subtle but domineering roles in any group, even if they do not obviously lead it. Many filidhs associate with religious orders or druids as they often hold similar perspectives and goals.
 
-Devout and spiritual beyond most traditional wizards, filidhs usually worship gods of [[Compendium/Basics/Skills/Knowledge]], magic, poetry, or travel. They also highly respect and might worship creator gods, as they are usually credited with teaching laws to the first mortals. Other filidhs worship nature gods and explore the secrets of both the natural and the unseen world.
+Devout and spiritual beyond most traditional wizards, filidhs usually worship gods of [[Knowledge]], magic, poetry, or travel. They also highly respect and might worship creator gods, as they are usually credited with teaching laws to the first mortals. Other filidhs worship nature gods and explore the secrets of both the natural and the unseen world.
 
 ##### Class Skills
 
-The filidh's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), Gather Information (Cha), [[Intimidate]] (Cha), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Sense Motive]] (Wis), [[SpellCraft]] (Int), and [[Survival]] (Wis).
+The filidh's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), Decipher Script (Int), Gather Information (Cha), [[Intimidate]] (Cha), [[Knowledge]] (all skills, taken individually) (Int), [[Sense Motive]] (Wis), [[SpellCraft]] (Int), and [[Survival]] (Wis).
 
 ##### Class Features
 
-The filidh loses the base wizard's Scribe Scroll, bonus feats, and summon familiar class features but gains several abilities related to [[Compendium/Basics/Skills/Knowledge]] and divination. All of the following are class features of the filidh.
+The filidh loses the base wizard's Scribe Scroll, bonus feats, and summon familiar class features but gains several abilities related to [[Knowledge]] and divination. All of the following are class features of the filidh.
 
 **Weapon and Armor Proficiencies**: Filidhs are proficient with the club, dagger, quarterstaff, and shortbow but not with any type of armor or shield. Armor of any type interferes with a filidh's movements, which can cause her spells with somatic components to fail.
 
-**Filidh [[Compendium/Basics/Skills/Knowledge]]**: This ability functions as the bardic [[Compendium/Basics/Skills/Knowledge]] ability. A filidh with levels in another class that grants bardic [[Compendium/Basics/Skills/Knowledge]] stacks those levels with her filidh levels when determining her total bonus to bardic [[Compendium/Basics/Skills/Knowledge]] checks.
+**Filidh [[Knowledge]]**: This ability functions as the bardic [[Knowledge]] ability. A filidh with levels in another class that grants bardic [[Knowledge]] stacks those levels with her filidh levels when determining her total bonus to bardic [[Knowledge]] checks.
 
 **Greater Divining**: A filidh is able to cast divination spells as if her caster level was +1 level higher at 5th level. This ability increases to +2 levels higher at 10th level, +3 levels higher at 15th level, and +4 levels higher at 20th level.
 
@@ -1240,7 +1258,7 @@ The fleshcrafter lurks at the edge of society, picking off the weak and those un
 
 ##### Class Skills
 
-The fleshcrafter's class skills and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), and [[SpellCraft]] (Int).
+The fleshcrafter's class skills and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Heal]] (Wis), [[Knowledge]] (all skills, taken individually) (Int), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1324,7 +1342,7 @@ _Uncanny Likeness_: The close link that the stitched flesh familiar has with its
 
 _Sustained Spirit_: When the fleshcrafter reaches 9th level, his link with his stitched flesh familiar becomes strong enough to survive after death. If a fleshcrafter creates a new stitched flesh familiar to replace a lost one, the newly created servant has all the memories of the previous one, as well as the same personality. Thus, a stitched flesh familiar created to replace one that was killed under mysterious circumstances can remember the details of its predecessor's death (including the killers, if it saw them).
 
-**Reaper's Touch (Ex)**: At 1st level, the fleshcrafter gains such an intimate [[Compendium/Basics/Skills/Knowledge]] of living things that he can increase the chances of a creature's death while appearing to heal it. When using the Heal skill to treat another creature, he may instead double any hit point or ability score damage his patient takes due to any conditions from which it already suffers. The Heal DC decreases by 5 when he uses the skill for this purpose, and the effect lasts for 24 hours. Thus, a creature with fewer than 0 hit points loses 2 hit points per round rather than 1.
+**Reaper's Touch (Ex)**: At 1st level, the fleshcrafter gains such an intimate [[Knowledge]] of living things that he can increase the chances of a creature's death while appearing to heal it. When using the Heal skill to treat another creature, he may instead double any hit point or ability score damage his patient takes due to any conditions from which it already suffers. The Heal DC decreases by 5 when he uses the skill for this purpose, and the effect lasts for 24 hours. Thus, a creature with fewer than 0 hit points loses 2 hit points per round rather than 1.
 
 Furthermore, the affected creature cannot check to stabilize as long as the creature is taking extra damage from this ability. An observer may make a Heal check opposed by the fleshcrafter's Heal check result to notice the latter's sabotage of the patient. A successful Heal check opposed by the fleshcrafter's Heal result or the application of any sort of healing magic is sufficient to halt the accelerated loss of life.
 
@@ -1336,7 +1354,7 @@ For each 2 HD of the animated object to be created, the fleshcrafter must harves
 
 **Master of Life and Death (Su)**: At 15th level, the fleshcrafter perfects his understanding of life, death, and magic. His spells are so attuned to the patterns and energy of life that they are difficult for living creatures to resist. When the fleshcrafter affects a living creature (that is, any creature other than a construct or undead) with a spell, the DC for the saving throw (if any) increases by +1.
 
-**Forge Life (Ex)**: At 20th level, the fleshcrafter can use his [[Compendium/Basics/Skills/Knowledge]] of arcane magic and biology to create a [[Golem_Flesh|flesh golem]] using special, rare methods that only he and others of his class can access. The fleshcrafter need spend only 5,000 gp to produce the golem, although he must still meet all the remaining prerequisites, and spend the standard amount of time and XP based on the value of the [[Golem_Flesh|flesh golem]] listed in the Monster Manual. In addition, he must collect body parts from the equivalent equivalent of at least twenty different Medium humanoids that he personally killed to assemble the golem. The fleshcrafter can create any number of flesh golems in this manner.
+**Forge Life (Ex)**: At 20th level, the fleshcrafter can use his [[Knowledge]] of arcane magic and biology to create a [[Golem_Flesh|flesh golem]] using special, rare methods that only he and others of his class can access. The fleshcrafter need spend only 5,000 gp to produce the golem, although he must still meet all the remaining prerequisites, and spend the standard amount of time and XP based on the value of the [[Golem_Flesh|flesh golem]] listed in the Monster Manual. In addition, he must collect body parts from the equivalent equivalent of at least twenty different Medium humanoids that he personally killed to assemble the golem. The fleshcrafter can create any number of flesh golems in this manner.
 
 #### Focus Caster
 
@@ -1458,7 +1476,7 @@ Wizards who train at the Arcanamirum spend much of their time studying the pract
 
 #### Halfling Wizard
 
-Lacking the great colleges of wizardry in which human and elven wizards learn their craft, halflings master magic by practice, curiosity, and the random accumulation of [[Compendium/Basics/Skills/Knowledge]]. Halfling wizards gain a new form of versatility.
+Lacking the great colleges of wizardry in which human and elven wizards learn their craft, halflings master magic by practice, curiosity, and the random accumulation of [[Knowledge]]. Halfling wizards gain a new form of versatility.
 
 **Hit Die**: d4.
 
@@ -1490,7 +1508,7 @@ All of the following are features of the halfling wizard's racial substitution l
 
 This substitution feature replaces the standard wizard's two automatic spells learned.
 
-**Lore (Ex)**: At 5th level, the wizard knows legends or information regarding various topics, just as a bard can with bardic [[Compendium/Basics/Skills/Knowledge]]. She adds her wizard level and Intelligence modifier to the lore check, which otherwise functions like a bardic [[Compendium/Basics/Skills/Knowledge]] check.
+**Lore (Ex)**: At 5th level, the wizard knows legends or information regarding various topics, just as a bard can with bardic [[Knowledge]]. She adds her wizard level and Intelligence modifier to the lore check, which otherwise functions like a bardic [[Knowledge]] check.
 
 This substitution replaces the wizard's two automatic spells known and her bonus feat gained at 5th level.
 
@@ -1506,7 +1524,7 @@ Some paladins of Azuth belong to the Order of the Swords of the High One. These 
 
 ##### Requirements
 
-To take a level of High One warrior-wizard, a character must be a member of the Swords of the High One, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), have at least two paladin levels, and be about to take her 2nd, 4th, or 5th level of wizard.
+To take a level of High One warrior-wizard, a character must be a member of the Swords of the High One, have 1 rank in [[Knowledge]] (religion), have at least two paladin levels, and be about to take her 2nd, 4th, or 5th level of wizard.
 
 ##### Class Skills
 
@@ -1613,7 +1631,7 @@ _Note:_ Since conjurers using this variant obviously summon monsters frequently,
 
 ##### HIGH DIVINER
 
-Seekers of [[Compendium/Basics/Skills/Knowledge]], hoarders of lore, and master spies, diviners are perhaps the most underrated specialist wizards. Because they must give up access to only one other school of magic, they are also the most versatile specialists. More than any other specialists, diviners excel at gathering information, and an adventuring party that includes a diviner is much more likely to prepare properly for an adventure.
+Seekers of [[Knowledge]], hoarders of lore, and master spies, diviners are perhaps the most underrated specialist wizards. Because they must give up access to only one other school of magic, they are also the most versatile specialists. More than any other specialists, diviners excel at gathering information, and an adventuring party that includes a diviner is much more likely to prepare properly for an adventure.
 
 Many campaigns benefit from featuring more than one type of divination specialist, and diviners can play important parts in any game revolving around information gathering. Campaigns that feature mysteries and detective-style adventures, themes of prophecy and oracles, or large amounts of social interaction and espionage all make excellent forums for a diviner's powers. In campaigns that feature high diviners with different class abilities, one simple way to add more variety is to make each distinct group of specialists experts in and proponents of a different form of divination. In game terms, this divergence is represented by altering the material components for some divination spells. For example, one group of diviners might favor osteomancy and require a collection of bones to use as components for their spells.
 
@@ -1862,7 +1880,7 @@ Even though this ability does not increase the spell's level, you must be able t
 
 #### Planar Wizard
 
-While other spellcasters may have a vested interest in a particular planar viewpoint, the wizard prefers a more open policy toward the planes. To a wizard, the planes represent [[Compendium/Basics/Skills/Knowledge]] and power, and the wizard who can learn the secrets of the planes without regard to those planes' alignments or other traits is a true master of magic.
+While other spellcasters may have a vested interest in a particular planar viewpoint, the wizard prefers a more open policy toward the planes. To a wizard, the planes represent [[Knowledge]] and power, and the wizard who can learn the secrets of the planes without regard to those planes' alignments or other traits is a true master of magic.
 
 More so than many other classes, the wizard already has the ability to customize her abilities with an eye to the planes, simply through the spells she learns and prepares each day. If a wizard learns [[plane shift]] and planar tolerance, then the caster is self-customized to adventure on the planes. But the planar wizard goes a step beyond this adaptation, learning to channel the pure power of the planes themselves in her spells.
 
@@ -1874,7 +1892,7 @@ To take a wizard planar substitution level, a character must be about to take he
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -1956,7 +1974,7 @@ By collecting souls in this manner and using obscene rituals to torment and ensl
 
 ##### Class Skills
 
-The soul reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Compendium/Basics/Skills/Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
+The soul reaper's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Knowledge]] (all skills, taken individually) (Int), [[Profession]] (Wis), and [[SpellCraft]] (Int).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -1973,19 +1991,19 @@ The soul reaper's class skills (and the key ability for each skill) are [[Concen
 |2nd|+1|+0|+0|+3||4+1|2+1|—|—|—|—|—|—|—|—|
 |3rd|+1|+1|+1|+3||4+1|2+1|1+1|—|—|—|—|—|—|—|
 |4th|+2|+1|+1|+4||4+1|3+1|2+1|—|—|—|—|—|—|—|
-|5th|+2|+1|+1|+4|Ancestral [[Compendium/Basics/Skills/Knowledge]] 1/day, bind spirit|4+1|3+1|2+1|1+1|—|—|—|—|—|—|
+|5th|+2|+1|+1|+4|Ancestral [[Knowledge]] 1/day, bind spirit|4+1|3+1|2+1|1+1|—|—|—|—|—|—|
 |6th|+3|+2|+2|+5||4+1|3+1|3+1|2+1|—|—|—|—|—|—|
 |7th|+3|+2|+2|+5||4+1|4+1|3+1|2+1|1+1|—|—|—|—|—|
 |8th|+4|+2|+2|+6||4+1|4+1|3+1|3+1|2+1|—|—|—|—|—|
-|9th|+4|+3|+3|+6|Ancestral [[Compendium/Basics/Skills/Knowledge]] 2/day|4+1|4+1|4+1|3+1|2+1|1+1|—|—|—|—|
+|9th|+4|+3|+3|+6|Ancestral [[Knowledge]] 2/day|4+1|4+1|4+1|3+1|2+1|1+1|—|—|—|—|
 |10th|+5|+3|+3|+7|Bonus feat|4+1|4+1|4+1|3+1|3+1|2+1|—|—|—|—|
 |11th|+5|+3|+3|+7||4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|—|—|
 |12th|+6/+1|+4|+4|+8||4+1|4+1|4+1|4+1|3+1|3+1|2+1|—|—|—|
-|13th|+6/+1|+4|+4|+8|Ancestral [[Compendium/Basics/Skills/Knowledge]] 3/day|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|—|
+|13th|+6/+1|+4|+4|+8|Ancestral [[Knowledge]] 3/day|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|—|
 |14th|+7/+2|+4|+4|+9||4+1|4+1|4+1|4+1|4+1|3+1|3+1|2+1|—|—|
 |15th|+7/+2|+5|+5|+9|Spawn undead servant|4+1|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|—|
 |16th|+8/+3|+5|+5|+10||4+1|4+1|4+1|4+1|4+1|4+1|3+1|3+1|2+1|—|
-|17th|+8/+3|+5|+5|+10|Ancestral [[Compendium/Basics/Skills/Knowledge]] 4/day|4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|
+|17th|+8/+3|+5|+5|+10|Ancestral [[Knowledge]] 4/day|4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|2+1|1+1|
 |18th|+9/+4|+6|+6|+11||4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|3+1|2+1|
 |19th|+9/+4|+6|+6|+11||4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|3+1|3+1|
 |20th|+10/+5|+6|+6|+12|Bonus feat|4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|4+1|
@@ -2009,7 +2027,7 @@ Like a wizard, a soul reaper may select the Spell Mastery feat.
 
 **Inquisitor of the Grave (Sp)**: At 1st level, the soul reaper learns to force information from the recently departed soul of a fresh corpse. Once per day, the soul reaper can use [[speak with dead]] as a spell-like ability, duplicating the effects of the [[speak with dead]] spell. The soul reaper must follow all the guidelines and restrictions associated with casting that spell.
 
-**Spiritual Vassal**: The soul reaper can compel obedience from a host of spirits that she has seized through a foul ceremony and combined into a single spiritual vassal. This ghostly apparition has little effect on the physical world, but besides acting as a familiar, it grants the reaper some of the [[Compendium/Basics/Skills/Knowledge]] the souls used to create it held in life.
+**Spiritual Vassal**: The soul reaper can compel obedience from a host of spirits that she has seized through a foul ceremony and combined into a single spiritual vassal. This ghostly apparition has little effect on the physical world, but besides acting as a familiar, it grants the reaper some of the [[Knowledge]] the souls used to create it held in life.
 
 A soul reaper dominates and controls the spirits that make up the vassal through a vile ritual that requires 100 gp worth of materials (primarily blood and bone taken from outsiders) and a humanoid creature slain via a ritual sacrifice. After killing her victim, the soul reaper can open a magical link to the afterlife, compel a number of minor spirits to enter the material world, and force them into her service. These spirits combine to form a single entity known as a spiritual vassal that obeys the soul reaper's every command - primarily because it faces terrible repercussions if it refuses to do so. As a free action, a soul reaper can induce wracking agony in her vassal, causing it to howl in pain. The pain immobilizes the vassal (no save) until the reaper wills the effect to end (also a free action). This pitiable creature might moan for an end to its horrid existence even as it moves to oppose the soul reaper's foes.
 
@@ -2036,7 +2054,7 @@ A spiritual vassal looks like a small sphere of pale, glowing light. Those unfam
 
   
 
-**Ancestral [[Compendium/Basics/Skills/Knowledge]] (Sp)**: The spiritual vassal can draw on its memories from life to provide the reaper with advice, skills, and abilities on a temporary basis. Starting at 5th level, the soul reaper can access her spiritual vassal's memories, gaining one of the abilities described below (reaper's choice) once per day. She gains one additional selection per day at 9th level, another at 13th level, and a fourth at 17th level. The soul reaper may mix and match the abilities as desired within her usage allotment. For example, a 17th-level soul reaper could use the memories of past lives ability four times, or memories of past lives twice and talents of the elders twice, or any combination of the three abilities that adds up to four uses. The reaper's spiritual vassal must be able to communicate with her for this ability to function.
+**Ancestral [[Knowledge]] (Sp)**: The spiritual vassal can draw on its memories from life to provide the reaper with advice, skills, and abilities on a temporary basis. Starting at 5th level, the soul reaper can access her spiritual vassal's memories, gaining one of the abilities described below (reaper's choice) once per day. She gains one additional selection per day at 9th level, another at 13th level, and a fourth at 17th level. The soul reaper may mix and match the abilities as desired within her usage allotment. For example, a 17th-level soul reaper could use the memories of past lives ability four times, or memories of past lives twice and talents of the elders twice, or any combination of the three abilities that adds up to four uses. The reaper's spiritual vassal must be able to communicate with her for this ability to function.
 
 _Memories of Past Lives_: Drawing on her spiritual vassal's memories, the soul reaper gains a +5 competence bonus on checks made with a skill of her choice. This bonus lasts for 1 minute.
 
@@ -2102,6 +2120,11 @@ _0_ - [[Acid splash]], [[daze]], [[read magic]], resistance.
 
 If Mialee casts daylight while underground, she marks that spell plus its environmentally opposite spell of the same level (in this case, displacement) off her list of prepared spells.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

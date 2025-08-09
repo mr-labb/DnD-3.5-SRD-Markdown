@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Charm And Compulsion
 title: Compendium\Basics\Abilities and Conditions\Charm And Compulsion
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -35,6 +37,11 @@ Regardless of whether a character is charmed or compelled, he won’t volunteer 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

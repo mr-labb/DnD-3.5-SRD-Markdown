@@ -11,7 +11,7 @@ Type: Magical
 Subtype: 
 CR: 3
 Environnent: 
-Source: MM1
+Source: DMG
 ---
 
 ```statblock

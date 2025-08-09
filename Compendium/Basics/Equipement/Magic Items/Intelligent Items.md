@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Magic Items/Intelligent, Cursed, & Artifacts
+tags:
+ - 35E_SRD
 ---
 ## Intelligent, Cursed, & Artifacts
 

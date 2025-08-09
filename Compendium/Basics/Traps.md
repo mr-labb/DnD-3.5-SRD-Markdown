@@ -3,7 +3,9 @@ lang: en
 aliases:
  - 
 title: Compendium/Basics/ Traps
-tag: Traps
+tags: 
+ - 35E_SRD
+ - Traps
 ---
 
 

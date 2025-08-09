@@ -2,7 +2,10 @@
 aliases:
  - Improved Disarm
 title: Improved Disarm
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Improved Disarm 
 ***Feat Type: General***
@@ -25,6 +28,11 @@ she does not meet the prerequisites.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

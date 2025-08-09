@@ -108,7 +108,7 @@ Many devils are surrounded by a fear aura, which they use to break up powerful g
 Bone devils stand about 9 feet tall and weigh about 500 pounds.
 
 
-            **Devil Traits:** Most devils possesses the following traits (unless otherwise noted in a creature's entry).
+**Devil Traits:** Most devils possesses the following traits (unless otherwise noted in a creature's entry).
 
 Combat
 
@@ -117,17 +117,16 @@ Bone devils hate all other creatures and attack ruthlessly. They freely use *[[w
 A bone devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
 
 
-            **Fear Aura (Su):** Bone devils can radiate a 5-foot-radius fear aura as a free action. Affected creatures must succeed on a DC 17 Will save or be affected as though by a *fear* spell (caster level 7th). A creature that successfully saves cannot be affected again by the same bone devil's aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
+**Fear Aura (Su):** Bone devils can radiate a 5-foot-radius fear aura as a free action. Affected creatures must succeed on a DC 17 Will save or be affected as though by a *fear* spell (caster level 7th). A creature that successfully saves cannot be affected again by the same bone devil's aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
 
 
-            **Poison (Ex):** Injury, Fortitude DC 20, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
+ **Poison (Ex):** Injury, Fortitude DC 20, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
 
-            **Spell-Like Abilities:** At will - *[[Teleport Greater|greater teleport]]* (self plus 50 pounds of objects only), *[[dimensional anchor]], fly, invisibility* (self only), *[[major image]]* (DC 15), *[[wall of ice]]*. Caster level 12th. The save DC is Charisma-based.
+**Spell-Like Abilities:** At will - *[[Teleport Greater|greater teleport]]* (self plus 50 pounds of objects only), *[[dimensional anchor]], fly, invisibility* (self only), *[[major image]]* (DC 15), *[[wall of ice]]*. Caster level 12th. The save DC is Charisma-based.
 
 
-            **
-              *Summon Devil* (Sp):** Once per day a bone devil can attempt to summon 2d10 lemures with a 50% chance of success, or another bone devil with a 35% chance of success. This ability is the equivalent of a 4th-level spell.
+***Summon Devil* (Sp):** Once per day a bone devil can attempt to summon 2d10 lemures with a 50% chance of success, or another bone devil with a 35% chance of success. This ability is the equivalent of a 4th-level spell.
 
 ---
 

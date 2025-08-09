@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Frightened
 title: Compendium\Basics\Abilities and Conditions\Frightened
-tag: Conditions
+tags: 
+ - 35E_SRD
+ - Conditions
 ---
 
 ---
@@ -15,6 +17,11 @@ Frightened is like [[shaken]], except that the creature must flee if possible. [
 **If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

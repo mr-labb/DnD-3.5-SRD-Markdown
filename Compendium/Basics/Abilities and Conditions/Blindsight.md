@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Blindsight
 title: Compendium\Basics\Abilities and Conditions\Blindsight
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -14,6 +16,11 @@ Using nonvisual senses, such as acute smell or hearing, a creature with blindsen
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

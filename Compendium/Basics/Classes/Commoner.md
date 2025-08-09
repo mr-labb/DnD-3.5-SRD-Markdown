@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Commoner
 title: Compendium/Basics/Classe/Commoner
-tag: Class, Commoner
+tags: 
+ - 35E_SRD
+ - Class
+ - Commoner
 ---
 
 ---
@@ -56,6 +59,11 @@ The following is a class feature of the commoner NPC class.
 
 **Weapon and Armor Proficiency**: The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shields.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

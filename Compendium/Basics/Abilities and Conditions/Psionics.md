@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Psionics
 title: Compendium\Basics\Abilities and Conditions\Psionics
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -22,6 +25,11 @@ Psionic attacks almost always allow Will saving throws to resist them. However, 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

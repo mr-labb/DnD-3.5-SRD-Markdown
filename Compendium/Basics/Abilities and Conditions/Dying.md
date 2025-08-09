@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Dying
 title: Compendium\Basics\Abilities and Conditions\Dying
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -15,6 +18,11 @@ A dying character is [[unconscious]] and near death. She has –1 to –9 curren
 **If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

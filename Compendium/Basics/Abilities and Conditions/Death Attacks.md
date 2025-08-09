@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Death Attacks
 title: Compendium\Basics\Abilities and Conditions\Death Attacks
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -22,6 +25,11 @@ In most cases, a death attack allows the victim a Fortitude save to avoid the af
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

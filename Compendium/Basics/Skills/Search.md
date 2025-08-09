@@ -2,7 +2,9 @@
 aliases:
  - Search
 title: Compendium/Basics/skills/Search
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Search [(Int)]
 
@@ -11,17 +13,15 @@ You generally must be within 10 feet of the object or surface
 to be searched. The table below gives DCs for typical tasks involving
 the Search skill.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------
-  Task                                                                                                                                                                                Search DC
-  Ransack a chest full of junk to find a certain item                                                                                                                                 10
-  Notice a typical secret door or a simple trap                                                                                                                                       20
-  Find a difficult nonmagical trap (rogue only)^1^                                                                                                                                    21 or higher
-  Find a magic trap (rogue only)^1^                                                                                                                                                   25 + level of spell used to create trap
-  Notice a well-hidden secret door                                                                                                                                                    30
-  Find a footprint                                                                                                                                                                    Varies^2^
-  1 Dwarves (even if they are not rogues) can use Search to find traps built into or out of stone.                                                                                    
-  2 A successful Search check can find a footprint or similar sign of a creature's passage, but it won't let you find or follow a trail. See the Track feat for the appropriate DC.   
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------
+|Task|Search DC|
+|---|---|
+|Ransack a chest full of junk to find a certain item|10|
+|Notice a typical secret door or a simple trap|20|
+|Find a difficult nonmagical trap (rogue only)1|21 or higher|
+|Find a magic trap (rogue only)1|25 + level of spell used to create trap|
+|Notice a well-hidden secret door|30|
+|Find a footprint|Varies2|
+|Sense magic|60|
 
 ### Action
 It takes a full-round action to search a 5-foot-by-5-foot
@@ -66,6 +66,11 @@ difficult trap (one with a DC higher than 20) if the trap is built into
 or out of stone. He gains a +2 racial bonus on the Search check from his
 stonecunning ability.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

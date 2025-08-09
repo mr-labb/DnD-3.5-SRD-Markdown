@@ -1,12 +1,10 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Alignment and Description
-tag: Alignment
+tags: 
+ - 35E_SRD
+ - Alignment
 ---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ### ALIGNMENT
 

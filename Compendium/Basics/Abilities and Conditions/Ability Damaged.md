@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Ability Damaged
 title: Compendium\Basics\Abilities and Conditions\Ability Damaged
-tag: Abilities, Conditions
+tags: 
+ - Abilities
+ - Conditions
+ - 35E_SRD
 ---
 
 ---

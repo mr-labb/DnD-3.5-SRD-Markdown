@@ -2,7 +2,9 @@
 aliases:
  - Concentration
 title: Compendium/Basics/skills/Concentration
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Concentration [(Con)]
 You are particularly good at focusing your mind.
@@ -63,6 +65,11 @@ If you have 5 or more ranks in Concentration, you get a +2 bonus on [[Autohypnos
 
 If you have 5 or more ranks in any [[Perform]] skill, you get a +2 bonus on Concentration checks to resist heckling while using that skill.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

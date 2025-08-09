@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Incorporeality
 title: Compendium\Basics\Abilities and Conditions\Incorporeality
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -38,6 +40,11 @@ Incorporeal creatures do not leave footprints, have no scent, and make no noise 
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

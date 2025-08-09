@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Telepathy
 title: Compendium\Basics\Abilities and Conditions\Telepathy
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -18,6 +20,11 @@ Some creatures have a limited form of telepathy, while others have a more powerf
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Adept
 title: Compendium/Basics/Classe/Adept
-tag: Class, Adept
+tags: 
+ - 35E_SRD
+ - Class
+ - Adept
 ---
 
 ---
@@ -12,7 +15,7 @@ tag: Class, Adept
 
 
 
-Some tribal societies or less sophisticated regions don't have the resources to train wizards and clerics. Reflecting a lesser [[Compendium/Basics/Skills/Knowledge]] of magic yet an intriguing combination of arcane and divine skills, the adept serves these cultures as both wise woman (or holy man) and mystical defender.
+Some tribal societies or less sophisticated regions don't have the resources to train wizards and clerics. Reflecting a lesser [[Knowledge]] of magic yet an intriguing combination of arcane and divine skills, the adept serves these cultures as both wise woman (or holy man) and mystical defender.
 
 Adepts can be found in isolated human, elf, dwarf, gnome, and halfling communities but are most prevalent among more bestial humanoid and giant species such as orcs, goblins, gnolls, bugbears, and ogres.
 
@@ -20,7 +23,7 @@ Adepts can be found in isolated human, elf, dwarf, gnome, and halfling communiti
 
 ###### Class Skills
 
-The adept's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Compendium/Basics/Skills/Knowledge]] (all skills taken individually) (Int), [[Profession]] (Wis), [[Spellcraft]] (Int), and [[Survival]] (Wis).
+The adept's class skills (and the key ability for each skill) are [[Concentration]] (Con), [[Craft]] (Int), [[Handle Animal]] (Cha), [[Heal]] (Wis), [[Knowledge]] (all skills taken individually) (Int), [[Profession]] (Wis), [[Spellcraft]] (Int), and [[Survival]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -111,6 +114,11 @@ Urban adepts choose their spells from the following list.
 
 **5th Level**: [[Break enchantment]], [[commune]], [[dream]], heal, [[major creation]], [[Compendium/Bestiary/MM1/Nightmare|nightmare]], [[raise dead]], [[true seeing]].
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

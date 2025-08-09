@@ -1,12 +1,10 @@
 ---
 lang: en
-aliases:
- - 
 title: Compendium/Basics/ Monsters Information
-tag: Monster
+tags: 
+ - 35E_SRD
+ - Monster
 ---
-
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ---
 
@@ -153,6 +151,11 @@ Powers that can’t be augmented, or that are manifested at their normal minimum
 
 Some creatures may have particular powers that are manifested at a higher or lower level than their normal manifester level. In such cases, the manifester level is given in the parenthetical information following the power name.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

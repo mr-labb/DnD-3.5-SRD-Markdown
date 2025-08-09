@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Energy Drained
 title: Compendium\Basics\Abilities and Conditions\
-tag: Conditions
+tags: 
+ - 35E_SRD
+ - Conditions
 ---
 
 ---
@@ -21,6 +23,11 @@ Alos see [[Energy Drain and Negative Levels]].
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

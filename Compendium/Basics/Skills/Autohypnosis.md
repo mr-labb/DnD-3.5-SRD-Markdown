@@ -2,7 +2,9 @@
 aliases:
  - Autohypnosis
 title: Compendium/Basics/skills/Autohypnosis
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ## AUTOHYPNOSIS [(Wis; Trained Only)]
 
@@ -57,6 +59,11 @@ If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on [[Compendium/
 
 If you have 5 or more ranks in [[Concentration]], you get a +2 bonus on Autohypnosis checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

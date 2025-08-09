@@ -1,6 +1,9 @@
 ---
 lang: en
 title: Compendium/Basics/Humans 
+tags: 
+ - 35E_SRD
+ - Races
 ---
 
 ### Humans

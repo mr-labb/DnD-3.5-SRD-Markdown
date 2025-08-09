@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Gaseous Form
 title: Compendium\Basics\Abilities and Conditions\Gaseous Form
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -24,6 +26,11 @@ Discerning a creature in gaseous form from natural mist requires a DC 15 Spot ch
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

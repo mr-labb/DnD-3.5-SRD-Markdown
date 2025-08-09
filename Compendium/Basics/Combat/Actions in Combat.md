@@ -1,11 +1,10 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Actions in Combat
+tags:
+ - 35E_SRD
+ - Actions
 ---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ##### THE COMBAT ROUND
 
@@ -418,6 +417,11 @@ Certain feats let you take special actions in combat. Other feats do not require
 
 Most skill uses are standard actions, but some might be move actions, full-round actions, free actions, or something else entirely. The individual skill descriptions tell you what sorts of actions are required to perform skills.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

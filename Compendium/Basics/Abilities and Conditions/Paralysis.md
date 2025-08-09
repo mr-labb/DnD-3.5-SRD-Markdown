@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Paralysis
 title: Compendium\Basics\Abilities and Conditions\Paralysis
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -23,6 +26,11 @@ A winged creature flying in the air at the time that it becomes paralyzed cannot
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

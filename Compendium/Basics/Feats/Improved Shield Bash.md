@@ -2,7 +2,10 @@
 aliases:
  - Improved Shield Bash
 title: Improved Shield Bash
-tags: Feat, General_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - General_Feat
 ---
 ### Improved Shield Bash 
 ***Feat Type: General***
@@ -21,6 +24,11 @@ fighter bonus feats.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

@@ -3,15 +3,36 @@ lang: en
 aliases:
  - Barbarian
 title: Compendium/Basics/Classe/Barbarian
-tag: Class, Barbarian
+tags: 
+ - 35E_SRD
+ - Class
+ - Barbarian
 ---
 
 ---
 
 ### BARBARIAN
 
-<br><br>From the frozen wastes of the north and the hellish jungles of the south come brave, even reckless, warriors. Civilized people call them barbarians or berserkers and suspect them of mayhem, impiety, and atrocities. These "barbarians," however, have proven their mettle and their value to those who would be their allies. To enemies who underestimated them, they have proved their cunning, resourcefulness, persistence, and mercilessness.<br><br>Adventuring is the best chance barbarians have of finding a place in a civilized society. They're not well suited to the monotony of guard duty or other mundane tasks. Barbarians also have no trouble with the dangers, the uncertainties, and the wandering that adventuring involves. They may adventure to defeat hated enemies. They have a noted distaste for that which they consider unnatural, including undead, demons, and devils.<br><br>The barbarian is an excellent warrior. Where the fighter's skill in combat comes from training and discipline, however, the barbarian has a powerful rage. While in this berserk fury, he becomes stronger and tougher, better able to defeat his foes and withstand their attacks. These rages leave him winded, and he has the energy for only a few such spectacular displays per day, but those few rages are usually sufficient. He is at home in the wild, and he runs at great speed.<br><br>Barbarians are never lawful. They may be honorable, but at heart they are wild. This wildness is their strength, and it could not live in a lawful soul. At best, barbarians of chaotic alignment are free and expressive. At worst, they are thoughtlessly destructive.<br><br>Some barbarians distrust established religions and prefer an intuitive, natural relationship to the cosmos over formal worship. Others devote themselves to powerful deities, such as Kord (god of strength), Obad-Hai (god of nature), or Erythnul (god of slaughter). A barbarian is capable of fierce devotion to his god.<br><br>Barbarians come from uncivilized lands or from barbaric tribes on the outskirts of civilization. A barbarian adventurer may have been lured to the settled lands by the promise of riches, may have escaped after being captured in his homeland and sold into "civilized" slavery, may have been recruited as a soldier, or may have been driven out of his homeland by invaders. Barbarians share no bond with each other unless they come from the same tribe or land. In fact, they think of themselves not as barbarians but as warriors.<br><br>Human barbarians come from the distant wild lands on the edge of civilization. Most half-orc barbarians lived among orcs before abandoning them for human lands. Dwarf barbarians are rare, usually hailing from dwarven kingdoms that have fallen into barbarism as a result of recurrent war with goblinoids, orcs, and giants. Barbarians of other races are very rare.<br><br>Among the brutal humanoids, barbarians are more common than fighters. Orcs and ogres are especially likely to be barbarians.<br><br>As people of the wild, barbarians are most comfortable in the company of rangers, druids, and clerics of nature deities, such as Obad-Hai or Ehlonna. Many barbarians admire the talents and spontaneity of bards, and some are enthusiastic lovers of music. Barbarians don't trust that which they don't understand, and that includes wizardry, which they call "book magic." They find sorcerers more understandable than wizards, but maybe that's just because sorcerers tend to be more charismatic. Monks, with their studied, practiced, deliberate approach to combat, sometimes have a hard time seeing eye to eye with barbarians, but members of these classes aren't necessarily hostile to each other. Barbarians have no special attitudes toward fighters, paladins, clerics, or rogues.<br><br>A barbarian's typical primary role in a group of adventurers is as a front-line combat specialist. No other character can match his sheer toughness. He can also serve as a good scout, thanks to his speed, skill selection, and trap sense.|
-||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+From the frozen wastes of the north and the hellish jungles of the south come brave, even reckless, warriors. Civilized people call them barbarians or berserkers and suspect them of mayhem, impiety, and atrocities. These "barbarians," however, have proven their mettle and their value to those who would be their allies. To enemies who underestimated them, they have proved their cunning, resourcefulness, persistence, and mercilessness.
+
+Adventuring is the best chance barbarians have of finding a place in a civilized society. They're not well suited to the monotony of guard duty or other mundane tasks. Barbarians also have no trouble with the dangers, the uncertainties, and the wandering that adventuring involves. They may adventure to defeat hated enemies. They have a noted distaste for that which they consider unnatural, including undead, demons, and devils.
+
+The barbarian is an excellent warrior. Where the fighter's skill in combat comes from training and discipline, however, the barbarian has a powerful rage. While in this berserk fury, he becomes stronger and tougher, better able to defeat his foes and withstand their attacks. These rages leave him winded, and he has the energy for only a few such spectacular displays per day, but those few rages are usually sufficient. He is at home in the wild, and he runs at great speed.
+
+Barbarians are never lawful. They may be honorable, but at heart they are wild. This wildness is their strength, and it could not live in a lawful soul. At best, barbarians of chaotic alignment are free and expressive. At worst, they are thoughtlessly destructive.
+
+Some barbarians distrust established religions and prefer an intuitive, natural relationship to the cosmos over formal worship. Others devote themselves to powerful deities, such as Kord (god of strength), Obad-Hai (god of nature), or Erythnul (god of slaughter). A barbarian is capable of fierce devotion to his god.
+
+Barbarians come from uncivilized lands or from barbaric tribes on the outskirts of civilization. A barbarian adventurer may have been lured to the settled lands by the promise of riches, may have escaped after being captured in his homeland and sold into "civilized" slavery, may have been recruited as a soldier, or may have been driven out of his homeland by invaders. Barbarians share no bond with each other unless they come from the same tribe or land. In fact, they think of themselves not as barbarians but as warriors.
+
+Human barbarians come from the distant wild lands on the edge of civilization. Most half-orc barbarians lived among orcs before abandoning them for human lands. Dwarf barbarians are rare, usually hailing from dwarven kingdoms that have fallen into barbarism as a result of recurrent war with goblinoids, orcs, and giants. Barbarians of other races are very rare.
+
+Among the brutal humanoids, barbarians are more common than fighters. Orcs and ogres are especially likely to be barbarians.
+
+As people of the wild, barbarians are most comfortable in the company of rangers, druids, and clerics of nature deities, such as Obad-Hai or Ehlonna. Many barbarians admire the talents and spontaneity of bards, and some are enthusiastic lovers of music. Barbarians don't trust that which they don't understand, and that includes wizardry, which they call "book magic." They find sorcerers more understandable than wizards, but maybe that's just because sorcerers tend to be more charismatic. Monks, with their studied, practiced, deliberate approach to combat, sometimes have a hard time seeing eye to eye with barbarians, but members of these classes aren't necessarily hostile to each other. Barbarians have no special attitudes toward fighters, paladins, clerics, or rogues.
+
+A barbarian's typical primary role in a group of adventurers is as a front-line combat specialist. No other character can match his sheer toughness. He can also serve as a good scout, thanks to his speed, skill selection, and trap sense.|
+
 
 **Alignment**: Any nonlawful.
 
@@ -175,7 +196,7 @@ To take a duskling barbarian substitution level, a character must be a duskling 
 
 ##### Class Skills
 
-Duskling barbarian substitution levels grant the same class skills as the standard barbarian class, plus [[Compendium/Basics/Skills/Knowledge]] (the planes).
+Duskling barbarian substitution levels grant the same class skills as the standard barbarian class, plus [[Knowledge]] (the planes).
 
 **Skill Points at Each Level**: 4 + Int modifier (or four times this number as a beginning character).
 
@@ -215,7 +236,7 @@ Barbarians of the Fangshields have few worries about traps, because they spend m
 
 ##### Requirements
 
-To take a Fangshields barbarian substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (religion), and be about to take his 3rd, 5th, or 7th level of barbarian.
+To take a Fangshields barbarian substitution level, a character must be a nonhumanoid creature, be a member of the Fangshields, have 1 rank in [[Knowledge]] (religion), and be about to take his 3rd, 5th, or 7th level of barbarian.
 
 ##### Class Skills
 
@@ -317,7 +338,7 @@ To take a goliath barbarian substitution level, a character must be a goliath ab
 
 ##### Class Skills
 
-Goliath barbarian substitution levels have the class skills of the standard barbarian class plus [[Compendium/Basics/Skills/Knowledge]] (nature) (Int).
+Goliath barbarian substitution levels have the class skills of the standard barbarian class plus [[Knowledge]] (nature) (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier (or four times this number as a beginning character).
 
@@ -523,7 +544,7 @@ These half-elf barbarians lose their +2 bonus on Diplomacy and Gather Informatio
 
 Let the weak squint over paper. You know the world belongs to the mighty - not the learned. Rather than considering it a drawback you embrace your willful ignorance and turn it to your advantage.
 
-These half-orc barbarians can never learn to read, even if they take levels in other classes, nor may they ever place skill ranks in any [[Compendium/Basics/Skills/Knowledge]] skill. A half-orc barbarian's contempt for "book learning" grants him a +2 bonus on all Intimidate and Survival checks.
+These half-orc barbarians can never learn to read, even if they take levels in other classes, nor may they ever place skill ranks in any [[Knowledge]] skill. A half-orc barbarian's contempt for "book learning" grants him a +2 bonus on all Intimidate and Survival checks.
 
 ##### Halfling Barbarian
 
@@ -543,7 +564,7 @@ To take a barbarian planar substitution level, a character must be about to take
 
 The character must also fulfill any one of the following criteria:
 
-* Have 1 rank in [[Compendium/Basics/Skills/Knowledge]] (the planes).
+* Have 1 rank in [[Knowledge]] (the planes).
 
 * Have a heritage feat.
 
@@ -553,7 +574,7 @@ The character must also fulfill any one of the following criteria:
 
 ##### Class Skills
 
-Barbarian planar substitution levels have the class skills of the standard barbarian class plus [[Compendium/Basics/Skills/Knowledge]] (the planes) (Int).
+Barbarian planar substitution levels have the class skills of the standard barbarian class plus [[Knowledge]] (the planes) (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -634,7 +655,7 @@ Note that she need not swap out all these skills. A skilled city-dweller may pic
 |Skill Replaced|Skill Gained|
 |---|---|
 |[[Handle Animal]]|[[Gather Information]]|
-|[[Compendium/Basics/Skills/Knowledge]] (nature)|[[Compendium/Basics/Skills/Knowledge]] (local)|
+|[[Knowledge]] (nature)|[[Knowledge]] (local)|
 |[[Survival]]|[[Sense Motive]]|
 |[[Ride]]|[[Tumble]]|
 
@@ -648,7 +669,7 @@ Most barbarians and rogues have a preternatural awareness of danger, whether the
 
 **Level**: 3rd.
 
-**Special Requirement**: [[Compendium/Basics/Skills/Knowledge]] (arcana) 1 rank.
+**Special Requirement**: [[Knowledge]] (arcana) 1 rank.
 
 **Replaces**: You do not gain the trap sense class feature (or any later improvements to that class feature).
 
@@ -896,6 +917,11 @@ A barbarian using this variant doesn't gain indomitable will at 14th level. Inst
 
 A character can't use whirling frenzy at the same time that he uses any other form of rage (or similar ability).
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

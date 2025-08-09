@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Scent
 title: Compendium\Basics\Abilities and Conditions\Scent
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---
@@ -29,6 +32,11 @@ False, powerful odors can easily mask other scents. The presence of such an odor
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

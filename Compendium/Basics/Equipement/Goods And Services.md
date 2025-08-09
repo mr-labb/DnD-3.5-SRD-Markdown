@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Goods And Services
+tags:
+ - 35E_SRD
 ---
 
 

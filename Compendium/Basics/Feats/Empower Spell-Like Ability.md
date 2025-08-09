@@ -2,7 +2,10 @@
 aliases:
  - Empower Spell-Like Ability
 title: Empower Spell-Like Ability
-tags: Feat, Monster_Feat
+tags: 
+ - 35E_SRD
+ - Feat
+ - Monster_Feat
 ---
 ### Empower Spell-Like Ability 
 ***Feat Type: General***
@@ -31,6 +34,11 @@ abilities.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

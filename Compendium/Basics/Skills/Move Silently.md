@@ -2,7 +2,9 @@
 aliases:
  - Move Silently
 title: Compendium/Basics/skills/Move Silently
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Move Silently [(Dex; Armor Check Penalty)]
 
@@ -35,6 +37,11 @@ A halfling has a +2 racial bonus on Move Silently checks.
 If you have the Stealthy feat, you get a +2 bonus on Move Silently
 checks.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

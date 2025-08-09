@@ -1,11 +1,9 @@
 ---
-lang: en
-aliases:
- - 
 title: Compendium/Basics/ Combat Initiative and Attacks of Opportunity
+tags:
+ - 35E_SRD
 ---
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 
 ### INITIATIVE
@@ -55,6 +53,11 @@ An attack of opportunity “interrupts” the normal flow of actions in the roun
 
 _Combat Reflexes and Additional Attacks of Opportunity_: If you have the Combat Reflexes feat you can add your Dexterity modifier to the number of attacks of opportunity you can make in a round. This feat does not let you make more than one attack for a given opportunity, but if the same opponent provokes two attacks of opportunity from you, you could make two separate attacks of opportunity (since each one represents a different opportunity). Moving out of more than one square threatened by the same opponent in the same round doesn’t count as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

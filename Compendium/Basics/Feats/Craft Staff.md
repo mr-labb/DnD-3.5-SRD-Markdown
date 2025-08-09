@@ -2,7 +2,9 @@
 aliases:
  - Craft Staff
 title: Craft Staff
-tags: Feat
+tags: 
+ - 35E_SRD
+ - Feat
 ---
 ### Craft Staff 
 ***Feat Type: Item Creation***
@@ -23,6 +25,11 @@ the staff 's base price.
 
 Source :
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

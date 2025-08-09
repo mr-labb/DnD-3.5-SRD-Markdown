@@ -3,7 +3,9 @@ lang: en
 aliases:
  - Invisibility
 title: Compendium\Basics\Abilities and Conditions\Invisibility
-tag: Abilities
+tags: 
+ - 35E_SRD
+ - Abilities
 ---
 
 ---
@@ -64,6 +66,11 @@ Since some creatures can detect or even see invisible creatures, it is helpful t
 
 <br><br>
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

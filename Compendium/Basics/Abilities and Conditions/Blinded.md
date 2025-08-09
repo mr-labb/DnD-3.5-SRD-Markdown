@@ -3,7 +3,10 @@ lang: en
 aliases:
  - Blinded
 title: Compendium\Basics\Abilities and Conditions\Blinded
-tag: Abilities, Conditions
+tags: 
+ - 35E_SRD
+ - Abilities
+ - Conditions
 ---
 
 ---

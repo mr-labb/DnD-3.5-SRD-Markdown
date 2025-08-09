@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Compendium/Basics/Equipement/Magic Items/Wondrous items
+tags:
+ - 35E_SRD
 ---
 
 ## Wondrous Items

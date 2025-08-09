@@ -19,7 +19,6 @@ What it will include:
 
 ##  To do
 
-- [ ] Review each spell to include internal link (table need to be redone in markdown format)
 - [ ] Review spell for those saying function like ...  and put the right text instead
 - [ ] Divine Rules need to be formated
 - [ ] Psionics need to be formated

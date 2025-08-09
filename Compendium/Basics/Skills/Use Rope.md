@@ -2,7 +2,9 @@
 aliases:
  - Use Rope
 title: Compendium/Basics/skills/Use Rope
-tags: skill
+tags: 
+ - 35E_SRD
+ - skill
 ---
 ### Use Rope [(Dex)]
 
@@ -10,16 +12,18 @@ tags: skill
 Most tasks with a rope are relatively simple. The DCs for
 various tasks utilizing this skill are summarized on the table below.
 
-  -------------------------------------------------------------------- ----------------------------------------------------------------------------------
-  Use Rope DC                                                          Task
-  10                                                                   Tie a firm knot
-  10^1^                                                                Secure a grappling hook
-  15                                                                   Tie a special knot, such as one that slips, slides slowly, or loosens with a tug
-  15                                                                   Tie a rope around yourself one-handed
-  15                                                                   Splice two ropes together
-  Varies                                                               Bind a character
-  1 Add 2 to the DC for every 10 feet the hook is thrown; see below.   
-  -------------------------------------------------------------------- ----------------------------------------------------------------------------------
+|Use Rope DC|Task|
+|---|---|
+|10|Tie a firm knot|
+|101|Secure a grappling hook|
+|15|Tie a special knot, such as one that slips, slides slowly, or loosens with a tug|
+|15|Tie a rope around yourself one-handed|
+|15|Splice two ropes together|
+|Varies|Bind a character|
+|50|Quick splicing|
+|60|Tie unique knot|
+|80|Animate held rope|
+1 _Add 2 to the DC for every 10 feet the hook is thrown; see below._
 
 *Secure a Grappling Hook:* Securing a grappling hook requires a Use Rope
 check (DC 10, +2 for every 10 feet of distance the grappling hook is
@@ -65,6 +69,11 @@ Artist checks when escaping from rope bonds.
 If you have 5 or more ranks in Escape Artist, you get a +2 bonus on
 checks made to bind someone.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
