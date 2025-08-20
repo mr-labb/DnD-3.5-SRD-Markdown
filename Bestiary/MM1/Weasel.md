@@ -9,10 +9,13 @@ Monster: Weasel
 Size: Tiny
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.25
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -68,14 +71,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.25
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d3-4)"
@@ -90,6 +93,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 These little mammals are aggressive predators but usually confine themselves to smaller prey. The statistics presented here can also apply to ferrets.

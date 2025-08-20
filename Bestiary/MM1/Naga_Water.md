@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 7
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +7 melee (2d6+4 plus poison)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Combat Casting, Eschew Materials (B), Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 All nagas have long, snakelike bodies covered with glistening scales, and more or less human faces. They range in length from 10 to 20 feet and weigh from 200 to 500 pounds. The eyes of a naga are bright and intelligent, burning with an almost hypnotic inner light.

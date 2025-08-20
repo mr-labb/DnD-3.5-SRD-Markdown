@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/magic, darkvision 60 ft., scent
+   desc: [[Damage Reduction]] 10/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Scent]]
 actions:
   - name: Full Attack
     desc: "4 tentacles +3 melee (1d4+2); bite -2 melee (1d3+1)"
@@ -90,6 +93,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 An adult grick is about 8 feet long from the tips of its tentacles to the end of its body and weighs some 200 pounds. Its body coloration is uniformly dark, with a pale underbelly.
 
@@ -97,7 +103,7 @@ COMBAT
 
 Gricks attack when hungry or threatened. They hunt by holing up near high-traffic areas, using their natural coloration to blend into convenient shadows. When prey (virtually anything that moves) ventures near, they lash out with their tentacles. A grick's rubbery body seems to shed blows of any kind. Its jaws are relatively small and weak compared to its body mass, so rather than consume its kill immediately, a grick normally drags its victim back to its lair to be eaten at its leisure.
 
-A grick's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A grick's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 Multiple gricks do not fight in concert. Each attacks the prey closest to it, and breaks off the fight as soon as it can drag dead or unconscious prey away.
 

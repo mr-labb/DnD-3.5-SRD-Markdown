@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar
 CR: 9
 Environnent: A evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/cold iron and magic, immunity to fire, cold, charm, sleep, and fear, spell resistance 25
+   desc: [[Damage Reduction]] 10/cold iron and magic, [[fire Immunity|Immunity to fire]], cold, charm, sleep, and fear, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 25
 actions:
   - name: Full Attack
     desc: "Bite +12 melee (2d6+6 plus disease)"
@@ -96,6 +99,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A night hag is about the same height and weight as a female human.
 
@@ -107,7 +113,7 @@ Night hags attack good creatures on sight if the odds of success seem favorable.
 
 These creatures rip through armor and flesh with their deadly teeth. They love to use *sleep* and then strangle those who are overcome by it.
 
-A night hag's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A night hag's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[Damage Reduction]]. Its natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Disease (Ex):** Demon fever - bite, Fortitude DC 18, incubation period 1 day, damage 1d6 Con. Each day after the first, on a failed save, an afflicted creature must immediately succeed on another DC 18 Fortitude save or take 1 point of Constitution drain. The save DC is Constitution based.

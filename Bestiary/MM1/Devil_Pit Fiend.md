@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 20
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -90,7 +93,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 15/good and silver, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, regeneration 5 (silver and good or spell and good), see in darkness, spell resistance 32, telepathy 100 ft.
+   desc: [[Damage Reduction]] 15/good and silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, [[Regeneration]] 5 (silver and good or spell and good), see in darkness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 32, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "2 claws +30 melee (2d8+13) and 2 wings +28 melee (2d6+6) and bite +28 melee (4d6+6 plus poison plus disease) and tail slap +28 melee (2d8+6)"
@@ -105,6 +108,9 @@ traits:
      desc: Cleave, Great Cleave, Improved Initiative, Iron Will, Multiattack, Power Attack, Quicken Spell-Like Ability ([[fireball]])
 combat_gear:  
 ```
+
+## Description
+
 
 
 Devils are fiends from lawful evil-aligned planes.
@@ -122,7 +128,7 @@ Combat
 
 Pit fiends are wily and resourceful fighters, using *invisibility* to gain the upper hand and biting at foes seemingly able to see them. They don't hesitate to blanket an area with *fireballs* , and can call down the wrath of an inferno with *[[meteor swarm]].*
 
-A pit fiend's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A pit fiend's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Constrict (Ex):** A pit fiend deals 2d8+26 points of damage with a successful grapple check.
@@ -153,7 +159,7 @@ Once per year a pit fiend can use *[[wish]]* as the spell (caster level 20th).
 **(Sp):** Twice per day a pit fiend can automatically summon 2 lemures, bone devils, or bearded devils, or 1 erinyes, [[Devil_Horned|horned devil]], or [[Devil_Ice|ice devil]]. This ability is the equivalent of an 8th-level spell.
 
 
-**Regeneration (Ex):** A pit fiend takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
+**[[Regeneration]] (Ex):** A pit fiend takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
 
 Tactics Round-by-Round
 

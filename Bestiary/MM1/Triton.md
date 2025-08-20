@@ -12,7 +12,10 @@ Subtype: Native, Water
 CR: 2
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Trident +4 melee (1d8+1) or heavy crossbow +3 ranged (1d10/19-20)"
@@ -96,6 +99,9 @@ traits:
      desc: Mounted Combat, Ride-By Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A triton has silvery skin that fades into silver-blue scales on the lower half of its body. A triton's hair is deep blue or blue-green.

@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 40 ft., immunities, scent
+   desc: [[Blindsight]] 40 ft., immunities, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Battleaxe +4 melee (1d8+3/x3)"
@@ -90,15 +93,18 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 COMBAT
 
 Grimlocks are blind, but their exceptional senses of smell and hearing allow them to notice foes nearby. As a result, they usually shun ranged weapons and rush to the attack, brandishing their stone battleaxes.
 
 
-**Blindsight (Ex):** Grimlocks can sense all foes within 40 feet as a sighted creature would. Beyond that range, they treat all targets as having total concealment.
+**[[Blindsight]] (Ex):** Grimlocks can sense all foes within 40 feet as a sighted creature would. Beyond that range, they treat all targets as having total concealment.
 
-Grimlocks are susceptible to sound- and scent-based attacks, however, and are affected normally by loud noises and sonic spells (such as *[[ghost sound]]* or *silence* ) and overpowering odors (such as *[[stinking cloud]]* or incense-heavy air). Negating a grimlock's sense of smell or hearing reduces this ability to normal Blind-Fight (as the feat). If both these senses are negated, a grimlock is effectively blinded.
+Grimlocks are susceptible to sound- and [[Scent]]-based attacks, however, and are affected normally by loud noises and sonic spells (such as *[[ghost sound]]* or *silence* ) and overpowering odors (such as *[[stinking cloud]]* or incense-heavy air). Negating a grimlock's sense of smell or hearing reduces this ability to normal Blind-Fight (as the feat). If both these senses are negated, a grimlock is effectively blinded.
 
 
 **Immunities:** Grimlocks are immune to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.

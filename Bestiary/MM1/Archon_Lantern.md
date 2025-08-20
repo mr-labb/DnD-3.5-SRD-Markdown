@@ -12,7 +12,10 @@ Subtype: Archon, Extraplanar, Good, Lawful
 CR: 2
 Environnent: A lawful good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aura of menace, damage reduction 10/evil and magic, darkvision 60 ft., immunity to electricity and petrification, [[magic circle against evil]], [[teleport]], [[tongues]]
+   desc: Aura of menace, [[Damage Reduction]] 10/evil and magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, [[magic circle against evil]], [[teleport]], [[tongues]]
 actions:
   - name: Full Attack
     desc: "2 light rays +2 ranged touch (1d6)"
@@ -91,6 +94,9 @@ traits:
      desc: Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Archons are celestials from a lawful good-aligned plane.
@@ -114,7 +120,7 @@ A lantern archon has little reason to get within melee range. It usually hovers 
 **Aura of Menace (Su):** Will DC 12 negates.
 
 
-**Light Ray (Ex):** A lantern archon's light rays have a range of 30 feet. This attack overcomes damage reduction of any type.
+**Light Ray (Ex):** A lantern archon's light rays have a range of 30 feet. This attack overcomes [[Damage Reduction]] of any type.
 
 
 **Spell-Like Abilities:** At will - *[[aid]], [[detect evil]], [[continual flame]].* Caster level 3rd.

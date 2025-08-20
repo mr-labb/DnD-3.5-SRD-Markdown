@@ -9,10 +9,13 @@ Monster: Skeleton, Human Warrior
 Size: Medium
 Type: Undead
 Subtype: 
-CR: 0
+CR: 0.33
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -64,14 +67,14 @@ senses:
 damage_immunities: "to cold"
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.33
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits
+   desc: [[Damage Reduction]] 5/bludgeoning, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]], [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Scimitar +1 melee (1d6+1/18-20) or 2 claws +1 melee (1d4+1)"
@@ -87,6 +90,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.
 
@@ -96,10 +102,10 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 **Special Qualities:** A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.
 
 
-*Immunity to Cold (Ex):* Skeletons are not affected by cold.
+*[[Cold Immunity|Immunity to cold]] (Ex):* Skeletons are not affected by cold.
 
 
-*Damage Reduction 5/Bludgeoning:* Skeletons lack flesh or internal organs.
+*[[Damage Reduction]] 5/Bludgeoning:* Skeletons lack flesh or internal organs.
 
 ---
 

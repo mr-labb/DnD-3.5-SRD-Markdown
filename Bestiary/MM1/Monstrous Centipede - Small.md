@@ -9,10 +9,13 @@ Monster: Monstrous Centipede, Small
 Size: Small
 Type: Vermin
 Subtype: 
-CR: 0
+CR: 0.25
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d4-3 plus poison)"
@@ -88,6 +91,9 @@ traits:
      desc: Weapon Finesse (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.

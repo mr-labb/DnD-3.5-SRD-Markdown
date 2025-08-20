@@ -9,10 +9,13 @@ Monster: Merfolk, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
 Subtype: Aquatic
-CR: 0
+CR: 0.5
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Amphibious, low-light vision
+   desc: Amphibious, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Trident +2 melee (1d8+1) or heavy crossbow +2 ranged (1d10/19-20)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 A merfolk is about 8 feet long from the top of the head to the end of the tail, and weighs about 400 pounds.

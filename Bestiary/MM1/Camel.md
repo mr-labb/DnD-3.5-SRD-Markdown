@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +0 melee* (1d4+2*)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 Camels are known for their ability to travel long distances without food or water.

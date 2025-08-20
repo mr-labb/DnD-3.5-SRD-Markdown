@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, evasion
+   desc: [[low-light vision]], evasion
 actions:
   - name: Full Attack
     desc: "2 claws +7 melee (1d6+4) and bite +2 melee (1d8+2)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Flyby Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical giant eagle stands about 10 feet tall, has a wingspan of up to 20 feet, and resembles its smaller cousins in nearly every way except size. It weighs about 500 pounds.

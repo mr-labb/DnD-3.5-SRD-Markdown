@@ -12,7 +12,10 @@ Subtype: Shapechanger
 CR: 7
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Alternate form, amorphous, resilient, scent, telepathy 100 ft., tremorsense 60 ft.
+   desc: Alternate form, amorphous, resilient, [[Scent]], telepathy 100 ft., tremorsense 60 ft.
 actions:
   - name: Full Attack
     desc: "Slam +12 melee (1d3+1)"
@@ -95,6 +98,9 @@ traits:
      desc: Alertness, Blind-Fight, Combat Reflexes, Dodge, Improved Initiative, Mobility
 combat_gear:  
 ```
+
+## Description
+
 
 
 A phasm is an amorphous creature that can assume the guise of almost any other creature or object. A phasm in its natural form is about 5 feet in diameter and 2 feet high at the center. Swirls of color indicate sensory organs. In this form, a phasm slithers about like an ooze and can attack with a pseudopod. It weighs about 400 pounds.

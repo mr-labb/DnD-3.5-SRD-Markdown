@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d6+3)"
@@ -91,6 +94,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 This category includes working breeds such as collies, huskies, and St. Bernards.
 
@@ -102,7 +108,7 @@ Combat
 If trained for war, these animals can make trip attacks just as wolves do (see the [[Wolf]] entry). A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
 
 
-**Skills:** Riding dogs have a +4 racial bonus on Jump checks. *Riding dogs have a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** Riding dogs have a +4 racial bonus on Jump checks. *Riding dogs have a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 

@@ -9,10 +9,13 @@ Monster: Zombie, Human Commoner
 Size: Medium
 Type: Undead
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -64,14 +67,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
+   desc: Single actions only, [[Damage Reduction]] 5/slashing, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Slam +2 melee (1d6+1) or club +2 melee (1d6+1)"
@@ -86,6 +89,9 @@ traits:
      desc: Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Zombies are corpses reanimated through dark and sinister magic.

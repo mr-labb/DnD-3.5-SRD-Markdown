@@ -9,10 +9,13 @@ Monster: Pony, War
 Size: Medium
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 hooves +3 melee (1d3+2)"
@@ -87,6 +90,9 @@ traits:
      desc: Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 Warponies are bred for strength and aggression, and are similar to light warhorses.

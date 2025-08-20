@@ -12,7 +12,10 @@ Subtype: Cold
 CR: 17
 Environnent: Cold mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aura of despair, aura of evil, [[command undead]], dark blessing, [[detect good]], immunity to cold, low-light vision, poison use, resistance to fire 10, rock catching, vulnerability to fire
+   desc: Aura of despair, aura of evil, [[command undead]], dark blessing, [[detect good]], [[Cold Immunity|Immunity to cold]], [[low-light vision]], poison use, [[Resistance To Energy|Resistance To]] fire 10, rock catching, [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "+2 frost greataxe +30/+25/+20/+15 melee (3d6+18/x3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)"
@@ -91,6 +94,9 @@ traits:
      desc: Cleave, Great Cleave, Improved Initative, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Quick Draw
 combat_gear:  
 ```
+
+## Description
+
 
 
 A frost giant's hair can be light blue or dirty yellow, and its eyes usually match its hair color. Frost giants dress in skins and pelts, along with any jewelry they own. Frost giant warriors add chain shirts and metal helmets decorated with horns or feathers.

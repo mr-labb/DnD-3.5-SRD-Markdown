@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Cold marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 60 ft., immunityto cold and fire, Ooze traits, Transparent
+   desc: [[Blindsight]] 60 ft., immunityto cold and fire, Ooze traits, Transparent
 actions:
   - name: Full Attack
     desc: "Slam +1 melee (1d6+1 plus 1d4 acid)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

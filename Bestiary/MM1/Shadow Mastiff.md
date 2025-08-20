@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 5
 Environnent: Plane of Shadow
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., shadow blend, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., shadow blend, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +7 melee (1d6+4)"
@@ -90,6 +93,9 @@ traits:
      desc: Dodge, Improved Initiative, Track (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 This creature has the body of a large dog, with a smooth black coat and a mouth full of sharp teeth.
@@ -114,7 +120,7 @@ If a magical light source negates the shadows around them, shadow mastiffs are c
 **Shadow Blend (Su):** In any condition of illumination other than full daylight, a shadow mastiff can disappear into the shadows, giving it total concealment. Artificial illumination, even a *light* or *[[continual flame]]* spell, does not negate this ability. A *daylight* spell, however, will.
 
 
-**Skills:** *A shadow mastiff has a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** *A shadow mastiff has a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 

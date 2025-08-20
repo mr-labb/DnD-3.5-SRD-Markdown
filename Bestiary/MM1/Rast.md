@@ -12,7 +12,10 @@ Subtype: Extraplanar, Fire
 CR: 5
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., flight, immunity to fire, vulnerability to cold
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., flight, [[fire Immunity|Immunity to fire]], [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "4 claws +6 melee (1d4+2) or bite +6 melee (1d8+3)"
@@ -89,6 +92,9 @@ traits:
      desc: Improved Initiative, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 A rast has anywhere from ten to fifteen claws, though it can only use four at once.

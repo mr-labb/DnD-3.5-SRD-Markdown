@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Fire, Lawful
 CR: 9
 Environnent: A lawful evil plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to fire, scent, vulnerability to cold
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]], [[Scent]], [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "Bite +20 melee (2d6+12/19-20 plus 1d8 fire)"
@@ -93,6 +96,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A typical hell hound stands 4-1/2 feet high at the shoulder and weighs 120 pounds.
 
@@ -102,12 +108,12 @@ COMBAT
 
 Hell hounds are efficient hunters. A favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving it toward the rest with their fiery breath. If the prey doesn't run, the pack closes in. Hell hounds track fleeing prey relentlessly.
 
-A hell hound's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A hell hound's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Skills:** Hell hounds have a +5 racial bonus on Hide and Move Silently checks.
 
-*They also receive a +8 racial bonus on Survival checks when tracking by scent, due to their keen sense of smell.
+*They also receive a +8 racial bonus on Survival checks when tracking by [[Scent]], due to their keen sense of smell.
 
 
 **NESSIAN WARHOUND**

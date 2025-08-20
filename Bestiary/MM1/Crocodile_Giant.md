@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Warm marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Hold breath, low-light vision
+   desc: Hold breath, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Endurance, Skill Focus (Hide)
 combat_gear:  
 ```
+
+## Description
+
 
 
 These huge creatures usually live in salt water and can be more than 20 feet long.

@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Hold breath, low-light vision
+   desc: Hold breath, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Skill Focus (Hide)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Crocodiles are aggressive predators 11 to 12 feet long. They lie mostly submerged in rivers or marshes, with only their eyes and nostrils showing, waiting for prey to come within reach.

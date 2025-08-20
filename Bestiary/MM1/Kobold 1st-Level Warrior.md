@@ -12,7 +12,10 @@ Subtype: Reptilian
 CR: 0.125
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., light sensitivity
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., light sensitivity
 actions:
   - name: Full Attack
     desc: "Spear +1 melee (1d6-1/x3) or sling +3 ranged (1d3)"
@@ -92,6 +95,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Kobolds are short, reptilian humanoids with cowardly and sadistic tendencies.

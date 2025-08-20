@@ -12,7 +12,10 @@ Subtype: Angel, Extraplanar, Good
 CR: 14
 Environnent: Any good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/evil, darkvision 60 ft., low-light vision, immunity to acid, cold, and petrification, protective aura, resistance to electricity 10 and fire 10, spell resistance 30, [[tongues]],uncanny dodge
+   desc: [[Damage Reduction]] 10/evil, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], immunity to acid, cold, and petrification, protective aura, [[Resistance To Energy|Resistance To]] electricity 10 and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 30, [[tongues]],uncanny dodge
 actions:
   - name: Full Attack
     desc: "+3 heavy mace of disruption +21/+16/+11 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)"
@@ -96,6 +99,9 @@ traits:
      desc: Alertness, Cleave, Great Fortitude, Improved Initiative, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Angels are a race of celestials, beings who live on the good-aligned Outer Planes.
@@ -119,7 +125,7 @@ In combat, most angels make full use of their mobility and their ability to atta
 
 An astral deva is not afraid to enter melee combat. It takes a fierce joy in bashing evil foes with its powerful *+3 heavy mace of disruption.*
 
-An astral deva's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
+An astral deva's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[aid]], [[continual flame]], [[detect evil]], [[discern lies]]* (DC 19), *[[dispel evil]]* (DC 20), *[[dispel magic]], [[holy aura]]* (DC 23), *[[holy smite]]* (DC 19), *[[holy word]]* (DC 22), *[[invisibility]]* (self only), *[[plane shift]]* (DC 22), *[[polymorph]]* (self only), *[[remove curse]]* (DC 18), *[[remove disease]]* (DC 18), *[[remove fear]]* (DC 16); 7/day - *[[cure light wounds]]* (DC 16), *[[see invisibility]];* 1/day - *[[blade barrier]]* (DC 21), *[[heal]]* (DC 21). Caster level 12th. The save DCs are Charisma-based.

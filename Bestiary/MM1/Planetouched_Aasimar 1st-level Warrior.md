@@ -9,10 +9,13 @@ Monster: Planetouched, Aasimar, 1st-level Warrior
 Size: Medium
 Type: Outsider
 Subtype: Native
-CR: 0
+CR: 0.5
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -68,14 +71,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., resistance to acid 5, cold 5, and electricity 5
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Resistance To Energy|Resistance To]] acid 5, cold 5, and electricity 5
 actions:
   - name: Full Attack
     desc: "Longsword +2 melee (1d8+1/19-20) or light crossbow +1 ranged (1d8/19-20)"
@@ -90,6 +93,9 @@ traits:
      desc: Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Planetouched is a general word to describe someone who can trace his or her bloodline back to an outsider, usually a fiend or celestial.

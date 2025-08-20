@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Cold marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 2/bludgeoning, darkvision 60 ft., spell resistance 19
+   desc: [[Damage Reduction]] 2/bludgeoning, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 19
 actions:
   - name: Full Attack
     desc: "2 claws +13 melee (1d6+7) and bite +8 melee (1d6+3)"
@@ -92,6 +95,9 @@ traits:
      desc: Alertness, Blind-Fight, Great Fortitude
 combat_gear:  
 ```
+
+## Description
+
 
 
 Although different hags are unique in appearance and mannerism, they have many aspects in common. All take the form of crones whose bent shapes belie their fierce power and swiftness.

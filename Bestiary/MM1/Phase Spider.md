@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Warm hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -88,6 +91,9 @@ traits:
      desc: Ability Focus (poison), Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Phase spiders are aggressive predators that can move quickly from the Ethereal Plane to attack opponents on the Material Plane.

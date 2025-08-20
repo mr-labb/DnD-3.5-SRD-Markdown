@@ -12,7 +12,10 @@ Subtype: Water, Extraplanar
 CR: 5
 Environnent: Elemental Plane of Water
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/-, darkvision 60 ft., elemental traits
+   desc: [[Damage Reduction]] 5/-, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]]
 actions:
   - name: Full Attack
     desc: "2 slams +10 melee (2d8+5)"
@@ -87,6 +90,9 @@ traits:
      desc: Cleave, Great Cleave, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A water elemental can't venture more than 180 feet from the body of water from which it was conjured.
@@ -116,7 +122,7 @@ Creatures trapped in the vortex cannot move except to go where the elemental car
 
 The elemental can eject any carried creatures whenever it wishes, depositing them wherever the vortex happens to be. A summoned elemental always ejects trapped creatures before returning to its home plane.
 
-If the vortex's base touches the bottom, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the vortex's height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.
+If the vortex's base touches the bottom, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the vortex's height. The cloud obscures all vision, including [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]], beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.
 
 Those caught in the cloud must make a Concentration check (DC 15 + spell level) to cast a spell.
 

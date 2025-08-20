@@ -9,10 +9,13 @@ Monster: Sprite, Pixie
 Size: Small
 Type: Fey
 Subtype: 
-CR: 0
+CR: 4
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,14 +76,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 4
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/cold iron, [[Invisibility Greater|greater invisibility]], low-light vision, spell resistance 15
+   desc: [[Damage Reduction]] 10/cold iron, [[Invisibility Greater|greater invisibility]], [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 15
 actions:
   - name: Full Attack
     desc: "Short sword +5 melee (1d4-2/19-20) or longbow +5 ranged (1d6-2)/x3"
@@ -96,6 +99,10 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
+Challenge Rating: 4 (5 with Otto’s irresistible dance)
 
 Sprites are reclusive fey. They go out of their way to fight evil and ugliness and to protect their homelands. Combat
 

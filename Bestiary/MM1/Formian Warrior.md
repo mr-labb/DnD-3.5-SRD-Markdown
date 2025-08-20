@@ -12,7 +12,10 @@ Subtype: Lawful, Extraplanar
 CR: 3
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Hive mind, immunity to poison, petrification, and cold, resistance to electricity 10, fire 10, and sonic 10, spell resistance 18
+   desc: Hive mind, immunity to poison, petrification, and cold, [[Resistance To Energy|Resistance To]] electricity 10, fire 10, and sonic 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 18
 actions:
   - name: Full Attack
     desc: "Sting +7 melee (2d4+3 plus poison) and 2 claws +5 melee (1d6+1) and bite +5 melee (1d4+1)"
@@ -92,6 +95,9 @@ traits:
      desc: Dodge, Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety.
@@ -115,7 +121,7 @@ Combat
 
 Warriors are wicked combatants, using claws, bite, and a poisonous sting all at once. Through the hive mind, they attack with coordinated and extremely efficient tactics.
 
-A formian warrior's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A formian warrior's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage 1d6 Str. The save DC is Constitution-based.

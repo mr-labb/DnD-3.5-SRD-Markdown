@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Scent
+   desc: [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +13 melee (1d8+10)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Endurance, Skill Focus (Hide),Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Giant constrictor snakes are more aggressive than their smaller cousins, principally because they need a great amount of food to survive.

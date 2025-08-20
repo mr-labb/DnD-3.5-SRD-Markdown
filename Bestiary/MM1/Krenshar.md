@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +2 melee (1d6) and 2 claws +0 melee (1d4)"
@@ -89,6 +92,9 @@ traits:
      desc: Multiattack, Track (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 The krenshar is a strange, catlike carnivore with extremely flexible skin on its head. A typical krenshar measures 4 or 5 feet in length with a long, narrow head. It weighs about 175 pounds.

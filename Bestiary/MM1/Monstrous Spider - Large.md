@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., tremorsense 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d8+3 plus poison)"
@@ -90,6 +93,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 All monstrous spiders are aggressive predators that use their poisonous bites to subdue or kill prey.
 
@@ -101,7 +107,7 @@ Monstrous spiders come in two general types: hunters and web-spinners. Hunters r
 
 **Web (Ex):** Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size. Web-spinners can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the spider. An entangled creature can escape with a successful Escape Artist check or burst it with a Strength check. Both are standard actions whose DCs are 13 and 17, respectively. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus.
 
-Web-spinners often create sheets of sticky webbing from 5 to 60 feet square, depending on the size of the spider. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Spot check to notice a web; otherwise they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has 12 hit points, and sheet webs have damage reduction 5/ - .
+Web-spinners often create sheets of sticky webbing from 5 to 60 feet square, depending on the size of the spider. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Spot check to notice a web; otherwise they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has 12 hit points, and sheet webs have [[Damage Reduction]] 5/ - .
 
 A monstrous spider can move across its own web at its climb speed and can pinpoint the location of any creature touching its web.
 

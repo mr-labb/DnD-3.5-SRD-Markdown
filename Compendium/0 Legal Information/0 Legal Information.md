@@ -1,5 +1,4 @@
 ---
-lang: en
 aliases:
  - Legal Information
 title: Compendium / Basic Rules / Legal Information

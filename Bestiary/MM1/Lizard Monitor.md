@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +5 melee (1d8+4)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Great Fortitude
 combat_gear:  
 ```
+
+## Description
+
 
 
 This category includes fairly large, carnivorous lizards from 3 to 5 feet long.

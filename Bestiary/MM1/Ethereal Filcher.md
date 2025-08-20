@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., [[detect magic]], ethereal jaunt
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[detect magic]], ethereal jaunt
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d4)"
@@ -88,6 +91,9 @@ traits:
      desc: Dodge, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Ethereal filchers are bizarre-looking creatures with a penchant for snatching trinkets from passersby. Their ability to move quickly between the Ethereal Plane and the Material Plane makes them spectacular pickpockets.

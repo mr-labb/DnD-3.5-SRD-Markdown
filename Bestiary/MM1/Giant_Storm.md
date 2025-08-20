@@ -12,7 +12,10 @@ Subtype:
 CR: 13
 Environnent: Warm mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: [[Freedom of movement]], immunity to electricity, low-light vision, rock catching, [[water breathing]]
+   desc: [[Freedom of movement]], immunity to electricity, [[low-light vision]], rock catching, [[water breathing]]
 actions:
   - name: Full Attack
     desc: "Greatsword +26/+21/+16 melee (4d6+21/19-20) or 2 slams +26 melee (1d6+14) or composite longbow (+14 Str bonus) +14/+9/+4 ranged (3d6+14/x3)"
@@ -96,6 +99,9 @@ traits:
      desc: Awesome Blow, Cleave, Combat Reflexes, Improved Bull Rush, Improved Sunder, Iron Will, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Very rarely, storm giants have violet skin. Violet-skinned storm giants have deep violet or blue-black hair with silvery gray or purple eyes. Adults are about 21 feet tall and weigh about 12,000 pounds. Storm giants can live to be 600 years old. Storm giants' garb is usually a short, loose tunic belted at the waist, sandals or bare feet, and a headband. They wear a few pieces of simple but finely crafted jewelry, anklets (favored by barefoot giants), rings, or circlets being most common. They live quiet, reflective lives and spend their time musing about the world, composing and playing music, and tilling their land or gathering food.

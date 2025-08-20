@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsense 60 ft., darkvision 60 ft., immunity to sleep and paralysis, low-light vision, spell resistance 19, telepathy 60 ft.
+   desc: Blindsense 60 ft., [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to sleep and paralysis, [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 19, telepathy 60 ft.
 actions:
   - name: Full Attack
     desc: "Sting +4 melee (1d3-2 plus poison) and bite -1 melee (1)"
@@ -93,6 +96,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A pseudodragon has a body about 1 foot long, with a 2-foot tail. It weights about 7 pounds.
 
@@ -106,7 +112,7 @@ A pseudodragon can deliver a vicious bite, but its principal weapon is its sting
 **Poison (Ex):** Injury, Fortitude DC 14, initial damage sleep for 1 minute, secondary damage sleep for 1d3 hours. The save DC is Constitution-based and includes a +2 racial bonus.
 
 
-**Blindsense (Ex):** A pseudodragon can locate creatures within 60 feet by nonvisual means (mostly hearing and scent, but also by noticing vibration and other environmental clues). Opponents the pseudodragon can't actually see still have total concealment against the pseudodragon.
+**Blindsense (Ex):** A pseudodragon can locate creatures within 60 feet by nonvisual means (mostly hearing and [[Scent]], but also by noticing vibration and other environmental clues). Opponents the pseudodragon can't actually see still have total concealment against the pseudodragon.
 
 
 **Telepathy (Su):** Pseudodragons can communicate telepathically with creatures that speak Common or Sylvan, provided they are within 60 feet.

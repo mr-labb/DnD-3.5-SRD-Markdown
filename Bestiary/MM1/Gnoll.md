@@ -12,7 +12,10 @@ Subtype: Gnoll
 CR: 1
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Battleaxe +3 melee (1d8+2/x3) or shortbow +1 ranged (1d6/x3)"
@@ -87,6 +90,9 @@ traits:
      desc: Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Gnolls are hyena-headed, evil humanoids that wander in loose tribes. Most gnolls have dirty yellow or reddish-brown fur. A gnoll is a nocturnal carnivore, preferring intelligent creatures for food because they scream more. A gnoll is about 7-1/2 feet tall and weighs 300 pounds. Gnolls speak Gnoll.

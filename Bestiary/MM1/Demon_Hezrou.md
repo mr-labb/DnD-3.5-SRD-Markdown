@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 11
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 19, telepathy 100 ft.
+   desc: [[Damage Reduction]] 10/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and poison, [[Resistance To Energy|Resistance To]] acid 10, cold 10, and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 19, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Bite +14 melee (4d4+5) and 2 claws +9 melee (1d8+2)"
@@ -98,6 +101,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -111,7 +117,7 @@ Combat
 
 Hezrous enjoy melee combat even more than vrocks do. They eagerly press an attack deep into the heart of enemy forces, so their stench can take effect as quickly as possible. They enter most battles by using *[[blasphemy]],* and follow it with an occasional *[[chaos hammer]]* or *[[unholy blight]],* depending on the alignment of their opponents.
 
-A hezrou's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A hezrou's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Improved Grab (Ex):** To use this ability, a hezrou must hit with both claw attacks. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.

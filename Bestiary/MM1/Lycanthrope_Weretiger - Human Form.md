@@ -12,7 +12,10 @@ Subtype: Human, Shapechanger
 CR: 5
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Alternate form, tiger empathy, low-light vision, scent
+   desc: Alternate form, tiger empathy, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Glaive +6 melee (1d10+1/x3) or composite longbow (+1 Str bonus) +5 ranged (1d8+1/x3)"
@@ -93,8 +96,11 @@ traits:
 combat_gear:  
 ```
 
+## Description
 
-Lycanthropes are humanoids or giants who can transform themselves into animals. In its natural form, a lycanthrope looks like any other members of its kind, though natural lycanthropes and those who have been afflicted for a long time tend to have or acquire features reminiscent of their animal forms. In animal form, a lycanthrope resembles a powerful version of the normal animal, but on close inspection, its eyes (which often glow red in the dark) show a faint spark of unnatural intelligence.
+
+
+Lycanthropes are humanoids or giants who can transform themselves into animals. In its natural form, a lycanthrope looks like any other members of its kind, though natural lycanthropes and those who have been afflicted for a long time tend to have or acquire features remini[[Scent]] of their animal forms. In animal form, a lycanthrope resembles a powerful version of the normal animal, but on close inspection, its eyes (which often glow red in the dark) show a faint spark of unnatural intelligence.
 
 Lycanthropy can be spread like a disease. Sometimes a lycanthrope begins life as a normal humanoid or giant who subsequently contracts lycanthropy after being wounded by a lycanthrope. Such a creature is called an afflicted lycanthrope. Other lycanthropes are born as lycanthropes, and are known as natural lycanthropes.
 
@@ -102,11 +108,11 @@ Dire wereboars in giant form look much like normal hill giants, though slightly 
 
 COMBAT
 
-A lycanthrope in its humanoid (or giant) form uses whatever tactics and weapons are favored by others of its kind, though it tends to be slightly more aggressive. A lycanthrope possesses the senses of its animal form, including scent and low-light vision, and it has a deep empathy for (and ability to communicate with) animals of its animal form. An afflicted lycanthrope damaged in combat may be overwhelmed by rage, causing it to change to its animal form involuntarily.
+A lycanthrope in its humanoid (or giant) form uses whatever tactics and weapons are favored by others of its kind, though it tends to be slightly more aggressive. A lycanthrope possesses the senses of its animal form, including [[Scent]] and [[low-light vision]], and it has a deep empathy for (and ability to communicate with) animals of its animal form. An afflicted lycanthrope damaged in combat may be overwhelmed by rage, causing it to change to its animal form involuntarily.
 
-A lycanthrope in animal form fights like the animal it resembles, although its bite carries the disease of lycanthropy. It is preternaturally cunning and strong, and possesses damage reduction that is overcome only by silvered weapons.
+A lycanthrope in animal form fights like the animal it resembles, although its bite carries the disease of lycanthropy. It is preternaturally cunning and strong, and possesses [[Damage Reduction]] that is overcome only by silvered weapons.
 
-Finally, a natural lycanthrope (or an afflicted lycanthrope that has become aware of its affliction) can assume a hybrid form that is a mix of its humanoid and animal forms. A hybrid has hands and can use weapons, but it can also attack with its teeth and claws. A hybrid can spread lycanthropy with its bite, and it has the same damage reduction that its animal form possesses.
+Finally, a natural lycanthrope (or an afflicted lycanthrope that has become aware of its affliction) can assume a hybrid form that is a mix of its humanoid and animal forms. A hybrid has hands and can use weapons, but it can also attack with its teeth and claws. A hybrid can spread lycanthropy with its bite, and it has the same [[Damage Reduction]] that its animal form possesses.
 
 Dire wereboars anger quickly. They usually begin a battle in giant form, then switch to hybrid form to take advantage of their immense strength in that shape. They like to use their Improved Bull Rush and Improved Sunder feats to shove opponents around and smash their weapons and shields.
 

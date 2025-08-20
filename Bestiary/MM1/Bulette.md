@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., lowlight vision, scent, tremorsense 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., lowlight vision, [[Scent]], tremorsense 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +16 melee (2d8+8) and 2 claws +10 melee (2d6+4)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Iron Will, Track, Weapon Focus(bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Also known as the landshark, the bulette is a terrifying predator that lives only to eat.

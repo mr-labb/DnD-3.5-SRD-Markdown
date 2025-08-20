@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 hooves +4 melee (1d4+3)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mules are sterile crossbreeds of donkeys and horses. A mule is similar to a light horse, but slightly stronger and more agile.

@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +8 melee (1d8+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Blind-Fight, Great Fortitude
 combat_gear:  
 ```
+
+## Description
+
 
 
 A basilisk is a reptilian monster that petrifies living creatures with a mere gaze. A basilisk usually has a dull brown body with a yellowish underbelly. Some specimens sport a short, curved horn atop the nose. An adult basilisk's body grows to about 6 feet long, not including its tail, which can reach an additional length of 5 to 7 feet. The creature weighs about 300 pounds.

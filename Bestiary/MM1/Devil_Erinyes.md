@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 8
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/good, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, see in darkness, spell resistance 20, telepathy 100 ft., [[true seeing]]
+   desc: [[Damage Reduction]] 5/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, see in darkness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 20, telepathy 100 ft., [[true seeing]]
 actions:
   - name: Full Attack
     desc: "Longsword +14/+9 melee (1d8+5/19-20) or +1 flaming composite longbow, mighty 5 +15/+10 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle)"
@@ -97,6 +100,9 @@ traits:
      desc: Dodge (B), Mobility (B), Point Blank Shot, Precise Shot, Rapid Shot, Shot on the Run
 combat_gear:  
 ```
+
+## Description
+
 
 
 Devils are fiends from lawful evil-aligned planes.
@@ -114,7 +120,7 @@ Combat
 
 Erinyes prefer to engage in combat from a distance. They use *[[charm monster]]* to distract or disorganize their opponents, then rain down fiery arrows from above.
 
-An erinyes's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+An erinyes's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Entangle (Ex):** Each erinyes carries a stout rope some 50 feet long that entangles opponents of any size as an *[[animate rope]]* spell (caster level 16th). An erinyes can hurl its rope 30 feet with no range penalty. Typically, an erinyes entangles a foe, lifts it into the air, and drops it from a great height.

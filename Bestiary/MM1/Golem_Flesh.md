@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 5/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+   desc: Construct traits, [[Damage Reduction]] 5/adamantine, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Spells/Spell Immunity|Immunity to magic]], [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 slams +10 melee (2d8+5)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Golems are magically created automatons of great power. Constructing one involves the employment of mighty magic and elemental forces.
@@ -119,7 +125,7 @@ A golem's creator can command it if the golem is within 60 feet and can see and 
 **Berserk (Ex):** When a flesh golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. The golem's creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem, which requires a DC 19 Charisma check. It takes 1 minute of inactivity by the golem to reset the golem's berserk chance to 0%.
 
 
-**Immunity to Magic (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**[[Compendium/Spells/Spell Immunity|Immunity to magic]] (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. A flesh golem is immune to any spell or spell-like ability that allows [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]]. In addition, certain spells and effects function differently against the creature, as noted below.
 
 A magical attack that deals cold or fire damage slows a flesh golem (as the *slow* spell) for 2d6 rounds, with no saving throw.
 

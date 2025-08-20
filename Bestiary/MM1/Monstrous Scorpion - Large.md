@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., tremorsense 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "2 claws +6 melee (1d6+4) and sting +1 melee (1d6+2 plus poison)"
@@ -88,6 +91,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Monstrous scorpions are likely to attack any creature that approaches, and they usually charge when attacking prey.

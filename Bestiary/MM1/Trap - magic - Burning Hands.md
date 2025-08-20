@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Trap - magic / Burning Hands
-Size: 
+Size: Various
 Type: Magical
 Subtype: 
 CR: 3
-Environnent: 
+Environnent: Any
 Source: DMG
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -86,6 +89,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

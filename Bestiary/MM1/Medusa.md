@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Shortbow +8/+3 ranged (1d6/x3); or dagger +8/+3 melee (1d4/19-20) and snakes +3 melee (1d4 plus poison)"
@@ -91,6 +94,9 @@ traits:
      desc: Point Blank Shot, Precise Shot, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 A medusa is indistinguishable from a normal human at distances greater than 30 feet (or closer, if its face is concealed). The creature often wears garments that enhance its body while hiding

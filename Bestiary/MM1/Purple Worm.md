@@ -12,7 +12,10 @@ Subtype:
 CR: 12
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -87,6 +90,9 @@ traits:
      desc: Awesome Blow, Cleave, Improved Bull Rush, Power Attack, Weapon Focus (bite), Weapon Focus (sting)
 combat_gear:  
 ```
+
+## Description
+
 
 
 The body of a mature purple worm is 5 feet in diameter and 80 feet long, weighing about 40,000 pounds. The creature has a poisonous stinger in its tail.

@@ -12,7 +12,10 @@ Subtype: Incorporeal
 CR: 8
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., incorporeal traits, +2 turn resistance, undead traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., incorporeal traits, +2 turn resistance, [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Incorporeal touch +6 melee (1d8 Str)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Dodge, Mobility, Spring Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A shadow can be difficult to see in dark or gloomy areas but stands out starkly in brightly illuminated places.

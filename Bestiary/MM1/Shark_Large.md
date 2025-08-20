@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 2
 Environnent: Cold aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsense, keen scent
+   desc: Blindsense, keen [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +7 melee (1d8+4)"
@@ -89,6 +92,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 These carnivorous fish are aggressive and liable to make unprovoked attacks against anything that approaches them. Smaller sharks are from 5 to 8 feet long and not usually dangerous to creatures other than their prey. Large sharks can reach around 15 feet in length and are a serious threat. Huge sharks are true monsters, like great whites, that can exceed 20 feet in length.
 
@@ -100,7 +106,7 @@ Sharks circle and observe potential prey, then dart in and bite with their power
 **Blindsense (Ex):** A shark can locate creatures underwater within a 30-foot radius. This ability works only when the shark is underwater.
 
 
-**Keen Scent (Ex):** A shark can notice creatures by scent in a 180-foot radius and detect blood in the water at ranges of up to a mile.
+**Keen [[Scent]] (Ex):** A shark can notice creatures by [[Scent]] in a 180-foot radius and detect blood in the water at ranges of up to a mile.
 
 
 **Skills:** A shark has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.

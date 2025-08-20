@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Longsword +7 melee (2d6+6/19-20) and 2 hooves +3 melee (1d6+2); or composite longbow (+4 Str bonus) +5 ranged (2d6+4/x3)"
@@ -89,6 +92,9 @@ traits:
      desc: Dodge, Weapon Focus (hoof )
 combat_gear:  
 ```
+
+## Description
+
 
 
 A centaur is as big as a heavy horse, but much taller and slightly heavier. A centaur is about 7 feet tall and weighs about 2,100 pounds.

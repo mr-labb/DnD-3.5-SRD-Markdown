@@ -12,7 +12,10 @@ Subtype: Shapechanger
 CR: 3
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -92,6 +95,9 @@ traits:
      desc: Dodge, Great Fortitude
 combat_gear:  
 ```
+
+## Description
+
 
 
 Doppelgangers are strange beings that are able to take on the shapes of those they encounter. In its natural form, the creature looks more or less humanoid, but slender and frail, with gangly limbs and half-formed features. The flesh is pale and hairless. Its large, bulging eyes are yellow with slitted pupils. A doppelganger's appearance is deceiving even when it's in its true form. A doppelganger is hardy, with a natural agility not in keeping with its frail appearance.

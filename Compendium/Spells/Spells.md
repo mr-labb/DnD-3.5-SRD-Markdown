@@ -6,7 +6,7 @@ tags: [35E_SRD, Spell]
 ---
 
 ---
-
+# [[Spell Base.base|Click here for Spell Database]]
 
 ## [[Spells List|All Spells A to Z]]
 
@@ -393,6 +393,11 @@ This portion of a spell description details what the spell does and how it works
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+

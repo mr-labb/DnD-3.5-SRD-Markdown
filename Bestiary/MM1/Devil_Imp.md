@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 2
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Alternate form, damage reduction 5/good or silver, darkvision 60 ft., fast healing 2, immunity to poison, resistance to fire 5
+   desc: Alternate form, [[Damage Reduction]] 5/good or silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2, immunity to poison, [[Resistance To Energy|Resistance To]] fire 5
 actions:
   - name: Full Attack
     desc: "Sting +8 melee (1d4 plus poison)"
@@ -95,6 +98,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Devils are fiends from lawful evil-aligned planes.
 
@@ -109,7 +115,7 @@ Combat
 
 Imps are craven, but not so timid as to pass up an opportunity for a surprise attack using their *invisibility* and alternate form ability. In its natural form, an imp attacks with the wicked stinger on its tail. It quickly flies out of reach if a foe manages to strike back effectively.
 
-An imp's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+An imp's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d4 Dex, secondary damage 2d4 Dex. The save DC is Constitution-based and includes a +2 racial bonus.

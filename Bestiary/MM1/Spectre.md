@@ -12,7 +12,10 @@ Subtype: Incorporeal
 CR: 7
 Environnent: Any land and underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., incorporeal traits, +2 turn resistance, sunlight powerlessness, undead traits, unnatural aura
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., incorporeal traits, +2 turn resistance, sunlight powerlessness, [[Undead|Undead traits]], unnatural aura
 actions:
   - name: Full Attack
     desc: "Incorporeal touch +6 melee (1d8 plus [[Compendium/Spells/Energy Drain|energy drain]])"
@@ -92,6 +95,9 @@ traits:
      desc: Alertness, Blind-Fight, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 A spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual's face in a painting or a drawing. In many cases, the evidence of a violent death is visible on its body. A spectre is roughly human-sized and is weightless.

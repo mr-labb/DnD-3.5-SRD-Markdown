@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 1
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Amphibious, damage reduction 5/cold iron, low-light vision, spell resistance 16, [[water breathing]], wild empathy
+   desc: Amphibious, [[Damage Reduction]] 5/cold iron, [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 16, [[water breathing]], wild empathy
 actions:
   - name: Full Attack
     desc: "Short sword +4 melee (1d4-2/19-20) or light crossbow +4 ranged (1d6/19-20)"
@@ -96,6 +99,9 @@ traits:
      desc: Dodge (B), Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 Sprites are reclusive fey. They go out of their way to fight evil and ugliness and to protect their homelands. Combat

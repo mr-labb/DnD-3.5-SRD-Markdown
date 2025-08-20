@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, darkvision 60 ft., fast healing 5, find master, guard, low-light vision, shield other, spell storing
+   desc: Construct traits, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 5, find master, guard, [[low-light vision]], shield other, spell storing
 actions:
   - name: Full Attack
     desc: "2 slams +16 melee (1d8+6)"
@@ -86,6 +89,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 
 Created by spellcasters to be bodyguards, shield guardians are constructs that protect their masters with spells and stamina. When it is fashioned, a shield guardian is keyed to a particular magical amulet. Henceforth, it regards the wearer of that amulet to be its master, protecting and following that individual everywhere (unless specifically commanded not to do so).

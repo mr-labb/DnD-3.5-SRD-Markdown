@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 tentacles +4 melee (1d6) and bite -2 melee (1d4)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Toughness, Weapon Focus (tentacle)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical otyugh has a body 8 feet in diameter and weighs about 500 pounds.

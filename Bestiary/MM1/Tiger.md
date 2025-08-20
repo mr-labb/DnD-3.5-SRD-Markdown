@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +9 melee (1d8+6) and bite +4 melee (2d6+3)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Improved Natural Attack (bite), and Improved Natural Attack (claw)
 combat_gear:  
 ```
+
+## Description
+
 
 
 These great cats stand more than 3 feet tall at the shoulder and are about 9 feet long. They weigh from 400 to 600 pounds.

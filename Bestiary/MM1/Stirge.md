@@ -9,10 +9,13 @@ Monster: Stirge
 Size: Tiny
 Type: Magical Beast
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Warm marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Touch +7 melee (attach)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Weapon Finesse  (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A stirge's coloration ranges from rust-red to reddish-brown, with a dirty yellow underside. The proboscis is pink at the tip, fading to gray at its base.

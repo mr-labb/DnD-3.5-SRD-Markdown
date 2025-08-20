@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, rock catching
+   desc: [[low-light vision]], rock catching
 actions:
   - name: Full Attack
     desc: "Greatclub +16/+11 melee (2d8+10) or 2 slams +15 melee (1d4+7) or rock +8 ranged (2d6+7)"
@@ -89,6 +92,9 @@ traits:
      desc: Cleave, Improved Bull Rush, Power Attack, Improved Sunder, Weapon Focus (greatclub)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Skin color among hill giants ranges from light tan to deep ruddy brown. Their hair is brown or black, with eyes the same color. Hill giants wear layers of crudely prepared hides with the fur left on. They seldom wash or repair their garments, preferring to simply add more hides as their old ones wear out.

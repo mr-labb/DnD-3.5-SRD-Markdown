@@ -13,7 +13,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 7
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/good, darkvision 60 ft., invisible in light, resistance to fire 10, scent, spell resistance 19, telepathy 100 ft.
+   desc: [[Damage Reduction]] 5/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., invisible in light, [[Resistance To Energy|Resistance To]] fire 10, [[Scent]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 19, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "2 claws +13 melee (1d8+6) and bite +8 melee (2d8+3)"
@@ -94,6 +97,9 @@ traits:
      desc: Dodge, Improved Initiative, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 Devils are fiends from lawful evil-aligned planes.
@@ -111,7 +117,7 @@ Combat
 
 A hellcat can hold its own in combat thanks to sharp claws and wicked fangs. It prefers to leap upon opponents, just as a lion does.
 
-A hellcat's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A hellcat's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Improved Grab (Ex):** To use this ability, a hellcat must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
@@ -123,7 +129,7 @@ A hellcat's natural weapons, as well as any weapons it wields, are treated as ev
 **Rake (Ex):** Attack bonus +13 melee, damage 1d8+3.
 
 
-**Invisible in Light (Ex):** A hellcat is invisible in any area lit well enough for a human to see. In a darkened area, it shows up as a faintly glowing outline visible up to 30 feet away (60 feet if the viewer has low-light vision). Magical darkness smothers the glow and conceals the outline.
+**Invisible in Light (Ex):** A hellcat is invisible in any area lit well enough for a human to see. In a darkened area, it shows up as a faintly glowing outline visible up to 30 feet away (60 feet if the viewer has [[low-light vision]]). Magical darkness smothers the glow and conceals the outline.
 
 
 **Skills:** Hellcats have a +4 racial bonus on Listen and Move Silently checks.

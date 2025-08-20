@@ -12,7 +12,10 @@ Subtype: Air, Extraplanar
 CR: 3
 Environnent: Elemental Plane of Air
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., elemental traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]]
 actions:
   - name: Full Attack
     desc: "Slam +8 melee (1d6+1)"
@@ -87,6 +90,9 @@ traits:
      desc: Dodge, Flyby Attack, Improved Initiative  (B), Weapon Finesse (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Air elementals speak Auran, though they rarely choose to do so.
@@ -115,7 +121,7 @@ Creatures caught in the whirlwind can otherwise act normally, but must succeed o
 
 The elemental can eject any carried creatures whenever it wishes, depositing them wherever the whirlwind happens to be. A summoned elemental always ejects trapped creatures before returning to its home plane.
 
-If the whirlwind's base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the whirlwind's height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.
+If the whirlwind's base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the whirlwind's height. The cloud obscures all vision, including [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]], beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.
 
 Those caught in the cloud must succeed on a Concentration check (DC 15 + spell level) to cast a spell.
 

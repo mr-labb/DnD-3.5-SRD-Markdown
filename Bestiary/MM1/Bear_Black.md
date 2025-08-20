@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +6 melee (1d4+4) and bite +1 melee (1d6+2)"
@@ -89,6 +92,9 @@ traits:
      desc: Endurance, Run
 combat_gear:  
 ```
+
+## Description
+
 
 
 The black bear is a forest-dwelling omnivore that usually is not dangerous unless an interloper threatens its cubs or food supply.

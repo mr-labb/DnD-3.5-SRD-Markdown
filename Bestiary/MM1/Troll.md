@@ -10,9 +10,12 @@ Size: Large
 Type: Giant
 Subtype: 
 CR: 5
-Environnent: Cold mountains (Scrag: Cold aquatic)
+Environnent: Cold mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 90 ft., low-light vision, regeneration 5 (fire or acid), scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 90 ft., [[low-light vision]], [[Regeneration]] 5 (fire or acid), [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +9 melee (1d6+6) and bite +4 melee (1d6+3)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Iron Will, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 Trolls walk upright but hunched forward with sagging shoulders. Their gait is uneven, and when they run, their arms dangle and drag along the ground. For all this seeming awkwardness, trolls are very agile.
@@ -103,7 +109,7 @@ Trolls have no fear of death: They launch themselves into combat without hesitat
 **Rend (Ex):** If a troll hits with both claw attacks, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 2d6+9 points of damage.
 
 
-**Regeneration (Ex):** Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
+**[[Regeneration]] (Ex):** Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
 
 
 **SCRAG**

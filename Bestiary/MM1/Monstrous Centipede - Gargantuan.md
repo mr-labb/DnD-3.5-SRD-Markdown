@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "Bite +11 melee (2d8+9 plus poison)"
@@ -87,6 +90,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.

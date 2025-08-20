@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to acid, low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to acid, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Claw +11 melee (1d8+4)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Improved Initiative, Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 A digester stands about 5 feet tall and is 7 feet long from snout to tail. It weighs about 350 pounds,

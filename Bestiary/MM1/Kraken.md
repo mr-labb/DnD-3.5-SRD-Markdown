@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 12
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -83,7 +86,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., ink cloud, jet, low-light vision, spell-like abilities
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., ink cloud, jet, [[low-light vision]], spell-like abilities
 actions:
   - name: Full Attack
     desc: "2 tentacles +28 melee (2d8+12/19-20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)"
@@ -98,6 +101,9 @@ traits:
      desc: Alertness, Blind-Fight, Combat Expertise, Improved Critical (tentacle), Improved Initiative, Improved Trip,Iron Will
 combat_gear:  
 ```
+
+## Description
+
 
 
 Six of the beast's tentacles are shorter arms about 30 feet long; the remaining two are nearly 60 feet long and covered with barbs. Its beaklike mouth is located where the tentacles meet the lower portion of its body.

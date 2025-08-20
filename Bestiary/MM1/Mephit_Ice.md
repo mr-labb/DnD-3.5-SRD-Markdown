@@ -12,7 +12,10 @@ Subtype: Air, Cold, Extraplanar
 CR: 3
 Environnent: Elemental Plane of Air
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/magic, darkvision 60 ft., fast healing 2, immunity to cold, vulnerability to fire
+   desc: [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2, [[Cold Immunity|Immunity to cold]], [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "2 claws +4 melee (1d3 plus 1d4 cold)"
@@ -94,6 +97,9 @@ traits:
      desc: Dodge, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mephits are minor creatures from the elemental planes.
@@ -110,7 +116,7 @@ Combat
 
 All mephits fight by biting and clawing or by using a breath weapon, the nature and effects of which vary from creature to creature.
 
-A mephit's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A mephit's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Breath Weapon (Su):** A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
@@ -128,7 +134,7 @@ A mephit's natural weapons are treated as magic weapons for the purpose of overc
 **Fast Healing (Ex):** Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details.
 
 
-**Breath Weapon (Su):** 10-foot cone of ice shards, damage 1d4 cold, Reflex DC 12 half. Living creatures that fail their saves are tormented by frostbitten skin and frozen eyes unless they have immunity to cold or are otherwise protected. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of ice shards, damage 1d4 cold, Reflex DC 12 half. Living creatures that fail their saves are tormented by frostbitten skin and frozen eyes unless they have [[Cold Immunity|Immunity to cold]] or are otherwise protected. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
 
 **Spell-Like Abilities:** 1/hour - *[[magic missile]]* (caster level 3rd); 1/day - *[[chill metal]]* (DC 14, caster level 6th). The save DC is Charisma-based.

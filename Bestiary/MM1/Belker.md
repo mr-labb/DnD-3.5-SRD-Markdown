@@ -12,7 +12,10 @@ Subtype: Air, Extraplanar
 CR: 6
 Environnent: Elemental Plane of Air
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., elemental traits, smoke form
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]], smoke form
 actions:
   - name: Full Attack
     desc: "2 wings +9 melee (1d6+2) and bite +4 melee (1d4+1) and 2 claws +4 melee (1d3+1)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Multiattack, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 Belkers are creatures from the Plane of Air. They are composed primarily of smoke. Although undeniably evil, they are very reclusive and usually have no interest in the affairs of others. A belker's winged shape makes it look distinctly demonic. It is about 7 feet long and weighs about 8 pounds.

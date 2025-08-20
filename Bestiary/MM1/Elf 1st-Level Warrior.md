@@ -12,7 +12,10 @@ Subtype: Elf
 CR: 1/2
 Environnent: Temperate forest
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -89,6 +92,9 @@ traits:
      desc: Weapon Focus (longbow)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Elves average 5 feet tall and typically weigh just over 100 pounds. They live on fruits and grains, though they occasionally hunt for fresh meat. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest.

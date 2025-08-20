@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Cold hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 90 ft., low-light vision, regeneration 5 (fire or acid), spell resistance 19
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 90 ft., [[low-light vision]], [[Regeneration]] 5 (fire or acid), [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 19
 actions:
   - name: Full Attack
     desc: "Greatsword +7 melee (3d6+7/19-20) or longbow +2 ranged (2d6/x3)"
@@ -89,6 +92,9 @@ traits:
      desc: Combat Expertise, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 The ogre mage is a more intelligent and dangerous variety of its mundane cousin.
@@ -108,7 +114,7 @@ Ogre mages rely on their spell-like abilities, resorting to physical combat only
 **Flight (Su):** An ogre mage can cease or resume flight as a free action. While using *[[Compendium/Spells/Gaseous Form|gaseous form]]* it can fly at its normal speed and has perfect maneuverability.
 
 
-**Regeneration (Ex):** Fire and acid deal normal damage to an ogre mage.
+**[[Regeneration]] (Ex):** Fire and acid deal normal damage to an ogre mage.
 
 An ogre mage that loses a limb or body part can reattach it by holding the severed member to the stump. Reattachment takes 1 minute. If the head or some other vital organ is severed, it must be reattached within 10 minutes or the creature dies. An ogre mage cannot regrow lost body parts.
 

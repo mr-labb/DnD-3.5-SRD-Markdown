@@ -13,7 +13,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 11
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Barbed defense, damage reduction 10/good, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, see in darkness, spell resistance 23, spell-like abilities, telepathy100 ft.
+   desc: Barbed defense, [[Damage Reduction]] 10/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, see in darkness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 23, spell-like abilities, telepathy100 ft.
 actions:
   - name: Full Attack
     desc: "2 claws +18 melee (2d8+6 plus fear)"
@@ -98,6 +101,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Devils are fiends from lawful evil-aligned planes.
 
@@ -112,7 +118,7 @@ Combat
 
 Barbed devils eagerly fight with their claws, trying to impale their opponents. They use *[[hold person]]* to immobilize those who avoid their hug attacks.
 
-A barbed devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A barbed devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Fear (Su):** A creature hit by a barbed devil must succeed on a DC 20 Will save or be affected as though by *fear* (caster level 9th).

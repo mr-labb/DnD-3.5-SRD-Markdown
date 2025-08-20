@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., [[detect thoughts]], guarded thoughts, immunity to poison, resistance to charm
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[detect thoughts]], guarded thoughts, immunity to poison, [[Resistance To Energy|Resistance To]] charm
 actions:
   - name: Full Attack
     desc: "Sting +7 melee (2d4+2 plus poison) and bite +2 melee (1d4+1)"
@@ -94,6 +97,9 @@ traits:
      desc: Alertness, Combat Casting, Dodge, EschewMaterials (B), Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 All nagas have long, snakelike bodies covered with glistening scales, and more or less human faces. They range in length from 10 to 20 feet and weigh from 200 to 500 pounds. The eyes of a naga are bright and intelligent, burning with an almost hypnotic inner light.
@@ -116,7 +122,7 @@ Dark nagas prefer to fight from an elevated position where they get a good view 
 *Typical Sorcerer Spells Known* (6/7/7/5; save DC 13 + spell level): 0 - *[[daze]], [[detect magic]], light, [[mage hand]], [[Open_Close|open/close]], [[ray of frost]], [[read magic]];* 1st - *[[expeditious retreat]], [[magic missile]], [[ray of enfeeblement]], shield, silent image;* 2nd - *[[Cats Grace|cat's grace]], invisibility, [[scorching ray]];* 3rd - *[[displacement]], [[lightning bolt]].*
 
 
-**Resistance to** 
+**[[Resistance To Energy|Resistance To]]** 
 **
 *Charm* 
 **

@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blink, darkvision 60 ft., [[dimension door]], low-light vision, scent
+   desc: Blink, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[dimension door]], [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d6)"
@@ -90,6 +93,9 @@ traits:
      desc: Iron Will, Run, Track (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 The blink dog is an intelligent canine that has a limited teleportation ability.

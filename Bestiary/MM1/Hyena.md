@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d6+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Hyenas are pack hunters infamous for their cunning and their unnerving vocalizations. The statistics presented here are for a striped hyena, which is about 3 feet long and weighs about 120 pounds.

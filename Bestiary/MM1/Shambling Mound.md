@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to electricity, low-light vision, plant traits, resistance to fire 10
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity, [[low-light vision]], [[Plant|Plant traits]], [[Resistance To Energy|Resistance To]] fire 10
 actions:
   - name: Full Attack
     desc: "2 slams +11 melee (2d6+5)"
@@ -88,6 +91,9 @@ traits:
      desc: Iron Will, Power Attack, Weapon Focus (slam)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Shambling mounds, also called shamblers, appear to be heaps of rotting vegetation. They are actually intelligent, carnivorous plants.

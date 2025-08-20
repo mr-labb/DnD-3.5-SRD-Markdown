@@ -12,7 +12,10 @@ Subtype: Air
 CR: 6
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to magic, natural invisibility
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Spells/Spell Immunity|Immunity to magic]], [[Compendium/Basics/Abilities and Conditions/Invisibility|natural Invisibility]]
 actions:
   - name: Full Attack
     desc: "Shock +16 melee touch (2d8 electricity)"
@@ -94,6 +97,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Will-o'-wisps can be yellow, white, green, or blue. They are easily mistaken for lanterns, especially in the foggy marshes and swamps where they reside. A will-o'-wisp's body is a globe of spongy material about 1 foot across and weighing about 3 pounds, and its glowing body sheds as much light as a torch.
 
@@ -104,10 +110,10 @@ COMBAT
 Will-o'-wisps usually avoid combat. They prefer to confuse and bewilder adventurers, luring them into morasses or other hazardous places. When they are forced to fight, they loose small electrical shocks, which act as melee touch attacks.
 
 
-**Immunity to Magic (Ex):** A will-o'-wisp is immune to most spells or spell-like abilities that allow spell resistance, except *[[magic missile]]* and *maze.*
+**[[Compendium/Spells/Spell Immunity|Immunity to magic]] (Ex):** A will-o'-wisp is immune to most spells or spell-like abilities that allow [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]], except *[[magic missile]]* and *maze.*
 
 
-**Natural Invisibility (Ex):** A startled or frightened will-o'-wisp can extinguish its glow, effectively becoming invisible as the *invisibility* spell.
+**[[Compendium/Basics/Abilities and Conditions/Invisibility|natural Invisibility]] (Ex):** A startled or frightened will-o'-wisp can extinguish its glow, effectively becoming invisible as the *invisibility* spell.
 
 ---
 

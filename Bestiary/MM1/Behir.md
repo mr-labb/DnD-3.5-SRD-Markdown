@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Warm hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Can't be tripped, darkvision 60 ft., immunity to electricity, low-light vision, scent
+   desc: Can't be tripped, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +15 melee (2d4+12)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Cleave, Power Attack, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 The behir is a serpentine monster that can slither like a snake or use its dozen legs to move with considerable speed. A behir is about 40 feet long and weighs about 4,000 pounds. It can fold its limbs close to its long, narrow body and slither in snake fashion if it desires. The coloration of behirs ranges from ultramarine to deep blue with bands of gray-brown. The belly is pale blue. The two large horns curving back over the head look dangerous but are actually used for preening the creature's scales, not for fighting.

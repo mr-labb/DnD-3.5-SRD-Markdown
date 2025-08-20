@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +13 melee (2d8+12)"
@@ -88,6 +91,9 @@ traits:
      desc: Dodge, Great Fortitude, Toughness (2)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dinosaurs come in many sizes and shapes. Bigger varieties have drab coloration, while smaller dinosaurs have more colorful markings. Most dinosaurs have a pebbly skin texture.

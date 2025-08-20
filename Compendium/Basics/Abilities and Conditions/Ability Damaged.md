@@ -1,5 +1,4 @@
 ---
-lang: en
 aliases:
  - Ability Damaged
 title: Compendium\Basics\Abilities and Conditions\Ability Damaged

@@ -9,10 +9,13 @@ Monster: Giant Fire Beetle
 Size: Small
 Type: Vermin
 Subtype: 
-CR: 0
+CR: 0.33
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -64,14 +67,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.33
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "Bite +1 melee (2d4)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 These luminous nocturnal insects are prized by miners and adventurers. They have two glands, one above each eye, that produce a red glow. The glands' luminosity persists for 1d6 days after removal from the beetle, illuminating a roughly circular area with a 10-foot radius. Giant fire beetles are about 2 feet long.

@@ -9,10 +9,13 @@ Monster: Formian Worker
 Size: Small
 Type: Outsider
 Subtype: Lawful, Extraplanar
-CR: 0
+CR: 0.5
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -69,14 +72,14 @@ senses:
 damage_immunities: "to poison"
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: [[Cure serious wounds]], hive mind, immunity to poison, petrification, and cold, [[make whole]], resistance to electricity 10, fire 10, and sonic 10
+   desc: [[Cure serious wounds]], hive mind, immunity to poison, petrification, and cold, [[make whole]], [[Resistance To Energy|Resistance To]] electricity 10, fire 10, and sonic 10
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d4+1)"
@@ -91,6 +94,9 @@ traits:
      desc: Skill Focus (Craft [selected skill])
 combat_gear:  
 ```
+
+## Description
+
 
 
 A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety.
@@ -114,7 +120,7 @@ Combat
 
 Formian workers fight only to defend their hive-cities, using their mandibled bite.
 
-A formian worker's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A formian worker's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **

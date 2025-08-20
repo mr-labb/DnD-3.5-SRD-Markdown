@@ -12,7 +12,10 @@ Subtype:
 CR: 13
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 15/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+   desc: Construct traits, [[Damage Reduction]] 15/adamantine, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Spells/Spell Immunity|Immunity to magic]], [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 slams +23 melee (2d10+11)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Golems are magically created automatons of great power. Constructing one involves the employment of mighty magic and elemental forces.
@@ -117,7 +123,7 @@ A golem's creator can command it if the golem is within 60 feet and can see and 
 **Breath Weapon (Su):** 10-foot cube, cloud of poisonous gas lasting 1 round, free action once every 1d4+1 rounds; initial damage 1d4 Con, secondary damage 3d4 Con, Fortitude DC 19 negates. The save DC is Constitution-based.
 
 
-**Immunity to Magic (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. An iron golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**[[Compendium/Spells/Spell Immunity|Immunity to magic]] (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. An iron golem is immune to any spell or spell-like ability that allows [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]]. In addition, certain spells and effects function differently against the creature, as noted below.
 
 A magical attack that deals electricity damage slows an iron golem (as the *slow* spell) for 3 rounds, with no saving throw.
 

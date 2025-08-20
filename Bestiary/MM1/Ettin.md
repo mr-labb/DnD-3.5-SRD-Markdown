@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Cold hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, superior two-weapon fighting
+   desc: [[low-light vision]], superior two-weapon fighting
 actions:
   - name: Full Attack
     desc: "2 morningstars +12/+7 melee (2d6+6) or 2 javelins +5 ranged (1d8+6)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Improved Initiative, Iron Will, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night.

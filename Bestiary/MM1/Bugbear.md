@@ -12,7 +12,10 @@ Subtype: Goblinoid
 CR: 2
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Scent]]
 actions:
   - name: Full Attack
     desc: "Morningstar +5 melee (1d8+2) or javelin +3 ranged (1d6+2)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Weapon Focus (morningstar)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Bugbears speak Goblin and Common.

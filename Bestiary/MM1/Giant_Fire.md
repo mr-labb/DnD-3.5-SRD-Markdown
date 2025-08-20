@@ -12,7 +12,10 @@ Subtype: Fire
 CR: 10
 Environnent: Warm mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Immunity to fire, low-light vision, rock catching, vulnerability to cold
+   desc: [[fire Immunity|Immunity to fire]], [[low-light vision]], rock catching, [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "Greatsword +20/+15/+10 melee (3d6+15/19-20) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire)"
@@ -90,6 +93,9 @@ traits:
      desc: Cleave, Great Cleave, Improved Overrun, Improved Sunder, Iron Will, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Some fire giants have bright orange hair.. An adult male is 12 feet tall, has a chest that measures 9 feet around, and weighs about 7,000 pounds. Females are slightly shorter and lighter. Fire giants can live to be 350 years old.

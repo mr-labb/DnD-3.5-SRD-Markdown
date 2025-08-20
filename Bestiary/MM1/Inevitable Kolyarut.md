@@ -12,7 +12,10 @@ Subtype: Extraplanar, Lawful
 CR: 12
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 22
+   desc: Construct traits, [[Damage Reduction]] 10/chaotic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 5, [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 22
 actions:
   - name: Full Attack
     desc: "Vampiric touch +11/+6 melee touch (5d6) or [[enervation]] ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19-20) or slam +11/+6 melee (1d6+3)"
@@ -93,6 +96,9 @@ traits:
      desc: Alertness, Combat Casting, Great Fortitude, Lightning Reflexes, Quicken Spell-Like Ability (suggestion)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Inevitables are constructs whose sole aim is to enforce the natural laws of the universe.
@@ -117,7 +123,7 @@ Combat
 
 Unless their very existence is threatened, inevitables focus completely on the transgressor they've been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won't tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
 
-An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Fast Healing (Ex):** An inevitable heals a certain amount of damage each round (specified in each variety's description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
@@ -126,7 +132,7 @@ Like all inevitables, a kolyarut is patient enough to study a target before stri
 
 A kolyarut's favorite tactic is to use *invisibility* or *[[disguise self]]* to sneak close, then eliminate the quarry with its vampiric touch ability before it can react. A kolyarut has no compunctions about using its vampiric touch ability on allies to increase its own power, if doing so helps it complete its mission.
 
-A kolyarut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A kolyarut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Enervation Ray (Su):** A kolyarut can fire a black [[enervation]] ray at targets within 200 feet. The effect is identical with the *[[enervation]]* spell (caster level 13th).

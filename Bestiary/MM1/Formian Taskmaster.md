@@ -12,7 +12,10 @@ Subtype: Lawful, Extraplanar
 CR: 7
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Hive mind, immunity to poison, petrification, and cold, resistance to electricity 10, fire 10, and sonic 10, spell resistance 21, telepathy 100 ft.
+   desc: Hive mind, immunity to poison, petrification, and cold, [[Resistance To Energy|Resistance To]] electricity 10, fire 10, and sonic 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 21, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Sting +10 melee (2d4+4 plus poison) and 2 claws +8 melee (1d6+2)"
@@ -97,6 +100,9 @@ traits:
      desc: Dodge, Improved Initiative, Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety.
@@ -120,7 +126,7 @@ Combat
 
 Taskmasters rely on their dominated slaves to fight for them if at all possible. If necessary, though, they can defend themselves with claws and a poison sting.
 
-A formian taskmaster's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A formian taskmaster's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **[[Dominate Monster]] (Su):** A taskmaster can use a *[[dominate monster]]* ability as the spell from a 10th-level caster (Will DC 17 negates), although the subject may be of any kind and may be up to Large size. Creatures that successfully save cannot be affected by the same taskmaster's [[dominate monster]] ability for 24 hours. A single taskmaster can dominate up to four subjects at a time. The save DC is Charisma-based.

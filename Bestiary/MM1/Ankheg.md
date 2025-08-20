@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, tremorsense 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], tremorsense 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +7 melee (2d6+7 plus 1d4 acid)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 The ankheg is a burrowing monster with a taste for fresh meat. An ankheg has six legs, and some specimens are yellow rather than brown. It is about 10 feet long and weighs about 800 pounds.

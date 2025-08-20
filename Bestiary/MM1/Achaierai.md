@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 5
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., spell resistance 19
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 19
 actions:
   - name: Full Attack
     desc: "2 claws +9 melee (2d6+4) and bite +4 melee (4d6+2)"
@@ -95,6 +98,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Achaierais are massive, 15-foot-tall flightless birds that inhabit lawful planes of battle and are only occasionally encountered elsewhere.
 
@@ -104,7 +110,7 @@ COMBAT
 
 In close combat, an achaierai lashes out with two of its four legs and snaps with its powerful beak. It makes frequent use of its Spring Attack feat to strike quickly and then retreat out of range before an enemy can counterattack.
 
-An achaierai's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawfulaligned for the purpose of overcoming damage reduction.
+An achaierai's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawfulaligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Black Cloud (Ex):** Up to three times per day an achaierai can release a choking, toxic black cloud.

@@ -13,7 +13,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 13
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -86,7 +89,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, regeneration 5 (good), see in darkness, spell resistance 25, telepathy 100 ft.
+   desc: [[Damage Reduction]] 10/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, [[Regeneration]] 5 (good), see in darkness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 25, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Spear +20/+15/+10 melee (2d6+9/x3 plus slow) and bite +14 melee (2d6+3) and tail +14 melee (3d6+3 plus slow); or 2 claws +19 melee (1d10+6) and bite +14 melee (2d6+3) and tail +14 melee (3d6+3plus slow)"
@@ -102,6 +105,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Devils are fiends from lawful evil-aligned planes.
 
@@ -116,7 +122,7 @@ Combat
 
 An ice devil prefers to fight only when doing so serves its mission, but it never hesitates to attack when it deems a battle necessary - or likely to end in its victory.
 
-An ice devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+An ice devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Fear Aura (Su):** An ice devil can radiate a 10-foot-radius fear aura as a free action. A creature in the area must succeed on a DC 22 Will save or be affected as though by a *fear* spell (caster level 13th). A creature that successfully saves cannot be affected again by the same ice devil's aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
@@ -134,7 +140,7 @@ An ice devil's natural weapons, as well as any weapons it wields, are treated as
 **(Sp):** Once per day an ice devil can attempt to summon 2d10 lemures or 1d6 bearded devils, 2d4 bone devils with a 50% chance of success, or another ice devil with a 20% chance of success. This ability is the equivalent of a 4th-level spell.
 
 
-**Regeneration (Ex):** An ice devil takes normal damage from good-aligned weapons and from spells or effects with the good descriptor.
+**[[Regeneration]] (Ex):** An ice devil takes normal damage from good-aligned weapons and from spells or effects with the good descriptor.
 
 ---
 

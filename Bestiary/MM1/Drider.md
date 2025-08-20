@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., spell resistance 17
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 17
 actions:
   - name: Full Attack
     desc: "2 daggers +3 melee (1d6+2/19-20, 1d6+1/19-20) and bite +1 melee (1d4+1 plus poison); or shortbow +5 ranged (1d8/x3)"
@@ -91,6 +94,9 @@ traits:
      desc: Combat Casting, Two-Weapon Fighting, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Driders speak Elven, Common, and Undercommon.

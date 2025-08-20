@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 1
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/good or silver, darkvision 60 ft., immunity to fire and poison, mindless, resistance to acid 10 and cold 10, mindless, see in darkness
+   desc: [[Damage Reduction]] 5/good or silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, mindless, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, mindless, see in darkness
 actions:
   - name: Full Attack
     desc: "2 claws +2 melee (1d4)"
@@ -86,6 +89,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 
 Devils are fiends from lawful evil-aligned planes.
@@ -103,7 +109,7 @@ Combat
 
 Lemures surge toward anything they meet and try to claw it apart. Only a telepathic command from other devils or the complete destruction of the lemures can make them stop.
 
-A lemure's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A lemure's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Mindless (Ex):** Immunity to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).

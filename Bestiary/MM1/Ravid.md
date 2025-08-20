@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 5
 Environnent: Positive Energy Plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., flight, immunity to fire
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., flight, [[fire Immunity|Immunity to fire]]
 actions:
   - name: Full Attack
     desc: "Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee (1d4 plus positive energy) or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch (positive energy)"
@@ -92,6 +95,9 @@ traits:
      desc: Improved Initiative, Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Ravids are creatures from the Positive Energy Plane. These bizarre entities imbue creatures with energy by their touch and animate lifeless objects around them. Ravids that make their way to the Material Plane wander about aimlessly, followed by the objects to which they have given life.

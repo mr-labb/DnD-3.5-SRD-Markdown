@@ -426,7 +426,7 @@ tags: [35E_SRD, Spell]
 |Spell|School|Subschool|Descriptor|Level|Components|
 |---|---|---|---|---|---|
 |[[Neutralize Poison]] :|Conjuration|Healing||Brd 4, Clr 4, Drd 3, Pal 4, Rgr 3|V, S, M/DF|
-|[[Nightmare]] :|Illusion|Phantasm|Mind-Affecting, Evil|Brd 5, Sor/Wiz 5|V, S|
+|[[Compendium/Spells/Nightmare]] :|Illusion|Phantasm|Mind-Affecting, Evil|Brd 5, Sor/Wiz 5|V, S|
 |[[Nondetection]] :|Abjuration|||Rgr 4, Sor/Wiz 3, Trickery 3|V, S, M|
 
 
@@ -726,7 +726,13 @@ tags: [35E_SRD, Spell]
 This material is Open Game Content, and is licensed for public use under
 the terms of the Open Game License v1.0a.
 
+
+
 ---
 
+
+
 This material is Open Game Content, and is licensed for public use under
+
 the terms of the Open Game License v1.0a.
+

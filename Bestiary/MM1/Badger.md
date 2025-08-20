@@ -9,10 +9,13 @@ Monster: Badger
 Size: Small
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +4 melee (1d2-1) and bite -1 melee (1d3-1)"
@@ -88,6 +91,9 @@ traits:
      desc: Track (B), Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 The badger is a furry animal with a squat, powerful body. Its strong forelimbs are armed with long claws for digging. An adult badger is 2 to 3 feet long and weighs 25 to 35 pounds.

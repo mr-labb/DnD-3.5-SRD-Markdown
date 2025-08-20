@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 8
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/cold iron, darkvision 60 ft., immunity to electricity, resistance to acid 10 and fire 10, undead traits, vulnerability to sunlight
+   desc: [[Damage Reduction]] 10/cold iron, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity, [[Resistance To Energy|Resistance To]] acid 10 and fire 10, [[Undead|Undead traits]], vulnerability to sunlight
 actions:
   - name: Full Attack
     desc: "Slam +6 melee (1d8+1)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Dodge, Improved Initiative, Weapon Focus (slam)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Bodaks are the undead remnants of humanoids who have been destroyed by the touch of absolute evil.

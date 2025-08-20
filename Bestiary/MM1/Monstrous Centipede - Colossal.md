@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Monstrous Centipede, Colossal
-Size: 
-Type: Colossal Vermin
+Size: Colossal
+Type: Vermin
 Subtype: 
 CR: 9
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,8 +28,8 @@ image: [[Monstrous Centipede, Colossal.PNG]]
 race: Monstrous Centipede, Colossal
 class: 
 level: 
-size: 
-type: Colossal Vermin
+size: Colossal
+type: Vermin
 subtype: 
 alignment: 
 ac: 20
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "Bite +18 melee (4d6+12 plus poison)"
@@ -87,6 +90,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.

@@ -9,10 +9,13 @@ Monster: Locathah
 Size: Medium
 Type: Humanoid
 Subtype: Aquatic
-CR: 0
+CR: 0.5
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -67,7 +70,7 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
@@ -89,6 +92,9 @@ traits:
      desc: Weapon Focus (longspear)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Although humanoid in shape, locathahs are clearly more fish than human. The average locathah stands 5 feet tall and weighs 175 pounds. Females and males look very much alike, although the former can be recognized by the two ochre stripes marking their egg sacs.

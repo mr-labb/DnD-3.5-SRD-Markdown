@@ -12,7 +12,10 @@ Subtype: Reptilian
 CR: 1
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -88,6 +91,9 @@ traits:
      desc: Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A lizardfolk is usually 6 to 7 feet tall with green, gray, or brown scales. Its tail is used for balance and is 3 to 4 feet long. A lizardfolk can weigh from 200 to 250 pounds.

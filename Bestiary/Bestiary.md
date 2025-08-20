@@ -1,14 +1,21 @@
 ---
-lang: en
 title: 3.5 Compendium / 3.5 Compendium Monsters Index
 aliases: 3.5 Compendium Monsters Index
-tags: 3-5e/rules/monsters
+tags: 
+ - 35E_SRD
+ - Monster
+ - Info
 ---
 
+# [[Bestiary Base.base#Table|Click here for Bestiary Database]]
+
+
+# [[Bestiary Base.base#Cards View|Click here for Bestiary Cards View]]
+
+<br>
+<br>
+
 # All Monsters A to Z
-
-
-# All Spells A to Z
  <br>
 
 | [[#A]] | [[#B]] | [[#C]] | [[#D]] | [[#E]] | [[#F]] | [[#G]] | [[#H]] | [[#I]] | [[#J]] | [[#K]] | [[#L]] | [[#M]] | [[#N]] | [[#O]] | [[#P]] | [[#Q]] | [[#R]] | [[#S]] | [[#T]] | [[#U]] | [[#V]] | [[#W]] | [[#X]] | [[#Y]] | [[#Z]] |
@@ -535,5 +542,4 @@ tags: 3-5e/rules/monsters
 
 ---
 
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

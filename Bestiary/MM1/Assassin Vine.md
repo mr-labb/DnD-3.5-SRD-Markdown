@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 30 ft., camouflage, immunity to electricity, low-light vision, plant traits, resistance to cold 10 and fire 10
+   desc: [[Blindsight]] 30 ft., camouflage, immunity to electricity, [[low-light vision]], [[Plant|Plant traits]], [[Resistance To Energy|Resistance To]] cold 10 and fire 10
 actions:
   - name: Full Attack
     desc: "Slam +7 melee (1d6+7)"
@@ -86,6 +89,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 
 The assassin vine is a semi-mobile plant that collects its own grisly fertilizer by grabbing and crushing animals and depositing the carcasses near its roots.
@@ -118,7 +124,7 @@ It can then attempt to start a grapple as a free action without provoking an att
 If it wins the grapple check, it establishes a hold and can constrict.
 
 
-**Blindsight (Ex):** Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, scent, and vibration.
+**[[Blindsight]] (Ex):** Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, [[Scent]], and vibration.
 
 
 **Camouflage (Ex):** Since an assassin vine looks like a normal plant when at rest, it takes a DC 20 Spot check to notice it before it attacks.

@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: +2 turn resistance, damage reduction 5/silver, darkvision 60 ft., fast healing 2, gaseous form, resistance to cold 10 and electricity 10, [[spider climb]], undead traits
+   desc: +2 turn resistance, [[Damage Reduction]] 5/silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2, gaseous form, [[Resistance To Energy|Resistance To]] cold 10 and electricity 10, [[spider climb]], [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Slam +5 melee (1d6+4 plus energy drain)"
@@ -96,6 +99,9 @@ traits:
      desc: Alertness (B), Improved Initiative (B), LightningReflexes (B), Skill Focus (selected Craft or Profession skill), Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Vampire spawn are undead creatures that come into being when vampires slay mortals. Like their creators, spawn remain bound to their coffins and to the soil of their graves. Vampire spawn appear much as they did in life, although their features are often hardened, with a predatory look.

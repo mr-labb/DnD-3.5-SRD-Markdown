@@ -12,7 +12,10 @@ Subtype:
 CR: 10
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +12 melee (2d6+7 plus poison) or spit +9 ranged touch (poison)"
@@ -94,6 +97,9 @@ traits:
      desc: Alertness, Combat Casting, Dodge, EschewMaterials (B), Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 All nagas have long, snakelike bodies covered with glistening scales, and more or less human faces. They range in length from 10 to 20 feet and weigh from 200 to 500 pounds. The eyes of a naga are bright and intelligent, burning with an almost hypnotic inner light.

@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 18
 Environnent: Plane of Shadow
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aversion to daylight, damage reduction 15/silver and magic, darkvision 60 ft., immunity to cold, spell resistance 31, telepathy 100 ft, tremorsense 60 ft., undead traits
+   desc: Aversion to daylight, [[Damage Reduction]] 15/silver and magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 31, telepathy 100 ft, tremorsense 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Bite +29 melee (4d6+21/19-20) and sting +24 melee (2d8+11/19-20 plus poison)"
@@ -96,6 +99,9 @@ traits:
      desc: Blind-Fight, Combat Casting, Great Fortitude, Improved Critical (bite), Improved Critical (sting), ImprovedInitiative, Iron Will, Power Attack, Quicken Spell-LikeAbility ([[cone of cold]])
 combat_gear:  
 ```
+
+## Description
+
 
 
 Nightshades are powerful undead composed of equal parts darkness and absolute evil.
@@ -124,7 +130,7 @@ A nightshade's desecrating aura cannot be dispelled except by a *[[dispel evil]]
 
 A nightcrawler attacks by burrowing through the ground and emerging to strike.
 
-A nightcrawler's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A nightcrawler's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Energy Drain (Su):** Living creatures inside a nightcrawler's gizzard gain one negative level each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based.

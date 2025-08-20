@@ -10,9 +10,12 @@ Size: Medium
 Type: Undead
 Subtype: 
 CR: 1
-Environnent: Any (Lacedon: Any aquatic)
+Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., undead traits, +2 turn resistance
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]], +2 turn resistance
 actions:
   - name: Full Attack
     desc: "Bite +2 melee (1d6+1 plus paralysis) and 2 claws +0 melee (1d3 plus paralysis)"
@@ -91,6 +94,9 @@ traits:
      desc: Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Ghouls speak the languages they spoke in life (usually Common).

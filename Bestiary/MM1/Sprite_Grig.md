@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/cold iron, low-light vision, spell resistance 17
+   desc: [[Damage Reduction]] 5/cold iron, [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 17
 actions:
   - name: Full Attack
     desc: "Short sword +6 melee (1d3-3/19-20) or longbow +6 ranged (1d4-3/x3)"
@@ -94,6 +97,9 @@ traits:
      desc: Dodge (B), Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 Sprites are reclusive fey. They go out of their way to fight evil and ugliness and to protect their homelands. Combat

@@ -9,10 +9,13 @@ Monster: Monstrous Scorpion, Small
 Size: Small
 Type: Vermin
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., tremorsense 60 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "2 claws +1 melee (1d3-1) and sting -4 melee (1d3-1 plus poison)"
@@ -88,6 +91,9 @@ traits:
      desc: Weapon Finesse (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Monstrous scorpions are likely to attack any creature that approaches, and they usually charge when attacking prey.

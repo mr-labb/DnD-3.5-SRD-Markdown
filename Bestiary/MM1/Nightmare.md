@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar
 CR: 5
 Environnent: A evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: [[Astral projection]], darkvision 60 ft., etherealness
+   desc: [[Astral projection]], [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., etherealness
 actions:
   - name: Full Attack
     desc: "2 hooves +9 melee (1d8+4 plus 1d4 fire) and bite +4 melee (1d8+2)"
@@ -96,6 +99,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A nightmare is about the size of a light war horse.
 
@@ -103,7 +109,7 @@ COMBAT
 
 A nightmare can fight while carrying a rider, but the rider cannot also fight unless he or she succeeds on a Ride check.
 
-A nightmare's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction.
+A nightmare's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Flaming Hooves (Su):** A blow from a nightmare's hooves sets combustible materials alight.

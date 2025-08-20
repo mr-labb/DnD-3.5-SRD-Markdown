@@ -12,7 +12,10 @@ Subtype: Archon, Extraplanar, Good, Lawful
 CR: 14
 Environnent: A lawful good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aura of menace, damage reduction 10/evil, darkvision 60 ft., immunity to electricity and petrification, [[magic circle against evil]], spell resistance 29, [[teleport]], [[tongues]]
+   desc: Aura of menace, [[Damage Reduction]] 10/evil, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, [[magic circle against evil]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 29, [[teleport]], [[tongues]]
 actions:
   - name: Full Attack
     desc: "+4 greatsword +21/+16/+11 melee (2d6+11/19-20)"
@@ -97,6 +100,9 @@ traits:
      desc: Blind-Fight, Cleave, Combat Reflexes, Improved Initiative, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Archons are celestials from a lawful good-aligned plane.
@@ -114,7 +120,7 @@ Archons generally prefer to meet a foe head-on if it is prudent to do so, but if
 
 A trumpet archon usually disdains physical combat, preferring to obliterate foes with spells quickly and return to its duties. If forced into an extended battle, it sounds its trumpet and attacks with a vengeance.
 
-A trumpet archon's natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A trumpet archon's natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[detect evil]], [[continual flame]], [[message]].* Caster level 12th.

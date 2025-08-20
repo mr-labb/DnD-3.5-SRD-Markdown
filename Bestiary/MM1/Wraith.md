@@ -12,7 +12,10 @@ Subtype: Incorporeal
 CR: 5
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., daylight powerlessness, incorporeal traits, +2 turn resistance, undead traits, unnatural aura
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., daylight powerlessness, incorporeal traits, +2 turn resistance, [[Undead|Undead traits]], unnatural aura
 actions:
   - name: Full Attack
     desc: "Incorporeal touch +5 melee (1d4 plus 1d6 Constitution drain)"
@@ -93,6 +96,9 @@ traits:
      desc: Alertness (B), Blind-Fight, Combat Reflexes, Improved Initiative (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Wraiths are incorporeal creatures born of evil and darkness. In some cases, the grim silhouette of a wraith might appear armored or outfitted with weapons. This appearance does not affect the creature's AC or combat abilities but only reflects the shape it had in life.

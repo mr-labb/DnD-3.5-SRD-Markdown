@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Scent
+   desc: [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +5 melee (1d3+4)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Constrictor snakes usually are not aggressive and flee when confronted. They hunt for food but do not attempt to make a meal out of any creature that is too large to constrict.

@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/slashing, low-light vision, plant traits, vulnerability to fire
+   desc: [[Damage Reduction]] 10/slashing, [[low-light vision]], [[Plant|Plant traits]], [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "2 slams +12 melee (2d6+9)"
@@ -92,6 +95,9 @@ traits:
      desc: Improved Sunder, Iron Will, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A treant's leaves are deep green in the spring and summer. In the fall and winter the leaves change to yellow, orange, or red, but they rarely fall out. A treant's legs fit together when closed to look like the trunk of a tree, and a motionless treant is nearly indistinguishable from a tree.
@@ -108,7 +114,7 @@ Treants prefer to watch potential foes carefully before attacking. They often ch
 **
 *Animate Trees* 
 **
-**(Sp):** A treant can animate trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and fights as a treant in all respects. Animated trees lose their ability to move if the treant that animated them is incapacitated or moves out of range. The ability is otherwise similar to *[[liveoak]]* (caster level 12th). Animated trees have the same vulnerability to fire that a treant has.
+**(Sp):** A treant can animate trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and fights as a treant in all respects. Animated trees lose their ability to move if the treant that animated them is incapacitated or moves out of range. The ability is otherwise similar to *[[liveoak]]* (caster level 12th). Animated trees have the same [[Vulnerability To Energy|Vulnerability to fire]]  that a treant has.
 
 
 **Double Damage against Objects (Ex):** A treant or animated tree that makes a full attack against an object or structure deals double damage.

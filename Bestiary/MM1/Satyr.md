@@ -9,10 +9,13 @@ Monster: Satyr
 Size: Medium
 Type: Fey
 Subtype: 
-CR: 0
+CR: 2
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,14 +77,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 2
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/cold iron, low-light vision
+   desc: [[Damage Reduction]] 5/cold iron, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Head butt +2 melee (1d6) and dagger -3 melee (1d4/19-20); or shortbow +3 ranged (1d6/x3)"
@@ -96,6 +99,9 @@ traits:
      desc: Alertness (B), Dodge, Mobility
 combat_gear:  
 ```
+
+## Description
+
 
 
 A satyr's hair is red or chestnut brown, while its hooves and horns are jet black. A satyr is about as tall and heavy as a half-elf.

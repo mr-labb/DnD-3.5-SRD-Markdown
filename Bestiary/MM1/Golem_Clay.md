@@ -12,7 +12,10 @@ Subtype:
 CR: 10
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 10/adamantine and bludgeoning, darkvision 60 ft., haste, immunity to magic, low-light vision
+   desc: Construct traits, [[Damage Reduction]] 10/adamantine and bludgeoning, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., haste, [[Compendium/Spells/Spell Immunity|Immunity to magic]], [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 slams +14 melee (2d10+7 plus cursed wound)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Golems are magically created automatons of great power. Constructing one involves the employment of mighty magic and elemental forces.
@@ -122,7 +128,7 @@ A golem's creator can command it if the golem is within 60 feet and can see and 
 **Cursed Wound (Ex):** The damage a clay golem deals doesn't heal naturally and resists healing spells. A character attempting to cast a conjuration (healing) spell on a creature damaged by a clay golem must succeed on a DC 26 caster level check, or the spell has no effect on the injured character.
 
 
-**Immunity to Magic (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. A clay golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**[[Compendium/Spells/Spell Immunity|Immunity to magic]] (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. A clay golem is immune to any spell or spell-like ability that allows [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]]. In addition, certain spells and effects function differently against the creature, as noted below.
 
 A *[[move earth]]* spell drives the golem back 120 feet and deals 3d12 points of damage to it.
 

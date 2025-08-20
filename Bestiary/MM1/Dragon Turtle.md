@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 9
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to fire, sleep, and paralysis, low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]], sleep, and paralysis, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +18 melee (4d6+8) and 2 claws +13 melee (2d8+4)"
@@ -94,6 +97,9 @@ traits:
      desc: Blind-Fight, Cleave, Improved Bull Rush, Power Attack, Snatch
 combat_gear:  
 ```
+
+## Description
+
 
 
 Its rough, deep green shell is much the same color as the deep water the monster favors, and the silver highlights that line the shell resemble light dancing on open water. The turtle's legs, tail, and head are a lighter green, flecked with golden highlights. An adult dragon turtle can measure from 20 to 30 feet from snout to tail, with a shell from 15 to 25 feet in diameter, and can weigh 8,000 to 32,000 pounds.

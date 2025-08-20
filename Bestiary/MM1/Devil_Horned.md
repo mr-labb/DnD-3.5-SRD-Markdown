@@ -13,7 +13,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 16
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -84,7 +87,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good and silver, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, regeneration 5 (silver and good or spell and good), see in darkness, spell resistance 28, telepathy 100 ft.
+   desc: [[Damage Reduction]] 10/good and silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, [[Regeneration]] 5 (silver and good or spell and good), see in darkness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 28, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Spiked chain +25/+20/+15 melee (2d6+15 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound) or 2 claws +24 melee (2d6+10) and bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound)"
@@ -100,6 +103,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Devils are fiends from lawful evil-aligned planes.
 
@@ -114,7 +120,7 @@ Combat
 
 Horned devils are bold fighters. They rarely retreat, even against overwhelming odds. They love to fight with their spiked chains, usually singling out the most powerful foes to stun and eliminate quickly.
 
-A horned devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A horned devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[dispel chaos]]* (DC 21), *[[dispel good]]* (DC 21), *[[magic circle against good]], [[Teleport Greater|greater teleport]]* (self plus 50 pounds of objects only); *[[persistent image]]* (DC 21) 3/day - *[[fireball]]* (DC 19), *[[lightning bolt]]* (DC 19). Caster level 15th. The save DCs are Charisma-based.
@@ -135,7 +141,7 @@ A horned devil's natural weapons, as well as any weapons it wields, are treated 
 **(Sp):** Once per day a horned devil can attempt to summon 2d10 lemures or 1d6 bearded devils with a 50% chance of success, 1d6 barbed devils with a 35% chance of success, or another horned devil with a 20% chance of success. This ability is the equivalent of a 6th-level spell.
 
 
-**Regeneration (Ex):** A horned devil takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
+**[[Regeneration]] (Ex):** A horned devil takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
 
 ---
 

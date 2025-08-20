@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar
 CR: 7
 Environnent: Ever-Changing Chaos of Limbo
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to critical hits and transformation, spell resistance 15
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to critical hits and transformation, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 15
 actions:
   - name: Full Attack
     desc: "2 claws +10 melee (1d3+2 plus corporeal instability)"
@@ -96,6 +99,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 The horrific creatures known as chaos beasts have mutable, ever-changing forms. A chaos beast's dimensions vary, but it always weighs about 200 pounds.
 
@@ -105,7 +111,7 @@ COMBAT
 
 For all its fearsome appearances, whether it has claws, fangs, pincers, tentacles, or spines, a chaos beast does little physical harm. Regardless of form, the creature seems unable to manage more than two attacks per round. Its continual transmutations prevent the coordination needed to do more.
 
-A chaos beast's claw attacks, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming damage reduction.
+A chaos beast's claw attacks, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Corporeal Instability (Su):** A blow from a chaos beast against a living creature can cause a terrible transformation. The creature must succeed on a DC 15 Fortitude save or become a spongy, amorphous mass. Unless the victim manages to control the effect (see below), its shape melts, flows, writhes, and boils. The save DC is Constitution-based.

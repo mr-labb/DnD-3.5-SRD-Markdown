@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 60 ft., split, ooze traits
+   desc: [[Blindsight]] 60 ft., split, ooze traits
 actions:
   - name: Full Attack
     desc: "Slam +5 melee (2d4+3 plus 1d4 acid)"
@@ -87,6 +90,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Oozes are amorphous creatures that live only to eat. They inhabit underground areas throughout the world, scouring caverns, ruins, and dungeons in search of organic matter - living or dead.
 
@@ -97,7 +103,7 @@ Combat
 Oozes attack any creatures they encounter. They lash out with pseudopods or simply engulf opponents with their bodies, which secrete acids that help them catch or digest their prey.
 
 
-**Blindsight (Ex):** An ooze's entire body is a primitive sensory organ that can ascertain prey by scent and vibration within 60 feet.
+**[[Blindsight]] (Ex):** An ooze's entire body is a primitive sensory organ that can ascertain prey by [[Scent]] and vibration within 60 feet.
 
 An ochre jelly attempts to envelop and squeeze its prey.
 

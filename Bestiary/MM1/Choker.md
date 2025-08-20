@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., quickness
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., quickness
 actions:
   - name: Full Attack
     desc: "2 tentacles +6 melee (1d3+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Improved Initiative (B), Lightning Reflexes, Stealthy
 combat_gear:  
 ```
+
+## Description
+
 
 
 These vicious little predators lurk underground, grabbing whatever prey happens by. Its hands and feet have spiny pads that help the choker grip almost any surface. The creature weighs about 35 pounds.

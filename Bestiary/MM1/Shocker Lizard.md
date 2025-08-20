@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., electricity sense, immunity to electricity, low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., electricity sense, immunity to electricity, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d4)"
@@ -91,6 +94,9 @@ traits:
      desc: Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 A shocker lizard has a pale gray or blue underside, shading to a darker hue on its back. It has blue-black markings along its back and tail. A shocker lizard is about 1 foot tall at the shoulder and weighs about 25 pounds.

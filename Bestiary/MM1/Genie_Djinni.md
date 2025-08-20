@@ -9,10 +9,13 @@ Monster: Genie, Djinni
 Size: Large
 Type: Outsider
 Subtype: Air, Extraplanar
-CR: 0
+CR: 5
 Environnent: Elemental Plane of Air
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,14 +78,14 @@ senses:
 damage_immunities: "to acid"
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to acid, [[plane shift]], telepathy 100 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to acid, [[plane shift]], telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "2 slams +10 melee (1d8+4)"
@@ -97,6 +100,9 @@ traits:
      desc: Combat Casting, Combat Reflexes, Dodge, Improved Initiative (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Genies are humanlike beings who dwell on the elemental planes. They are famous for their strength, guile, and skill with illusion magic.
@@ -138,7 +144,7 @@ Creatures trapped in the whirlwind cannot move except to go where the djinni car
 
 The djinni can eject any carried creatures whenever it wishes, depositing them wherever the whirlwind happens to be.
 
-If the whirlwind's base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the djinni and has a diameter equal to half the whirlwind's height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.
+If the whirlwind's base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the djinni and has a diameter equal to half the whirlwind's height. The cloud obscures all vision, including [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]], beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment.
 
 Those caught in the cloud must succeed on a Concentration check (DC 15 + spell level) to cast a spell.
 

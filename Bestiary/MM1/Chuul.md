@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 7
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Amphibious, darkvision 60 ft., immunity to poison
+   desc: Amphibious, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to poison
 actions:
   - name: Full Attack
     desc: "2 claws +12 melee (2d6+5)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Blind-Fight,Combat Reflexes, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 A horrible mix of crustacean, insect, and serpent, the chuul is an abomination that lurks submerged or partially submerged, awaiting intelligent prey to devour. Although amphibious, chuuls are not good swimmers and actually prefer to be on land or in very shallow water when they attack. A chuul is about 8 feet long and weighs 650 pounds.

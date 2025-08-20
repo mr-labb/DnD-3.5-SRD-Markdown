@@ -12,7 +12,10 @@ Subtype:
 CR: 12
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to electricity, low-light vision, resistance to cold 10, spell resistance 30, vulnerability to fire
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity, [[low-light vision]], [[Resistance To Energy|Resistance To]] cold 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 30, [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Improved Initiative, Iron Will, Weapon Focus (strand)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A roper stands some 9 feet tall and tapers from 3 or 4 feet in diameter at the base to 1 foot across at the top. It weighs 2,200 pounds. A roper's coloration and temperature change to match the features of the surrounding cave.

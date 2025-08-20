@@ -10,9 +10,12 @@ Size: Large
 Type: Giant
 Subtype: 
 CR: 3
-Environnent: Temperate hills (Merrow: Temperate aquatic)
+Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Greatclub +8 melee (2d8+7) or javelin +1 ranged (1d8+5)"
@@ -88,6 +91,9 @@ traits:
      desc: Toughness, Weapon Focus (greatclub)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Adult ogres stand 9 to 10 feet tall and weigh 600 to 650 pounds. Their skin color ranges from dull yellow to dull brown. Their clothing consists of poorly cured furs and hides, which add to their naturally repellent odor.

@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Goblin, 1st-level Assasin
-Size: 
+Size: Small
 Type: Goblinoid
 Subtype: 
 CR: 0.3
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,7 +28,7 @@ image: [[Goblin, 1st-level Assasin.PNG]]
 race: Goblin, 1st-level Assasin
 class: 
 level: 
-size: 
+size: Small
 type: Goblinoid
 subtype: 
 alignment: Neutral Evil
@@ -90,6 +93,9 @@ traits:
      desc: Two-weapon fighting, Weapon finesse
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

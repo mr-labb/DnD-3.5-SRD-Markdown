@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., hold breath, low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., hold breath, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +9 melee (1d6+4) and bite +4 melee (1d8+2)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Endurance, Iron Will
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical sea cat is 12 feet long and weighs 800 pounds.

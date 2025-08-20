@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +6 melee (1d6+3) and 2 claws +1 melee (1d3+1)"
@@ -92,6 +95,9 @@ traits:
      desc: Alertness, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 These jungle cats are about 4 feet long and weigh about 120 pounds. They usually hunt at night. The statistics presented here can describe any feline of similar size, such as jaguars, panthers, and mountain lions.

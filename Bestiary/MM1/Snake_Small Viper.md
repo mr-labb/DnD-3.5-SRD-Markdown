@@ -9,10 +9,13 @@ Monster: Snake, Small Viper
 Size: Small
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -69,14 +72,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Scent
+   desc: [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d2-2 plus poison)"
@@ -91,6 +94,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 These creatures range widely in size. They are not particularly aggressive, but will often lash out with a bite attack before attempting to retreat.

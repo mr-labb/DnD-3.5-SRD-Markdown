@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 16
 Environnent: Plane of Shadow
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aversion to daylight, damage reduction 15/silver and magic, darkvision 60 ft., immunity to cold, spell resistance 29, telepathy 100 ft., undead traits
+   desc: Aversion to daylight, [[Damage Reduction]] 15/silver and magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 29, telepathy 100 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "2 slams +24 melee (2d6+16)"
@@ -96,6 +99,9 @@ traits:
      desc: Cleave, Combat Expertise, Combat Reflexes, Great Fortitude, Improved Disarm, Improved Initiative, Power Attack, Quicken Spell-Like Ability ([[unholy blight]])
 combat_gear:  
 ```
+
+## Description
+
 
 
 Nightshades are powerful undead composed of equal parts darkness and absolute evil.
@@ -124,7 +130,7 @@ A nightshade's desecrating aura cannot be dispelled except by a *[[dispel evil]]
 
 Nightwalkers lurk in dark areas where they can almost always surprise the unwary.
 
-A nightwalker's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A nightwalker's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Crush Item (Su):** A nightwalker can destroy any weapon or item of Large size or smaller (even magic ones, but not artifacts) by picking it up and crushing it between its hands. The nightwalker must make a successful disarm attempt to grab an item held by an opponent. The item is entitled to a DC 34 Fortitude save to resist destruction. The save DC is Strength-based.

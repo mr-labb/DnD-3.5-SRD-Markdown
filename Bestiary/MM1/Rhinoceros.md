@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Gore +13 melee (2d6+12)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Endurance, Improved Natural Attack (gore)
 combat_gear:  
 ```
+
+## Description
+
 
 
 The rhinoceros is infamous for its bad temper and willingness to charge intruders.

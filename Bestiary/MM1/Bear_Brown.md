@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Cold forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +11 melee (1d8+8) and bite +6 melee (2d6+4)"
@@ -88,6 +91,9 @@ traits:
      desc: Endurance, Run, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 These massive carnivores weigh more than 1,800 pounds and stand nearly 9 feet tall when they rear up on their hind legs. They are bad-tempered and territorial. The brown bear's statistics can be used for almost any big bear, including the grizzly.

@@ -12,7 +12,10 @@ Subtype:
 CR: 9
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to acid, [[stone shape]], tremorsense 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to acid, [[stone shape]], tremorsense 60 ft.
 actions:
   - name: Full Attack
     desc: "2 slams +17 melee (1d6+8 plus 2d6 acid)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 A delver is about 15 feet long and 10 feet wide. It weighs about 6,000 pounds.

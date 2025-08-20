@@ -12,7 +12,10 @@ Subtype: Cold
 CR: 12
 Environnent: Cold plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., death throes, immunity to cold, low-light vision, vulnerability to fire
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., death throes, [[Cold Immunity|Immunity to cold]], [[low-light vision]], [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "Bite +21 melee (2d8+12 plus 1d8 cold)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Improved Initiative, Improved Natural Attack(bite), Iron Will, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A frost worn cannot burrow through stone, but can manage ice and frozen earth. When moving through such hard materials it leaves behind a usable tunnel about 5 feet in diameter.

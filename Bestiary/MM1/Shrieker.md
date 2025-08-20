@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, plant traits
+   desc: [[low-light vision]], [[Plant|Plant traits]]
 actions:
   - name: Full Attack
     desc: "-"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 COMBAT

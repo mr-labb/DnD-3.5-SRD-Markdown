@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, darkvision 60 ft., low-light vision
+   desc: Construct traits, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +2 melee (1d4-1 plus poison)"
@@ -88,6 +91,9 @@ traits:
      desc: Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 A homunculus is a miniature servant created by a wizard. These creatures are weak combatants but make effective spies, messengers, and scouts. A homunculus's creator determines its precise features. Homunculi are little more than tools designed to carry out assigned tasks. They are extensions of their creators, sharing the same alignment and basic nature. A homunculus cannot speak, but the process of creating one links it telepathically with its creator.

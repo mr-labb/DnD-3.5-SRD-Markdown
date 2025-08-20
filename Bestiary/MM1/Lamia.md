@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Temperate deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Touch +12 melee (1d4 Wisdom drain); or dagger +12/+7 melee (1d6+4/19-20) and 2 claws +7 melee (1d4+2)"
@@ -92,6 +95,9 @@ traits:
      desc: Dodge, Iron Will, Mobility, Spring Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical lamia is about 8 feet long and weighs about 700 pounds.

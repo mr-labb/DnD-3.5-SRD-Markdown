@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar
 CR: 21
 Environnent: A chaotic good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -89,7 +92,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 15/lawful, darkvision 60 ft., spell resistance 32
+   desc: [[Damage Reduction]] 15/lawful, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 32
 actions:
   - name: Full Attack
     desc: "Gargantuan +3 adamantine warhammer +37/+32/+27/+22 melee (4d6+27/x3) or +3 javelin +22 ranged (2d6+19) or 2 slams +34 (1d8+16)"
@@ -105,6 +108,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A titan is about 25 feet tall and weighs about 14,000 pounds.
 
@@ -112,7 +118,7 @@ Titans speak Abyssal, Common, Celestial, Draconic, and Giant.
 
 COMBAT
 
-A titan's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming damage reduction.
+A titan's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Oversized Weapon (Ex):** A titan wields a great, two-handed warhammer (big enough for Gargantuan creatures) without penalty.

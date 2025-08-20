@@ -12,7 +12,10 @@ Subtype: Chaotic, Evil, Extraplanar
 CR: 3
 Environnent: A chaotic-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +10 melee (2d8+5) and 1d4 quills +5 melee (1d6+2)"
@@ -93,12 +96,15 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Howlers live on planes where chaos and evil hold sway. A howler is about 8 feet long and weighs about 2,000 pounds. Although they are surprisingly intelligent, howlers do not speak - they only howl. If there is a language within the howls, as some have suggested, even spells cannot decipher it. Howlers understand Abyssal.
 
 COMBAT
 
-Howlers attack in groups, for they are cowardly and cruel. They prefer to charge into combat, race out, and then charge in again. A howler's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+Howlers attack in groups, for they are cowardly and cruel. They prefer to charge into combat, race out, and then charge in again. A howler's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Quills (Ex):** A howler's neck bristles with long quills. While biting, the creature thrashes about, striking with 1d4 of them. An opponent hit by a howler's quill attack must succeed on a DC 16 Reflex save or have the quill break off in his or her flesh. Lodged quills impose a -1 penalty on attacks, saves, and checks per quill. The save DC is Dexterity-based.

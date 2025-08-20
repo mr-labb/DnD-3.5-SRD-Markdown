@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Slam +16 melee (2d6+10) and 2 stamps +11 melee (2d6+5); or gore +16 melee (2d8+15)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Endurance, Iron Will, SkillFocus (Listen)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Massive herbivores of tropical lands, elephants are unpredictable creatures but nevertheless are sometimes used as mounts or beasts of burden.

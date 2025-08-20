@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., [[freedom of movement]], lowlight vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[freedom of movement]], lowlight vision, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Sting +8 melee (1d8+5 plus poison) and bite +3 melee (1d8+2)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Dodge
 combat_gear:  
 ```
+
+## Description
+
 
 
 A spider eater is about 10 feet long and 4 feet high, and has a wingspan of about 20 feet. It weighs about 4,000 pounds.

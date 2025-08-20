@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Trap - mechanical / darts, small
-Size: 
+Size: Various
 Type: Mechanical
 Subtype: 
 CR: 1
-Environnent: 
+Environnent: Any
 Source: DMG
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,7 +28,7 @@ image: [[Trap - mechanical / darts, small.PNG]]
 race: Trap - mechanical / darts, small
 class: 
 level: 
-size: 
+size: Various
 type: Mechanical
 subtype: 
 alignment: 
@@ -86,6 +89,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

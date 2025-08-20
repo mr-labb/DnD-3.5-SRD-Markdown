@@ -9,10 +9,13 @@ Monster: Halfling, 1st-Level Warrior
 Size: Small
 Type: Humanoid
 Subtype: Halfling
-CR: 0
-Environnent: Warm plains(Deep halfling: Warm hills)(Tallfellow: Temperate forests)
+CR: 1
+Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -89,6 +92,9 @@ traits:
      desc: Weapon Focus (longsword)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Halflings stand about 3 feet tall and usually weigh between 30 and 35 pounds. They have brown or black eyes. Halfling men often have long sideburns, but beards are rare among them and mustaches almost unseen. Halflings prefer simple, comfortable, and practical clothes. Unlike members of most races, they prefer actual comfort to shows of wealth. Halflings reach adulthood in their early twenties and generally live into the middle of their second century. Halflings speak Halfling and Common.

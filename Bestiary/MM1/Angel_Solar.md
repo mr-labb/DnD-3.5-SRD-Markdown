@@ -12,7 +12,10 @@ Subtype: Angel, Extraplanar, Good
 CR: 23
 Environnent: Any good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -83,7 +86,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 15/epic and evil, darkvision 60 ft., low-light vision, immunity to acid, cold, and petrification, protective aura, regeneration 15 (epic and evil or spell and evil), resistance to electricity 10 and fire 10, spell resistance 32, [[tongues]]
+   desc: [[Damage Reduction]] 15/epic and evil, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], immunity to acid, cold, and petrification, protective aura, [[Regeneration]] 15 (epic and evil or spell and evil), [[Resistance To Energy|Resistance To]] electricity 10 and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 32, [[tongues]]
 actions:
   - name: Full Attack
     desc: "+5 dancing greatsword +35/+30/+25/+20 melee (3d6+18/19-20) or +2 composite longbow, mighty 5 +28/+23/+18/+13 ranged (2d6+7/x3 plus slaying) or slam +30 melee (2d8+13)"
@@ -98,6 +101,9 @@ traits:
      desc: Cleave, Dodge, Great Cleave, ImprovedInitiative, Improved Sunder, Mobility, Power Attack, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 Angels are a race of celestials, beings who live on the good-aligned Outer Planes.
@@ -123,10 +129,10 @@ Solars are puissant champions of good. Only the most powerful fiends approach th
 
 Even more fearsome than their *+5 dancing greatswords* are their *+2 composite longbows* that create any sort of *slaying arrow* when drawn.
 
-A solar's natural weapons, as well as any weapons it wields, are treated as good-aligned and epic for the purpose of overcoming damage reduction.
+A solar's natural weapons, as well as any weapons it wields, are treated as good-aligned and epic for the purpose of overcoming [[Damage Reduction]].
 
 
-**Regeneration (Ex):** A solar takes normal damage from epic evil-aligned weapons, and from spells or effects with the evil descriptor.
+**[[Regeneration]] (Ex):** A solar takes normal damage from epic evil-aligned weapons, and from spells or effects with the evil descriptor.
 
 
 **Spell-Like Abilities:** At will - *[[aid]], [[animate objects]], [[commune]], [[continual flame]], [[dimensional anchor]], greater [[dispel magic]], [[holy smite]]* (DC 21), *[[imprisonment]]* (DC 26), *invisibility* (self only), *[[Restoration Lesser|lesser restoration]]* (DC 19), *[[Compendium/Spells/Polymorph|polymorph]]* (self only) *[[power word stun]], [[remove curse]]* (DC 20), *[[remove disease]]* (DC 20), *[[remove fear]]* (DC 18), *[[resist energy]], [[summon monster VII]], [[speak with dead]]* (DC 20) *, [[waves of fatigue]]* ; 3/day - *[[blade barrier]]* (DC 23), *[[earthquake]]* (DC 25), *[[heal]]* (DC 23), *[[Charm Monster Mass|mass charm monster]]* (DC 25), *[[permanency]], [[resurrection]], [[waves of exhaustion]]* ; 1/day - *[[Restoration Greater|greater restoration]]* (DC 24), *[[power word blind]]* , *[[power word kill]]* , *[[power word stun]], [[prismatic spray]]* (DC 24), *[[wish]]* . Caster level 20th. The save DCs are Charisma-based.

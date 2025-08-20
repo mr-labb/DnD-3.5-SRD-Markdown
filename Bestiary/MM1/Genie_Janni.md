@@ -12,7 +12,10 @@ Subtype: Native
 CR: 4
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., elemental endurance, plane shift, resistance to fire 10, telepathy 100 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., elemental endurance, plane shift, [[Resistance To Energy|Resistance To]] fire 10, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Scimitar +9/+4 melee (1d6+4/18-20) or longbow +8/+3 ranged (1d8/x3)"
@@ -96,6 +99,9 @@ traits:
      desc: Combat Reflexes, Dodge, Improved Initiative (B), Mobility
 combat_gear:  
 ```
+
+## Description
+
 
 
 Genies are humanlike beings who dwell on the elemental planes. They are famous for their strength, guile, and skill with illusion magic.

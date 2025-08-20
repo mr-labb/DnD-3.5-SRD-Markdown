@@ -9,10 +9,13 @@ Monster: Drow, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
 Subtype: Elf 
-CR: 0
+CR: 1
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -67,14 +70,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 1
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Drow traits, spell resistance 12
+   desc: Drow traits, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 12
 actions:
   - name: Full Attack
     desc: "Rapier +3 melee (1d6+1/18-20) or hand crossbow +2 ranged (1d4/19-20)"
@@ -89,6 +92,9 @@ traits:
      desc: Weapon Focus (rapier)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Elves average 5 feet tall and typically weigh just over 100 pounds. They live on fruits and grains, though they occasionally hunt for fresh meat. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest.

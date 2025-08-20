@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 90 ft.
+   desc: [[Blindsight]] 90 ft.
 actions:
   - name: Full Attack
     desc: "Slam +5 melee (1d4+4)"
@@ -88,6 +91,9 @@ traits:
      desc: Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 The darkmantle hangs from a ceiling by a muscular "foot" at the top of its body. It can look like a stalactite, by holding its tentacles stiffly under itself, or like a lump of rock, spreading its tentacles so the membrane between them covers its body. Its shell and skin usually resemble limestone, but a darkmantle can change its color to match almost any type of stony background.
@@ -110,12 +116,12 @@ If it wins the grapple check, it attaches to the opponent's head and can constri
 **Constrict (Ex):** A darkmantle deals 1d4+4 points of damage with a successful grapple check.
 
 
-**Blindsight (Ex):** A darkmantle can "see" by emitting high-frequency sounds, inaudible to most other creatures, that allows it to ascertain objects and creatures within 90 feet. A *silence* spell negates this ability and effectively blinds the darkmantle.
+**[[Blindsight]] (Ex):** A darkmantle can "see" by emitting high-frequency sounds, inaudible to most other creatures, that allows it to ascertain objects and creatures within 90 feet. A *silence* spell negates this ability and effectively blinds the darkmantle.
 
 
 **Skills:** A darkmantle has a +4 racial bonus on Listen and Spot checks.
 
-These bonuses are lost if its blindsight is negated. The creature's variable coloration gives it a +4 racial bonus on Hide checks.
+These bonuses are lost if its [[Blindsight]] is negated. The creature's variable coloration gives it a +4 racial bonus on Hide checks.
 
 ---
 

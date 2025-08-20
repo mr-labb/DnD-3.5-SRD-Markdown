@@ -12,7 +12,10 @@ Subtype: Extraplanar, Earth
 CR: 6
 Environnent: Elemental Plane of Earth
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: All-around vision, earth glide, damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, resistance to electricity 10, tremorsense 60 ft.
+   desc: All-around vision, earth glide, [[Damage Reduction]] 5/bludgeoning, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]] and fire, [[Resistance To Energy|Resistance To]] electricity 10, tremorsense 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +10 melee (4d6+3) and 3 claws +8 melee (1d4+1)"
@@ -93,6 +96,9 @@ traits:
      desc: Cleave (B), Multiattack, Power Attack, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Average xorns are about 5 feet tall and wide, weighing about 600 pounds.

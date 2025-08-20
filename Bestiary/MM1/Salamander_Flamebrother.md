@@ -12,7 +12,10 @@ Subtype: Extraplanar, Fire
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to fire, vulnerability to cold
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]], [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "Spear +6 melee (1d6+1/x3 plus 1d6 fire) and tail slap +4 melee (1d4 plus 1d6 fire)"
@@ -91,12 +94,15 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Salamanders speak Ignan. Some average salamanders and all nobles also speak Common.
 
 COMBAT
 
-If a salamander has damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+If a salamander has [[Damage Reduction]], its natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Constrict (Ex):** A salamander deals automatic tail slap damage (including fire damage) with a successful grapple check. A noble salamander can constrict multiple creatures simultaneously, provided they are all at least two sizes smaller than it.

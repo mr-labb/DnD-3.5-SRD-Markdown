@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., [[magic circle against evil]], spell-like abilities, immunity to poison, charm, and compulsion, low-light vision, scent, wild empathy
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[magic circle against evil]], spell-like abilities, immunity to poison, charm, and compulsion, [[low-light vision]], [[Scent]], wild empathy
 actions:
   - name: Full Attack
     desc: "Horn +11 melee (1d8+8) and 2 hooves +3 melee (1d4+2)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Skill Focus (Survival)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A unicorn has deep sea-blue, violet, brown, or fiery gold eyes. Males sport a white beard.

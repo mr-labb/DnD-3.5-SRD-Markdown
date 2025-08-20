@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 17
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -83,7 +86,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good and cold iron, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 25, telepathy 100 ft.
+   desc: [[Damage Reduction]] 10/good and cold iron, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and poison, [[Resistance To Energy|Resistance To]] acid 10, cold 10, and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 25, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Primary longsword +25/+20/+15/+10 melee (2d6+9/19-20) and 5 longswords +25 melee (2d6+4/19-20) and tail slap +22 melee (4d6+4); or 6 slams +24 melee (1d8+9) and tail slap +22 melee(4d6+4)"
@@ -99,6 +102,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -112,7 +118,7 @@ Combat
 
 Though mariliths thrive on grand strategy and army-level tactics, they love physical combat and never pass up an opportunity to fight. Each of a marilith's six arms can wield a weapon, and the creature gets an additional three weapon attacks with its primary arm. Mariliths seldom rush headlong into battle, however, preferring to hang back and size up the situation first. They always seek to gain the best possible advantage from the local terrain, obstacles, and any vulnerability or weakness in their opponents.
 
-A marilith's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A marilith's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Constrict (Ex):** A marilith deals 4d6+13 points of damage with a successful grapple check. The constricted creature must succeed on a DC 27 Fortitude save or lose consciousness for as long as it remains in the coils and for 2d4 rounds thereafter. The save DC is Strength-based.

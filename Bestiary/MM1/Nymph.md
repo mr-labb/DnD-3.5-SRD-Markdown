@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -83,7 +86,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/cold iron, low-light vision, unearthly grace, wild empathy
+   desc: [[Damage Reduction]] 10/cold iron, [[low-light vision]], unearthly grace, wild empathy
 actions:
   - name: Full Attack
     desc: "Dagger +6 melee (1d4/19-20)"
@@ -98,6 +101,9 @@ traits:
      desc: Combat Casting, Dodge, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 A nymph is about the height and weight of a female elf.

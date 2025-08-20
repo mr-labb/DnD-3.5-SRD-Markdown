@@ -23,12 +23,12 @@ initiative: number
 speed: string
 space/reach: string
 stats:
-  - number
-  - number
-  - number
-  - number
-  - number
-  - number
+  - number (STR)
+  - number (DEX)
+  - number (CON)
+  - number (INT)
+  - number (WIS)
+  - number (CHA)
 saves:
  - Fortitude : number
  - Reflex : number

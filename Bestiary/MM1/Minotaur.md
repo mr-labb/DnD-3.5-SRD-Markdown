@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., natural cunning, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., natural cunning, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Greataxe +9/+4 melee (3d6+6/x3) and gore +4 melee (1d8+2)"
@@ -89,6 +92,9 @@ traits:
      desc: Great Fortitude, Power Attack, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 A minotaur stands more than 7 feet tall and weighs about 700 pounds.

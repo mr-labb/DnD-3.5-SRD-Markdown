@@ -12,7 +12,10 @@ Subtype: Fire, Extraplanar
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/magic, darkvision 60 ft., elemental traits, immunity to fire, melt weapons, vulnerability to cold
+   desc: [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]], [[fire Immunity|Immunity to fire]], melt weapons, [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion)"
@@ -88,6 +91,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Magmins are small, human-shaped beings from the Elemental Plane of Fire that radiate intense heat and are wreathed in an aura of searing flames. A typical magmin is 4 feet tall and weighs 400 pounds.
 
@@ -95,9 +101,9 @@ Magmins speak Ignan.
 
 COMBAT
 
-Although small, magmins are dangerous opponents. Their touch is effective against those who lack protection or immunity from heat and flames, but if faced with opponents who have immunity to fire, magmins rely on their slam attack. In any case, magmins are not valiant fighters. They usually flee if injured, although often only far enough to set up a fiery ambush for their enemies.
+Although small, magmins are dangerous opponents. Their touch is effective against those who lack protection or immunity from heat and flames, but if faced with opponents who have [[fire Immunity|Immunity to fire]], magmins rely on their slam attack. In any case, magmins are not valiant fighters. They usually flee if injured, although often only far enough to set up a fiery ambush for their enemies.
 
-A magmin's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A magmin's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Combustion (Ex):** Anyone a magmin touches must succeed on a DC 12 Reflex save or take an extra 1d8 points of fire damage as clothes ignite or armor becomes searing hot. The damage continues for another 1d4+2 rounds after the magmin's last successful attack. Magmins can also ignite flammable materials with a touch. The save DC is Constitution-based.

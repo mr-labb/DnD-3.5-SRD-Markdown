@@ -12,7 +12,10 @@ Subtype: Fire, Extraplanar
 CR: 9
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/-, darkvision 60 ft., elemental traits, immunity to fire, vulnerability to cold
+   desc: [[Damage Reduction]] 10/-, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]], [[fire Immunity|Immunity to fire]], [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "2 slams +22 melee (2d8+5 plus 2d8 fire)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Blind-Fight, Combat Reflexes, Dodge, Improved Initiative  (B), Iron Will, Mobility, Spring Attack, Weapon Finesse (B), Weapon Focus (slam)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A fire elemental cannot enter water or any other nonflammable liquid. A body of water is an impassible barrier unless the fire elemental can step or jump over it.

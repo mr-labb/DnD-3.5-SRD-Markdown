@@ -12,7 +12,10 @@ Subtype: Earth, Extraplanar, Fire
 CR: 2
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., elemental traits, immunity to fire, tremorsense 60 ft., vulnerability to cold
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]], [[fire Immunity|Immunity to fire]], tremorsense 60 ft., [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "Slam +4 melee (1d6+3 plus 2d6 fire)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 A thoqqua is about 1 foot in diameter and 4 to 5 feet long. It weighs about 200 pounds.

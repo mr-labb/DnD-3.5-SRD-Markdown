@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 60 ft., immunity to electricity, ooze traits, transparent
+   desc: [[Blindsight]] 60 ft., immunity to electricity, ooze traits, transparent
 actions:
   - name: Full Attack
     desc: "Slam +1 melee (1d6 plus 1d6 acid)"
@@ -87,6 +90,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Oozes are amorphous creatures that live only to eat. They inhabit underground areas throughout the world, scouring caverns, ruins, and dungeons in search of organic matter - living or dead.
 
@@ -99,7 +105,7 @@ Combat
 Oozes attack any creatures they encounter. They lash out with pseudopods or simply engulf opponents with their bodies, which secrete acids that help them catch or digest their prey.
 
 
-**Blindsight (Ex):** An ooze's entire body is a primitive sensory organ that can ascertain prey by scent and vibration within 60 feet.
+**[[Blindsight]] (Ex):** An ooze's entire body is a primitive sensory organ that can ascertain prey by [[Scent]] and vibration within 60 feet.
 
 A gelatinous cube attacks by slamming its body into its prey. It is capable of lashing out with a pseudopod, but usually engulfs foes.
 

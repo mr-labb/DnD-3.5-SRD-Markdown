@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar, Lawful, Shapechanger
 CR: 4
 Environnent: An evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Change shape, damage reduction 5/magic, darkvision 60 ft., scent
+   desc: Change shape, [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +9 melee (1d6+3) and 2 claws +4 melee (1d4+1)"
@@ -98,6 +101,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A barghest is a lupine fiend that can take the shape of a wolf or a goblin. In its natural form, it resembles a goblin-wolf hybrid with terrible jaws and sharp claws. As whelps, barghests are nearly indistinguishable from wolves, except for their size and claws. As they grow larger and stronger, their skin darkens to bluishred and eventually becomes blue altogether.
 
@@ -109,7 +115,7 @@ COMBAT
 
 Barghests can claw and bite, no matter what their form, and usually disdain weapons. Though they love killing, they have little stomach for direct combat and attack from ambush whenever possible. Barghests start a combat by using *[[crushing despair]]* and *[[charm monster]]* to keep opponents off balance. They try to stay away from the enemy's main strength.
 
-A barghest's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A barghest's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]]. Its natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[blink]], [[levitate]], [[misdirection]]* (DC 14), *[[rage]]* (DC 15); 1/day - *[[charm monster]]* (DC 16), *[[crushing despair]]* (DC 16), *[[dimension door]].* Caster level equals the barghest's HD.

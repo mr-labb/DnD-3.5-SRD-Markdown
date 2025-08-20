@@ -12,7 +12,10 @@ Subtype: Extraplanar, Fire
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/magic, darkvision 60 ft., fast healing 2, immunity to fire, vulnerability to cold
+   desc: [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2, [[fire Immunity|Immunity to fire]], [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "2 claws +4 melee (1d3 plus 1d4 fire)"
@@ -94,6 +97,9 @@ traits:
      desc: Dodge, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mephits are minor creatures from the elemental planes.
@@ -110,7 +116,7 @@ Combat
 
 All mephits fight by biting and clawing or by using a breath weapon, the nature and effects of which vary from creature to creature.
 
-A mephit's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A mephit's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Breath Weapon (Su):** A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
@@ -130,7 +136,7 @@ A mephit's natural weapons are treated as magic weapons for the purpose of overc
 Unlike other mephits, steam mephits rush into combat eagerly, driven by an oversized ego.
 
 
-**Breath Weapon (Su):** 10-foot cone of steam, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of steam, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have [[fire Immunity|Immunity to fire]] or are otherwise protected. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
 
 **Spell-Like Abilities:** Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of a *blur* spell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.

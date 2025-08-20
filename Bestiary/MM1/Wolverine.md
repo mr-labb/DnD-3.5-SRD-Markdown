@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Cold forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +4 melee (1d4+2) and bite -1 melee (1d6+1)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Toughness, Track (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 These creatures are similar to badgers but are bigger, stronger, and even more ferocious.

@@ -12,7 +12,10 @@ Subtype: Augmented Magical Beast, Extraplanar
 CR: 12
 Environnent: A chaotic evil plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Resistance to cold 10 and fire 10, damage reduction 10/magic, darkvision 60 ft., low-light vision, spell resistance 23
+   desc: [[Resistance To Energy|Resistance To]] cold 10 and fire 10, [[Damage Reduction]] 10/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 23
 actions:
   - name: Full Attack
     desc: "Bite +25 melee (2d8+10)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Blind-Fight, Great Fortitude,Iron Will, Improved Natural Attack (bite),Lightning Reflexes, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A basilisk is a reptilian monster that petrifies living creatures with a mere gaze. A basilisk usually has a dull brown body with a yellowish underbelly. Some specimens sport a short, curved horn atop the nose. An adult basilisk's body grows to about 6 feet long, not including its tail, which can reach an additional length of 5 to 7 feet. The creature weighs about 300 pounds.
@@ -110,7 +116,7 @@ COMBAT
 
 The save DC for the abyssal greater basilisk's petrifying gaze (DC 21) is adjusted for its greater Hit Dice and higher Charisma score.
 
-An abyssal greater basilisk's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+An abyssal greater basilisk's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Smite Good (Su):** Once per day an abyssal greater basilisk can make a normal melee attack to deal an extra 18 points of damage against a good foe.

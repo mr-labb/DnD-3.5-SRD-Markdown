@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, plant traits, [[Invisibility Greater|greater invisibility]]
+   desc: [[low-light vision]], [[Plant|Plant traits]], [[Invisibility Greater|greater invisibility]]
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d6+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 This creature looks like a brown and greenish-brown mass with a cluster of nodules atop the main mass, though it is visible only when dead. A cluster of nodules atop the main mass serve as sensory organs. The creature feeds and attacks with a gaping maw lined with rows of teeth. Four stumpy legs support the creature and allow it to move about. This ambulatory fungus is naturally invisible, making it a feared predator among subterranean inhabitants.

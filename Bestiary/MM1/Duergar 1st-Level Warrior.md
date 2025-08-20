@@ -12,7 +12,10 @@ Subtype: Dwarf
 CR: 1
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., duergar traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., duergar traits
 actions:
   - name: Full Attack
     desc: "Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19-20)"
@@ -90,6 +93,9 @@ traits:
      desc: Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dwarves favor earth tones in their clothing and prefer simple and functional garb. The skin can be very dark, but it is always some shade of tan or brown. Hair color can be black, gray, or brown. Dwarves average 4 feet tall and weigh as much as adult humans.

@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Scent
+   desc: [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +9 melee (1d6+5) and bite +4 melee (1d8+2)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 An owlbear's coat ranges in color from brown-black to yellowish brown; its beak is a dull ivory color. A full-grown male can stand as tall as 8 feet and weigh up to 1,500 pounds. Adventurers who have survived encounters with the creature often speak of the bestial madness they glimpsed in its red-rimmed eyes.

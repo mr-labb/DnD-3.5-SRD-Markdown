@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent, spell-like abilities
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]], spell-like abilities
 actions:
   - name: Full Attack
     desc: "2 hooves +7 melee (1d6+4) and bite +2 melee (1d3+2)"
@@ -89,6 +92,9 @@ traits:
      desc: Flyby Attack, Iron Will
 combat_gear:  
 ```
+
+## Description
+
 
 
 The pegasus is a magnificent winged horse that sometimes serves the cause of good. Though highly prized as aerial steeds, pegasi are wild and shy creatures not easily tamed.

@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +12 melee (2d6+4) and bite +12 melee (1d8+4) and gore +12 melee (1d8+4) and 2 claws +10 melee (1d6+2)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Hover, Iron Will, Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A chimera is about 5 feet tall at the shoulder, nearly 10 feet long, and weighs about 4,000 pounds. A chimera's dragon head might be black, blue, green, red, or white.

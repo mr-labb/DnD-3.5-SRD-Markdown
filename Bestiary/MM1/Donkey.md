@@ -9,10 +9,13 @@ Monster: Donkey
 Size: Medium
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.16
 Environnent: Temperate deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.16
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +1 melee (1d2)"
@@ -88,6 +91,9 @@ traits:
      desc: Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 These long-eared, horselike creatures are surefooted and sturdy. The statistics presented here could also describe burros.

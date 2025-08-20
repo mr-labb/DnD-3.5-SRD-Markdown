@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +20 melee (3d6+13)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Improved Natural Attack (bite), Run, Toughness (3), Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dinosaurs come in many sizes and shapes. Bigger varieties have drab coloration, while smaller dinosaurs have more colorful markings. Most dinosaurs have a pebbly skin texture.

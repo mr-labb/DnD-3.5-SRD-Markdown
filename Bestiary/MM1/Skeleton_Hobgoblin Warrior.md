@@ -12,7 +12,10 @@ Subtype: Goblinoid
 CR: 0.3
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., DR 5/bludgeoning, Immune to cold, Undead immunities
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., DR 5/bludgeoning, Immune to cold, Undead immunities
 actions:
   - name: Full Attack
     desc: "Longsword +1 melee (1d8+1/19-20)"
@@ -86,6 +89,9 @@ traits:
      desc: Improved initiative
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

@@ -9,10 +9,13 @@ Monster: Eagle
 Size: Small
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -65,14 +68,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 talons +3 melee (1d4) and bite -2 melee (1d4)"
@@ -87,6 +90,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 These birds of prey inhabit nearly every terrain and climate, though they all prefer high, secluded nesting spots.

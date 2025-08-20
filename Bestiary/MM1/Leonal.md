@@ -12,7 +12,10 @@ Subtype: Extraplanar, Good
 CR: 12
 Environnent: A good-aligned plane.
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/evil and silver, darkvision 60 ft., immunity to electricity and petrification, lay on hands, lowlight vision, protective aura, resistance to cold 10 and sonic 10, speak withanimals, spell resistance 28
+   desc: [[Damage Reduction]] 10/evil and silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, lay on hands, lowlight vision, protective aura, [[Resistance To Energy|Resistance To]] cold 10 and sonic 10, speak withanimals, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 28
 actions:
   - name: Full Attack
     desc: "2 claws +20 melee (1d6+8) and bite +15 melee (1d8+4)"
@@ -98,12 +101,15 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Combat
 
 Leonals like their battles as straightforward as can be. They begin with a roar to put their foes off balance, then follow up with a frenzy of claw and bite attacks. They closely coordinate with others in their pride, watching one another's flanks and setting up devastating attacks.
 
-A leonal's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
+A leonal's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Roar (Su):** A leonal can roar up to three times per day. Each roar releases a blast in a 60-foot cone that duplicates the effects of a *[[holy word]]* spell and deals an extra 2d6 points of sonic damage (Fortitude DC 20 negates). The save DC is Charisma-based.

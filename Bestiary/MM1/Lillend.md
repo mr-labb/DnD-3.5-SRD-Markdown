@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Good
 CR: 7
 Environnent: A chaos-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to poison, resistance to fire 10
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to poison, [[Resistance To Energy|Resistance To]] fire 10
 actions:
   - name: Full Attack
     desc: "Short sword +11/+6 melee (1d8+5/19-20) and tail slap +6 melee (2d6+2)"
@@ -96,6 +99,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A typical lillend's coils are 20 feet long. The creature weighs about 3,800 pounds. A few lillends have male torsos.
 
@@ -105,7 +111,7 @@ COMBAT
 
 Lillends are generally peaceful unless they intend vengeance against someone they believe guilty of harming, or even threatening, a favored art form, artwork, or artist. Then they become implacable foes. They use their spells and spell-like abilities to confuse and weaken opponents before entering combat. A covey of lillends usually discusses strategy before a battle.
 
-A lillend's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming damage reduction.
+A lillend's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Constrict (Ex):** A lillend deals 2d6+5 points of damage with a successful grapple check. Constricting uses the entire lower portion of its body, so it cannot take any move actions when constricting, though it can still attack with its sword.

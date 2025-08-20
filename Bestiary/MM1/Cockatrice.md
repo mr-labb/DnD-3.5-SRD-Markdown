@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +9 melee (1d4-2 plus petrification)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Dodge, Weapon Finesse (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A male cockatrice has wattles and a comb, just like a rooster. Females, much rarer than males, differ only in that they have no wattles or comb. A cockatrice weighs about 25 pounds.

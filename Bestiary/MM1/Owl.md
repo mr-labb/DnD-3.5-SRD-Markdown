@@ -9,10 +9,13 @@ Monster: Owl
 Size: Tiny
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.25
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.25
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Talons +5 melee (1d4-3)"
@@ -88,6 +91,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 The statistics presented here describe nocturnal birds of prey from 1 to 2 feet long, with wingspans up to 6 feet. They combine both talons into a single attack.

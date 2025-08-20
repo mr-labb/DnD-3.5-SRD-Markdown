@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 4
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Amphibious, spell resistance 14
+   desc: Amphibious, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 14
 actions:
   - name: Full Attack
     desc: "2 claws +7 melee (1d4+4)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Although different hags are unique in appearance and mannerism, they have many aspects in common. All take the form of crones whose bent shapes belie their fierce power and swiftness.

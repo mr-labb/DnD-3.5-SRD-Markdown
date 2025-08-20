@@ -12,7 +12,10 @@ Subtype:
 CR: 15
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/-, darkvision 60 ft., resistance to fire 10, undead traits, vulnerability to fire
+   desc: [[Damage Reduction]] 5/-, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Resistance To Energy|Resistance To]] fire 10, [[Undead|Undead traits]], [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "Slam +20 melee (1d6+12/19-20 plus mummy rot)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Combat Casting, Great Fortitude, Improved Critical (slam), Improved Initiative, Weapon Focus (slam),
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mummies are preserved corpses animated through the auspices of dark desert gods best forgotten.
@@ -129,7 +135,7 @@ Mummy lords are often potent spellcasters. They are found as guardians of the to
 **Mummy Rot (Su):** The save DC against this mummy lord's mummy rot is 17.
 
 
-*Typical Cleric Spells Prepared* (6/7/6/5/5/4; save DC 15 + spell level): 0- *[[detect magic]] (2), [[guidance]], [[read magic]], resistance, [[virtue]]* ; 1st- *bane, command, [[deathwatch]], [[divine favor]], doom, [[sanctuary]]*, shield of faith* ; 2nd- *[[Bulls Strength|bull's strength]], [[death knell]]*, [[hold person]], [[resist energy]], silence, [[spiritual weapon]]* ; 3rd- *[[animate dead]]*, [[deeper darkness]], [[dispel magic]], [[invisibility purge]], [[searing light]]* ; 4th- *[[air walk]], [[dismissal]], [[divine power]], [[giant vermin]], [[Compendium/Spells/Spell Immunity|spell immunity]]** ; 5th- *[[insect plague]], slay living*, spell resistance, [[symbol of pain]].*
+*Typical Cleric Spells Prepared* (6/7/6/5/5/4; save DC 15 + spell level): 0- *[[detect magic]] (2), [[guidance]], [[read magic]], resistance, [[virtue]]* ; 1st- *bane, command, [[deathwatch]], [[divine favor]], doom, [[sanctuary]]*, shield of faith* ; 2nd- *[[Bulls Strength|bull's strength]], [[death knell]]*, [[hold person]], [[resist energy]], silence, [[spiritual weapon]]* ; 3rd- *[[animate dead]]*, [[deeper darkness]], [[dispel magic]], [[invisibility purge]], [[searing light]]* ; 4th- *[[air walk]], [[dismissal]], [[divine power]], [[giant vermin]], [[Compendium/Spells/Spell Immunity|spell immunity]]** ; 5th- *[[insect plague]], slay living*, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]], [[symbol of pain]].*
 
 *Domain Spell. Domains: Death and Protection.
 

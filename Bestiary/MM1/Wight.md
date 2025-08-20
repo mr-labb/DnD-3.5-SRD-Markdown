@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., undead traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Slam +3 melee (1d4+1 plus energy drain)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Blind-Fight
 combat_gear:  
 ```
+
+## Description
+
 
 
 A wight's appearance is a weird and twisted reflection of the form it had in life. A wight is about the height and weight of a human.

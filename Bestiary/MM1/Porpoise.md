@@ -9,10 +9,13 @@ Monster: Porpoise
 Size: Medium
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.5
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 120 ft., hold breath, low-light vision
+   desc: [[Blindsight]] 120 ft., hold breath, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Slam +4 melee (2d4)"
@@ -89,19 +92,22 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Porpoises are mammals that tend to be playful, friendly, and helpful. A typical porpoise is 4 to 6 feet long and weighs 110 to 160 pounds. The statistics presented here can describe any small [[Whale_Baleen|whale]] of similar size.
 
 Combat
 
 
-**Blindsight (Ex):** Porpoises can "see" by emitting high-frequency sounds, inaudible to most other creatures, that allow them to locate objects and creatures within 120 feet. A *silence* spell negates this and forces the porpoise to rely on its vision, which is approximately as good as a human's.
+**[[Blindsight]] (Ex):** Porpoises can "see" by emitting high-frequency sounds, inaudible to most other creatures, that allow them to locate objects and creatures within 120 feet. A *silence* spell negates this and forces the porpoise to rely on its vision, which is approximately as good as a human's.
 
 
 **Hold Breath (Ex):** A porpoise can hold its breath for a number of rounds equal to 6 x its Constitution score before it risks drowning.
 
 
-**Skills:** A porpoise has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *A porpoise has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsight is negated.
+**Skills:** A porpoise has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *A porpoise has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its [[Blindsight]] is negated.
 
 ---
 

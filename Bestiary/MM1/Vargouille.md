@@ -12,7 +12,10 @@ Subtype: Evil, Extraplanar
 CR: 2
 Environnent: An evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d4 plus poison)"
@@ -91,6 +94,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A vargouille is slightly larger than a human head, about 18 inches high, with a wingspan of 4 feet. It weighs about 10 pounds.
 
@@ -98,7 +104,7 @@ Vargouilles speak Infernal.
 
 COMBAT
 
-Vargouilles attack by biting with their jagged teeth. Their special attacks make them even more dangerous. A vargouille's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction.
+Vargouilles attack by biting with their jagged teeth. Their special attacks make them even more dangerous. A vargouille's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Shriek (Su):** Instead of biting, a vargouille can open its distended mouth and let out a terrible shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature must succeed on a DC 12 Fortitude save or be paralyzed with fear for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A paralyzed creature is susceptible to the vargouille's kiss (see below). A creature that successfully saves cannot be affected again by the same vargouille's shriek for 24 hours. The shriek is a mind-affecting fear effect. The save DC is Constitution-based and includes a +1 racial bonus.

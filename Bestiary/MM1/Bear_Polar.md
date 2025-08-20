@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Cold plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +13 melee (1d8+8) and bite +8 melee (2d6+4)"
@@ -88,6 +91,9 @@ traits:
      desc: Endurance, Run, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 These long, lean carnivores are slightly taller than brown bears.

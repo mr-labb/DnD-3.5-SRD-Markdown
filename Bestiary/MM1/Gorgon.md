@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., lowlight vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., lowlight vision, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Gore +12 melee (1d8+7)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Improved Initiative, Iron Will
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical gorgon stands over 6 feet tall at the shoulder and measures 8 feet from snout to tail. It weighs about 4,000 pounds.

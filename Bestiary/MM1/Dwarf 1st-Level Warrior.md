@@ -9,10 +9,13 @@ Monster: Dwarf, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
 Subtype: Dwarf
-CR: 0
+CR: 1
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -68,14 +71,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 1
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., dwarf traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., dwarf traits
 actions:
   - name: Full Attack
     desc: "Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)"
@@ -90,6 +93,9 @@ traits:
      desc: Weapon Focus (dwarven waraxe)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dwarves favor earth tones in their clothing and prefer simple and functional garb. The skin can be very dark, but it is always some shade of tan or brown. Hair color can be black, gray, or brown. Dwarves average 4 feet tall and weigh as much as adult humans.

@@ -12,7 +12,10 @@ Subtype: Angel, Extraplanar, Good
 CR: 16
 Environnent: Any good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/evil, darkvision 60 ft., low-light vision, immunity to acid, cold, and petrification, protective aura, regeneration 10 (evil), resistance to electricity 10 and fire 10, spell resistance 30, [[tongues]]
+   desc: [[Damage Reduction]] 10/evil, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], immunity to acid, cold, and petrification, protective aura, [[Regeneration]] 10 (evil), [[Resistance To Energy|Resistance To]] electricity 10 and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 30, [[tongues]]
 actions:
   - name: Full Attack
     desc: "+3 greatsword +23/+18/+13 melee (3d6+13/19-20) or slam +20 melee (2d8+10)"
@@ -97,6 +100,9 @@ traits:
      desc: Blind-Fight, Cleave, Improved Initiative, Improved Sunder, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Angels are a race of celestials, beings who live on the good-aligned Outer Planes.
@@ -120,10 +126,10 @@ In combat, most angels make full use of their mobility and their ability to atta
 
 Despite their vast array of magical powers, planetars are likely to wade into melee with their *+3 greatswords.* They particularly enjoy fighting fiends.
 
-A planetar's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
+A planetar's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
-**Regeneration:** A planetar takes damage from evil-aligned weapons and from spells and effects with the evil descriptor.
+**[[Regeneration]]:** A planetar takes damage from evil-aligned weapons and from spells and effects with the evil descriptor.
 
 
 **Spell-Like Abilities:** At will - *[[continual flame]], [[dispel magic]], [[holy smite]]* (DC 20), *[[Compendium/Spells/Invisibility|invisibility]]* (self only), *[[Restoration Lesser|lesser restoration]]* (DC 18), *[[remove curse]]* (DC 19), *[[remove disease]]* (DC 19), *[[remove fear]]* (DC 17), *[[speak with dead]]* (DC 19); 3/day - *[[blade barrier]]* (DC 22), *[[flame strike]]* (DC 21), *[[Compendium/Spells/Polymorph|polymorph]]* (self only), *[[power word stun]], [[raise dead]]* , *[[waves of fatigue]]* ; 1/day - *[[earthquake]]* (DC 24), *[[Restoration Greater|greater restoration]]* (DC 23), *[[Charm Monster Mass|mass charm monster]]* (DC 24) *, [[waves of exhaustion]]* . Caster level 17th. The save DCs are Charisma-based.

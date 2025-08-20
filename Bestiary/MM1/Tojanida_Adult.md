@@ -12,7 +12,10 @@ Subtype: Extraplanar, Water
 CR: 5
 Environnent: Elemental Plane of Water
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: All-around vision, darkvision 60 ft., immunity to acid and cold, electricity 10 and fire 10
+   desc: All-around vision, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to acid and cold, electricity 10 and fire 10
 actions:
   - name: Full Attack
     desc: "Bite +10 melee (2d8+3) and 2 claws +5 melee (1d6+1)"
@@ -96,6 +99,9 @@ traits:
      desc: Blind-Fight, Dodge, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A tojanida's shell is blue-green in color. Inside the shell is a fleshy body from which extend seven stalks. Four of these stalks have paddles for locomotion, two are tipped with claws, and one bears the creature's head. Eight vents in the shell, four at each end, allow the tojanida to thrust its stalks out in whatever configuration it finds convenient.

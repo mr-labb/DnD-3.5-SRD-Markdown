@@ -12,7 +12,10 @@ Subtype: Extraplanar, Lawful
 CR: 9
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 20
+   desc: Construct traits, [[Damage Reduction]] 10/chaotic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 5, [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 20
 actions:
   - name: Full Attack
     desc: "2 spiked chains +10 melee (2d6+5 plus 1d6 electricity)"
@@ -91,6 +94,9 @@ traits:
      desc: Great Fortitude, Ride-By Attack, Spirited Charge
 combat_gear:  
 ```
+
+## Description
+
 
 
 Inevitables are constructs whose sole aim is to enforce the natural laws of the universe.
@@ -113,14 +119,14 @@ Combat
 
 Unless their very existence is threatened, inevitables focus completely on the transgressor they've been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won't tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
 
-An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Fast Healing (Ex):** An inevitable heals a certain amount of damage each round (specified in each variety's description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
 
 Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, tripping or disarming the foe as needed.
 
-A zelekhut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A zelekhut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[Clairaudience_Clairvoyance|clairaudience/clairvoyance]], [[dimensional anchor]], [[dispel magic]], fear* (DC 16) *, [[hold person]]* (DC 15) *, [[locate creature]], [[true seeing]];* 3/day - *[[hold monster]]* (DC 17) *, [[mark of justice]]* ; 1/week - *[[Geas Lesser|lesser geas]]* (DC 16) *.* Caster level 8th. The save DCs are Charisma-based.

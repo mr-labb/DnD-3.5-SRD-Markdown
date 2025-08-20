@@ -15,7 +15,10 @@ Subtype: Archon, Extraplanar, Good, Lawful
 CR: 16
 Environnent: A lawful good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aura of menace, change shape, damage reduction 10/evil, darkvision 60 ft., immunity to electricity and petrification, [[magic circle against evil]], paladin abilities, scent, spell resistance 27, [[teleport]], [[tongues]]
+   desc: Aura of menace, change shape, [[Damage Reduction]] 10/evil, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, [[magic circle against evil]], paladin abilities, [[Scent]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 27, [[teleport]], [[tongues]]
 actions:
   - name: Full Attack
     desc: "+2 cold iron greatsword +25/+20/+15/+10 melee (2d6+9/19-20) and bite +17 melee (1d8+2); or bite +22 melee (1d8+5) and slam +17 melee (1d4+2)"
@@ -97,6 +100,9 @@ traits:
      desc: Improved Initiative, Leadership,Mounted Combat, Ride-By Attack,Track, Weapon Focus (greatsword)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Archons are celestials from a lawful good-aligned plane.
@@ -114,7 +120,7 @@ Archons generally prefer to meet a foe head-on if it is prudent to do so, but if
 
 Hound archons prefer to attack with their natural weapons but occasionally use greatswords.
 
-A hound archon's natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A hound archon's natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[aid]], [[continual flame]], [[detect evil]], [[message]].* Caster level 6th.

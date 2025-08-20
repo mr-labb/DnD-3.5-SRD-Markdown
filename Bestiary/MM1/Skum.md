@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 2
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., amphibious
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., amphibious
 actions:
   - name: Full Attack
     desc: "Bite +5 melee (2d6+4) and 2 claws +0 melee (1d4+2)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 A skum is about the same height and weight as a human. Skum speak Aquan.

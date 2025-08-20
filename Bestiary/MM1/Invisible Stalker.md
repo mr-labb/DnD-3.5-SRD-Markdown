@@ -12,7 +12,10 @@ Subtype: Air, Extraplanar
 CR: 7
 Environnent: Elemental Plane of Air
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., elemental traits, natural invisibility, improved tracking
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Elemental|Elemental traits]], [[Compendium/Basics/Abilities and Conditions/Invisibility|natural Invisibility]], improved tracking
 actions:
   - name: Full Attack
     desc: "2 slams +10 melee (2d6+4)"
@@ -90,6 +93,9 @@ traits:
      desc: Combat Reflexes, Improved Initiative, Weapon Focus (slam)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Invisible stalkers are creatures native to the Elemental Plane of Air. They sometimes serve wizards and sorcerers, who summon them to perform specific tasks.
@@ -107,7 +113,7 @@ An invisible stalker attacks by using the air itself as a weapon. It creates a s
 An invisible stalker can be killed only when it is on the Elemental Plane of Air. When performing a task elsewhere, it automatically returns to its home plane when it takes damage sufficient to destroy it.
 
 
-**Natural Invisibility (Su):** This ability is constant, allowing a stalker to remain invisible even when attacking. This ability is inherent and not subject to the *[[invisibility purge]]* spell.
+**[[Compendium/Basics/Abilities and Conditions/Invisibility|natural Invisibility]] (Su):** This ability is constant, allowing a stalker to remain invisible even when attacking. This ability is inherent and not subject to the *[[invisibility purge]]* spell.
 
 
 **Improved Tracking (Ex):** An invisible stalker is a consummate tracker and makes Spot checks instead of the usual Survival checks to trace a creature's passage.

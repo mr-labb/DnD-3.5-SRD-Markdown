@@ -12,7 +12,10 @@ Subtype: Lawful, Extraplanar
 CR: 10
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Fast healing 2, hive mind, immunity to poison, petrification, and cold, resistance to electricity 10, fire 10, and sonic 10, spell resistance 25
+   desc: Fast healing 2, hive mind, immunity to poison, petrification, and cold, [[Resistance To Energy|Resistance To]] electricity 10, fire 10, and sonic 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 25
 actions:
   - name: Full Attack
     desc: "Sting +15 melee (2d4+4 plus poison) and bite +13 melee (2d6+2); or javelin +15/+10 ranged (1d6+4)"
@@ -96,6 +99,9 @@ traits:
      desc: Dodge, Improved Initiative, Mobility, Multiattack, Spring Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety.
@@ -125,7 +131,7 @@ Myrmarchs occasionally employ javelins for ranged attacks, coated with poison fr
 
 They fight intelligently, aiding those under them (if any such are present) and commanding them through the hive mind. If chaotic creatures are present, however, a myrmarch is singleminded in its quest to destroy them.
 
-A formian myrmarch's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A formian myrmarch's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Poison (Ex):** Injury, Fortitude DC 20, initial and secondary damage 2d6 Dex. The save DC is Constitution-based.

@@ -12,7 +12,10 @@ Subtype: Human
 CR: 2
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -86,6 +89,9 @@ traits:
      desc: Uncanny Dodge
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

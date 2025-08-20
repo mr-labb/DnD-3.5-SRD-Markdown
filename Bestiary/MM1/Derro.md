@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Madness, spell resistance 15 vulnerability to sunlight
+   desc: Madness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 15 vulnerability to sunlight
 actions:
   - name: Full Attack
     desc: "Short sword +4 melee (1d4/19-20) or repeating light crossbow +6 ranged (1d6/19-20 plus poison)"
@@ -89,6 +92,9 @@ traits:
      desc: Blind-Fight, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Derro are afflicted by a form of racial madness, which most often manifests as delusions of grandeur coupled with an overpowering urge to inflict torment on other creatures. Derro are capable of holding their murderous impulses in check for short periods of time in order to cooperate with creatures of other races, but such arrangements rarely last more than a few weeks. Of course, no derro is capable of recognizing that he is out of his mind.

@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 2
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsense 30 ft., darkvision 60 ft., freshwater sensitivity, light blindness, speak with sharks, water dependent
+   desc: Blindsense 30 ft., [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., freshwater sensitivity, light blindness, speak with sharks, water dependent
 actions:
   - name: Full Attack
     desc: "Trident +4 melee (1d8+3) and bite +2 melee (1d4+1); or 2 talons +4 melee (1d4+2) and bite +2 melee (1d4+1); or heavy crossbow +3 ranged (1d10/19-20)"
@@ -92,6 +95,9 @@ traits:
      desc: Great Fortitude, Multiattack (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Most sahuagin feature green coloration, darker along the back and lighter on the belly. Many have dark stripes, bands, or spots, but these tend to fade with age. An adult male sahuagin stands roughly 6 feet tall and weighs about 200 pounds.

@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 1
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Ink cloud, jet, low-light vision
+   desc: Ink cloud, jet, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Arms +4 melee (0) and bite -1 melee (1d6+1)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 These free-swimming mollusks are fairly aggressive. They are more feared than sharks in some locales.

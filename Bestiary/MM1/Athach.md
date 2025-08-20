@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Morningstar +12/+7 melee (3d6+8) and 2 morningstars +12 melee (3d6+4) and bite +12 melee (2d8+4 plus poison) or rock +5 ranged (2d6+8) and 2 rocks +5 ranged (2d6+4)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Cleave, Multiweapon Fighting, Power Attack, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 The athach is a hulking, misshapen biped. An adult stands some 18 feet tall and weighs about 4,500 pounds. Athachs speak a crude dialect of Giant.

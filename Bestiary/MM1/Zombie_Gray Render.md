@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Zombie, Gray Render
-Size: 
-Type: 
+Size: Large
+Type:  Undead
 Subtype: 
 CR: 6
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,8 +28,8 @@ image: [[Zombie, Gray Render.PNG]]
 race: Zombie, Gray Render
 class: 
 level: 
-size: 
-type: 
+size: Large
+type:  Undead
 subtype: 
 alignment: Always neutral evil
 ac: 16
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
+   desc: Single actions only, [[Damage Reduction]] 5/slashing, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Bite +16 melee (2d6+7) or slam +16 melee (1d8+10)"
@@ -86,6 +89,9 @@ traits:
      desc: Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Zombies are corpses reanimated through dark and sinister magic.

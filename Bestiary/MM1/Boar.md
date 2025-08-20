@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Gore +4 melee (1d8+3)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Though not carnivores, these wild swine are bad-tempered and usually charge anyone who disturbs them. A boar is covered in coarse, grayish-black fur. Adult males are about 4 feet long and 3 feet high at the shoulder.

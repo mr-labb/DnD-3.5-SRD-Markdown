@@ -12,7 +12,10 @@ Subtype: Goblinoid
 CR: 0.5
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Single action only, DR 5/slashing, Darkvision 60 ft., Undead traits
+   desc: Single action only, DR 5/slashing, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Slam +3 melee (1d6+2)"
@@ -86,6 +89,9 @@ traits:
      desc: Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

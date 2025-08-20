@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +11 melee (1d8+10)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Run, Track (B), Weapon Focus(bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.
@@ -108,7 +114,7 @@ Dire wolves prefer to attack in packs, surrounding and flanking a foe when they 
 
 **Skills:** A dire wolf has a +2 racial bonus on Hide, Listen, Move Silently, and Spot checks.
 
-*It also has a +4 racial bonus on Survival checks when tracking by scent.
+*It also has a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 

@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Trap - magic / electricity
-Size: 
+Size: Various
 Type: Magic
 Subtype: 
 CR: 2
-Environnent: 
+Environnent: Any
 Source: DMG
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -86,6 +89,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

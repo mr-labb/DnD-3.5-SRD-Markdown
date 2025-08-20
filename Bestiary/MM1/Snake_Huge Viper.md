@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Scent
+   desc: [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +6 melee (1d6+4 plus poison)"
@@ -91,6 +94,9 @@ traits:
      desc: Improved Initiative, Run, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 These creatures range widely in size. They are not particularly aggressive, but will often lash out with a bite attack before attempting to retreat.

@@ -12,7 +12,10 @@ Subtype:
 CR: 9
 Environnent: Warm deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 claws +18 melee (2d4+7)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Cleave, Great Cleave, FlybyAttack, Power Attack, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 Sphinxes are enigmatic creatures with great, feathery wings and leonine bodies. All sphinxes are territorial, but the more intelligent ones can differentiate between deliberate intrusion and temporary or inadvertent trespass.

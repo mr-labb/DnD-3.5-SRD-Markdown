@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent, sprint
+   desc: [[low-light vision]], [[Scent]], sprint
 actions:
   - name: Full Attack
     desc: "Bite +6 melee (1d6+3) and 2 claws +1 melee (1d2+1)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 Cheetahs are swift feline predators of the plains. A cheetah is 3 to 5 feet long and weighs 110 to 130 pounds.

@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Toad
-Size: 
-Type: Diminutive Animal
+Size: Diminutive
+Type:  Animal
 Subtype: 
-CR: 0
+CR: 0.1
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.1
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Amphibious, low-light vision
+   desc: Amphibious, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "-"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 These diminutive amphibians are innocuous and beneficial, since they eat insects.

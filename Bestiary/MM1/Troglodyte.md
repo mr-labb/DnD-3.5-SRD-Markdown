@@ -12,7 +12,10 @@ Subtype: Reptilian
 CR: 1
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 90 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 90 ft.
 actions:
   - name: Full Attack
     desc: "Club +1 melee (1d6) and claw -1 melee (1d4) and bite -1 melee (1d4); or 2 claws +1 melee (1d4) and bite -1 melee (1d4); or javelin +1 ranged (1d6)"
@@ -87,6 +90,9 @@ traits:
      desc: Multiattack (B), Weapon Focus (javelin)
 combat_gear:  
 ```
+
+## Description
+
 
 
 

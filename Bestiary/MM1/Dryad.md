@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/cold iron, tree dependent, wild empathy
+   desc: [[Damage Reduction]] 5/cold iron, tree dependent, wild empathy
 actions:
   - name: Full Attack
     desc: "Dagger +6 melee (1d4/19-20) or masterwork longbow +7 ranged (1d8/x3)"
@@ -95,6 +98,9 @@ traits:
      desc: Great Fortitude, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 A dryad's delicate features are much like a female elf 's, though her flesh is like bark or fine wood, and her hair is like a canopy of leaves that changes color with the seasons.

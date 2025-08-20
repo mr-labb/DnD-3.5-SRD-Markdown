@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Warm hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to sleep and paralysis, low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to sleep and paralysis, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4)"
@@ -89,6 +92,9 @@ traits:
      desc: Ability Focus (poison), Alertness, Flyby Attack, Multiattack (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A distant cousin to the true dragons, the wyvern is a huge flying lizard with a poisonous stinger in its tail.

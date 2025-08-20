@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +15 melee (2d6+6); 2 claws +10 melee (1d6+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Cleave, Power Attack, Improved Bull Rush, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 A gray render stands about 9 feet tall in spite of its hunched posture and is about 4 feet wide. It weighs about 4,000 pounds.

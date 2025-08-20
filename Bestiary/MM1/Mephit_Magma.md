@@ -12,7 +12,10 @@ Subtype: Fire, Extraplanar
 CR: 3
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/magic, darkvision 60 ft., fast healing 2, immunity to fire, vulnerability to cold
+   desc: [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2, [[fire Immunity|Immunity to fire]], [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "2 claws +4 melee (1d3 plus 1d4 fire)"
@@ -95,6 +98,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Mephits are minor creatures from the elemental planes.
 
@@ -108,7 +114,7 @@ Combat
 
 All mephits fight by biting and clawing or by using a breath weapon, the nature and effects of which vary from creature to creature.
 
-A mephit's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A mephit's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Breath Weapon (Su):** A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
@@ -126,10 +132,10 @@ A mephit's natural weapons are treated as magic weapons for the purpose of overc
 **Fast Healing (Ex):** Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details.
 
 
-**Breath Weapon (Su):** 10-foot cone of magma, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is onstitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of magma, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have [[fire Immunity|Immunity to fire]] or are otherwise protected. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is onstitution-based and includes a +1 racial bonus.
 
 
-**Spell-Like Abilities:** Once per hour, a magma mephit can use *[[shapechange]]* to take the form of a pool of lava 3 feet in diameter and 6 inches deep. The mephit's damage reduction improves to 20/magic when in this form. The mephit can't attack while in lava form but can use other spell-like abilities. It can move at a speed of 10 feet, but it can't run. In this form the mephit can pass through small holes or narrow openings, even mere cracks. The pool's touch ignites flammable materials such as paper, straw, or dry wood.
+**Spell-Like Abilities:** Once per hour, a magma mephit can use *[[shapechange]]* to take the form of a pool of lava 3 feet in diameter and 6 inches deep. The mephit's [[Damage Reduction]] improves to 20/magic when in this form. The mephit can't attack while in lava form but can use other spell-like abilities. It can move at a speed of 10 feet, but it can't run. In this form the mephit can pass through small holes or narrow openings, even mere cracks. The pool's touch ignites flammable materials such as paper, straw, or dry wood.
 
 Once per day a magma mephit can use *[[pyrotechnics]]* (DC 14). It can use itself as the fire source without harm. Caster level 6th. The save DC is Charisma-based.
 

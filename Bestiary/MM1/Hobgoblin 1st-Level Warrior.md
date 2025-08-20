@@ -9,10 +9,13 @@ Monster: Hobgoblin, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
 Subtype: Goblinoid
-CR: 0
+CR: 1
 Environnent: Warm hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -67,14 +70,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 1
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Longsword +2 melee (1d8+1/19-20) or javelin +2 ranged (1d6+1)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Hobgoblins are larger cousins of goblins. Hobgoblins' hair color ranges from dark reddish-brown to dark gray. They have dark orange or red-orange skin. Large males have blue or red noses. Hobgoblins' eyes are yellowish or dark brown, while their teeth are yellow. Their garments tend to be brightly colored, often blood red with black-tinted leather. Their weaponry is kept polished and in good repair. Hobgoblins speak Goblin and Common. Most hobgoblins encountered outside their homes are warriors; the information in the statistics block is for one of 1st level.

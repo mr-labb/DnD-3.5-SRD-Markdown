@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 1
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Ram -1 melee* (1d6+1)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 These fish are nonaggressive and generally avoid contact with other creatures. They filter plankton and similar small organisms from the water through their gaping, toothless maws.

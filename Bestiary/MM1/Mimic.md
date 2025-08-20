@@ -12,7 +12,10 @@ Subtype: Shapechanger
 CR: 4
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to acid, mimic shape
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to acid, mimic shape
 actions:
   - name: Full Attack
     desc: "2 slams +9 melee (1d8+4)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Lightning Reflexes, Weapon Focus (slam)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A mimic can have almost any dimensions, but usually is not more than 10 feet long. A typical mimic has a volume of 150 cubic feet (5 feet by 5 feet by 6 feet) and weighs about 4,500 pounds.

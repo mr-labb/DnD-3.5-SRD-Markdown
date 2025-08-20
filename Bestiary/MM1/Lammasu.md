@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Temperate deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, [[magic circle against evil]], spell-like abilities
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[magic circle against evil]], spell-like abilities
 actions:
   - name: Full Attack
     desc: "2 claws +12 melee (1d6+6)"
@@ -91,6 +94,9 @@ traits:
      desc: Blind-Fight, Iron Will, Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical lammasu is about 8 feet long and weighs about 500 pounds. Lammasus speak Common, Draconic, and Celestial.

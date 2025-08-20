@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 6
 Environnent: Ethereal Plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., planewalk, spell resistance 21
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., planewalk, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 21
 actions:
   - name: Full Attack
     desc: "2 short swords +5 melee (1d6+2/19-20, 1d6+1/19-20) and 2 claws +5 melee (1d4+1); or 4 claws +5 melee (1d4+2, 1d4+1); or 2 longbows +4 ranged (1d8/x3)"
@@ -96,6 +99,9 @@ traits:
      desc: Improved Initiative, Multiattack (B), Multiweapon Fighting
 combat_gear:  
 ```
+
+## Description
+
 
 
 A xill stands 4 to 5 feet tall and weighs about 100 pounds. Xills speak Infernal.

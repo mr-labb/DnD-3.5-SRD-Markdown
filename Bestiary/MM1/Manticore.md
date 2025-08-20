@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Warm marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +10 melee (2d4+5) and bite +8 melee (1d8+2); or 6 spikes +8 ranged (1d8+2/19-20)"
@@ -88,6 +91,9 @@ traits:
      desc: Flyby Attack, Multiattack, Track (B), Weapon Focus (spikes)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical manticore is about 10 feet long and weighs about 1,000 pounds. Manticores speak Common.

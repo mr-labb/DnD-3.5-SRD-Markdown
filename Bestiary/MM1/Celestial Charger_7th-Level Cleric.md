@@ -12,7 +12,10 @@ Subtype:
 CR: 13
 Environnent: A chaotic good plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/magic, darkvision 60 ft., immunity to poison, charm, and compulsion, low-light vision, [[magic circle against evil]], resistance to acid 10, cold 10, and electricity 10, scent, spell-like abilities, spell resistance 20, wild empathy
+   desc: [[Damage Reduction]] 10/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to poison, charm, and compulsion, [[low-light vision]], [[magic circle against evil]], [[Resistance To Energy|Resistance To]] acid 10, cold 10, and electricity 10, [[Scent]], spell-like abilities, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 20, wild empathy
 actions:
   - name: Full Attack
     desc: "Horn +22 melee (1d8+10) and 2 hooves +14 melee (1d4+3)"
@@ -93,6 +96,9 @@ traits:
      desc: Alertness, Combat Casting, Extra Turning, Improved Turning, Run, Skill Focus (Survival)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A [[unicorn]] has deep sea-blue, violet, brown, or fiery gold eyes. Males sport a white beard.
@@ -131,7 +137,7 @@ COMBAT
 
 The save DC for this celestial charger's [[neutralize poison]] ability (DC 20) is adjusted for its greater Hit Dice and altered Charisma score.
 
-A celestial charger's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A celestial charger's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Smite Evil (Su):** Once per day a celestial charger can make a normal melee attack to deal 15 points of extra damage against an evil foe.

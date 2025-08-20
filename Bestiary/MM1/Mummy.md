@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/-, darkvision 60 ft., undead traits, vulnerability to fire
+   desc: [[Damage Reduction]] 5/-, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]], [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "Slam +11 melee (1d6+10 plus mummy rot)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Great Fortitude, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mummies are preserved corpses animated through the auspices of dark desert gods best forgotten.

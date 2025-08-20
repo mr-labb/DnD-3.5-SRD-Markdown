@@ -12,7 +12,10 @@ Subtype: Earth
 CR: 4
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/magic, darkvision 60 ft., freeze
+   desc: [[Damage Reduction]] 10/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., freeze
 actions:
   - name: Full Attack
     desc: "2 claws +6 melee (1d4+2) and bite +4 melee (1d6+1) and gore +4 melee (1d6+1)"
@@ -89,6 +92,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving and use this disguise to surprise their foes. They require no food, water, or air, but often eat their fallen foes out of fondness for inflicting pain.
 
@@ -98,7 +104,7 @@ COMBAT
 
 Gargoyles either remain still, then suddenly attack, or dive onto their prey.
 
-A gargoyle's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A gargoyle's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Freeze (Ex):** A gargoyle can hold itself so still it appears to be a statue. An observer must succeed on a DC 20 Spot check to notice the gargoyle is really alive.

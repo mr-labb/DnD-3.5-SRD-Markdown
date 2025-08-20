@@ -12,7 +12,10 @@ Subtype:
 CR: 9
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 120 ft., immunities, vulnerability to sonic
+   desc: [[Blindsight]] 120 ft., immunities, vulnerability to sonic
 actions:
   - name: Full Attack
     desc: "Bite +15 melee (2d8+5) and 2 claws +13 melee (1d6+2) or sonic lance +12 ranged touch (6d6)"
@@ -87,6 +90,9 @@ traits:
      desc: Endurance, Flyby Attack, Improved Initiative, Multiattack, Snatch
 combat_gear:  
 ```
+
+## Description
+
 
 
 A yrthak is blind. It senses sound and movement by means of a special organ on its long tongue. It emits powerfully focused beams of sound from the protrusion on its head. The creature is a yellowish-green color, with the wings and fin being more yellow and the head and body more green. The teeth are yellow.
@@ -106,7 +112,7 @@ A yrthak prefers to attack from the air, strafing the ground with sonic attacks 
 **Explosion (Su):** A yrthak can fire its sonic lance at the ground, a large rock, a stone wall, or the like to create an explosion of shattered stone. This attack deals 2d6 points of piercing damage to all within 10 feet of the effect's center. This counts as a use of the sonic lance attack and thus is usable only once every 2 rounds, and never on the round following a sonic lance attack.
 
 
-**Blindsight (Ex):** A yrthak can ascertain all foes within 120 feet. Beyond that range it is considered blinded. Yrthaks are invulnerable to gaze attacks, visual effects of spells such as illusions, and other attack forms that rely on sight. A yrthak whose sense of hearing is impaired is effectively blinded, treating all targets as having total concealment.
+**[[Blindsight]] (Ex):** A yrthak can ascertain all foes within 120 feet. Beyond that range it is considered blinded. Yrthaks are invulnerable to gaze attacks, visual effects of spells such as illusions, and other attack forms that rely on sight. A yrthak whose sense of hearing is impaired is effectively blinded, treating all targets as having total concealment.
 
 
 **Immunities:** Yrthaks have immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.

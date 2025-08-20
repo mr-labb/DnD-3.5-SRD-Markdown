@@ -1,8 +1,8 @@
 ---
 aliases:
- - Acid Arrow
+  - Acid Arrow
 title: Compendium/Basics/Spell/Acid Arrow
-tags: 
+tags:
   - 35E_SRD
   - Spell
   - Sorcerer
@@ -10,7 +10,8 @@ tags:
 Spell Name: Acid Arrow
 School: Conjuration
 Subschool: (Creation)
-Descriptor: [Acid]
+Descriptor:
+  - Acid
 Level:
   - Sor/Wiz 2
 Source: PHB

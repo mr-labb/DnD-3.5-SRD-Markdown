@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Good
 CR: 13
 Environnent: A chaotic good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Alternate form, damage reduction 10/evil and cold iron, darkvision 60 ft., immunity to electricity and petrification, lowlight vision, protective aura, resistance to cold 10 and fire 10, spell resistance 28, [[tongues]]
+   desc: Alternate form, [[Damage Reduction]] 10/evil and cold iron, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, lowlight vision, protective aura, [[Resistance To Energy|Resistance To]] cold 10 and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 28, [[tongues]]
 actions:
   - name: Full Attack
     desc: "+4 holy greatsword +21/+16 melee (2d6+14/19-20) or 2 light rays +11 ranged touch (2d12)"
@@ -98,6 +101,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A ghaele can take the form of an incorporeal globe of eldritch colors, 5 feet in diameter. A ghaele is about 6 feet tall and weighs about 170 pounds.
 
@@ -105,9 +111,9 @@ Ghaeles speak Celestial, Infernal, and Draconic, but can communicate with almost
 
 Combat
 
-Ghaeles who enter combat prefer direct confrontation and damaging attacks to more subtle or insidious methods. They usually fight in their humanoid form, wielding incandescent *+4 holy greatswords.* If a ghaele desires mobility, it assumes its globe form and blasts the enemy with light rays.
+Ghaeles who enter combat prefer direct confrontation and damaging attacks to more subtle or insidious methods. They usually fight in their humanoid form, wielding incande[[Scent]] *+4 holy greatswords.* If a ghaele desires mobility, it assumes its globe form and blasts the enemy with light rays.
 
-A ghaele's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming damage reduction.
+A ghaele's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[aid]], [[charm monster]]* (DC 17), *[[color spray]]* (DC 14), *[[comprehend languages]], [[continual flame]], [[cure light wounds]]* (DC 14), *[[dancing lights]], [[detect evil]], [[detect thoughts]]* (DC 15), *[[disguise self]], [[dispel magic]], [[hold monster]]* (DC 18), *[[Invisibility Greater|greater invisibility]]* (self only), *[[major image]]* (DC 16), *[[see invisibility]], [[Teleport Greater|greater teleport]]* (self plus 50 pounds of objects only); 1/day - *[[chain lightning]]* (DC 19), *[[prismatic spray]]* (DC 20), *[[wall of force]].* Caster level 12th. The save DCs are Charisma-based.
@@ -124,7 +130,7 @@ A ghaele's natural weapons, as well as any weapons it wields, are treated as cha
 **Gaze (Su):** In humanoid form - slay evil creatures of 5 or less HD, range 60 feet, Will DC 18 negates. Even if the save succeeds, the creature is affected as though by a *fear* spell for 2d10 rounds. Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or suffer the *fear* effect. The save DCs are Charisma-based.
 
 
-**Light Ray (Ex):** A ghaele in globe form can project light rays with a range of 300 feet. This attack overcomes damage reduction of any type.
+**Light Ray (Ex):** A ghaele in globe form can project light rays with a range of 300 feet. This attack overcomes [[Damage Reduction]] of any type.
 
 
 **Alternate Form (Su):** A ghaele can shift between its humanoid and globe forms as a standard action. In humanoid form, it cannot fly or use its light rays, but it can use its gaze attack and spell-like abilities, make physical attacks, and cast spells. In globe form, it can fly, use its light rays, and use spell-like abilities, but it cannot cast spells or use its gaze attack. The globe form is incorporeal, and the ghaele has no Strength score while in that form.

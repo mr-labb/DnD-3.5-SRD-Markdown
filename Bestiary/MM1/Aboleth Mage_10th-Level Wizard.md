@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 17
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -87,7 +90,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aquatic subtype, darkvision 60 ft., mucus cloud, summon familiar
+   desc: Aquatic subtype, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., mucus cloud, summon familiar
 actions:
   - name: Full Attack
     desc: "4 tentacles +18 melee (1d6+9 plus slime)"
@@ -102,6 +105,9 @@ traits:
      desc: Combat Casting, Empower Spell,Eschew Materials, Great Fortitude,Improved Initiative, Lightning Reflexes,Scribe Scroll, Spell Focus (illusion),Spell Focus (enchantment), Spell Penetration
 combat_gear:  
 ```
+
+## Description
+
 
 
 The aboleth is a revolting fishlike amphibian found primarily in subterranean lakes and rivers. An aboleth has a pink belly. Four pulsating blueblack orifices line the bottom of its body and secrete gray slime that smells like rancid grease. It uses its tail for propulsion in the water and drags itself along with its tentacles on land. An aboleth weighs about 6,500 pounds.

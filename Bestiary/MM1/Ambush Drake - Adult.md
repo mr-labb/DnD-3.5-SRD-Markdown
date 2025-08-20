@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Temperate plains
 Source: MM3
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Dark vision 60 ft., immunity to magic sleep effects and paralysis, low-light vision, scent, spell resistance 16, telepathic link 30 ft.
+   desc: Dark vision 60 ft., [[Compendium/Spells/Spell Immunity|Immunity to magic]] sleep effects and paralysis, [[low-light vision]], [[Scent]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 16, telepathic link 30 ft.
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d8+3 plus poison) and 2 claws +1 melee (1d6+1)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Improved Initiative, Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Ambush drakes generally stalk their prey as a coordinated pack. They start by using their breath weapons and focus attacks on affected creatures, ignoring quicker fleeing prey.

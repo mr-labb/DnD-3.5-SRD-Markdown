@@ -9,10 +9,13 @@ Monster: Dog
 Size: Small
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.33
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -67,14 +70,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.33
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +2 melee (1d4+1)"
@@ -90,6 +93,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 The statistics presented here describe a fairly small dog of about 20 to 50 pounds in weight. They also can be used for small wild canines such as coyotes, jackals, and African wild dogs.
 
@@ -98,7 +104,7 @@ Combat
 Dogs generally hunt in packs, chasing and exhausting prey until they can drag it down.
 
 
-**Skills:** Dogs have a +4 racial bonus on Jump checks. *Dogs have a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** Dogs have a +4 racial bonus on Jump checks. *Dogs have a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 

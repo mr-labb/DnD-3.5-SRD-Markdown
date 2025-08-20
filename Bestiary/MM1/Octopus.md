@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 1
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Ink cloud, jet, low-light vision
+   desc: Ink cloud, jet, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Arms +5 melee (0) and bite +0 melee (1d3)"
@@ -90,6 +93,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 These bottom-dwelling sea creatures are dangerous only to their prey. If disturbed, they usually try to escape.

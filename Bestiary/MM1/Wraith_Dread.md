@@ -12,7 +12,10 @@ Subtype: Incorporeal
 CR: 11
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -79,7 +82,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., daylight powerlessness, incorporeal traits, lifesense 60 ft., undead traits, unnatural aura
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., daylight powerlessness, incorporeal traits, lifesense 60 ft., [[Undead|Undead traits]], unnatural aura
 actions:
   - name: Full Attack
     desc: "Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)"
@@ -94,6 +97,9 @@ traits:
      desc: Alertness (B), Blind-Fight, Combat Reflexes, Dodge, Improved Initiative (B), Improved Natural Attack(incorporeal touch), Mobility, Spring Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Wraiths are incorporeal creatures born of evil and darkness. In some cases, the grim silhouette of a wraith might appear armored or outfitted with weapons. This appearance does not affect the creature's AC or combat abilities but only reflects the shape it had in life.
@@ -115,7 +121,7 @@ Both the wraith and the dread wraith share the following abilities.
 The oldest and most malevolent wraiths lurk in the depths of forgotten temples and other forsaken places. They can sense the approach of living creatures, and hunger for them. Despite its size, the dread wraith possesses unearthly quickness, and makes use of its Spring Attack feat and natural reach to strike with deadly effect and melt back into the shadows - or the walls.
 
 
-**Lifesense (Su):** A dread wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability. It also senses the strength of their life force automatically, as if it had cast *[[deathwatch]].*
+**Lifesense (Su):** A dread wraith notices and locates living creatures within 60 feet, just as if it possessed the [[Blindsight]] ability. It also senses the strength of their life force automatically, as if it had cast *[[deathwatch]].*
 
 
 **Constitution Drain (Su):** Living creatures hit by a dread wraith's incorporeal touch attack must succeed on a DC 25 Fortitude save or take 1d8 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the dread wraith gains 5 temporary hit points.

@@ -12,7 +12,10 @@ Subtype: Shapechanger
 CR: 4
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Change shape, darkvision 60 ft., low-light vision
+   desc: Change shape, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +5 melee (1d6 plus poison) or [[web]] +5 ranged (special)"
@@ -91,6 +94,9 @@ traits:
      desc: Improved Initiative, Iron Will (B), Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 An aranea is an intelligent, shapechanging spider with sorcerous powers. In its natural form, an aranea resembles a big spider, with a humpbacked body a little bigger than a human torso. It has fanged mandibles like a normal spider. Two small arms, each about 2 feet long, lie below the mandibles. Each arm has a hand with four many-jointed fingers and a double-jointed thumb.

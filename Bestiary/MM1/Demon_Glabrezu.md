@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 13
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -83,7 +86,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 21, telepathy 100 ft., [[true seeing]]
+   desc: [[Damage Reduction]] 10/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and poison, [[Resistance To Energy|Resistance To]] acid 10, cold 10, and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 21, telepathy 100 ft., [[true seeing]]
 actions:
   - name: Full Attack
     desc: "2 pincers +20 melee (2d8+10) and 2 claws +18 melee (1d6+5) and bite +18 melee (1d8+5)"
@@ -99,6 +102,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -112,7 +118,7 @@ Combat
 
 Glabrezu prefer subterfuge to combat. However, if their attempts to entice or deceive fail, these enormous demons attack with a vengeance. They follow a *[[confusion]]* attack with melee attacks, hoping to finish off wounded foes with *[[chaos hammer]]* or *[[unholy blight]].*
 
-A glabrezu's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A glabrezu's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Improved Grab (Ex):** To use this ability, a glabrezu must hit a Medium or smaller opponent with a pincer attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.

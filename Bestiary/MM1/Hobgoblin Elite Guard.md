@@ -12,7 +12,10 @@ Subtype: Goblinoid
 CR: 0.5
 Environnent: Warm hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "Masterwork longsword +3 [+5] (1d8+1) [1d8+3] or Javelin +2 ranged (1d6+1) (1d6+3]"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

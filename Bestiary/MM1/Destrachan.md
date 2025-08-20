@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 100 ft., immunities, protection from sonics
+   desc: [[Blindsight]] 100 ft., immunities, protection from sonics
 actions:
   - name: Full Attack
     desc: "2 claws +9 melee (1d6+4)"
@@ -89,6 +92,9 @@ traits:
      desc: Dodge, Improved Initiative, Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 The dungeon-dwelling destrachan looks like some bizarre, nonintelligent beast, but it's an incredibly evil and crafty sadist. A destrachan has a pair of complex, three-part ears that it can adjust to be more or less sensitive to various sounds. It is blind, yet hunts with a sense of hearing more precise than most creatures' sight.
@@ -116,7 +122,7 @@ A destrachan uses its claws only as a last resort or to finish off foes weakened
 *Material:* When using this form of harmonics, a destrachan chooses wood, stone, metal, or glass. All objects made of that material within the area must succeed on a DC 15 Fortitude save or shatter. Objects (or portions of objects) that have up to 30 hit points are potentially affected by this attack.
 
 
-**Blindsight (Ex):** A destrachan can use hearing to ascertain all foes within 100 feet as a sighted creature would.
+**[[Blindsight]] (Ex):** A destrachan can use hearing to ascertain all foes within 100 feet as a sighted creature would.
 
 
 **Immunities:** Destrachans have immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.

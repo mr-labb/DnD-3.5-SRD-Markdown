@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, plant traits, regeneration 10 (bludgeoning or acid)
+   desc: [[low-light vision]], [[Plant|Plant traits]], [[Regeneration]] 10 (bludgeoning or acid)
 actions:
   - name: Full Attack
     desc: "Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Iron Will, Power Attack, Stealthy
 combat_gear:  
 ```
+
+## Description
+
 
 
 A tendriculos can rear up to a height of 15 feet. It weighs about 3,500 pounds.
@@ -106,7 +112,7 @@ Prowling deep forests or waiting in vegetated areas (looking like nothing more t
 **Swallow Whole/Paralysis (Ex):** A tendriculos can try to swallow a grabbed opponent by making a successful grapple check. Once inside the plant's mass, the opponent must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds by the tendriculos's digestive juices, taking 2d6 points of acid damage per round. A new save is required each round inside the plant. The save DC is Constitution-based. A swallowed creature that avoids paralysis can climb out of the mass with a successful grapple check. This returns it to the plant's maw, where another successful grapple check is needed to get free. A swallowed creature can also cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the tendriculos's interior (AC 14). Once the creature exits, the plant's regenerative capacity closes the hole; another swallowed opponent must cut its own way out. A Huge tendriculos's interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
 
 
-**Regeneration (Ex):** Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos that loses part of its body mass can regrow it in 1d6 minutes. Holding the severed portion against the mass enables it to reattach instantly.
+**[[Regeneration]] (Ex):** Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos that loses part of its body mass can regrow it in 1d6 minutes. Holding the severed portion against the mass enables it to reattach instantly.
 
 ---
 

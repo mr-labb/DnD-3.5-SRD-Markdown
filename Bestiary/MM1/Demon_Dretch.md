@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 2
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/cold iron or good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, telepathy 100 ft.
+   desc: [[Damage Reduction]] 5/cold iron or good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and poison, [[Resistance To Energy|Resistance To]] acid 10, cold 10, and fire 10, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "2 claws +4 melee (1d6+1) and bite +2 melee (1d4)"
@@ -92,6 +95,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -103,9 +109,9 @@ Dretches cannot speak but can communicate telepathically.
 
 Combat
 
-Dretches are slow, stupid, and not very effective combatants. In one-on-one combat, they rely on their damage reduction to keep them alive. In groups, they depend on sheer numbers to overcome foes and immediately summon other dretches to improve the odds in battle. They flee at the first sign of adversity unless more powerful demons are present to intimidate them into fighting. Dretches' fear of their greater kin is stronger then even their fear of death.
+Dretches are slow, stupid, and not very effective combatants. In one-on-one combat, they rely on their [[Damage Reduction]] to keep them alive. In groups, they depend on sheer numbers to overcome foes and immediately summon other dretches to improve the odds in battle. They flee at the first sign of adversity unless more powerful demons are present to intimidate them into fighting. Dretches' fear of their greater kin is stronger then even their fear of death.
 
-A dretch's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A dretch's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** 1/day - *[[scare]]* (DC 12), *[[stinking cloud]]* (DC 13). Caster level 2nd. The save DCs are Charisma-based.

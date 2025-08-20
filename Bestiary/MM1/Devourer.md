@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 11
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., spell deflection, spell resistance 21, undead traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., spell deflection, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 21, [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "2 claws +15 melee (1d6+9)"
@@ -95,6 +98,9 @@ traits:
      desc: Blind-Fight, Combat Casting, Combat Expertise, Improved Initiative,Weapon Focus (claw)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Devourers lurk on the Ethereal Plane and the Astral Plane, stalking both natives and travelers with equal sadistic glee.
@@ -119,7 +125,7 @@ The trapped essence provides a devourer with enough power to use five spell-like
 **Spell-Like Abilities** : At the start of any encounter, the trapped essence within a devourer is assumed to have 3d4+3 levels (enough fuel for thirty to seventy-five uses). Once per round, a devourer can use one of the following abilities: *[[confusion]]* (DC 17), *[[control undead]]* (DC 20), *[[ghoul touch]]* (DC 15), *[[Planar Ally Lesser|lesser planar ally]], [[ray of enfeeblement]]* (DC 14), *[[spectral hand]], suggestion* (DC 16), *[[true seeing]]* . Caster level 18th. The save DCs are Charisma-based.
 
 
-**Spell Deflection (Su):** The trapped essence provides a measure of magical protection. If any of the following spells are cast at the devourer and overcome its spell resistance, they affect the imprisoned essence instead: *banishment, [[chaos hammer]], [[confusion]], [[crushing despair]], [[detect thoughts]], [[dispel evil]], [[dominate person]], fear, [[Geas_Quest|geas/quest]], [[holy word]], [[hypnotism]], [[imprisonment]], [[magic jar]], [[maze]], suggestion, [[trap the soul]],* or any form of charm or compulsion. In many cases, this deflection effectively neutralizes the spell. Some of these effects might eliminate the trapped essence, depriving the devourer of its spell-like abilities until it can consume another victim.
+**Spell Deflection (Su):** The trapped essence provides a measure of magical protection. If any of the following spells are cast at the devourer and overcome its [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]], they affect the imprisoned essence instead: *banishment, [[chaos hammer]], [[confusion]], [[crushing despair]], [[detect thoughts]], [[dispel evil]], [[dominate person]], fear, [[Geas_Quest|geas/quest]], [[holy word]], [[hypnotism]], [[imprisonment]], [[magic jar]], [[maze]], suggestion, [[trap the soul]],* or any form of charm or compulsion. In many cases, this deflection effectively neutralizes the spell. Some of these effects might eliminate the trapped essence, depriving the devourer of its spell-like abilities until it can consume another victim.
 
 ---
 

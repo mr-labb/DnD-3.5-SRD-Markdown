@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., shadow shift
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., shadow shift
 actions:
   - name: Full Attack
     desc: "Tail slap +8 melee (1d6+5) and bite +3 melee (1d4+2)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Combat Reflexes, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 When resting or lying in wait, these creatures are almost impossible to distinguish from common black cloaks (the cloaker's ivory claws look very much like bone clasps). Only when it unfurls does the horrific nature of the creature become apparent.

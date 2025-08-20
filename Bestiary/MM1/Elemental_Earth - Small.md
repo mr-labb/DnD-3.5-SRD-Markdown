@@ -12,7 +12,10 @@ Subtype: Earth, Extraplanar
 CR: 1
 Environnent: Elemental Plane of Earth
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., earth glide, elemental traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., earth glide, [[Elemental|Elemental traits]]
 actions:
   - name: Full Attack
     desc: "Slam +5 melee (1d6+4)"
@@ -87,6 +90,9 @@ traits:
      desc: Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 When summoned to the Material Plane, an earth elemental consists of whatever types of dirt, stones, precious metals, and gems it was conjured from.

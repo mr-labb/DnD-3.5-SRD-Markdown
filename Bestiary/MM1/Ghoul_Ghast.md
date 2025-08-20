@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., undead traits, +2 turn resistance
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]], +2 turn resistance
 actions:
   - name: Full Attack
     desc: "Bite +5 melee (1d8+3 plus paralysis) and 2 claws +3 melee (1d4+1 plus paralysis)"
@@ -91,6 +94,9 @@ traits:
      desc: Multiattack, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Although these creatures look just like their lesser kin, they are far more deadly and cunning.

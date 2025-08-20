@@ -12,7 +12,10 @@ Subtype: Extraplanar, Fire
 CR: 2
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to fire, spell resistance 13, vulnerability to cold
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 13, [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire)"
@@ -92,6 +95,9 @@ traits:
      desc: Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Azers are dwarflike beings native to the Elemental Plane of Fire. They wear kilts of brass, bronze, or copper, and speak Ignan and Common.

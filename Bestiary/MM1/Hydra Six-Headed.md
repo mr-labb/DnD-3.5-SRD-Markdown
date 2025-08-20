@@ -9,10 +9,13 @@ Monster: Hydra, Six-Headed
 Size: Huge
 Type: Magical Beast
 Subtype: 
-CR: 0
-Environnent: Temperate marshes(Pyro: Warm marshes)(Cryo: Cold marshes)
+CR: 5
+Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,14 +69,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., fast healing 16, low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 16, [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "6 bites +8 melee (1d10+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Combat Reflexes (B), Iron Will, Toughness, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Hydras are reptile-like monsters with multiple heads. A hydra is gray-brown to dark brown, with a light yellow or tan underbelly. The eyes are amber and the teeth are yellow-white. It is about 20 feet long and weighs about 4,000 pounds. Hydras do not speak.
@@ -123,7 +129,7 @@ Huge Magical Beast (Fire)
 
 These reddish hydras can breathe jets of fire 10 feet high, 10 feet wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each jet deals 3d6 points of fire damage per head. A successful Reflex save halves the damage. The save DC is 10 + 1/2 hydra's original number of heads + hydra's Con modifier.
 
-Fire attacks cannot prevent a pyrohydra's stump from growing new heads (since a pyrohydra has immunity to fire), but 5 points of cold damage does.
+Fire attacks cannot prevent a pyrohydra's stump from growing new heads (since a pyrohydra has [[fire Immunity|Immunity to fire]]), but 5 points of cold damage does.
 
 
 **CRYOHYDRA**
@@ -133,7 +139,7 @@ Huge Magical Beast (Cold)
 
 These purplish hydras can breathe jets of frost 10 feet high, 10 feet wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each jet deals 3d6 points of cold damage per head. A successful Reflex save halves the damage. The save DC is 10 + 1/2 hydra's original number of heads + hydra's Con modifier.
 
-Cold attacks cannot prevent a cryohydra's stump from growing new heads (since a cryohydra has immunity to cold), but 5 points of fire damage does.
+Cold attacks cannot prevent a cryohydra's stump from growing new heads (since a cryohydra has [[Cold Immunity|Immunity to cold]]), but 5 points of fire damage does.
 
 ---
 

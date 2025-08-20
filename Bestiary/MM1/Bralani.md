@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Good
 CR: 6
 Environnent: A chaotic good-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -83,7 +86,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Alternate form, damage reduction 10/cold iron or evil, darkvision 60 ft., immunity to electricity and petrification, low-light vision, resistance to cold 10 and fire 10, spell resistance 17,[[tongues]]
+   desc: Alternate form, [[Damage Reduction]] 10/cold iron or evil, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, [[low-light vision]], [[Resistance To Energy|Resistance To]] cold 10 and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 17,[[tongues]]
 actions:
   - name: Full Attack
     desc: "+1 holy scimitar +11/+6 melee (1d6+4/18-20) or +1 holy composite longbow, mighty 4 +11/+6 ranged (1d8+5/x3) or slam +10 melee (1d6+4)"
@@ -99,6 +102,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 In addition to their natural form, bralanis can assume the shape of a whirlwind or zephyr of dust, snow, or sand.
 
@@ -108,7 +114,7 @@ Combat
 
 Bralanis prefer the scimitar and bow, the weapons of the desert nomads they most closely resemble.
 
-A bralani's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming damage reduction.
+A bralani's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[blur]], [[charm person]]* (DC 13), *[[gust of wind]]* (DC 14), *[[mirror image]], [[wind wall]];* 2/day - *[[lightning bolt]]* (DC 15), *[[cure serious wounds]]* (DC 15). Caster level 6th. The save DCs are Charisma-based.

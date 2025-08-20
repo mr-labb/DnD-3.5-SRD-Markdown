@@ -12,7 +12,10 @@ Subtype:
 CR: 4
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +11 melee (2d6+4) and 2 claws +8 melee (1d4+2)"
@@ -88,6 +91,9 @@ traits:
      desc: Iron Will, Multiattack, Weapon Focus (bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Griffons are powerful, majestic creatures with the characteristics of both lions and eagles. From nose to tail, an adult griffon can measure as much as 8 feet. Neither males nor females are endowed with a mane. A pair of broad, golden wings emerge from the creature's back and span 25 feet or more. A griffon weighs about 500 pounds.

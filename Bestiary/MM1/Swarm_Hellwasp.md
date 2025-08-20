@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Swarm, Hellwasp
-Size: 
-Type: Diminutive Magical Beast
+Size: Diminutive
+Type:  Magical Beast
 Subtype: Extraplanar, Evil, Swarm
 CR: 8
 Environnent: A evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,8 +28,8 @@ image: [[Swarm, Hellwasp.PNG]]
 race: Swarm, Hellwasp
 class: 
 level: 
-size: 
-type: Diminutive Magical Beast
+size: Diminutive
+type: Magical Beast
 subtype: Extraplanar, Evil, Swarm
 alignment: Always lawful evil
 ac: 20
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/magic, darkvision 60 ft., hive mind, immune to weapon damage, resistance to fire 10, low-light vision, swarm traits
+   desc: [[Damage Reduction]] 10/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., hive mind, immune to weapon damage, [[Resistance To Energy|Resistance To]] fire 10, [[low-light vision]], [[Swarm Subtype|swarm traits]]
 actions:
   - name: Full Attack
     desc: "Swarm (3d6 plus poison)"
@@ -89,6 +92,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Swarms are dense masses of Fine, Diminutive, or Tiny creatures that would not be particularly dangerous in small groups, but can be terrible foes when gathered in sufficient numbers. For game purposes a swarm is defined as a single creature with a space of 10 feet - gigantic hordes are actually composed of dozens of swarms in close proximity. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. It makes saving throws as a single creature.
 
@@ -96,7 +102,7 @@ Many different creatures can mass as swarms; bat swarms, centipede swarms, hellw
 
 A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying creatures. A swarm of Diminutive creatures consists of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures consists of 10,000 creatures, whether they are flying or not. Swarms of nonflying creatures include many more creatures than could normally fit in a 10-foot square based on their normal space, because creatures in a swarm are packed tightly together and generally crawl over each other and their prey when moving or attacking. Larger swarms are represented by multiples of single swarms. A large swarm is completely shapeable, though it usually remains contiguous.
 
-A single hellwasp resembles a thumb-sized normal wasp, except its carapace is gleaming black with ruby-red stripes, and its compound eyes are an iridescent green. In swarms, hellwasps form a collective hive mind intelligence with infernal cunning and bloodlust.
+A single hellwasp resembles a thumb-sized normal wasp, except its carapace is gleaming black with ruby-red stripes, and its compound eyes are an iride[[Scent]] green. In swarms, hellwasps form a collective hive mind intelligence with infernal cunning and bloodlust.
 
 Combat
 
@@ -110,7 +116,7 @@ Swarms are extremely difficult to fight with physical attacks. However, they hav
 
 Like any swarm, a hellwasp swarm seeks to surround and attack any living prey it encounters. A swarm deals 3d6 points of damage to any creature whose space it occupies at the end of its move. The swarm can take over the bodies of its prey and infest both the living and the dead, using them as horrible living (or unliving) puppets to accomplish acts of wickedness that a swarm of insects could never attempt.
 
-A hellwasp swarm's attack is treated as an evil-aligned weapon and a magic weapon for the purpose of overcoming damage reduction.
+A hellwasp swarm's attack is treated as an evil-aligned weapon and a magic weapon for the purpose of overcoming [[Damage Reduction]].
 
 
 **Distraction (Ex):** Any living creature that begins its turn with a hellwasp swarm in its space must succeed on a DC 18 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.

@@ -13,7 +13,10 @@ Subtype: Evil, Extraplanar, Lawful
 CR: 5
 Environnent: A lawful evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/silver or good, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, see in darkness, spell resistance 17, telepathy 100 ft.
+   desc: [[Damage Reduction]] 5/silver or good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]] and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, see in darkness, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 17, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Glaive +9/+4 melee (1d10+3 plus infernal wound) or 2 claws +8 melee (1d6+2)"
@@ -93,6 +96,9 @@ traits:
      desc: Improved Initiative, Power Attack, Weapon Focus (glaive)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Devils are fiends from lawful evil-aligned planes.
@@ -110,7 +116,7 @@ Combat
 
 Bearded devils are aggressive and love to fight. They revel in their battle frenzy, spreading mayhem among their foes.
 
-A bearded devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+A bearded devil's natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[Teleport Greater|greater teleport]]* (self plus 50 pounds of objects only). Caster level 12th.

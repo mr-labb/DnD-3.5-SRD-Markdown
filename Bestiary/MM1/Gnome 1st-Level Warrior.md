@@ -9,10 +9,13 @@ Monster: Gnome, 1st-Level Warrior
 Size: Small
 Type: Humanoid
 Subtype: Gnome
-CR: 0
+CR: 1
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -66,7 +69,7 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 1
 aura: ""
 spell-like_abilities:
  - name: 
@@ -88,6 +91,9 @@ traits:
      desc: Weapon Focus (light crossbow)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Gnomes stand 3 to 3-1/2 feet tall and weigh 40 to 45 pounds. Their skin color ranges from dark tan to woody brown, their hair is fair, and their eyes can be any shade of blue. Gnome males prefer short, carefully trimmed beards. Gnomes generally wear leather or earth tones, though they decorate their clothes with intricate stitching or fine jewelry. Gnomes reach adulthood at about age 40, and they live about 350 years, though some can live almost 500 years.

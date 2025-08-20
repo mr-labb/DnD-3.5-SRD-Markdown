@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -90,6 +93,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Giant owls are nocturnal birds of prey, feared for their ability to hunt and attack in near silence. They are intelligent, and though naturally suspicious, sometimes associate with good creatures. A typical giant owl stands about 9 feet tall, has a wingspan of up to 20 feet, and resembles its smaller cousins in nearly every way except size.
 
@@ -100,7 +106,7 @@ COMBAT
 A giant owl attacks by gliding silently just a few feet above its prey and plunging to strike when directly overhead.
 
 
-**Superior Low-Light Vision (Ex):** A giant owl can see five times as far as a human can in dim light.
+**Superior [[low-light vision]] (Ex):** A giant owl can see five times as far as a human can in dim light.
 
 
 **Skills:** Giant owls have a +8 racial bonus on Listen checks and a +4 racial bonus on Spot checks.

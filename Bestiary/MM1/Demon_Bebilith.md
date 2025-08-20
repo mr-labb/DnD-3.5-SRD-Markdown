@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 10
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good, darkvision 60 ft., [[plane shift]], scent, telepathy 100 ft.
+   desc: [[Damage Reduction]] 10/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[plane shift]], [[Scent]], telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "Bite +19 melee (2d6+9 plus poison) and 2 claws +14 melee (2d4+4); or web +11 ranged"
@@ -96,6 +99,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -109,7 +115,7 @@ COMBAT
 
 A bebilith attacks any creature it sees. It usually picks one target and concentrates its attacks on that opponent, using its webs to isolate the target from its comrades. Should the bebilith become overwhelmed by tougher opponents, it often attempts to bite one or more of its victims and retreats, allowing its poison to do its work.
 
-A bebilith's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A bebilith's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Poison (Ex):** Injury, Fortitude DC 24, initial damage 1d6 Con, secondary damage 2d6 Con. Bebilith venom is highly perishable, losing its potency and becoming inert, foul-smelling goo almost as soon as it comes into contact with air. The save DC is Constitution-based.

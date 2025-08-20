@@ -12,7 +12,10 @@ Subtype:
 CR: 11
 Environnent: Cold mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -77,7 +80,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 90 ft., favored enemy elves (+4), favored enemy humans (+2), low-light vision, regeneration 5 (fire or acid), scent, wild empathy
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 90 ft., favored enemy elves (+4), favored enemy humans (+2), [[low-light vision]], [[Regeneration]] 5 (fire or acid), [[Scent]], wild empathy
 actions:
   - name: Full Attack
     desc: "2 claws +16 melee (1d6+7) and bite +11 melee (1d6+3); or +1 battleaxe +17/+12 melee (2d6+8/x3) and claw +12 melee (1d6+3) and bite +12 (1d6+3); or javelin +10 ranged (1d8+7)"
@@ -92,6 +95,9 @@ traits:
      desc: Alertness, Cleave, Endurance (B),Improved Natural Armor, Improved Two-Weapon Fighting (B),Iron Will, Power Attack, Track (B),Two-Weapon Fighting (B)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Trolls walk upright but hunched forward with sagging shoulders. Their gait is uneven, and when they run, their arms dangle and drag along the ground. For all this seeming awkwardness, trolls are very agile.
@@ -108,7 +114,7 @@ Trolls have no fear of death: They launch themselves into combat without hesitat
 **Rend (Ex):** If a troll hits with both claw attacks, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 2d6+9 points of damage.
 
 
-**Regeneration (Ex):** Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
+**[[Regeneration]] (Ex):** Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
 
 
 **TROLLS AS CHARACTERS**
@@ -124,7 +130,7 @@ Some trolls, more cunning than most, are not satisfied with merely eating civili
 
 COMBAT
 
-A troll hunter makes full use of its scent ability to track its favored enemies and generally prefers to hunt in darkness.
+A troll hunter makes full use of its [[Scent]] ability to track its favored enemies and generally prefers to hunt in darkness.
 
 The troll hunter uses its limited repertoire of spells to protect itself from damaging forms of energy and to immobilize enemies.
 

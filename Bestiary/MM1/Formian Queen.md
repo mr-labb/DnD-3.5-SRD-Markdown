@@ -12,7 +12,10 @@ Subtype: Lawful, Extraplanar
 CR: 17
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Fast healing 2, hive mind, immunity to poison, petrification, and cold, resistance to electricity 10, fire 10, and sonic 10, spell resistance 30, telepathy
+   desc: Fast healing 2, hive mind, immunity to poison, petrification, and cold, [[Resistance To Energy|Resistance To]] electricity 10, fire 10, and sonic 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 30, telepathy
 actions:
   - name: Full Attack
     desc: "-"
@@ -97,6 +100,9 @@ traits:
      desc: Alertness, Eschew Materials (B), Great Fortitude, Improved Counterspell, Iron Will, item creation feat (any one), MaximizeSpell, Spell Focus (enchantment)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety.

@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 2
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Alternate form, damage reduction 5/cold iron or good, darkvision 60 ft., fast healing 2, immunity to poison, resistance to fire 10
+   desc: Alternate form, [[Damage Reduction]] 5/cold iron or good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2, immunity to poison, [[Resistance To Energy|Resistance To]] fire 10
 actions:
   - name: Full Attack
     desc: "2 claws +8 melee (1d3-1 plus poison) and bite +3 melee (1d4-1)"
@@ -97,6 +100,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -110,7 +116,7 @@ Combat
 
 Although quasits thirst for victory and power as other demons do, they are cowards at heart. They typically attack from ambush, using their alternate form ability and *invisibility* to get within reach, then try to scuttle away. When retreating, they use their *[[cause fear]]* ability to deter pursuit.
 
-A quasit's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A quasit's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d4 Dex, secondary damage 2d4 Dex. The save DC is Constitution-based and includes a +2 racial bonus.

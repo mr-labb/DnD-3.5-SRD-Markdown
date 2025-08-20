@@ -12,7 +12,10 @@ Subtype:
 CR: 11
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 10/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+   desc: Construct traits, [[Damage Reduction]] 10/adamantine, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Spells/Spell Immunity|Immunity to magic]], [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 slams +18 melee (2d10+9)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Golems are magically created automatons of great power. Constructing one involves the employment of mighty magic and elemental forces.
@@ -118,7 +124,7 @@ Golems are tenacious in combat and prodigiously strong as well. Being mindless, 
 A golem's creator can command it if the golem is within 60 feet and can see and hear its creator. If uncommanded, a golem usually follows its last instruction to the best of its ability, though if attacked it returns the attack. The creator can give the golem a simple command to govern its actions in his or her absence. The golem's creator can order the golem to obey the commands of another person (who might in turn place the golem under someone else's control, and so on), but the golem's creator can always resume control over his creation by commanding the golem to obey him alone.
 
 
-**Immunity to Magic (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**[[Compendium/Spells/Spell Immunity|Immunity to magic]] (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted. A stone golem is immune to any spell or spell-like ability that allows [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]]. In addition, certain spells and effects function differently against the creature, as noted below.
 
 Stone golems are formidable opponents, being physically powerful and difficult to harm.
 
@@ -127,7 +133,7 @@ Stone golems are formidable opponents, being physically powerful and difficult t
 
 A *[[transmute rock to mud]]* spell slows a stone golem (as the *slow* spell) for 2d6 rounds, with no saving throw, while *[[transmute mud to rock]]* heals all of its lost hit points.
 
-A *[[stone to flesh]]* spell does not actually change the golem's structure but negates its damage reduction and immunity to magic for 1 full round.
+A *[[stone to flesh]]* spell does not actually change the golem's structure but negates its [[Damage Reduction]] and [[Compendium/Spells/Spell Immunity|Immunity to magic]] for 1 full round.
 
 ---
 

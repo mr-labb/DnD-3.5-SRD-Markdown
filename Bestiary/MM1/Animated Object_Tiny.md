@@ -10,10 +10,13 @@ Monster: Animated Object, Tiny
 Size: Tiny
 Type: Construct
 Subtype: 
-CR: 1/2
+CR: 0.5
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, darkvision 60 ft., low-light vision; also see text
+   desc: Construct traits, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]]; also see text
 actions:
   - name: Full Attack
     desc: "Slam +1 melee (1d3-1)"
@@ -87,6 +90,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Animated objects come in all sizes, shapes, and colors. They owe their existence as creatures to spells such as *[[animate objects]]* or similar supernatural abilities.

@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +5 melee (1d8+2 plus poison) and 2 claws +3 melee (1d3+1)"
@@ -90,6 +93,9 @@ traits:
      desc: Great Fortitude, Multiattack
 combat_gear:  
 ```
+
+## Description
+
 
 
 An ettercap is about 6 feet tall and weighs about 200 pounds.

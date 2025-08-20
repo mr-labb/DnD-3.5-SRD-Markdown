@@ -9,10 +9,13 @@ Monster: Lizard
 Size: Tiny
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.16
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -68,14 +71,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.16
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d4-4)"
@@ -90,6 +93,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 The statistics presented here describe small, nonvenomous lizards of perhaps a foot or two in length, such as an iguana.

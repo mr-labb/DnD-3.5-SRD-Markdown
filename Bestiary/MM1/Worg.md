@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +7 melee (1d6+4)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical worg has gray or black fur, grows to 5 feet long and stands 3 feet tall at the shoulder. It weighs 300 pounds.
@@ -106,7 +112,7 @@ Mated pairs or packs work together to bring down large game, while lone worgs us
 
 **Skills:** A worg has a +1 racial bonus on Listen, Move Silently, and Spot checks, and a +2 racial bonus on Hide checks. *A worg has a +4 racial bonus on Survival checks when tracking
 
-by scent.
+by [[Scent]].
 
 ---
 

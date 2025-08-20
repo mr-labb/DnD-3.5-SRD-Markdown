@@ -12,7 +12,10 @@ Subtype: Extraplanar, Fire
 CR: 8
 Environnent: Elemental Plane of Fire
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to fire, [[plane shift]], telepathy 100 ft., vulnerability to cold
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]], [[plane shift]], telepathy 100 ft., [[Vulnerability To Energy|Vulnerability to cold]] 
 actions:
   - name: Full Attack
     desc: "2 slams +15 melee (1d8+6 plus 1d6 fire)"
@@ -96,6 +99,9 @@ traits:
      desc: Combat Casting, Combat Reflexes, Dodge, Improved Initiative (B), Quicken Spell-Like Ability ([[scorching ray]])
 combat_gear:  
 ```
+
+## Description
+
 
 
 Genies are humanlike beings who dwell on the elemental planes. They are famous for their strength, guile, and skill with illusion magic.

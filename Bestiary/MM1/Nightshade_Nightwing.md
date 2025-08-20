@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 14
 Environnent: Plane of Shadow
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Aversion to daylight, damage reduction 15/silver and magic, darkvision 60 ft., immunity to cold, spell resistance 27, telepathy 100 ft., undead traits
+   desc: Aversion to daylight, [[Damage Reduction]] 15/silver and magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 27, telepathy 100 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Bite +18 melee (2d6+17/19-20 plus magic drain)"
@@ -95,6 +98,9 @@ traits:
      desc: Combat Reflexes, Dodge, Flyby Attack, Great Fortitude, Improved Critical (bite), Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Nightshades are powerful undead composed of equal parts darkness and absolute evil.
@@ -123,7 +129,7 @@ A nightshade's desecrating aura cannot be dispelled except by a *[[dispel evil]]
 
 Nightwings prowl the night sky and dive onto their victims. They are all but invisible, detectable only because of the stars they obscure in their passing.
 
-A nightwing's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A nightwing's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Magic Drain (Su):** A nightwing can weaken magic armor, weapons, and shields by making a successful touch attack. The targeted item must succeed on a DC 22 Fortitude save or lose 1 point of its enhancement bonus. The save DC is Charisma-based. An item that loses its entire enhancement bonus becomes merely a masterwork item and loses any special abilities (such as flaming) as well. Casting *[[dispel evil]]* upon the item reverses the effect of the magic drain, provided this occurs within a number of days after the attack equal to the caster's level and the caster succeeds on a DC 29 caster level check.

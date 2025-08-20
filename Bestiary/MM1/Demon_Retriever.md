@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 11
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, darkvision 60 ft., fast healing 5, low-light vision
+   desc: Construct traits, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 5, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "4 claws +15 melee (2d6+10) and bite +10 melee (1d8+5) and eye ray +8 ranged touch (special)"
@@ -86,6 +89,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.

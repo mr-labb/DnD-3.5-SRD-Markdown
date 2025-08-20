@@ -12,7 +12,10 @@ Subtype: Native
 CR: 10
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., [[ethereal jaunt]], telepathy 90 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[ethereal jaunt]], telepathy 90 ft.
 actions:
   - name: Full Attack
     desc: "Bite +12 melee (1d3+6 plus poison)"
@@ -97,6 +100,9 @@ traits:
      desc: Dodge, Empower Spell, Eschew Materials (B), Hover, Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 A couatl is about 12 feet long, with a wingspan of about 15 feet. It weighs about 1,800 pounds.

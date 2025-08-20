@@ -9,10 +9,13 @@ Monster: Giant, Stone
 Size: Large
 Type: Giant
 Subtype: Earth
-CR: 0
+CR: 8
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -67,14 +70,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 8
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, rock catching
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], rock catching
 actions:
   - name: Full Attack
     desc: "Greatclub +17/+12 melee (2d8+12) or 2 slams +17 melee (1d4+8) or rock +11 ranged (2d8+12)"
@@ -89,6 +92,9 @@ traits:
      desc: Combat Reflexes, Iron Will, Point Blank Shot, Power Attack, Precise Shot
 combat_gear:  
 ```
+
+## Description
+
 
 
 Stone giants prefer thick leather garments, dyed in shades of brown and gray to match the stone around them. Adults are about 12 feet tall and weigh about 1,500 pounds. Stone giants can live to be 800 years old.

@@ -12,7 +12,10 @@ Subtype: Extraplanar, Good
 CR: 9
 Environnent: A good-aligned plane.
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -84,7 +87,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/evil or silver, darkvision 60 ft., immunity to electricity and petrification, lay on hands, low-light vision, resistance to cold 10 and sonic 10, [[speak with animals]], spell resistance 25, [[true seeing]]
+   desc: [[Damage Reduction]] 10/evil or silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and petrification, lay on hands, [[low-light vision]], [[Resistance To Energy|Resistance To]] cold 10 and sonic 10, [[speak with animals]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 25, [[true seeing]]
 actions:
   - name: Full Attack
     desc: "2 claws +13 melee (2d6+2) or 2 wings +13 melee (2d8+2)"
@@ -100,6 +103,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 An avoral's bones are strong but hollow, so even the largest specimens weigh no more than 120 pounds. An avoral is about 7 feet tall. Each of an avoral's wings has a small hand at the midpoint. When the wings are folded, these appendages are about where human hands would be and can do nearly anything hands can do.
 
@@ -111,7 +117,7 @@ COMBAT
 
 On the ground, an avoral can lash out with its wings to deliver punishing blows. However, it prefers to meet its foes in the air, where it can employ its talons and make full use of its aerial speed and agility. It can't make wing attacks while flying, however.
 
-An avoral's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
+An avoral's natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Spell-Like Abilities:** At will - *[[aid]], [[blur]]* (self only), *[[command]]* (DC 14), *[[detect magic]], [[dimension door]], [[dispel magic]], [[gust of wind]]* (DC 15), *[[hold person]]* (DC 16), *light, [[magic circle against evil]]* (self only), *[[magic missile]], [[see invisibility]];* 3/day - *[[lightning bolt]]* (DC 16). Caster level 8th. The save DCs are Charisma-based.

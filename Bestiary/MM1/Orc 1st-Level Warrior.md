@@ -9,10 +9,13 @@ Monster: Orc, 1st-Level Warrior
 Size: Medium
 Type: Humanoid
 Subtype: Orc
-CR: 0
+CR: 0.5
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -65,14 +68,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.5
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., light sensitivity
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., light sensitivity
 actions:
   - name: Full Attack
     desc: "Falchion +4 melee (2d4+4/18-20) or javelin +1 ranged (1d6+3)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 An orc's hair usually is black. It has lupine ears and reddish eyes. Orcs prefer wearing vivid colors that many humans would consider unpleasant, such as blood red, mustard yellow, yellow-green, and deep purple. Their equipment is dirty and unkempt. An adult male orc is a little over 6 feet tall and weighs about 210 pounds.

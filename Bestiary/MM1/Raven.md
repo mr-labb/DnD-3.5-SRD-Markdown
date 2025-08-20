@@ -9,10 +9,13 @@ Monster: Raven
 Size: Tiny
 Type: Animal
 Subtype: 
-CR: 0
+CR: 0.16
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -65,14 +68,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.16
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Claws +4 melee (1d2-5)"
@@ -87,6 +90,9 @@ traits:
      desc: Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 These glossy black birds are about 2 feet long and have wingspans of about 4 feet. They combine both claws into a single attack. The statistics presented here can describe most nonpredatory birds of similar size.

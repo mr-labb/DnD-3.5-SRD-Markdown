@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 9
 Environnent: Temperate aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Ink cloud, jet, low-light vision
+   desc: Ink cloud, jet, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "10 tentacles +15 melee (1d6+8) and bite +10 melee (2d8+4)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Diehard, Endurance, Toughness(2)
 combat_gear:  
 ```
+
+## Description
+
 
 
 These voracious creatures can have bodies more than 20 feet long and attack almost anything they meet.

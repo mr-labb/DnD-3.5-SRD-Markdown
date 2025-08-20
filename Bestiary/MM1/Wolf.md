@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Temperate forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (1d6+1)"
@@ -91,6 +94,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Wolves are pack hunters known for their persistence and cunning.
 
@@ -102,7 +108,7 @@ A favorite tactic is to send a few individuals against the foe's front while the
 **Trip (Ex):** A wolf that hits with a bite attack can attempt to trip the opponent (+1 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the wolf.
 
 
-**Skills:** *Wolves have a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** *Wolves have a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 

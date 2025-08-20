@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Temperate marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 90 ft., spell resistance 18
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 90 ft., [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 18
 actions:
   - name: Full Attack
     desc: "2 claws +13 melee (1d4+4)"
@@ -91,6 +94,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Although different hags are unique in appearance and mannerism, they have many aspects in common. All take the form of crones whose bent shapes belie their fierce power and swiftness.
 
@@ -104,7 +110,7 @@ Combat
 
 Hags are tremendously strong. They are naturally resistant to spells and can cast magic of their own. Hags often gather to form coveys. A covey, usually containing one hag of each type, can use powers beyond those of the individual members.
 
-Green hags prefer to attack from hiding, usually after distracting foes. They often use darkvision to their advantage by attacking during moonless nights.
+Green hags prefer to attack from hiding, usually after distracting foes. They often use [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] to their advantage by attacking during moonless nights.
 
 
 **Spell-Like Abilities:** At will - *[[dancing lights]], [[disguise self]], [[ghost sound]]* (DC 12), *invisibility, [[pass without trace]], [[tongues]], [[water breathing]].* Caster level 9th. The save DC is Charisma-based.

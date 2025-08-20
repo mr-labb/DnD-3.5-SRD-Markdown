@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 8
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Ink cloud, jet, low-light vision
+   desc: Ink cloud, jet, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "8 tentacles +10 melee (1d4+5) and bite +5 melee (1d8+2)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Skill Focus (Hide), Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 These creatures are aggressive and territorial hunters, with arms reaching 10 feet or more in length. Their tentacles are studded with barbs and sharp-edged suckers.

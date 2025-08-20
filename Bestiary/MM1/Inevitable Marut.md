@@ -12,7 +12,10 @@ Subtype: Extraplanar, Lawful
 CR: 15
 Environnent: A lawful-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Construct traits, damage reduction 15/chaotic, darkvision 60 ft., fast healing 10, low-light vision, spell resistance 25
+   desc: Construct traits, [[Damage Reduction]] 15/chaotic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 10, [[low-light vision]], [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 25
 actions:
   - name: Full Attack
     desc: "2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)"
@@ -93,6 +96,9 @@ traits:
      desc: Ability Focus (fists), Awesome Blow, Combat Casting, Great Fortitude, Improved Bull Rush, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 Inevitables are constructs whose sole aim is to enforce the natural laws of the universe.
@@ -117,14 +123,14 @@ Combat
 
 Unless their very existence is threatened, inevitables focus completely on the transgressor they've been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won't tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
 
-An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+An inevitable's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Fast Healing (Ex):** An inevitable heals a certain amount of damage each round (specified in each variety's description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
 
 Once it has found its target, a marut brings it the death it has been trying to avoid. Those who defile death through necromancy may instead receive a *geas* and/or *[[mark of justice]]* to enforce proper respect. It typically uses *[[wall of force]]* to shut off any escape routes, then opens up with *[[chain lightning]]* while it closes to melee range. Once there, it strikes with its massive fists, using *[[circle of death]]* if beset by numbers of defenders. It hits spellcasting opponents with repeated uses of *[[Dispel Magic Greater|greater dispel magic]],* and it uses *[[dimension door]]* and *[[locate creature]]* to track down foes who flee.
 
-A marut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
+A marut's natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Fists of Thunder and Lightning (Su):** A marut's left fist delivers a loud thunderclap whenever it hits something, dealing an extra 3d6 points of sonic damage and causing the target to be deafened for 2d6 rounds (Fortitude DC 31 negates the deafness). Its right fist delivers a shock for an extra 3d6 points of electricity damage, and the flash of lightning causes the target to be blinded for 2d6 rounds (Fortitude DC 31 negates the blindness). The save DCs are Strength-based and include the marut's Ability Focus feat.

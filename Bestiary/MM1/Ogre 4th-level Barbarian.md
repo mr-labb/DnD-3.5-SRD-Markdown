@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, trap sense +1, uncanny dodge
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], trap sense +1, uncanny dodge
 actions:
   - name: Full Attack
     desc: "+1 greatclub +16/+11 melee (2d8+13) or javelin +6 ranged (1d8+8)"
@@ -89,6 +92,9 @@ traits:
      desc: Power Attack, Toughness, Weapon Focus (greatclub)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Adult ogres stand 9 to 10 feet tall and weigh 600 to 650 pounds. Their skin color ranges from dull yellow to dull brown. Their clothing consists of poorly cured furs and hides, which add to their naturally repellent odor.

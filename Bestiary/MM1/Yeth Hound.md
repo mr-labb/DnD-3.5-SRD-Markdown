@@ -12,7 +12,10 @@ Subtype: Extraplanar, Evil
 CR: 3
 Environnent: An evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/silver, darkvision 60 ft., flight, scent
+   desc: [[Damage Reduction]] 10/silver, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., flight, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +6 melee (1d8+4)"
@@ -90,6 +93,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 A yeth hound stands 5 feet tall at the shoulder and weighs about 400 pounds.
 
@@ -99,7 +105,7 @@ COMBAT
 
 Yeth hounds hunt only at night. They fear the sun and never venture out in daylight, even if their lives depend on it.
 
-A yeth hound's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction.
+A yeth hound's natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Bay (Su):** When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 11 Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound's bay for 24 hours. The save DC is Charisma-based.
@@ -111,7 +117,7 @@ A yeth hound's natural weapons, as well as any weapons it wields, are treated as
 **Flight (Su):** A yeth hound can cease or resume flight as a free action.
 
 
-**Skills:** *A yeth hound has a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** *A yeth hound has a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 

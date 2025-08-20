@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)"
@@ -87,6 +90,9 @@ traits:
      desc: Dodge, Wingover
 combat_gear:  
 ```
+
+## Description
+
 
 
 Hippogriffs are aggressive flying creatures that combine features of horses and giant eagles. Voracious omnivores, hippogriffs will hunt humanoids as readily as any other meal. A typical hippogriff is 9 feet long, has a wingspan of 20 feet, and weighs 1,000 pounds.

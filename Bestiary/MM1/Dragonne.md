@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +12 melee (2d6+4) and 2 claws +7 melee (2d4+2)"
@@ -87,6 +90,9 @@ traits:
      desc: Blind-Fight, Combat Reflexes, Improved Initiative, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 A dragonne possesses huge claws and fangs, and large eyes, usually the color of its scales. A dragonne is about 12 feet long and weighs about 700 pounds.

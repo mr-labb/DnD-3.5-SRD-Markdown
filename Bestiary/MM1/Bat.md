@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Bat
-Size: 
-Type: Diminutive Animal
+Size: Diminutive
+Type: Animal
 Subtype: 
-CR: 0
+CR: 0.1
 Environnent: Temperate deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -67,14 +70,14 @@ senses:
 damage_immunities: ""
 condition_immunities: ""
 languages: ""
-cr: 0
+cr: 0.1
 aura: ""
 spell-like_abilities:
  - name: 
    desc: 
 special_qualities:
  - name:
-   desc: Blindsense 20 ft., low-light vision
+   desc: Blindsense 20 ft., [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "-"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Bats are nocturnal flying mammals. The statistics presented here describe small, insectivorous bats.

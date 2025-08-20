@@ -12,7 +12,10 @@ Subtype: Air
 CR: 11
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -78,7 +81,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, oversized weapon, rock catching, scent
+   desc: [[low-light vision]], oversized weapon, rock catching, [[Scent]]
 actions:
   - name: Full Attack
     desc: "Gargantuan morningstar +22/+17/+12 melee (4d6+18) or 2 slams +22 melee (1d6+12) or rock +12 ranged (2d8+12)"
@@ -94,8 +97,11 @@ traits:
 combat_gear:  
 ```
 
+## Description
 
-Cloud giants' skin ranges in color from milky white to light sky blue. Their hair is silvery white or brass, and their eyes are iridescent blue. Adult males are about 18 feet tall and weigh about 5,000 pounds. Females are slightly shorter and lighter. Cloud giants can live to be 400 years old.
+
+
+Cloud giants' skin ranges in color from milky white to light sky blue. Their hair is silvery white or brass, and their eyes are iride[[Scent]] blue. Adult males are about 18 feet tall and weigh about 5,000 pounds. Females are slightly shorter and lighter. Cloud giants can live to be 400 years old.
 
 Cloud giants dress in the finest clothing available and wear jewelry. To many, appearance indicates station: The better the clothes and the finer the jewelry, the more important the wearer. They also appreciate music, and most can play one or more instruments (the harp is a favorite).
 

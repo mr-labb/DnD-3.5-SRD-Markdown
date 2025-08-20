@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Scent, vermin traits
+   desc: [[Scent]], vermin traits
 actions:
   - name: Full Attack
     desc: "Bite +3 melee (2d4+3)"
@@ -87,6 +90,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Giant ants are among the hardiest and most adaptable vermin. Soldiers and workers are about 6 feet long, while queens can grow to a length of 9 feet.
 
@@ -97,7 +103,7 @@ Giant ants are among the hardiest and most adaptable vermin. Soldiers and worker
 **Improved Grab (Ex):** To use this ability, a giant ant must hit with its bite attack. A giant soldier ant that wins the ensuing grapple check establishes a hold and can sting.
 
 
-**Skills:** *Giant ants have a +4 racial bonus on Survival checks when tracking by scent and a +8 racial bonus on Climb checks. A giant ant can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** *Giant ants have a +4 racial bonus on Survival checks when tracking by [[Scent]] and a +8 racial bonus on Climb checks. A giant ant can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 ---
 

@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Gore +8 melee (1d8+9)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Endurance
 combat_gear:  
 ```
+
+## Description
+
 
 
 These herd animals can be aggressive when protecting young and during the mating season, but they generally prefer flight to fighting. A bison stands more than 6 feet tall at the shoulder and is 9 to 12 feet long. It weigh 1,800 to 2,400 pounds. The bison's statistics can be used for almost any large herd animal.

@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Swarm, Spider
-Size: 
-Type: Diminutive Vermin
+Size: Diminutive
+Type:  Vermin
 Subtype: Swarm
 CR: 1
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., swarm traits, tremorsense 30 ft., vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Swarm Subtype|swarm traits]], tremorsense 30 ft., vermin traits
 actions:
   - name: Full Attack
     desc: "Swarm (1d6 plus poison)"
@@ -88,6 +91,9 @@ traits:
      desc: 
 combat_gear:  
 ```
+
+## Description
+
 
 
 Swarms are dense masses of Fine, Diminutive, or Tiny creatures that would not be particularly dangerous in small groups, but can be terrible foes when gathered in sufficient numbers. For game purposes a swarm is defined as a single creature with a space of 10 feet - gigantic hordes are actually composed of dozens of swarms in close proximity. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. It makes saving throws as a single creature.

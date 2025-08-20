@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 9
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 17, telepathy 100 ft.
+   desc: [[Damage Reduction]] 10/good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and poison, [[Resistance To Energy|Resistance To]] acid 10, cold 10, and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 17, telepathy 100 ft.
 actions:
   - name: Full Attack
     desc: "2 claws +15 melee (2d6+6) and bite +13 melee (1d8+3) and 2 talons +13 melee (1d6+3)"
@@ -98,6 +101,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -109,7 +115,7 @@ Combat
 
 Vrocks are vicious fighters who like to fly down into the enemy and cause as much damage as possible. They prance about in battle, taking briefly to the air and bringing their clawed feet into play. Despite their advantage in mobility, the vrocks' deep love of battle frequently leads them into melee combats against heavy odds.
 
-A vrock's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A vrock's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Dance of Ruin (Su):** To use this ability, a group of at least three vrocks must join hands in a circle, dancing wildly and chanting.

@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate deserts
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Stealthy
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.

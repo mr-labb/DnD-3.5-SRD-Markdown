@@ -12,7 +12,10 @@ Subtype:
 CR: 1
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 hooves -1 melee (1d6+1*)"
@@ -87,6 +90,9 @@ traits:
      desc: Endurance, Run
 combat_gear:  
 ```
+
+## Description
+
 
 
 Horses are widely domesticated for riding and as beasts of burden.

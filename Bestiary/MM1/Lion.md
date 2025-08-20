@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Warm plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -75,7 +78,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +7 melee (1d4+5) and bite +2 melee (1d8+2)"
@@ -90,6 +93,9 @@ traits:
      desc: Alertness, Run
 combat_gear:  
 ```
+
+## Description
+
 
 
 The statistics presented here describe a male African lion, which is 5 to 8 feet long and weighs 330 to 550 pounds. Females are slightly smaller but use the same statistics.

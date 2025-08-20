@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Cold desert
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., heat, low-light vision, tremorsense 60 ft.
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., heat, [[low-light vision]], tremorsense 60 ft.
 actions:
   - name: Full Attack
     desc: "Bite +13 melee (2d8+12)"
@@ -87,6 +90,9 @@ traits:
      desc: Awesome Blow, Improved Bull Rush, Power Attack
 combat_gear:  
 ```
+
+## Description
+
 
 
 A remorhaz is whitish-blue in color but pulses with a reddish glow from the heat its body produces. The creature is a little more than 20 feet long, with a body about 5 feet wide. It weighs about 10,000 pounds.

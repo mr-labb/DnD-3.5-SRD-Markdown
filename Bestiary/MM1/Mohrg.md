@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., undead traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Slam +12 melee (1d6+7) and tongue +12 melee touch (paralysis)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Dodge, Improved Initiative, Lightning Reflexes, Mobility
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mohrgs are the animated corpses of mass murderers or similar villains who died without atoning for their crimes. Most mohrgs are 5 to 6 feet tall and weigh about 120 pounds.

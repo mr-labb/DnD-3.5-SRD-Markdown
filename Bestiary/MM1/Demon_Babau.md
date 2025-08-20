@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 6
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -82,7 +85,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 10/cold iron or good, darkvision 60 ft., immunity to electricity and poison, protective slime, resistance to acid 10, cold 10, and fire 10, spell resistance 14, telepathy 100ft.
+   desc: [[Damage Reduction]] 10/cold iron or good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immunity to electricity and poison, protective slime, [[Resistance To Energy|Resistance To]] acid 10, cold 10, and fire 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 14, telepathy 100ft.
 actions:
   - name: Full Attack
     desc: "2 claws +12 melee (1d6+5) and bite +7 melee (1d6+2)"
@@ -98,6 +101,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
 
@@ -109,7 +115,7 @@ Combat
 
 Babaus are sneaky and sly. They attack the most powerful foe first, hoping to eliminate the true threats quickly and then toy with the rest. When ambushing their opponents, they make excellent use of the combination of multiple attacks and sneak attacks.
 
-A babau's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A babau's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Sneak Attack (Ex):** A babau can make a sneak attack like a rogue, dealing an extra 2d6 points of damage whenever a foe is denied his or her Dexterity bonus, or when the babau is flanking.

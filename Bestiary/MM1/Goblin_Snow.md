@@ -12,7 +12,10 @@ Subtype: Goblinoid
 CR: 0.5
 Environnent: Cold hills
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Booming voice, Darkvision 60'
+   desc: Booming voice, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60'
 actions:
   - name: Full Attack
     desc: "Morningstar +3 melee (1d6+1) or Javelin +3 ranged (1d4+1)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

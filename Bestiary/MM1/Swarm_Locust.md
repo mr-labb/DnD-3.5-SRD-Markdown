@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Swarm, Locust
-Size: 
-Type: Diminutive Vermin
+Size: Diminutive
+Type:  Vermin
 Subtype: Swarm
 CR: 3
 Environnent: Temperate plains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,8 +28,8 @@ image: [[Swarm, Locust.PNG]]
 race: Swarm, Locust
 class: 
 level: 
-size: 
-type: Diminutive Vermin
+size: Diminutive
+type:  Vermin
 subtype: Swarm
 alignment: Always neutral
 ac: 18
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immune to weapon damage, swarm traits, vermin traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., immune to weapon damage, [[Swarm Subtype|swarm traits]], vermin traits
 actions:
   - name: Full Attack
     desc: "Swarm (2d6)"
@@ -87,6 +90,9 @@ traits:
      desc: -
 combat_gear:  
 ```
+
+## Description
+
 
 
 Swarms are dense masses of Fine, Diminutive, or Tiny creatures that would not be particularly dangerous in small groups, but can be terrible foes when gathered in sufficient numbers. For game purposes a swarm is defined as a single creature with a space of 10 feet - gigantic hordes are actually composed of dozens of swarms in close proximity. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. It makes saving throws as a single creature.

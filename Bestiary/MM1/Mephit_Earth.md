@@ -12,7 +12,10 @@ Subtype: Earth, Extraplanar
 CR: 3
 Environnent: Elemental Plane of Earth
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
 [[soften earth and stone]] . Caster level 6th.
 special_qualities:
  - name:
-   desc: Change size, damage reduction 5/magic, darkvision 60 ft., fast healing 2
+   desc: Change size, [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., fast healing 2
 actions:
   - name: Full Attack
     desc: "2 claws +7 melee (1d3+3)"
@@ -96,6 +99,9 @@ traits:
      desc: Power Attack, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Mephits are minor creatures from the elemental planes.
@@ -112,7 +118,7 @@ Combat
 
 All mephits fight by biting and clawing or by using a breath weapon, the nature and effects of which vary from creature to creature.
 
-A mephit's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A mephit's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Breath Weapon (Su):** A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.

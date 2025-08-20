@@ -12,7 +12,10 @@ Subtype:
 CR: 9
 Environnent: Warm mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision
+   desc: [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "2 talons +21 melee (2d6+12) and bite +19 melee (2d8+6)"
@@ -87,6 +90,9 @@ traits:
      desc: Alertness, Flyby Attack, Iron Will, Multiattack, Power Attack, Snatch, Wingover
 combat_gear:  
 ```
+
+## Description
+
 
 
 A roc's plumage is either dark brown or golden from head to tail. These enormous creatures are 30 feet long from the beak to the base of the tail, with wingspans as wide as 80 feet. A roc weighs about 8,000 pounds.

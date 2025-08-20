@@ -12,7 +12,10 @@ Subtype: Aquatic
 CR: 9
 Environnent: Cold aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Keen scent
+   desc: Keen [[Scent]]
 actions:
   - name: Full Attack
     desc: "Bite +18 melee (2d8+9)"
@@ -88,6 +91,9 @@ traits:
      desc: Improved Natural Attack (bite), Toughness (4), Weapon Focus(bite)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.
@@ -109,7 +115,7 @@ Dire sharks bite with their powerful jaws, swallowing smaller creatures in one g
 A Huge dire shark's gullet can hold 2 Large, 8 Medium or Small, 32 Tiny, 128 Diminutive, or 512 Fine or smaller opponents.
 
 
-**Keen Scent (Ex):** A dire shark can notice creatures by scent in a 180-foot radius and can detect blood in the water at a range of up to 1 mile.
+**Keen [[Scent]] (Ex):** A dire shark can notice creatures by [[Scent]] in a 180-foot radius and can detect blood in the water at a range of up to 1 mile.
 
 
 **Skills:** A dire shark has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.

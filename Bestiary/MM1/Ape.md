@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2)"
@@ -88,6 +91,9 @@ traits:
      desc: Alertness, Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 These powerful omnivores resemble gorillas but are far more aggressive; they kill and eat anything they can catch. An adult male ape is 5-1/2 to 6 feet tall and weighs 300 to 400 pounds.

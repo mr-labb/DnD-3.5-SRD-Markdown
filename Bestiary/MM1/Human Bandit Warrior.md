@@ -6,13 +6,16 @@ tags:
  - 35E_SRD
  - Monster
 Monster: Human Bandit Warrior
-Size: 
+Size: Medium
 Type: Human
 Subtype: 
 CR: 2
 Environnent: all
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -25,7 +28,7 @@ image: [[Human Bandit Warrior.PNG]]
 race: Human Bandit Warrior
 class: 
 level: 
-size: 
+size: Medium
 type: Human
 subtype: 
 alignment: Chaotic evil
@@ -88,6 +91,9 @@ traits:
      desc: Iron will, Power attack, Quick Draw, Weapon focus (Battleaxe)
 combat_gear:  
 ```
+
+## Description
+
 
 ---
 

@@ -12,7 +12,10 @@ Subtype:
 CR: 2
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits
+   desc: Single actions only, [[Damage Reduction]] 5/slashing, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Morningstar +6 melee (1d8+3) or slam +6 melee (1d6+3) or javelin +3 ranged (1d6+2)"
@@ -86,6 +89,9 @@ traits:
      desc: Toughness
 combat_gear:  
 ```
+
+## Description
+
 
 
 Zombies are corpses reanimated through dark and sinister magic.

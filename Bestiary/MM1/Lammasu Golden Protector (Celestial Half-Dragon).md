@@ -12,7 +12,10 @@ Subtype:
 CR: 13
 Environnent: A lawful good plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -80,7 +83,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/magic, darkvision 60 ft., immunity to fire, sleep, and paralysis, low-light vision, [[magic circle against evil]], resistance to acid 10, cold 10, and electricity 10, spell-like abilities, spell resistance 15
+   desc: [[Damage Reduction]] 5/magic, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[fire Immunity|Immunity to fire]], sleep, and paralysis, [[low-light vision]], [[magic circle against evil]], [[Resistance To Energy|Resistance To]] acid 10, cold 10, and electricity 10, spell-like abilities, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 15
 actions:
   - name: Full Attack
     desc: "2 claws +19 melee (1d6+9) and bite +13 melee (1d8+4)"
@@ -95,6 +98,9 @@ traits:
      desc: Blind-Fight, Iron Will, Lightning Reflexes, Weapon Focus (claw)
 combat_gear:  
 ```
+
+## Description
+
 
 
 A typical lammasu is about 8 feet long and weighs about 500 pounds. Lammasus speak Common, Draconic, and Celestial.
@@ -126,7 +132,7 @@ Child of a celestial lammasu and a gold dragon, the golden protector has migrate
 
 COMBAT
 
-The golden protector's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+The golden protector's natural weapons are treated as magic weapons for the purpose of overcoming [[Damage Reduction]].
 
 
 **Breath Weapon (Su):** 30-foot cone, 1/day, damage 6d8 fire, Reflex DC 21 half.

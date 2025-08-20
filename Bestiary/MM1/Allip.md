@@ -12,7 +12,10 @@ Subtype: Incorporeal
 CR: 3
 Environnent: Any
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., incorporeal traits, +2 turn resistance, undead traits
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., incorporeal traits, +2 turn resistance, [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Incorporeal touch +3 melee (1d4 Wisdom drain)"
@@ -91,6 +94,9 @@ traits:
      desc: Improved Initiative, Lightning Reflexes
 combat_gear:  
 ```
+
+## Description
+
 
 
 An allip is the spectral remains of someone driven to suicide by a madness that afflicted it in life. It craves only revenge and unrelentingly pursues those who tormented it in life and pushed it over the brink.

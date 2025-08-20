@@ -41,6 +41,7 @@ List of abbreviations for sources
 |DM|Dragon Magic|
 |DCS|Dragonlance Campaign Setting|
 |DR###|Dragon Magazine (with issue number)|
+|DRCo|Dragon Magazine (with issue number)|
 |Dra|Dragonmarked|
 |DE|Dragons of Eberron|
 |DrF|Dragons of Faerûn|
@@ -67,8 +68,8 @@ List of abbreviations for sources
 |FLFR|Fantastic Locations: Fields of Ruin|
 |FLHP|Fantastic Locations: Hellspike Prison|
 |FF|Fiend Folio|
-|FCI|Fiendish Codex I: Hordes of the Abyss|
-|FCI|Fiendish Codex II: Tyrants of the Nine Hells|
+|FC1|Fiendish Codex I: Hordes of the Abyss|
+|FC2|Fiendish Codex II: Tyrants of the Nine Hells|
 |Fo|Forge of Fury, The|
 |FW|Forge of War, The|
 |FRCS|Forgotten Realms Campaign Setting|

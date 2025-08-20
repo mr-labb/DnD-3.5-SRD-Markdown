@@ -12,7 +12,10 @@ Subtype:
 CR: 3
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -72,7 +75,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "Antennae touch +3 melee (rust) and bite -2 melee (1d3)"
@@ -88,6 +91,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 The hide of these creatures varies in color from a yellowish tan underside to a rust-red upper back. A rust monster's prehensile antennae can rust metals on contact.
 
@@ -95,7 +101,7 @@ The typical rust monster measures 5 feet long and 3 feet high, weighing 200 poun
 
 COMBAT
 
-A rust monster can scent a metal object from up to 90 feet away. When it detects one, it dashes toward the source and attempts to strike it with its antennae. The creature is relentless, chasing characters over long distances if they still possess intact metal objects but usually ceasing its attacks to devour a freshly rusted meal.
+A rust monster can [[Scent]] a metal object from up to 90 feet away. When it detects one, it dashes toward the source and attempts to strike it with its antennae. The creature is relentless, chasing characters over long distances if they still possess intact metal objects but usually ceasing its attacks to devour a freshly rusted meal.
 
 The creature targets the largest metal object available, striking first at armor, then at shields and smaller items. It prefers ferrous metals (steel or iron) over precious metals (such as gold or silver) but will devour the latter if given the opportunity.
 

@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Warm aquatic
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Blindsight 120 ft., hold breath, low-light vision
+   desc: [[Blindsight]] 120 ft., hold breath, [[low-light vision]]
 actions:
   - name: Full Attack
     desc: "Tail slap +17 melee (1d8+18)"
@@ -89,19 +92,22 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Some varieties of these seagoing mammals are among the largest animals known. Relatively small whales (such as the orca presented here) can be vicious predators, attacking virtually anything they detect.
 
 The statistics here describe a plankton-feeding whale between 30 and 60 feet long, such as gray, humpback, and right whales. These massive creatures are surprisingly gentle. If harassed or provoked, they are as likely to flee as they are to retaliate.
 
 
-**Blindsight (Ex):** Whales can "see" by emitting high-frequency sounds, inaudible to most other creatures, that allow them to locate objects and creatures within 120 feet. A *silence* spell negates this and forces the whale to rely on its vision, which is approximately as good as a human's.
+**[[Blindsight]] (Ex):** Whales can "see" by emitting high-frequency sounds, inaudible to most other creatures, that allow them to locate objects and creatures within 120 feet. A *silence* spell negates this and forces the whale to rely on its vision, which is approximately as good as a human's.
 
 
 **Hold Breath (Ex):** A whale can hold its breath for a number of rounds equal to 8 x its Constitution score before it risks drowning.
 
 
-**Skills:** A whale has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *A whale has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsight is negated.
+**Skills:** A whale has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *A whale has a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its [[Blindsight]] is negated.
 
 ---
 

@@ -12,7 +12,10 @@ Subtype: Native
 CR: 10
 Environnent: Warm marshes
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -81,7 +84,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Change shape, damage reduction 15/good and piercing, darkvision 60 ft., spell resistance 27
+   desc: Change shape, [[Damage Reduction]] 15/good and piercing, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 27
 actions:
   - name: Full Attack
     desc: "2 claws +8 melee (1d4+1) and bite +3 melee (1d6)"
@@ -96,6 +99,9 @@ traits:
      desc: Alertness, Combat Casting, Dodge
 combat_gear:  
 ```
+
+## Description
+
 
 
 A closer look at a rakshasa reveals that the palms of its hands are where the backs of the hands would be on a human.

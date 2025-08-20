@@ -12,7 +12,10 @@ Subtype:
 CR: 8
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -76,7 +79,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Low-light vision, scent
+   desc: [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "2 claws +20 melee (2d4+8) and bite +14 melee (2d6+4)"
@@ -91,6 +94,9 @@ traits:
      desc: Alertness, Improved Natural Attack (claw), ImprovedNatural Attack (bite), Run, Stealthy, Weapon Focus (claw)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind tends to have a feral, prehistoric, or even demonic appearance.

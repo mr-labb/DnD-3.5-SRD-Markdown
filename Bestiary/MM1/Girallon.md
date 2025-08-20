@@ -12,7 +12,10 @@ Subtype:
 CR: 6
 Environnent: Warm forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., low-light vision, scent
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[low-light vision]], [[Scent]]
 actions:
   - name: Full Attack
     desc: "4 claws +12 melee (1d4+6) and bite +7 melee (1d8+3)"
@@ -89,12 +92,15 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Girallons are savage, magical cousins of the gorilla. When moving on the ground, a girallon walks on its legs and lower arms. An adult girallon is about 8 feet tall, broad-chested, and covered in thick, pure white fur. It weighs about 800 pounds.
 
 COMBAT
 
-A solitary girallon usually conceals itself in the branches of a tree or under a pile of leaves and brush, with only its nose showing. When it spots or scents prey, it charges to the attack. A girallon picks up prey that is small enough to carry and withdraws, often vanishing into the trees before the victim's companions can do anything to retaliate. Against larger foes, a girallon seeks to tear a single opponent to bits as quickly as it can.
+A solitary girallon usually conceals itself in the branches of a tree or under a pile of leaves and brush, with only its nose showing. When it spots or [[Scent]]s prey, it charges to the attack. A girallon picks up prey that is small enough to carry and withdraws, often vanishing into the trees before the victim's companions can do anything to retaliate. Against larger foes, a girallon seeks to tear a single opponent to bits as quickly as it can.
 
 
 **Rend (Ex):** A girallon that hits with two or more claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d4+12 points of damage.

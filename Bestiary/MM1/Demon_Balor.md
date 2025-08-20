@@ -12,7 +12,10 @@ Subtype: Chaotic, Extraplanar, Evil
 CR: 20
 Environnent: A chaotic evil-aligned plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -85,7 +88,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 15/cold iron and good, darkvision 60 ft., flaming body, immunity to electricity, fire, and poison, resistance to acid 10 and cold 10, spell resistance 28, telepathy 100 ft., trueseeing
+   desc: [[Damage Reduction]] 15/cold iron and good, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., flaming body, immunity to electricity, fire, and poison, [[Resistance To Energy|Resistance To]] acid 10 and cold 10, [[Compendium/Basics/Abilities and Conditions/Spell Resistance|Spell Resistance]] 28, telepathy 100 ft., trueseeing
 actions:
   - name: Full Attack
     desc: "+1 vorpal longsword +31/+26/+21/+16 melee (2d6+8/19-20) and +1 flaming whip +30/+25 melee (1d4+4 plus 1d6 fire plus [[entangle]]); or 2 slams +31 melee (1d10+7)"
@@ -100,6 +103,9 @@ traits:
      desc: Cleave, Improved Initiative, Improved Two-WeaponFighting, Power Attack, Quicken Spell-Like Ability ([[telekinesis]]), Two-Weapon Fighting, Weapon Focus (longsword)
 combat_gear:  
 ```
+
+## Description
+
 
 
 Demons are a race of creatures native to chaotic evil-aligned planes. They are ferocity personified and will attack any creature just for the sheer fun of it - even other demons.
@@ -116,7 +122,7 @@ Balors love to join battle armed with their swords and whips. If they face stiff
 
 A balor's *+1 flaming whip* is a long, flexible weapon with many tails tipped with hooks, spikes, and balls. The weapon deals bludgeoning and slashing damage, in addition to fire damage.
 
-A balor's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
+A balor's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[Damage Reduction]].
 
 
 **Death Throes (Ex):** When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.

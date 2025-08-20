@@ -12,7 +12,10 @@ Subtype:
 CR: 7
 Environnent: Temperate mountains
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -71,7 +74,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, oversize weapon, undead traits
+   desc: [[Damage Reduction]] 5/bludgeoning, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]], oversize weapon, [[Undead|Undead traits]]
 actions:
   - name: Full Attack
     desc: "Gargantuan morningstar +18/+13 melee (4d6+18) or 2 claws +18 melee (1d8+12) or rock +8 ranged (2d8+12)"
@@ -87,6 +90,9 @@ traits:
 combat_gear:  
 ```
 
+## Description
+
+
 
 Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.
 
@@ -96,10 +102,10 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 **Special Qualities:** A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.
 
 
-*Immunity to Cold (Ex):* Skeletons are not affected by cold.
+*[[Cold Immunity|Immunity to cold]] (Ex):* Skeletons are not affected by cold.
 
 
-*Damage Reduction 5/Bludgeoning:* Skeletons lack flesh or internal organs.
+*[[Damage Reduction]] 5/Bludgeoning:* Skeletons lack flesh or internal organs.
 
 ---
 

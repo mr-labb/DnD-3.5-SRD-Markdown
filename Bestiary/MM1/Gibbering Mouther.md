@@ -12,7 +12,10 @@ Subtype:
 CR: 5
 Environnent: Underground
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Amorphous, damage reduction 5/bludgeoning, darkvision 60 ft.
+   desc: Amorphous, [[Damage Reduction]] 5/bludgeoning, [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft.
 actions:
   - name: Full Attack
     desc: "6 bites +4 melee (1) and spittle +4 ranged touch (1d4 acid plus blindness)"
@@ -88,6 +91,9 @@ traits:
      desc: Lightning Reflexes, Weapon Finesse
 combat_gear:  
 ```
+
+## Description
+
 
 
 A gibbering mouther is a horrible creature seemingly drawn from a lunatic's nightmares. Although not evil, it thirsts after bodily fluids and seems to prefer the blood of intelligent creatures.

@@ -12,7 +12,10 @@ Subtype: Extraplanar
 CR: 3
 Environnent: Ethereal Plane
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -73,7 +76,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., ethereal jaunt
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., ethereal jaunt
 actions:
   - name: Full Attack
     desc: "Bite +4 melee (1d6+3)"
@@ -88,6 +91,9 @@ traits:
      desc: Improved Initiative
 combat_gear:  
 ```
+
+## Description
+
 
 
 Ethereal marauders live and hunt on the Ethereal Plane. Ethereal marauders' coloration ranges from bright blue to deep violet. An ethereal marauder stands about 4 feet tall, but its overall length is about 7 feet. It weighs about 200 pounds.

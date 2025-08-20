@@ -12,7 +12,10 @@ Subtype: Cold
 CR: 5
 Environnent: Cold forests
 Source: MM1
+Thumbnail: monster.png
 ---
+
+## Statblock
 
 ```statblock
 statblock: true
@@ -74,7 +77,7 @@ spell-like_abilities:
    desc: 
 special_qualities:
  - name:
-   desc: Darkvision 60 ft., immunity to cold, low-light vision, scent, vulnerability to fire
+   desc: [[Compendium/Basics/Abilities and Conditions/Darkvision|Darkvision]] 60 ft., [[Cold Immunity|Immunity to cold]], [[low-light vision]], [[Scent]], [[Vulnerability To Energy|Vulnerability to fire]] 
 actions:
   - name: Full Attack
     desc: "Bite +9 melee (1d8+6 plus 1d6 cold)"
@@ -89,6 +92,9 @@ traits:
      desc: Alertness, Improved Initiative, Track
 combat_gear:  
 ```
+
+## Description
+
 
 
 A winter wolf grows about 8 feet long and stands about 4-1/2 feet at the shoulder. It weighs about 450 pounds.
@@ -109,7 +115,7 @@ Winter wolves typically hunt in packs. Their size, cunning, and formidable breat
 **Trip (Ex):** A winter wolf that hits with a bite attack can attempt to trip the opponent (+8 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the winter wolf.
 
 
-**Skills:** Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. Winter wolves have a +2 racial bonus on Hide checks. *Their natural coloration grants them a +7 racial bonus on Hide checks in areas of snow and ice. A winter wolf has a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. Winter wolves have a +2 racial bonus on Hide checks. *Their natural coloration grants them a +7 racial bonus on Hide checks in areas of snow and ice. A winter wolf has a +4 racial bonus on Survival checks when tracking by [[Scent]].
 
 ---
 
